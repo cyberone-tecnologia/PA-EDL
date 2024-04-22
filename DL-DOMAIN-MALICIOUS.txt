@@ -1,3 +1,4 @@
+#Fevereiro/24
 #Xloader Malware Campaign - 22/02/2024
 k7ym8xyls.sbs
 maguirelaneliving.com
@@ -15,6 +16,6 @@ msg111.plala.or.jp
 #VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/24
 saicetyapy.space
 grebiunti.top
-
-
+arsimonopa.com
+lemonimonakio.com
 
