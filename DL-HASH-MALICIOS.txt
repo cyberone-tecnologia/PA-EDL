@@ -1,0 +1,11 @@
+#Xloader Malware Campaign - 22/02/2024
+81e56d7491a55ca24cfd6303c05aa8473bda4e025e9b075dd45b4b5da5623f1a
+f513b1f7a43c065197e07aba0fd1c3ce6754eae799c531dfd7902df5592413cc
+1b2879fe198c51148dbe3d08946df84117f6663c2c4b0322784604442c286d39
+#AgentTesla Malware Campaign - 22/02/2024
+dae4facd24ebff0352f1c58ed73a8f060cb86b5c9895bce9e78a273f7ac627a5
+68752a04dfa7a85cee3f8967f7db4090d53ed86ea679e5c7b75ca3ebbaa73ba5
+#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/24
+513e17579b0b155256d134940ea03d8ab7a0d1f71ebe188954e2450cdc6b7d99
+#VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 02/22/24
+00eb1a7bac946d39a15f378a9685816c5390950cc026aab3fe841cf32ef40ab1
