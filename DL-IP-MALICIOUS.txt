@@ -1,4 +1,14 @@
-#Campanha x
-182.167.29.240
-#Campanha y
-192.34.57.27
+#Fevereiro/24
+#Xloader Malware Campaign - 22/02/2024
+94.127.187.62
+#AgentTesla Malware Campaign - 22/02/2024
+154.61.75.15
+#QR Code Credential Harvesting
+60.36.166.28
+#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/24
+178.23.190.199
+#O365 Brute Force: O365 Suite UX
+66.56.83.24
+155.94.240.39
+#VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 02/22/24
+91.92.242.183
