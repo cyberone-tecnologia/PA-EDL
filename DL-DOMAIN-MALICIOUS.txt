@@ -43,3 +43,5 @@ nahamclago.com
 bunmmpoer.top
 #VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 connectivity-check.linkpc.net
+#Malware family Backdoor.Win32.Tofsee.Generic - 05/02/2024
+shulugoo.net
