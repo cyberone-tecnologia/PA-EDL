@@ -49,5 +49,5 @@ shulugoo.net
 #teste
 *.uol.com.br
 uol.com.br
-*.terra.com.br
 *.globo.com/politica/*
+*.terra.com.br
