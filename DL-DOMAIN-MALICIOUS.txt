@@ -47,4 +47,7 @@ connectivity-check.linkpc.net
 #Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
 #teste
+*.uol.com.br
 uol.com.br
+
+
