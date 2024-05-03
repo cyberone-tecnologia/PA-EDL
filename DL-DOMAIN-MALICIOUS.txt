@@ -46,3 +46,5 @@ connectivity-check.linkpc.net
 #Abril/24
 #Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
+#Malware family Unknown
+akademipraktik.com
