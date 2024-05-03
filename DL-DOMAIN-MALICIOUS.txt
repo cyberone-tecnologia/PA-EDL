@@ -46,8 +46,3 @@ connectivity-check.linkpc.net
 #Abril/24
 #Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
-#teste
-*.uol.com.br
-uol.com.br
-*.globo.com/politica/*
-*.terra.com.br
