@@ -48,5 +48,6 @@ connectivity-check.linkpc.net
 shulugoo.net
 #Malware family Unknown
 akademipraktik.com
+#Maio/24
 #Phishing domain
 analytics-henrique.top
