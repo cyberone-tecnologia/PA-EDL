@@ -24,3 +24,12 @@
 54.240.6.165
 #VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
+#Maio/24
+#Malware family mykings_miner
+103.106.250.162
+#Malware family Win32/Agent.VJV
+107.148.94.106
+#Malware family Unknown
+185.192.111.202
+#Malware family PuP.Js
+193.163.7.113

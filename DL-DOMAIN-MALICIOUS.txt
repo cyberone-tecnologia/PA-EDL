@@ -51,3 +51,13 @@ akademipraktik.com
 #Maio/24
 #Phishing domain
 analytics-henrique.top
+#Malware family mykings_miner
+*.pc0416.xyz
+#Malware family Trojan.Fm2.amfpk0bi.Vp2.Generic
+ideia2001.com.br
+#Malware family Unknown
+teachabletutorials.com
+#Malware family PuP.Js
+*.bestresulttostart.com
+#Malware family Backdoor.Win32.Xyk.Darkkomet
+*.onceokuloncesi.com
