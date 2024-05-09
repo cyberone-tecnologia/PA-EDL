@@ -61,3 +61,5 @@ teachabletutorials.com
 *.bestresulttostart.com
 #Malware family Backdoor.Win32.Xyk.Darkkomet
 *.onceokuloncesi.com
+#Malware family SocGholish
+libidotechnexus.com

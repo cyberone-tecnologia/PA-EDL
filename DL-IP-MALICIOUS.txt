@@ -33,3 +33,5 @@
 185.192.111.202
 #Malware family PuP.Js
 193.163.7.113
+#Malware family Trojan.Win32.Cl.B.Fuery
+103.130.216.98
