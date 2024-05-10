@@ -67,6 +67,7 @@ libidotechnexus.com
 completehealth.net.br
 #Phishing campaign
 islamkoy.com
+*autopadrao3.cloud
 #C&C
 bigwimalbr.com.br
 arueoalxbox.org
