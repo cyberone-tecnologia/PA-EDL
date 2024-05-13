@@ -110,3 +110,7 @@ jfu259.com
 *.pvamz.net
 *.mkt15.pro
 *.v6.army
+#Malware Heodo
+www.llev.com.br
+#Phishing redirect domain
+upsups.click
