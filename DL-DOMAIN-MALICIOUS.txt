@@ -114,3 +114,5 @@ jfu259.com
 www.llev.com.br
 #Phishing redirect domain
 upsups.click
+#Malware family SocGholish
+absolutecache.com
