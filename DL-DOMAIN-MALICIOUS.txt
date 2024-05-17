@@ -118,3 +118,5 @@ upsups.click
 absolutecache.com
 #Malware family Gen2.Pdf.Malicious.Html.Malware
 uncme.org.br
+#Malware related
+becorsolaom.com
