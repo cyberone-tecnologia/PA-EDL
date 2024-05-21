@@ -120,7 +120,9 @@ absolutecache.com
 uncme.org.br
 #Malware related
 becorsolaom.com
-Malware family SocGholish
+#Malware family SocGholish
 apicachebot.com
-Malware family Win.Astaroth
+#Malware family Win.Astaroth
 tesouraria-me.com
+#Malware family gootkit
+tororomba.com.br
