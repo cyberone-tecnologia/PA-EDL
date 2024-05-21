@@ -122,3 +122,5 @@ uncme.org.br
 becorsolaom.com
 Malware family SocGholish
 apicachebot.com
+Malware family Win.Astaroth
+tesouraria-me.com
