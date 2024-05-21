@@ -35,3 +35,5 @@
 193.163.7.113
 #Malware family Trojan.Win32.Cl.B.Fuery
 103.130.216.98
+Malware family Js.Fakeupdates
+91.215.153.203
