@@ -120,3 +120,5 @@ absolutecache.com
 uncme.org.br
 #Malware related
 becorsolaom.com
+Malware family SocGholish
+apicachebot.com
