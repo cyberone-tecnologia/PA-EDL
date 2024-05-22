@@ -126,3 +126,5 @@ apicachebot.com
 tesouraria-me.com
 #Malware family gootkit
 tororomba.com.br
+#QakBot
+geracaoaventura.com
