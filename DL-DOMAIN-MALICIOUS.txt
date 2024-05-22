@@ -128,3 +128,5 @@ tesouraria-me.com
 tororomba.com.br
 #QakBot
 geracaoaventura.com
+#Malware family Gen2.Pdf.Malicious.Html.Malware
+curtadoc.tv
