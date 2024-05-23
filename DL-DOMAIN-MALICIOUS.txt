@@ -134,3 +134,5 @@ curtadoc.tv
 thewowfeed.com
 #Malware family Unknown
 d1x9q8w2e4.xyz
+#Javascript Malware
+*.comidinhaaver.art
