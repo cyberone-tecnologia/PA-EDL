@@ -130,3 +130,5 @@ tororomba.com.br
 geracaoaventura.com
 #Malware family Gen2.Pdf.Malicious.Html.Malware
 curtadoc.tv
+#Malware related
+thewowfeed.com
