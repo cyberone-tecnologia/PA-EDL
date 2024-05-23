@@ -39,3 +39,7 @@
 91.215.153.203
 #Malware family Win.Dcrat
 5.23.50.56
+#Brute Force Login Attempt
+69.4.234.65
+45.134.140.142
+198.45.114.153
