@@ -136,3 +136,5 @@ thewowfeed.com
 d1x9q8w2e4.xyz
 #Javascript Malware
 *.comidinhaaver.art
+#Malware family Trojan.Ml.A.Fl.Sabsik.Script
+centersol.com.br
