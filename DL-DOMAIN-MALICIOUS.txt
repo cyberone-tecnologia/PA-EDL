@@ -142,3 +142,5 @@ centersol.com.br
 lxkzcss.xyz
 #Malware family SocGholish
 www.rivabeachbari.com
+#Phishing domain
+tukofertas.com.br
