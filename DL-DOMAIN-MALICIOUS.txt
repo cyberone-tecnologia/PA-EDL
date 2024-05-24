@@ -138,3 +138,5 @@ d1x9q8w2e4.xyz
 *.comidinhaaver.art
 #Malware family Trojan.Ml.A.Fl.Sabsik.Script
 centersol.com.br
+#Antivirus Phishing
+lxkzcss.xyz
