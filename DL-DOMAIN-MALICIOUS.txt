@@ -144,3 +144,7 @@ lxkzcss.xyz
 www.rivabeachbari.com
 #Phishing domain
 tukofertas.com.br
+#Malware family Trojan.Downloader.Win32.Banload.Bit.Bdj
+www.pge.ac.gov.br
+#Malware family chanitor
+insidebox.pt
