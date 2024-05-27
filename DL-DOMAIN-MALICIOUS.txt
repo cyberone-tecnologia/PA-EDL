@@ -148,3 +148,5 @@ tukofertas.com.br
 www.pge.ac.gov.br
 #Malware family chanitor
 insidebox.pt
+#Malicious domain
+karacacomunicacao.com.br
