@@ -151,5 +151,6 @@ insidebox.pt
 #Malicious domain
 karacacomunicacao.com.br
 fastec-mg.dating/
+tesouraria-me.com
 #Malware family Vbgrc.Talu.Kab.Phish.Phishing
 static.s123-cdn.com
