@@ -167,3 +167,5 @@ maissoja.com.br
 ipfs.eth.aragon.network
 #Malware family Cmsbrute
 le-herisson.info
+#Malware related
+fastdl.site
