@@ -159,3 +159,5 @@ static.s123-cdn.com
 maissoja.com.br
 #Phishing domain
 ipfs.eth.aragon.network
+#Malware family Cmsbrute
+le-herisson.info
