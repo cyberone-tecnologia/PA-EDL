@@ -152,5 +152,6 @@ insidebox.pt
 karacacomunicacao.com.br
 fastec-mg.dating/
 tesouraria-me.com
+siderol.net
 #Malware family Vbgrc.Talu.Kab.Phish.Phishing
 static.s123-cdn.com
