@@ -150,3 +150,6 @@ www.pge.ac.gov.br
 insidebox.pt
 #Malicious domain
 karacacomunicacao.com.br
+fastec-mg.dating/
+#Malware family Vbgrc.Talu.Kab.Phish.Phishing
+static.s123-cdn.com
