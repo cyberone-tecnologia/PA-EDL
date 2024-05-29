@@ -159,7 +159,6 @@ ipfs.eth.aragon.network
 le-herisson.info
 #Malware related
 fastdl.site
-contasapagar.net
 #Mshta executes JavaScript Scheme Fetch Remote Payload With GetObject
 *.boavistanet.net
 *.siderol.net
@@ -173,3 +172,8 @@ contasapagar.net
 *.saudeencap.online
 *.fastec-mg.dating
 *.comidinhaaver.art
+*.ativacaodistribuidora.com.br
+*.santacasamacatuba.com.br
+*.acocatarinense.com.br
+*.sisansaude.com
+*.contasapagar.net
