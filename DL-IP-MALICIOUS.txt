@@ -43,6 +43,7 @@
 69.4.234.65
 45.134.140.142
 198.45.114.153
+107.174.252.97
 #Malware family Js.Fakeupdates
 185.158.251.240
 #Malicious Port scanning
