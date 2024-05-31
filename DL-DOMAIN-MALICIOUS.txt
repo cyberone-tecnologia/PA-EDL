@@ -177,17 +177,20 @@ fastdl.site
 *.acocatarinense.com.br
 *.sisansaude.com
 *.contasapagar.net
-#Malware
+#Malware family android_coyote
 *.museuparque.com
-smtplw-04.com
 *.acaodegraca.com
+britoingresso.com
 *.bestoraculo.com
 *.turmadabruta.com
 *.hopedagemunique.com
 *.controleparque.com
 *.parqueitaim.com
-*.homeacessoprime.com
 *.goldwik.com
+pecaslogro.com
+#Malware
+smtplw-04.com
+*.homeacessoprime.com
 #Grayware
 bradesclivelsend.com
 moovelog.com
@@ -197,3 +200,11 @@ web3-connectha.gq
 #C2
 *.contratodocliente.com
 *.servicosetedecobranca.com
+#Malware family Win.Astaroth
+cienciadameditacao.com.br
+cervejahballastpoint.cfd
+aquali.com.br
+cervejahcantillon.cfd
+sintinorp.com.br
+ravseg.com.br
+clubedochute.com.br
