@@ -53,3 +53,5 @@
 90.151.171.109
 #Malware family cobaltstrike-2
 1.62.64.68
+#Malware family smokeloader
+108.179.193.18
