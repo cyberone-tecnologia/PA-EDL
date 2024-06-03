@@ -210,3 +210,5 @@ ravseg.com.br
 clubedochute.com.br
 #Malware family Gen2.Pdf.Malicious.Html.Malware
 hiepsibaotap.com
+#Malware family Socks5Systemz
+marketingmilionarioon.com
