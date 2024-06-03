@@ -208,3 +208,5 @@ cervejahcantillon.cfd
 sintinorp.com.br
 ravseg.com.br
 clubedochute.com.br
+#Malware family Gen2.Pdf.Malicious.Html.Malware
+hiepsibaotap.com
