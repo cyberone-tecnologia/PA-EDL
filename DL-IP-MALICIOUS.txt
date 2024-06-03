@@ -55,3 +55,6 @@
 1.62.64.68
 #Malware family smokeloader
 108.179.193.18
+#Junho/24
+#Korplug Command and Control Traffic Detection
+64.225.36.22
