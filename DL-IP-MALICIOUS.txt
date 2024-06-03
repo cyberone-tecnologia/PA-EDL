@@ -24,6 +24,80 @@
 54.240.6.165
 #VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
+#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
+45.66.248.78
+#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
+23.106.223.5
+45.66.248.78
+#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
+91.240.118.215
+#Março/24
+#Office365 Brute Force Attempt 01/03/2024
+188.130.136.240
+46.8.222.164
+212.115.49.213
+188.130.136.240
+212.115.49.30
+45.11.20.206
+46.8.192.47
+#Guloader/Xloader Malware Campaign - 01/03/2024
+136.255.137.30
+#MALSPAM: Re: lnvoice copy.
+173.203.187.86
+#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/24
+213.109.202.161
+#Credential Harvesting | AhaSlides Abuse
+172.67.150.103
+104.21.71.229
+#2/27 - 2/29/2024 Member Account Takeover Attempt
+154.6.89.134
+85.237.194.192
+98.159.33.11
+98.159.33.38
+193.36.224.31
+173.239.204.182
+2.57.168.59
+98.159.33.54
+#VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/24
+64.207.185.117
+91.219.150.61
+5.181.156.45
+#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/24
+5.252.21.207
+#ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
+129.232.186.102
+#Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
+172.245.92.221
+#Multi-Vector DDoS 08/03/2024
+39.108.229.14
+47.116.218.0 
+154.127.240.6
+47.106.71.239
+35.199.90.225
+89.58.63.152
+39.108.227.108
+49.74.245.39
+202.136.165.130
+170.239.151.78
+217.16.185.131
+41.147.30.53
+194.163.134.97
+219.243.212.118
+64.187.239.162
+161.97.170.209
+139.87.112.147
+154.127.240.6
+138.2.73.157
+74.115.3.133
+49.81.211.17
+74.115.3.151
+47.104.192.155
+61.147.96.83
+177.70.23.17
+#VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 03/07/24
+91.92.242.183
+#Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
+45.77.71.28
 #Maio/24
 #Malware family mykings_miner
 103.106.250.162
