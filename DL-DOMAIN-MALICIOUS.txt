@@ -43,6 +43,76 @@ nahamclago.com
 bunmmpoer.top
 #VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 connectivity-check.linkpc.net
+#WAB SMC Threat Intel Share: SocGholish | Compromised Websites
+termly.io
+ebooks.ferrelljoe.com
+sidecardoughnuts.com
+higherthoughtinstitute.com
+#Credential Capture 29/02/2024
+view.librerialieggi.com
+#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
+gudintas.at
+pik96.ru
+rosatiauto.com
+kingpirate.ru
+connectivity-check.linkpc.net
+#FIS: Suspicious Domains
+banking-service.xyz
+parix.solutions
+#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
+time-check-broker.com
+namecheap.com
+#Marco/24
+#Guloader/Xloader Malware Campaign - 01/03/2024
+icbmv.ro
+tiambiental.com
+elemental.agency
+kandlprinting.online
+zonenail.info
+lunamymoon.com
+pfannen-scholl.info
+infinityinkpress.com
+flatiron.hair
+cochevivo.com
+#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/24
+basiconlineincome.com
+#Credential Harvesting | AhaSlides Abuse
+ahaslides.com
+#Suspicious Domain:  golubcapitall.com
+Golubcapitall.com 
+#Credential Capture 04/03/2024
+thinonthin.life
+#VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/24
+asa.com
+aljannatquranteach.com
+bbsupplyandsalon.com              
+betsmovepiyango47.com         
+eduvationgroup.com   
+growcalm.com              
+grupodistribuidora.com
+#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/24
+zumkoshapsret.com
+jertacco.com
+#FIS: Suspicious Domain 06/03/2024
+worldpay.work
+#[Cyberintel] Re: EXTERNAL: Re: Fake Bloomberg Software Downloads - PowerTrash
+thetinytask.net
+#[Cyberintel] 03-06-2024 - Darkgate Campaigns
+bamautzky.de
+#ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
+opticare.co.zw 
+#SEO Poisoning: HealthEquity AiTM
+healthequity.sa.com
+#Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
+xeis.io
+#Credential Capture 08/03/2024
+docuverseinhub.com
+#Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
+renovaserv.bio
+quantumservice.tarde
+serviUpdate.bio
+pararaios05fvd.ver
+pisosg8tr.xyz
 #Abril/24
 #Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
