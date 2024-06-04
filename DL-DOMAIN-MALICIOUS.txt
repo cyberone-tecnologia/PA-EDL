@@ -282,3 +282,5 @@ clubedochute.com.br
 hiepsibaotap.com
 #Malware family Socks5Systemz
 marketingmilionarioon.com
+#Malware family Quakbot
+linkfone.com.br
