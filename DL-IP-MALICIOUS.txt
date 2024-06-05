@@ -130,14 +130,14 @@
 #Malware family smokeloader
 108.179.193.18
 #Junho/24
-#Korplug Command and Control Traffic Detection
+#06/24 - Korplug Command and Control Traffic Detection
 64.225.36.22
 64.227.110.212
 138.197.3.15
-#Suspicious Probe Events
+#06/24 - Suspicious Probe Events
 194.32.122.12
 104.152.52.214
-#Brute Force Login Attempt
+#06/24 - Brute Force Login Attemp
 71.38.71.225
 141.155.129.93
 76.166.167.178
@@ -177,3 +177,18 @@
 76.33.34.148
 172.8.147.89
 98.19.10.5
+98.97.12.90
+68.193.221.236
+172.58.165.232
+76.32.123.20
+99.177.113.8
+70.109.206.118
+73.223.171.0
+67.210.153.202
+139.60.76.101
+97.101.206.111
+173.255.170.121
+68.81.53.97
+73.203.182.185
+89.239.53.196
+108.197.72.221
