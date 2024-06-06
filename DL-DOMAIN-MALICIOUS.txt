@@ -288,3 +288,5 @@ linkfone.com.br
 aluminioepvcbh.com.br
 #Malware family Win.Astaroth
 minastandes.com.br
+#06/2024 - Malware family Unknown
+s9l0w7n3y5.xyz
