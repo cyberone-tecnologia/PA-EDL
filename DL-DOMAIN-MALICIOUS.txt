@@ -290,3 +290,7 @@ aluminioepvcbh.com.br
 minastandes.com.br
 #06/2024 - Malware family Unknown
 s9l0w7n3y5.xyz
+espacoetica.com.br
+*.parqueitaim.com
+#06/2024 - command-and-control
+*.oseuenvio.com
