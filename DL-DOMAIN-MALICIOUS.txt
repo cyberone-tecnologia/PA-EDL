@@ -294,3 +294,5 @@ espacoetica.com.br
 *.parqueitaim.com
 #06/2024 - command-and-control
 *.oseuenvio.com
+#06/2024 - Malware family 4c3eft.Malwthreat.Js
+*.webfiledata.com
