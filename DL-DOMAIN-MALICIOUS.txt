@@ -298,3 +298,5 @@ espacoetica.com.br
 *.webfiledata.com
 #06/2024 - Malware family Unknown (fake update)
 b9y3b7ner2.xyz
+#06/2024 - Malware family SocGholish
+load.memoryloader.com
