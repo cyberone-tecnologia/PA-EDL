@@ -203,3 +203,5 @@
 77.222.57.185
 #06/2024 - Malware family Backdoor.Linux.Ba.Mirai
 93.123.118.215
+#06/2024 - Malware family redline
+52.36.230.137
