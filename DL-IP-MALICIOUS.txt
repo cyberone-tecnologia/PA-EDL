@@ -201,3 +201,5 @@
 185.253.160.155
 #06/2024 - Malware family Win.Dcrat
 77.222.57.185
+#06/2024 - Malware family Backdoor.Linux.Ba.Mirai
+93.123.118.215
