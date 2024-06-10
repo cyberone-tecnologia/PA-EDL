@@ -113,6 +113,45 @@ quantumservice.tarde
 serviUpdate.bio
 pararaios05fvd.ver
 pisosg8tr.xyz
+#marco/24 Credential Capture 11/03/24
+eduteknet.com
+#marco/24 FIS: Suspicious Domain 13/03/2024
+flsgiobal.com
+#marco/24 New IVAN Spinner Cluster
+ass-jplpmalgon.org
+access.jpmongans.com
+#marco/24 VTI: Carbanak (aka Anunak aka Sekur) Malware & NetSupport Manager RAT Malware - 03/14/24
+cdn25.space
+ciscoconnecctt.com
+airtables.net
+#marco/24 VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
+connectivity-check.linkpc.net
+#marco/24 FIN7 Infra 14/03
+rdlpartners.com
+#marco/24 VTI: APT38 - SwiftBucket Malware - 03/11/24
+atajerefoods.com
+#marco/24 VTI: Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware - 03/07/24
+aytobusesre.com
+scifimond.com
+#marco/24 VTI: DarkGate Malware - 03/19/24
+escuelademarina.com
+badbutperfect.com
+#marco/24 Ousaban Stealer Malware Campaign - 21/03/2024
+smartdesignsol.com
+public.adobecc.com
+#marco/24 Trojan "Chavecloak"
+goo.su
+mariashow.ddns.net
+#marco/24 Malware "Fakext"
+fastify.elfaker.workers.dev
+#marco/24 Credential Capture 21/03
+hj8jywc4m5q-1324839608.cos.ap-beijing-fsi.myqcloud.com
+dmac.worldsma.com
+#marco/24 BazarCall Domains
+hulu-worldtv.com
+your-mangolanguages.com
+#marco/24 Unknown Malware - 03/13/24
+zcr.ink
 #Abril/24
 #Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
