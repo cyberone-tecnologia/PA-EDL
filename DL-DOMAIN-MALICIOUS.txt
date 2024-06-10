@@ -300,3 +300,5 @@ espacoetica.com.br
 b9y3b7ner2.xyz
 #06/2024 - Malware family SocGholish
 load.memoryloader.com
+#06/2024 - QakBot
+clickcurvelo.com
