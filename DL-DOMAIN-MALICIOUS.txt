@@ -296,3 +296,5 @@ espacoetica.com.br
 *.oseuenvio.com
 #06/2024 - Malware family 4c3eft.Malwthreat.Js
 *.webfiledata.com
+#06/2024 - Malware family Unknown (fake update)
+b9y3b7ner2.xyz
