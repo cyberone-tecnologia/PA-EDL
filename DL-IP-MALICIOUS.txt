@@ -234,3 +234,5 @@
 93.123.118.215
 #junho/24 - Malware family redline
 52.36.230.137
+#junho/24 - Malware family Apk.Spynote
+18.229.146.63
