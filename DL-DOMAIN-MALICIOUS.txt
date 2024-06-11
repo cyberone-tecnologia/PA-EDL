@@ -1,5 +1,4 @@
-#Fevereiro/24
-#Xloader Malware Campaign - 22/02/2024
+#fevereiro/24 - Xloader Malware Campaign - 22/02/2024
 k7ym8xyls.sbs
 maguirelaneliving.com
 feshi.store
@@ -9,25 +8,25 @@ sdshopping.org
 thesleeperandco.com
 pltsystems.com
 fenster-kronen.de
-#AgentTesla Malware Campaign - 22/02/2024
+#fevereiro/24 - AgentTesla Malware Campaign - 22/02/2024
 atec.com.tr
-#QR Code Credential Harvesting
+#fevereiro/24 - QR Code Credential Harvesting
 msg111.plala.or.jp
-#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/24
+#fevereiro/24 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/24
 saicetyapy.space
 grebiunti.top
 arsimonopa.com
 lemonimonakio.com
-#FIS: Suspicious Domain
+#fevereiro/24 - FIS: Suspicious Domain
 integrapaysolutions.com
-#QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
+#fevereiro/24 - QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
 em4001.ashitexas.org
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/07/24
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/07/24
 basiconlineincome.com
-#Teams-themed Microsoft 365 Credential Harvesting | softr.app
+#fevereiro/24 - Teams-themed Microsoft 365 Credential Harvesting | softr.app
 crpsac.com
 softr.app
-#Lumma Stealer Malware Campaign - 28/02/2024
+#fevereiro/24 - Lumma Stealer Malware Campaign - 28/02/2024
 associationokeo.shop
 turkeyunlikelyofw.shop
 pooreveningfuseor.pw
@@ -37,33 +36,32 @@ problemregardybuiwo.fun
 lighterepisodeheighte.fun
 technologyenterdo.shop
 syncarpiajanapiom.fun
-#Credential Capture 28/02/24
+#fevereiro/24 - Credential Capture 28/02/24
 c8a516d1.e55e6733904fb475d6637658.workers.dev
 nahamclago.com
 bunmmpoer.top
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 connectivity-check.linkpc.net
-#WAB SMC Threat Intel Share: SocGholish | Compromised Websites
+#fevereiro/24 - WAB SMC Threat Intel Share: SocGholish | Compromised Websites
 termly.io
 ebooks.ferrelljoe.com
 sidecardoughnuts.com
 higherthoughtinstitute.com
-#Credential Capture 29/02/2024
+#fevereiro/24 - Credential Capture 29/02/2024
 view.librerialieggi.com
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
 gudintas.at
 pik96.ru
 rosatiauto.com
 kingpirate.ru
 connectivity-check.linkpc.net
-#FIS: Suspicious Domains
+#fevereiro/24 - FIS: Suspicious Domains
 banking-service.xyz
 parix.solutions
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
 time-check-broker.com
 namecheap.com
-#Marco/24
-#Guloader/Xloader Malware Campaign - 01/03/2024
+#marco/24 - Guloader/Xloader Malware Campaign - 01/03/2024
 icbmv.ro
 tiambiental.com
 elemental.agency
@@ -74,15 +72,15 @@ pfannen-scholl.info
 infinityinkpress.com
 flatiron.hair
 cochevivo.com
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/24
+#marco/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/24
 basiconlineincome.com
-#Credential Harvesting | AhaSlides Abuse
+#marco/24 - Credential Harvesting | AhaSlides Abuse
 ahaslides.com
-#Suspicious Domain:  golubcapitall.com
+#marco/24 - Suspicious Domain:  golubcapitall.com
 Golubcapitall.com 
-#Credential Capture 04/03/2024
+#marco/24 - Credential Capture 04/03/2024
 thinonthin.life
-#VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/24
+#marco/24 - VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/24
 asa.com
 aljannatquranteach.com
 bbsupplyandsalon.com              
@@ -90,55 +88,53 @@ betsmovepiyango47.com
 eduvationgroup.com   
 growcalm.com              
 grupodistribuidora.com
-#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/24
+#marco/24 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/24
 zumkoshapsret.com
 jertacco.com
-#FIS: Suspicious Domain 06/03/2024
+#marco/24 - FIS: Suspicious Domain 06/03/2024
 worldpay.work
-#[Cyberintel] Re: EXTERNAL: Re: Fake Bloomberg Software Downloads - PowerTrash
+#marco/24 - [Cyberintel] Re: EXTERNAL: Re: Fake Bloomberg Software Downloads - PowerTrash
 thetinytask.net
-#[Cyberintel] 03-06-2024 - Darkgate Campaigns
+#marco/24 - [Cyberintel] 03-06-2024 - Darkgate Campaigns
 bamautzky.de
-#ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
+#marco/24 - ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
 opticare.co.zw 
-#SEO Poisoning: HealthEquity AiTM
+#marco/24 - SEO Poisoning: HealthEquity AiTM
 healthequity.sa.com
-#Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
+#marco/24 - Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
 xeis.io
-#Credential Capture 08/03/2024
+#marco/24 - Credential Capture 08/03/2024
 docuverseinhub.com
-#Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
+#marco/24 - Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
 renovaserv.bio
 quantumservice.tarde
 serviUpdate.bio
 pararaios05fvd.ver
 pisosg8tr.xyz
-#Abril/24
-#Malware family Backdoor.Win32.Tofsee.Generic
+#abril/24 - Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
-#Malware family Unknown
+#abril/24 - Malware family Unknown
 akademipraktik.com
-#Maio/24
-#Phishing domain
+#maio/24 - Phishing domain
 analytics-henrique.top
-#Malware family mykings_miner
+#maio/24 - Malware family mykings_miner
 *.pc0416.xyz
-#Malware family Trojan.Fm2.amfpk0bi.Vp2.Generic
+#maio/24 - Malware family Trojan.Fm2.amfpk0bi.Vp2.Generic
 ideia2001.com.br
-#Malware family Unknown
+#maio/24 - Malware family Unknown
 teachabletutorials.com
-#Malware family PuP.Js
+#maio/24 - Malware family PuP.Js
 *.bestresulttostart.com
-#Malware family Backdoor.Win32.Xyk.Darkkomet
+#maio/24 - Malware family Backdoor.Win32.Xyk.Darkkomet
 *.onceokuloncesi.com
-#Malware family SocGholish
+#maio/24 - Malware family SocGholish
 libidotechnexus.com
-#Phishing campaign (Web Shell)
+#maio/24 - Phishing campaign (Web Shell)
 completehealth.net.br
-#Phishing campaign
+#maio/24 - Phishing campaign
 islamkoy.com
 *autopadrao3.cloud
-#C&C
+#maio/24 - C&C
 bigwimalbr.com.br
 arueoalxbox.org
 topxmaxxx.com
@@ -155,7 +151,7 @@ primeacessobrad.skin
 *.contratodocliente.com
 gaifubw.com
 *.servicodesessetedecobranca.com
-#Malware
+#maio/24 - Malware
 magazine-luiza.com
 ofertas-magazineluiza.com
 cultuenlace.com
@@ -172,64 +168,64 @@ jagaranmf.com
 benishgps.com
 maggitoyota.com.br
 jmich.johndgreat.com
-#Grayware
+#maio/24 - Grayware
 lopasmxbo.com.br
 *.quemchegarprimeiro.com.br
 jfu259.com
-#Phishing
+#maio/24 - Phishing
 *.pvamz.net
 *.mkt15.pro
 *.v6.army
-#Malware Heodo
+#maio/24 - Malware Heodo
 www.llev.com.br
-#Phishing redirect domain
+#maio/24 - Phishing redirect domain
 upsups.click
-#Malware family SocGholish
+#maio/24 - Malware family SocGholish
 absolutecache.com
-#Malware family Gen2.Pdf.Malicious.Html.Malware
+#maio/24 - Malware family Gen2.Pdf.Malicious.Html.Malware
 uncme.org.br
-#Malware related
+#maio/24 - Malware related
 becorsolaom.com
-#Malware family SocGholish
+#maio/24 - Malware family SocGholish
 apicachebot.com
-#Malware family Win.Astaroth
+#maio/24 - Malware family Win.Astaroth
 tesouraria-me.com
-#Malware family gootkit
+#maio/24 - Malware family gootkit
 tororomba.com.br
-#QakBot
+#maio/24 - QakBot
 geracaoaventura.com
-#Malware family Gen2.Pdf.Malicious.Html.Malware
+#maio/24 - Malware family Gen2.Pdf.Malicious.Html.Malware
 curtadoc.tv
-#Malware related
+#maio/24 - Malware related
 thewowfeed.com
-#Malware family Unknown
+#maio/24 - Malware family Unknown
 d1x9q8w2e4.xyz
-#Malware family Trojan.Ml.A.Fl.Sabsik.Script
+#maio/24 - Malware family Trojan.Ml.A.Fl.Sabsik.Script
 centersol.com.br
-#Antivirus Phishing
+#maio/24 - Antivirus Phishing
 lxkzcss.xyz
-#Malware family SocGholish
+#maio/24 - Malware family SocGholish
 www.rivabeachbari.com
-#Phishing domain
+#maio/24 - Phishing domain
 tukofertas.com.br
-#Malware family Trojan.Downloader.Win32.Banload.Bit.Bdj
+#maio/24 - Malware family Trojan.Downloader.Win32.Banload.Bit.Bdj
 www.pge.ac.gov.br
-#Malware family chanitor
+#maio/24 - Malware family chanitor
 insidebox.pt
-#Malicious domain
+#maio/24 - Malicious domain
 karacacomunicacao.com.br
 tesouraria-me.com
-#Malware family Vbgrc.Talu.Kab.Phish.Phishing
+#maio/24 - Malware family Vbgrc.Talu.Kab.Phish.Phishing
 static.s123-cdn.com
-#Malware family Trojan.JS.Agent.eqq
+#maio/24 - Malware family Trojan.JS.Agent.eqq
 maissoja.com.br
-#Phishing domain
+#maio/24 - Phishing domain
 ipfs.eth.aragon.network
-#Malware family Cmsbrute
+#maio/24 - Malware family Cmsbrute
 le-herisson.info
-#Malware related
+#maio/24 - Malware related
 fastdl.site
-#Mshta executes JavaScript Scheme Fetch Remote Payload With GetObject
+#maio/24 - Mshta executes JavaScript Scheme Fetch Remote Payload With GetObject
 *.boavistanet.net
 *.siderol.net
 *.saudeencap.store
@@ -247,7 +243,7 @@ fastdl.site
 *.acocatarinense.com.br
 *.sisansaude.com
 *.contasapagar.net
-#Malware family android_coyote
+#maio/24 - Malware family android_coyote
 *.museuparque.com
 *.acaodegraca.com
 britoingresso.com
@@ -258,19 +254,19 @@ britoingresso.com
 *.parqueitaim.com
 *.goldwik.com
 pecaslogro.com
-#Malware
+#maio/24 - Malware
 smtplw-04.com
 *.homeacessoprime.com
-#Grayware
+#maio/24 - Grayware
 bradesclivelsend.com
 moovelog.com
-#Phishing
+#maio/24 - Phishing
 web3-connectha.gq
 *.pvamz.net
-#C2
+#maio/24 - C2
 *.contratodocliente.com
 *.servicosetedecobranca.com
-#Malware family Win.Astaroth
+#maio/24 - Malware family Win.Astaroth
 cienciadameditacao.com.br
 cervejahballastpoint.cfd
 aquali.com.br
@@ -278,32 +274,32 @@ cervejahcantillon.cfd
 sintinorp.com.br
 ravseg.com.br
 clubedochute.com.br
-#Malware family Gen2.Pdf.Malicious.Html.Malware
+#maio/24 - Malware family Gen2.Pdf.Malicious.Html.Malware
 hiepsibaotap.com
-#Malware family Socks5Systemz
+#maio/24 - Malware family Socks5Systemz
 marketingmilionarioon.com
-#Malware family Quakbot
+#maio/24 - Malware family Quakbot
 linkfone.com.br
-#Malware family Trojan.Ml.B.Fl.Sabsik.Script
+#maio/24 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 aluminioepvcbh.com.br
-#Malware family Win.Astaroth
+#maio/24 - Malware family Win.Astaroth
 minastandes.com.br
-#06/2024 - Malware family Unknown
+#junho/24 - Malware family Unknown
 s9l0w7n3y5.xyz
 espacoetica.com.br
 *.parqueitaim.com
-#06/2024 - command-and-control
+#junho/24 - command-and-control
 *.oseuenvio.com
-#06/2024 - Malware family 4c3eft.Malwthreat.Js
+#junho/24 - Malware family 4c3eft.Malwthreat.Js
 *.webfiledata.com
-#06/2024 - Malware family Unknown (fake update)
+#junho/24 - Malware family Unknown (fake update)
 b9y3b7ner2.xyz
-#06/2024 - Malware family SocGholish
+#junho/24 - Malware family SocGholish
 load.memoryloader.com
-#06/2024 - QakBot
+#junho/24 - QakBot
 clickcurvelo.com
-#06/2024 - Malware family ta569
+#junho/24 - Malware family ta569
 funcallback.com
 searchgear.pro
-#06/2024 - Malware family SocGholish
+#junho/24 - Malware family SocGholish
 scada.paradizeconstruction.com

@@ -1,38 +1,36 @@
-#Fevereiro/24
-#Xloader Malware Campaign - 22/02/2024
+#fevereiro/24 - Xloader Malware Campaign - 22/02/2024
 94.127.187.62
-#AgentTesla Malware Campaign - 22/02/2024
+#fevereiro/24 - AgentTesla Malware Campaign - 22/02/2024
 154.61.75.15
-#QR Code Credential Harvesting
+#fevereiro/24 - QR Code Credential Harvesting
 60.36.166.28
-#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/24
+#fevereiro/24 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/24
 178.23.190.199
-#O365 Brute Force: O365 Suite UX
+#fevereiro/24 - O365 Brute Force: O365 Suite UX
 66.56.83.24
 155.94.240.39
-#VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 02/22/24
+#fevereiro/24 - VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 02/22/24
 91.92.242.183
-#MALSPAM: VOLUPTATESW.zip
+#fevereiro/24 - MALSPAM: VOLUPTATESW.zip
 148.72.158.61
-#QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
+#fevereiro/24 - QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
 168.245.108.75
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/07/24
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/07/24
 213.109.202.161
-#Teams-themed Microsoft 365 Credential Harvesting | softr.app
+#fevereiro/24 - Teams-themed Microsoft 365 Credential Harvesting | softr.app
 149.72.20.164
-#Lumma Stealer Malware Campaign - 28/02/2024
+#fevereiro/24 - Lumma Stealer Malware Campaign - 28/02/2024
 54.240.6.165
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
 23.106.223.5
 45.66.248.78
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
+#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
 91.240.118.215
-#Março/24
-#Office365 Brute Force Attempt 01/03/2024
+#marco/24 - Office365 Brute Force Attempt 01/03/2024
 188.130.136.240
 46.8.222.164
 212.115.49.213
@@ -40,16 +38,16 @@
 212.115.49.30
 45.11.20.206
 46.8.192.47
-#Guloader/Xloader Malware Campaign - 01/03/2024
+#marco/24 - Guloader/Xloader Malware Campaign - 01/03/2024
 136.255.137.30
-#MALSPAM: Re: lnvoice copy.
+#marco/24 - MALSPAM: Re: lnvoice copy.
 173.203.187.86
-#VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/24
+#marco/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/24
 213.109.202.161
-#Credential Harvesting | AhaSlides Abuse
+#marco/24 - Credential Harvesting | AhaSlides Abuse
 172.67.150.103
 104.21.71.229
-#2/27 - 2/29/2024 Member Account Takeover Attempt
+#marco/24 - 2/27 - 2/29/2024 Member Account Takeover Attempt
 154.6.89.134
 85.237.194.192
 98.159.33.11
@@ -58,17 +56,17 @@
 173.239.204.182
 2.57.168.59
 98.159.33.54
-#VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/24
+#marco/24 - VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/24
 64.207.185.117
 91.219.150.61
 5.181.156.45
-#VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/24
+#marco/24 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/24
 5.252.21.207
-#ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
+#marco/24 - ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
 129.232.186.102
-#Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
+#marco/24 - Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
 172.245.92.221
-#Multi-Vector DDoS 08/03/2024
+#marco/24 - Multi-Vector DDoS 08/03/2024
 39.108.229.14
 47.116.218.0 
 154.127.240.6
@@ -94,13 +92,13 @@
 47.104.192.155
 61.147.96.83
 177.70.23.17
-#VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 03/07/24
+#marco/24 - VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 03/07/24
 91.92.242.183
-#Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
+#marco/24 - Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
 45.77.71.28
-#marco/24 Cibercriminosos exploram falha do Windows SmartScreen para iniciar malware DarkGate
+#marco/24 - Cibercriminosos exploram falha do Windows SmartScreen para iniciar malware DarkGate
 5.181.159.76
-#marco/24 VTI: Carbanak (aka Anunak aka Sekur) Malware & NetSupport Manager RAT Malware - 03/14/24 - #2
+#marco/24 - VTI: Carbanak (aka Anunak aka Sekur) Malware & NetSupport Manager RAT Malware - 03/14/24 - #2
 103.113.70.68
 85.239.53.117
 5.161.223.210
@@ -109,68 +107,66 @@
 89.105.198.190
 77.105.162.219
 207.174.30.238
-#marco/24 Formbook Malware Campaign - 15/03/2024
+#marco/24 - Formbook Malware Campaign - 15/03/2024
 84.252.120.17
-#marco/24 AgentTesla Malware Campaign - 15/03/2024
+#marco/24 - AgentTesla Malware Campaign - 15/03/2024
 167.172.19.232
-#marco/24 VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
+#marco/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
-#marco/24 VTI: APT38 - SwiftBucket Malware - 03/11/24
+#marco/24 - VTI: APT38 - SwiftBucket Malware - 03/11/24
 216.107.136.10
 216.107.135.101
 192.119.64.43
-#marco/24 VTI: Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware - 03/07/24
+#marco/24 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware - 03/07/24
 95.164.3.171
-#marco/24 VTI: DarkGate Malware - 03/19/24
+#marco/24 - VTI: DarkGate Malware - 03/19/24
 165.22.16.55
 103.124.105.78
-#marco/24 Ousaban Stealer Malware Campaign - 21/03/2024
+#marco/24 - Ousaban Stealer Malware Campaign - 21/03/2024
 36.212.109.208
-#marco/24 Trojan "Chavecloak"
+#marco/24 - Trojan "Chavecloak"
 64.225.32.24
-#marco/24 Unknown Malware - 03/13/24
+#marco/24 - Unknown Malware - 03/13/24
 89.208.104.10
 89.39.107.226
-#Maio/24
-#Malware family mykings_miner
+#maio/24 - Malware family mykings_miner
 103.106.250.162
-#Malware family Win32/Agent.VJV
+#maio/24 - Malware family Win32/Agent.VJV
 107.148.94.106
-#Malware family Unknown
+#maio/24 - Malware family Unknown
 185.192.111.202
-#Malware family PuP.Js
+#maio/24 - Malware family PuP.Js
 193.163.7.113
-#Malware family Trojan.Win32.Cl.B.Fuery
+#maio/24 - Malware family Trojan.Win32.Cl.B.Fuery
 103.130.216.98
-#Malware family Js.Fakeupdates
+#maio/24 - Malware family Js.Fakeupdates
 91.215.153.203
-#Malware family Win.Dcrat
+#maio/24 - Malware family Win.Dcrat
 5.23.50.56
-#Brute Force Login Attempt
+#maio/24 - Brute Force Login Attempt
 69.4.234.65
 45.134.140.142
 198.45.114.153
 107.174.252.97
-#Malware family Js.Fakeupdates
+#maio/24 - Malware family Js.Fakeupdates
 185.158.251.240
-#Malicious Port scanning
+#maio/24 - Malicious Port scanning
 154.29.75.236
 188.92.77.235
 104.152.52.136
 90.151.171.109
-#Malware family cobaltstrike-2
+#maio/24 - Malware family cobaltstrike-2
 1.62.64.68
-#Malware family smokeloader
+#maio/24 - Malware family smokeloader
 108.179.193.18
-#Junho/24
-#06/2024 - Korplug Command and Control Traffic Detection
+#junho/24 - Korplug Command and Control Traffic Detection
 64.225.36.22
 64.227.110.212
 138.197.3.15
-#06/2024 - Suspicious Probe Events
+#junho/24 - Suspicious Probe Events
 194.32.122.12
 104.152.52.214
-#06/2024 - Brute Force Login Attemp
+#junho/24 - Brute Force Login Attemp
 71.38.71.225
 141.155.129.93
 76.166.167.178
@@ -227,14 +223,14 @@
 108.197.72.221
 136.144.19.112
 174.110.217.37
-#06/2024 - Remote Suspicious Probe Events
+#junho/24 - Remote Suspicious Probe Events
 84.239.49.16
 198.98.48.107
 104.152.52.213
 185.253.160.155
-#06/2024 - Malware family Win.Dcrat
+#junho/24 - Malware family Win.Dcrat
 77.222.57.185
-#06/2024 - Malware family Backdoor.Linux.Ba.Mirai
+#junho/24 - Malware family Backdoor.Linux.Ba.Mirai
 93.123.118.215
-#06/2024 - Malware family redline
+#junho/24 - Malware family redline
 52.36.230.137
