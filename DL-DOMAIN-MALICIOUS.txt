@@ -302,3 +302,8 @@ b9y3b7ner2.xyz
 load.memoryloader.com
 #06/2024 - QakBot
 clickcurvelo.com
+#06/2024 - Malware family ta569
+funcallback.com
+searchgear.pro
+#06/2024 - Malware family SocGholish
+scada.paradizeconstruction.com
