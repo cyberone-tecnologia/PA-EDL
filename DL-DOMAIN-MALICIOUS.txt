@@ -303,3 +303,5 @@ funcallback.com
 searchgear.pro
 #junho/24 - Malware family SocGholish
 scada.paradizeconstruction.com
+#junho/24 - Malware family Spam.Url
+*.ibcbh.com.br
