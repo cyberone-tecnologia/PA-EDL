@@ -236,3 +236,5 @@
 52.36.230.137
 #junho/24 - Malware family Apk.Spynote
 18.229.146.63
+#junho/24 - Malware family vidar
+142.132.169.161
