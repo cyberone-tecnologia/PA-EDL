@@ -305,3 +305,5 @@ searchgear.pro
 scada.paradizeconstruction.com
 #junho/24 - Malware family Spam.Url
 *.ibcbh.com.br
+#junho/24 - Malware family Unknown
+*.rdntocdns.com
