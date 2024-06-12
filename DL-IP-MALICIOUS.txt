@@ -228,6 +228,8 @@
 198.98.48.107
 104.152.52.213
 185.253.160.155
+51.158.241.29
+51.158.165.193
 #junho/24 - Malware family Win.Dcrat
 77.222.57.185
 #junho/24 - Malware family Backdoor.Linux.Ba.Mirai
