@@ -301,3 +301,10 @@ scada.paradizeconstruction.com
 *.ibcbh.com.br
 #junho/24 - Malware family Unknown
 *.rdntocdns.com
+#06/24 - Malware family Unknown
+*.check-tl-ver-154-2.com
+*.bellatrixmeissa.com
+*.rtb-feed.com
+#06/24 - Grayware
+*.pshmetrk.com
+*.trknext.com
