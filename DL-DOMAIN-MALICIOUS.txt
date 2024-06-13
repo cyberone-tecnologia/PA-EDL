@@ -21,8 +21,6 @@ lemonimonakio.com
 integrapaysolutions.com
 #fevereiro/24 - QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
 em4001.ashitexas.org
-#fevereiro/24 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/07/24
-basiconlineincome.com
 #fevereiro/24 - Teams-themed Microsoft 365 Credential Harvesting | softr.app
 crpsac.com
 softr.app
@@ -148,7 +146,6 @@ juaherya.com.br
 yuryanxbo.com
 kuamlopc.com
 primeacessobrad.skin
-*.contratodocliente.com
 gaifubw.com
 *.servicodesessetedecobranca.com
 #maio/24 - Malware
@@ -173,7 +170,6 @@ lopasmxbo.com.br
 *.quemchegarprimeiro.com.br
 jfu259.com
 #maio/24 - Phishing
-*.pvamz.net
 *.mkt15.pro
 *.v6.army
 #maio/24 - Malware Heodo
@@ -188,8 +184,6 @@ uncme.org.br
 becorsolaom.com
 #maio/24 - Malware family SocGholish
 apicachebot.com
-#maio/24 - Malware family Win.Astaroth
-tesouraria-me.com
 #maio/24 - Malware family gootkit
 tororomba.com.br
 #maio/24 - QakBot
