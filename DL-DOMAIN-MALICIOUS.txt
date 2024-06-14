@@ -286,3 +286,9 @@ searchgear.pro
 *.ibcbh.com.br
 #junho/2024 - Malware family Balada Injector
 *.rdntocdns.com
+#junho/2024 - Phishing campaign
+*.check-tl-ver-154-2.com
+*.bellatrixmeissa.com
+*.rtb-feed.com
+*.pshmetrk.com
+*.trknext.com
