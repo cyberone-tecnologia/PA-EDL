@@ -75,16 +75,16 @@ basiconlineincome.com
 #marco/24 - Credential Harvesting | AhaSlides Abuse
 ahaslides.com
 #marco/24 - Suspicious Domain:  golubcapitall.com
-Golubcapitall.com 
+Golubcapitall.com
 #marco/24 - Credential Capture 04/03/2024
 thinonthin.life
 #marco/24 - VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/24
 asa.com
 aljannatquranteach.com
-bbsupplyandsalon.com              
-betsmovepiyango47.com         
-eduvationgroup.com   
-growcalm.com              
+bbsupplyandsalon.com
+betsmovepiyango47.com
+eduvationgroup.com
+growcalm.com
 grupodistribuidora.com
 #marco/24 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/24
 zumkoshapsret.com
@@ -96,7 +96,7 @@ thetinytask.net
 #marco/24 - [Cyberintel] 03-06-2024 - Darkgate Campaigns
 bamautzky.de
 #marco/24 - ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
-opticare.co.zw 
+opticare.co.zw
 #marco/24 - SEO Poisoning: HealthEquity AiTM
 healthequity.sa.com
 #marco/24 - Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
@@ -115,18 +115,24 @@ shulugoo.net
 akademipraktik.com
 #maio/24 - Phishing domain
 analytics-henrique.top
+tukofertas.com.br
+ipfs.eth.aragon.network
 #maio/24 - Malware family mykings_miner
 *.pc0416.xyz
 #maio/24 - Malware family Trojan.Fm2.amfpk0bi.Vp2.Generic
 ideia2001.com.br
 #maio/24 - Malware family Unknown
 teachabletutorials.com
+d1x9q8w2e4.xyz
 #maio/24 - Malware family PuP.Js
 *.bestresulttostart.com
 #maio/24 - Malware family Backdoor.Win32.Xyk.Darkkomet
 *.onceokuloncesi.com
 #maio/24 - Malware family SocGholish
 libidotechnexus.com
+absolutecache.com
+apicachebot.com
+www.rivabeachbari.com
 #maio/24 - Phishing campaign (Web Shell)
 completehealth.net.br
 #maio/24 - Phishing campaign
@@ -165,43 +171,39 @@ jagaranmf.com
 benishgps.com
 maggitoyota.com.br
 jmich.johndgreat.com
+smtplw-04.com
+*.homeacessoprime.com
 #maio/24 - Grayware
 lopasmxbo.com.br
 *.quemchegarprimeiro.com.br
 jfu259.com
+bradesclivelsend.com
+moovelog.com
 #maio/24 - Phishing
 *.mkt15.pro
 *.v6.army
+web3-connectha.gq
+*.pvamz.net
 #maio/24 - Malware Heodo
 www.llev.com.br
 #maio/24 - Phishing redirect domain
 upsups.click
-#maio/24 - Malware family SocGholish
-absolutecache.com
 #maio/24 - Malware family Gen2.Pdf.Malicious.Html.Malware
 uncme.org.br
+curtadoc.tv
+hiepsibaotap.com
 #maio/24 - Malware related
 becorsolaom.com
-#maio/24 - Malware family SocGholish
-apicachebot.com
+thewowfeed.com
+fastdl.site
 #maio/24 - Malware family gootkit
 tororomba.com.br
 #maio/24 - QakBot
 geracaoaventura.com
-#maio/24 - Malware family Gen2.Pdf.Malicious.Html.Malware
-curtadoc.tv
-#maio/24 - Malware related
-thewowfeed.com
-#maio/24 - Malware family Unknown
-d1x9q8w2e4.xyz
 #maio/24 - Malware family Trojan.Ml.A.Fl.Sabsik.Script
 centersol.com.br
 #maio/24 - Antivirus Phishing
 lxkzcss.xyz
-#maio/24 - Malware family SocGholish
-www.rivabeachbari.com
-#maio/24 - Phishing domain
-tukofertas.com.br
 #maio/24 - Malware family Trojan.Downloader.Win32.Banload.Bit.Bdj
 www.pge.ac.gov.br
 #maio/24 - Malware family chanitor
@@ -213,12 +215,8 @@ tesouraria-me.com
 static.s123-cdn.com
 #maio/24 - Malware family Trojan.JS.Agent.eqq
 maissoja.com.br
-#maio/24 - Phishing domain
-ipfs.eth.aragon.network
 #maio/24 - Malware family Cmsbrute
 le-herisson.info
-#maio/24 - Malware related
-fastdl.site
 #maio/24 - Mshta executes JavaScript Scheme Fetch Remote Payload With GetObject
 *.boavistanet.net
 *.siderol.net
@@ -248,15 +246,6 @@ britoingresso.com
 *.parqueitaim.com
 *.goldwik.com
 pecaslogro.com
-#maio/24 - Malware
-smtplw-04.com
-*.homeacessoprime.com
-#maio/24 - Grayware
-bradesclivelsend.com
-moovelog.com
-#maio/24 - Phishing
-web3-connectha.gq
-*.pvamz.net
 #maio/24 - C2
 *.contratodocliente.com
 *.servicosetedecobranca.com
@@ -268,16 +257,13 @@ cervejahcantillon.cfd
 sintinorp.com.br
 ravseg.com.br
 clubedochute.com.br
-#maio/24 - Malware family Gen2.Pdf.Malicious.Html.Malware
-hiepsibaotap.com
+minastandes.com.br
 #maio/24 - Malware family Socks5Systemz
 marketingmilionarioon.com
 #maio/24 - Malware family Quakbot
 linkfone.com.br
 #maio/24 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 aluminioepvcbh.com.br
-#maio/24 - Malware family Win.Astaroth
-minastandes.com.br
 #junho/24 - Malware family Unknown
 s9l0w7n3y5.xyz
 espacoetica.com.br
@@ -290,14 +276,13 @@ espacoetica.com.br
 b9y3b7ner2.xyz
 #junho/24 - Malware family SocGholish
 load.memoryloader.com
+scada.paradizeconstruction.com
 #junho/24 - QakBot
 clickcurvelo.com
 #junho/24 - Malware family ta569
 funcallback.com
 searchgear.pro
-#junho/24 - Malware family SocGholish
-scada.paradizeconstruction.com
 #junho/24 - Malware family Spam.Url
 *.ibcbh.com.br
-#junho/24 - Malware family Unknown
+Malware family Balada Injector
 *.rdntocdns.com
