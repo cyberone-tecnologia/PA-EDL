@@ -308,3 +308,6 @@ chambermaidthree.xyz/
 *.emjcd.com
 *.trafficflowdiscovery.com
 *.networkfullchain.co.in
+#junho/2024 - Trojan Android Banker
+chromee-update-it.com
+v1069-guncelleme-chrome.epizy.com
