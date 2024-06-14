@@ -292,3 +292,9 @@ searchgear.pro
 *.rtb-feed.com
 *.pshmetrk.com
 *.trknext.com
+*.js-check.com
+*.ultracdn.top
+*.azurewebsites.net
+paraboobs.xyz
+chambermaidthree.xyz
+sosr.co.in
