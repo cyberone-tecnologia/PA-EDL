@@ -284,5 +284,5 @@ funcallback.com
 searchgear.pro
 #junho/24 - Malware family Spam.Url
 *.ibcbh.com.br
-Malware family Balada Injector
+#junho/2024 - Malware family Balada Injector
 *.rdntocdns.com
