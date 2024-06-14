@@ -298,3 +298,5 @@ searchgear.pro
 paraboobs.xyz
 chambermaidthree.xyz
 sosr.co.in
+*.networkfullchain.co.in
+*.junctionspeedforum.co.in
