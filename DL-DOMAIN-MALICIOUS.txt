@@ -322,3 +322,5 @@ v1069-guncelleme-chrome.epizy.com
 conexaoaeroporto.com.br
 #junho/24 - Malware family gootkit
 myoldcountryhouse.com
+#junho/24 - Malware family Quakbot
+g2iprovisaoamericana.med.br
