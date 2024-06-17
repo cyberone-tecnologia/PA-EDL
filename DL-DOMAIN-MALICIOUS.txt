@@ -286,6 +286,7 @@ searchgear.pro
 *.ibcbh.com.br
 #junho/2024 - Malware family Balada Injector
 *.rdntocdns.com
+*.rdntocdns.com
 #06/24 - Malware family Unknown
 *.check-tl-ver-154-2.com
 *.bellatrixmeissa.com
@@ -293,8 +294,6 @@ searchgear.pro
 #06/24 - Grayware
 *.pshmetrk.com
 *.trknext.com
-#junho/2024 - Malware family Balada Injector
-*.rdntocdns.com
 #junho/2024 - Phishing campaign
 *.check-tl-ver-154-2.com
 *.bellatrixmeissa.com
@@ -320,3 +319,5 @@ chambermaidthree.xyz/
 #junho/2024 - Trojan Android Banker
 chromee-update-it.com
 v1069-guncelleme-chrome.epizy.com
+#junho/24 - Malware family JS/Agent.PHC
+conexaoaeroporto.com.br
