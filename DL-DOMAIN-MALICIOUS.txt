@@ -286,7 +286,6 @@ searchgear.pro
 *.ibcbh.com.br
 #junho/2024 - Malware family Balada Injector
 *.rdntocdns.com
-*.rdntocdns.com
 #06/24 - Malware family Unknown
 *.check-tl-ver-154-2.com
 *.bellatrixmeissa.com
