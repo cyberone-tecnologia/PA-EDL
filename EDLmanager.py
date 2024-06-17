@@ -17,9 +17,9 @@ def readEDL(file_path):
 def writeEDL(file_path, edl):
     with open(file_path, 'w', encoding='utf-8') as file:
         for comment, iocs in edl.items():
-            file.write(f'\n{comment}')
+            file.write(f'{comment}\n')
             for ioc in iocs:
-                file.write(f'\n{ioc}')
+                file.write(f'{ioc}\n')
 
 def add2EDL(edl_path, comment, ioc):
     lines = readEDL(edl_path)
