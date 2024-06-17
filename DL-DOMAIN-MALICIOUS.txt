@@ -320,3 +320,5 @@ chromee-update-it.com
 v1069-guncelleme-chrome.epizy.com
 #junho/24 - Malware family JS/Agent.PHC
 conexaoaeroporto.com.br
+#junho/24 - Malware family gootkit
+myoldcountryhouse.com
