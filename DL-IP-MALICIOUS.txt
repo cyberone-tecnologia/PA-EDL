@@ -248,3 +248,5 @@
 45.9.149.210
 #junho/2024 - Malware family Trojan.Win32.Xnet.Genericml
 3.70.240.163
+#junho/24 - Malware family rhadamanthys
+87.251.67.40
