@@ -323,3 +323,5 @@ conexaoaeroporto.com.br
 myoldcountryhouse.com
 #junho/24 - Malware family Quakbot
 g2iprovisaoamericana.med.br
+#junho/24 - Malware family Agent.Mrro.Js.Malware
+impconcursos.com.br
