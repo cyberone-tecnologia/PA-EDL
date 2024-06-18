@@ -301,7 +301,6 @@ searchgear.pro
 *.trknext.com
 *.js-check.com
 *.ultracdn.top
-*.azurewebsites.net
 paraboobs.xyz
 chambermaidthree.xyz
 sosr.co.in
