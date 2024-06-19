@@ -277,6 +277,7 @@ b9y3b7ner2.xyz
 #junho/24 - Malware family SocGholish
 load.memoryloader.com
 scada.paradizeconstruction.com
+jswebcache.com
 #junho/24 - QakBot
 clickcurvelo.com
 #junho/24 - Malware family ta569
