@@ -25,7 +25,6 @@ def writeEDL(file_path, edl):
 
 def add2EDL(edl_path, comment_group, new_ioc):
     edl = readEDL(edl_path)
-    print("~ History:")
     block = True
     comments = list(edl.keys())
     for group in comments:
@@ -76,32 +75,50 @@ def menu():
     parser.add_argument('-e', '--email', dest='email', required=False, help='Add EMAIL to DL-EMAIL-MALICIOUS.txt')
     parser.add_argument('-s', '--hash', dest='hash', required=False, help='Add HASH to DL-HASH-MALICIOUS.txt')
     parser.add_argument('-c', '--comment', dest='comment', required=True, help='Add "comment" about the IOC')
+    parser.add_argument('-m', '--more', dest='more', required=False, action='store_true', help='Add more IOC')
     args = parser.parse_args()
 
     data = None
     option = None
+    bulk = []
 
-    if args.ip:
-        data = args.ip
-        option = 'DL-IP-MALICIOUS.txt'
-    elif args.domain:
-        data = args.domain
-        option = 'DL-DOMAIN-MALICIOUS.txt'
-    elif args.email:
-        data = args.email
-        option = 'DL-EMAIL-MALICIOUS.txt'
-    elif args.hash:
-        data = args.hash
-        option = 'DL-HASH-MALICIOS.txt'
-    else:
-        parser.error('At least one of the options -i, -d, -e, or -s must be provided along with -c')
+    arg_map = {
+        'ip': ('Insert an IP (or press Enter to leave): ', 'DL-IP-MALICIOUS.txt'),
+        'domain': ('Insert a DOMAIN (or press Enter to leave): ', 'DL-DOMAIN-MALICIOUS.txt'),
+        'email': ('Insert a EMAIL (or press Enter to leave): ', 'DL-EMAIL-MALICIOUS.txt'),
+        'hash': ('Insert a HASH (or press Enter to leave): ', 'DL-HASH-MALICIOUS.txt')
+    }
+    
+    for arg, (message, file_option) in arg_map.items():
+        if getattr(args, arg):
+            print(message)
+            data = getattr(args, arg)
+            if args.more:
+                bulk.append(data)
+                print(data)
+            option = file_option
+            break
+        else:
+            parser.error('One of the options -i, -d, -e, or -s must be provided along with -m or -c')
+        
+    if args.more:
+        while True:
+            data = input()
+            if data:
+                bulk.append(data)
+            else:
+                break
     
     comment = formatMonth() + args.comment
-    return option, comment, data
+    return option, comment, data, bulk
 
 def main():
-    option, comment, data = menu()
-    if option:
+    option, comment, data, bulk = menu()
+    print("~ History:")
+    if bulk:
+        for ioc in bulk:
+            add2EDL(option, comment, ioc)
+    elif option:
         add2EDL(option, comment, data)
 
 if __name__ == "__main__":
