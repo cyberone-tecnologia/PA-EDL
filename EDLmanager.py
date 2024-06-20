@@ -1,4 +1,6 @@
 import argparse
+import datetime
+import calendar
 
 def readEDL(file_path):
     edl = {}
@@ -21,27 +23,51 @@ def writeEDL(file_path, edl):
             for ioc in iocs:
                 file.write(f'{ioc}\n')
 
-def add2EDL(edl_path, comment, ioc):
-    lines = readEDL(edl_path)
+def add2EDL(edl_path, comment_group, new_ioc):
+    edl = readEDL(edl_path)
     print("~ History:")
-    comment_to_remove = []
-    for key in lines:
-        value = lines[key]
-        if ioc in value:
-            value.remove(ioc)
-            print(f'[-] {ioc}')
-        if not value:
-            comment_to_remove.append(key)
-            print(f'[-] {key}')
-    for key in comment_to_remove:
-        del lines[key]
+    block = True
+    comments = list(edl.keys())
+    for group in comments:
+        ioc_group = edl[group]
+        if new_ioc in ioc_group:
+            if comment_group != group:
+                ioc_group.remove(new_ioc)
+                print(f'[-] {new_ioc}')
+            else:
+                block = False
+        if not ioc_group:
+            del edl[group]
+            print(f'[-] {group}')      
     
-    if comment not in lines:
-        lines[comment] = []
-        print(f'[+] {comment}')
-    lines[comment].append(ioc)
-    print(f'[+] {ioc}')
-    writeEDL(edl_path, lines)
+    if comment_group not in edl:
+        edl[comment_group] = []
+        print(f'[+] {comment_group}')
+    
+    if block:
+        edl[comment_group].append(new_ioc)
+        print(f'[+] {new_ioc}')
+    writeEDL(edl_path, edl)
+
+def formatMonth():
+    today = datetime.datetime.now()
+    month = calendar.month_name[today.month]
+    year = today.year
+    month_pt = {
+        'January': 'janeiro',
+        'February': 'fevereiro',
+        'March': 'março',
+        'April': 'abril',
+        'May': 'maio',
+        'June': 'junho',
+        'July': 'julho',
+        'August': 'agosto',
+        'September': 'setembro',
+        'October': 'outubro',
+        'November': 'novembro',
+        'December': 'dezembro'
+    }
+    return f'#{month_pt[month]}/{year} - '
 
 def menu():
     parser = argparse.ArgumentParser(description='EDL Manager')
@@ -70,7 +96,8 @@ def menu():
     else:
         parser.error('At least one of the options -i, -d, -e, or -s must be provided along with -c')
     
-    return option, args.comment, data
+    comment = formatMonth() + args.comment
+    return option, comment, data
 
 def main():
     option, comment, data = menu()
