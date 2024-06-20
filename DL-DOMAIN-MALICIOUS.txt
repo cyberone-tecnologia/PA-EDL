@@ -278,6 +278,7 @@ b9y3b7ner2.xyz
 load.memoryloader.com
 scada.paradizeconstruction.com
 jswebcache.com
+*.memoryloader.com
 #junho/2024 - QakBot
 clickcurvelo.com
 #junho/2024 - Malware family ta569
