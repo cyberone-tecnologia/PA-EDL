@@ -235,6 +235,7 @@
 51.158.241.29
 185.242.226.38
 185.242.226.50
+185.242.226.39
 #junho/24 - Malware family Win.Dcrat
 77.222.57.185
 #junho/24 - Malware family Backdoor.Linux.Ba.Mirai
@@ -253,3 +254,5 @@
 87.251.67.40
 #junho/24 - Malware family Win.Socks5 Systemz
 185.141.63.9
+#junho/2024 - Malware family Unknown
+102.130.119.173
