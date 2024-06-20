@@ -88,6 +88,9 @@ def menu():
         'email': ('Insert a EMAIL (or press Enter to leave): ', 'DL-EMAIL-MALICIOUS.txt'),
         'hash': ('Insert a HASH (or press Enter to leave): ', 'DL-HASH-MALICIOUS.txt')
     }
+
+    if not any(getattr(args, arg) for arg in arg_map.keys()):
+        parser.error('One of the options -i, -d, -e, or -s must be provided along with -m or -c')
     
     for arg, (message, file_option) in arg_map.items():
         if getattr(args, arg):
@@ -98,8 +101,6 @@ def menu():
                 print(data)
             option = file_option
             break
-        else:
-            parser.error('One of the options -i, -d, -e, or -s must be provided along with -m or -c')
         
     if args.more:
         while True:
