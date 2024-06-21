@@ -285,6 +285,7 @@ clickcurvelo.com
 #junho/2024 - Malware family ta569
 funcallback.com
 searchgear.pro
+asyncfunctionapi.com
 #junho/2024 - Malware family Spam.Url
 *.ibcbh.com.br
 #junho/2024 - Malware family Balada Injector
