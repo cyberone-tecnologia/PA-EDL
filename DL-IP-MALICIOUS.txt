@@ -256,3 +256,5 @@
 185.141.63.9
 #junho/2024 - Malware family Unknown
 102.130.119.173
+#junho/2024 - Malware family Js.Fakeupdates
+45.66.248.122

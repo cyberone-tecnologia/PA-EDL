@@ -280,6 +280,7 @@ scada.paradizeconstruction.com
 jswebcache.com
 *.memoryloader.com
 ndas8m92.shop
+*.krazzykriss.com
 #junho/2024 - QakBot
 clickcurvelo.com
 #junho/2024 - Malware family ta569
