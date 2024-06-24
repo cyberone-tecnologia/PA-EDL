@@ -115,9 +115,6 @@
 36.212.109.208
 #marco/2024 - Trojan "Chavecloak"
 64.225.32.24
-#marco/2024 - Unknown Malware - 03/13/2024
-89.208.104.10
-89.39.107.226
 #marco/24 VTI: Unknown Malware 21/03
 89.208.104.10
 185.196.10.151
