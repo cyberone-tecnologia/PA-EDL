@@ -109,6 +109,122 @@ quantumservice.tarde
 serviUpdate.bio
 pararaios05fvd.ver
 pisosg8tr.xyz
+#marco/24  ENC: Credential Capture 22/03
+acccountsprivacy0fficeportal.alefkevin.com.br
+#marco/24 VTI: Unknown Malware 21/03
+zcr.ink
+gta5cheats.org
+ztm.ink
+tripadvisor.gift
+#marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 06/08
+aloha-assist.com 
+ncrsupport.com 
+ursketz.com
+connect-tripadvisor.com
+#marco/24 Rhadamanthys 25/03
+arnaudpairoto.com
+puttyconnect.info
+#marco/24
+valutekcardsolutions.com
+valuteccadrsolutions.com
+valuteccardsolutiions.com
+valuteccardoslutions.com
+valuteccardsoluitons.com
+valuteccards0lutions.com
+valuyeccardsolutions.com
+valutwccardsolutions.com
+valutecxardsolutions.com
+valuteccardsolutoons.com
+valutecacrdsolutions.com
+veluteccardsolutions.com
+valuteccardsoluions.com
+valuteccardsolutionss.com
+valuteccardsolutinos.com
+vaiuteccardsolutions.com
+valuteccardsolutoins.com
+valuteccardsollutions.com
+valuteccardsolutionns.com
+valuteccarrdsolutions.com
+valuteccardsolutiones.com
+#marco/24 [Cyberintel] 03-26-2024 - Darkgate Campaigns
+magazinewp.com
+monsterleadsbiz.com
+cnitedu.com
+deorion.com
+massachusettscomputerservices.com
+oklahomacityehs.com
+wassonite.com
+wpseed.com
+#marco/24 Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware 22/03
+sokingscrosshotel.com
+titnovacrion.top
+grunzalom.fun
+#marco/24 Suspicious Domains 27/03
+valateccardsolutions.com
+valuteccardsloutions.com
+valutevcardsolutions.com
+valuteccsrdsolutions.com
+valuteccardsolutins.com
+valuteccardslutions.com
+valuteccardsulutions.com
+#marco/24 Phishing Campaigns IoCs 27/03
+cnitedu.com
+wassonite.com
+wpseed.com
+smerconish.com
+serjobs.org
+mail.mailchimpapp.com
+mail.govos.com
+mannmortgage.com
+northnewjerseychamber.ccsend.com
+footprintssafaris.co.ug
+saltstrong.com
+visitmysmokies.com
+mail.bossbabe.com
+benworthcapital.com
+divinehealth.com
+linkrestaurantgroup.com
+shared1.ccsend.com
+drakepest.com
+blakely[@]mannmortgage.com
+mannmortgage.com
+triadfastenerlp.com
+exelmed.com
+three-ss.com
+mannmortgage.com
+puredry.com
+jamesltaylor.com
+icontactmail4.com
+mesaonline.org
+greenspans-law.com
+puredry.com
+jessaminechamber.org
+lawofficesres.com
+drakepest.com
+mannmortgage.com
+slochamber[@]slochamber.org
+writersLife.org
+drakepest.com
+cdoiqprogram.ccsend.com
+#marco/24 New Powertrash C2
+cdn30.space
+cdn25.space
+msq242424240000.online
+msq2323232300000.online
+mjs2222220000.online
+#marco/24 JsOutProx RAT Malware - 03/27/24
+suedxcapuertggando.ddns.net
+ywetxpgvydaopdopiu.ddns.net
+hgtikdnlipotpfgder.ddns.net
+kipluterndern.hopto.org
+foitkdndboptpddsup.ddns.net
+hudukpgdgfytpddswq.ddns.net
+#marco/24 Remcos RAT Malware Campaign - 29/03/2024
+uploaddeimagens.com.br/
+#marco/24 Open-Benefits Enrollment Credential Harvesting 
+hajvnoao.buzhantahvieh.com
+hidiugfvbnjh.ghazalehazhdarzadeh.com 
+ghazalehazhdarzadeh.com
 #abril/2024 - Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
 #abril/2024 - Malware family Unknown
