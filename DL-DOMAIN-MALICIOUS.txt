@@ -284,6 +284,7 @@ ndas8m92.shop
 *.krazzykriss.com
 #junho/2024 - QakBot
 clickcurvelo.com
+bandamazonas.com.br
 #junho/2024 - Malware family ta569
 funcallback.com
 searchgear.pro
