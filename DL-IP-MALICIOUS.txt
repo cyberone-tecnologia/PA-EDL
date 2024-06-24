@@ -115,9 +115,67 @@
 36.212.109.208
 #marco/2024 - Trojan "Chavecloak"
 64.225.32.24
-#marco/2024 - Unknown Malware - 03/13/2024
+#marco/24 VTI: Unknown Malware 21/03
 89.208.104.10
+185.196.10.151
+65.109.237.171
 89.39.107.226
+185.196.8.127
+77.91.97.131
+91.92.248.50
+185.193.125.96
+109.107.190.119
+185.196.11.3
+#marco/24 Attempted UDP Flood 22/03
+81.177.143.31
+199.188.206.21
+217.12.218.95
+83.97.20.176
+#marco/24 Rhadamanthys 25/03
+192.121.16.228
+#marco/24 [Cyberintel] 03-26-2024 - Darkgate Campaigns
+170.130.55.130
+#marco/24 Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware 22/03
+193.106.174.218
+104.21.95.46
+172.67.143.1
+#marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 25/03
+141.136.43.188
+64.94.85.50
+#marco/24 botnet TheMoon 
+188.92.79.116
+195.3.147.73
+185.165.190.171
+49.13.126.124
+45.11.59.209
+92.63.197.133
+159.69.126.211
+185.156.73.110
+188.92.79.115
+91.215.158.118
+185.246.128.181
+31.43.185.85
+45.143.201.87
+135.181.47.22
+65.108.96.201
+188.92.79.110
+104.200.72.120
+128.140.115.231
+188.92.72.129
+195.3.144.185
+#marco/24 Java RAT: RE:W2 AND 1095 Enclosed
+193.142.146.220
+#marco/24 JsOutProx RAT Malware - 03/27/24
+185.244.30.218
+#marco/24 Remcos RAT Malware Campaign - 29/03/2024
+107.172.31.178
+107.175.113.216
+#marco/24 Open-Benefits Enrollment Credential Harvesting 
+185.127.16.74
+185.147.162.130
+103.45.246.106
+#marco/24 SolarMarker (aka Jupyter) Malware - 03/22/24
+194.15.216.196
 #maio/2024 - Malware family mykings_miner
 103.106.250.162
 #maio/2024 - Malware family Win32/Agent.VJV
