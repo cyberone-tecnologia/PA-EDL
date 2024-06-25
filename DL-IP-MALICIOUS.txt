@@ -142,7 +142,7 @@
 #marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 25/03
 141.136.43.188
 64.94.85.50
-#marco/24 botnet TheMoon 
+#marco/24 botnet TheMoon
 188.92.79.116
 195.3.147.73
 185.165.190.171
@@ -170,7 +170,7 @@
 #marco/24 Remcos RAT Malware Campaign - 29/03/2024
 107.172.31.178
 107.175.113.216
-#marco/24 Open-Benefits Enrollment Credential Harvesting 
+#marco/24 Open-Benefits Enrollment Credential Harvesting
 185.127.16.74
 185.147.162.130
 103.45.246.106
@@ -315,5 +315,6 @@
 185.141.63.9
 #junho/2024 - Malware family Unknown
 102.130.119.173
+185.161.211.109
 #junho/2024 - Malware family Js.Fakeupdates
 45.66.248.122
