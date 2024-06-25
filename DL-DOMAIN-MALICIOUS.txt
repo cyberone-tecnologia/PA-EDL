@@ -117,8 +117,8 @@ gta5cheats.org
 ztm.ink
 tripadvisor.gift
 #marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 06/08
-aloha-assist.com 
-ncrsupport.com 
+aloha-assist.com
+ncrsupport.com
 ursketz.com
 connect-tripadvisor.com
 #marco/24 Rhadamanthys 25/03
@@ -221,9 +221,9 @@ foitkdndboptpddsup.ddns.net
 hudukpgdgfytpddswq.ddns.net
 #marco/24 Remcos RAT Malware Campaign - 29/03/2024
 uploaddeimagens.com.br/
-#marco/24 Open-Benefits Enrollment Credential Harvesting 
+#marco/24 Open-Benefits Enrollment Credential Harvesting
 hajvnoao.buzhantahvieh.com
-hidiugfvbnjh.ghazalehazhdarzadeh.com 
+hidiugfvbnjh.ghazalehazhdarzadeh.com
 ghazalehazhdarzadeh.com
 #abril/2024 - Malware family Backdoor.Win32.Tofsee.Generic
 shulugoo.net
@@ -461,3 +461,4 @@ sindeac.org.br
 agazetarm.com.br
 #junho/2024 - Phishing domain
 *.campus-centre.fr
+typebot.co
