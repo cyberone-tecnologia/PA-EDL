@@ -463,3 +463,5 @@ agazetarm.com.br
 typebot.co
 #junho/2024 - Malware family Adware.K.Lnkr
 hublosk.com
+#junho/2024 - Malware family Trojan.Mtb.Amb.Malscript.Js
+rlimpermeabilizacao.com
