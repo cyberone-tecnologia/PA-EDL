@@ -462,3 +462,5 @@ agazetarm.com.br
 #junho/2024 - Phishing domain
 *.campus-centre.fr
 typebot.co
+#junho/2024 - Malware family Adware.K.Lnkr
+hublosk.com
