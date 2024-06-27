@@ -470,3 +470,5 @@ rlimpermeabilizacao.com
 *.xmrpool.ru
 kr1s.ru
 *.4i7i.com
+#junho/2024 - Malware related
+polyfill.io
