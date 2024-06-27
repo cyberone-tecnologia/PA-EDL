@@ -178,8 +178,6 @@
 194.15.216.196
 #maio/2024 - Malware family mykings_miner
 103.106.250.162
-#maio/2024 - Malware family Win32/Agent.VJV
-107.148.94.106
 #maio/2024 - Malware family Unknown
 185.192.111.202
 #maio/2024 - Malware family PuP.Js
@@ -321,9 +319,14 @@
 #junho/2024 - Malware xmr mining related
 204.188.217.106
 137.175.19.23
-158.247.237.149
 107.173.57.217
 103.204.69.87
 88.119.171.161
 103.75.70.13
 103.207.69.87
+#junho/2024 - Malware family Win32/Agent.VJV
+107.148.94.106
+#junho/2024 - Malware family Trojan.Win32.Miner.Generic
+158.247.237.149
+#junho/2024 - Malware family Trojan.Downloader.Win32.V.Wannamine
+104.37.187.182
