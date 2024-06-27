@@ -461,6 +461,7 @@ agazetarm.com.br
 #junho/2024 - Phishing domain
 *.campus-centre.fr
 typebot.co
+*.check-tl-ver-116-3.com
 #junho/2024 - Malware family Adware.K.Lnkr
 hublosk.com
 #junho/2024 - Malware family Trojan.Mtb.Amb.Malscript.Js
