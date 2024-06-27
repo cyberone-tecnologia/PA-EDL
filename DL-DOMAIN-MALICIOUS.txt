@@ -465,3 +465,7 @@ typebot.co
 hublosk.com
 #junho/2024 - Malware family Trojan.Mtb.Amb.Malscript.Js
 rlimpermeabilizacao.com
+#junho/2024 - Malware xmr mining related
+*.xmrpool.ru
+kr1s.ru
+*.4i7i.com
