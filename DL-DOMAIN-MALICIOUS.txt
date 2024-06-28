@@ -385,6 +385,7 @@ s9l0w7n3y5.xyz
 espacoetica.com.br
 *.parqueitaim.com
 mdasidy72.lol
+jsincloud.com
 #junho/2024 - command-and-control
 *.oseuenvio.com
 #junho/2024 - Malware family 4c3eft.Malwthreat.Js
