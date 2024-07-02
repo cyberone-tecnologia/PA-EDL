@@ -474,3 +474,5 @@ kr1s.ru
 #junho/2024 - Malware related
 polyfill.io
 googie-anaiytics.com
+#julho/2024 - Malware related
+*.asense.in
