@@ -335,3 +335,5 @@
 185.242.226.38
 #julho/2024 - Malware family sinkhole_securityscorecard
 208.100.26.245
+#julho/2024 - Malware family generic_miner
+89.58.15.35
