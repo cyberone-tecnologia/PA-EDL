@@ -328,8 +328,6 @@
 158.247.237.149
 #junho/2024 - Malware family Trojan.Downloader.Win32.V.Wannamine
 104.37.187.182
-#julho/2024 - Suspicious Probe Events
-104.152.52.218
 #julho/2024 - Malware related
 185.242.226.38
 #julho/2024 - Malware family sinkhole_securityscorecard
@@ -338,3 +336,5 @@
 89.58.15.35
 #julho/2024 - Remote Suspicious Probe Events
 90.151.171.109
+43.135.159.111
+104.152.52.218
