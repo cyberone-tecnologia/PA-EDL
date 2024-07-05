@@ -482,3 +482,7 @@ leah.bet
 bol.bet
 #julho/2024 - Malware family sload
 doggygangers.com
+#julho/2024 - Unknown Malware Campaign
+acessdocumentos.autos
+*.notasdigitalmax.com
+*.vultrobjects.com
