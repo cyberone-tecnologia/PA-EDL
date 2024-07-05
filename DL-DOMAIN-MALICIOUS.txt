@@ -480,3 +480,5 @@ googie-anaiytics.com
 *.cncapp1.bet
 leah.bet
 bol.bet
+#julho/2024 - Malware family sload
+doggygangers.com
