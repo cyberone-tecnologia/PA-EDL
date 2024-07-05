@@ -476,3 +476,7 @@ polyfill.io
 googie-anaiytics.com
 #julho/2024 - Malware related
 *.asense.in
+#julho/2024 - Phishing domain
+*.cncapp1.bet
+leah.bet
+bol.bet
