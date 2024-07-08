@@ -487,3 +487,9 @@ acessdocumentos.autos
 *.notasdigitalmax.com
 *.vultrobjects.com
 documentos-suporteacess.autos
+#julho/2024 - QakBot
+masrybs.com
+#julho/2024 - Malware family Trojan.Win32.B.Bitrep
+all4phones.de
+#julho/2024 - Malware family Win32.Tr.Sk.Genericrxgu
+*.uokit.com
