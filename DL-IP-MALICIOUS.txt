@@ -311,7 +311,6 @@
 185.141.63.9
 #junho/2024 - Malware family Unknown
 102.130.119.173
-185.161.211.109
 #junho/2024 - Malware family Js.Fakeupdates
 45.66.248.122
 #junho/2024 - Malware xmr mining related
@@ -338,3 +337,5 @@
 90.151.171.109
 43.135.159.111
 104.152.52.218
+#julho/2024 - Malware family Unknown
+185.161.211.109
