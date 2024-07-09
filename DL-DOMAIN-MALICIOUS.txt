@@ -493,3 +493,5 @@ masrybs.com
 all4phones.de
 #julho/2024 - Malware family Win32.Tr.Sk.Genericrxgu
 *.uokit.com
+#julho/2024 - Malware family Trojan.Win32.J.Bitcoinminer
+www.baixesoft.com
