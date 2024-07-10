@@ -495,3 +495,5 @@ all4phones.de
 www.baixesoft.com
 #julho/2024 - Malware family Agent.Mrro.Js.Malware
 impconcursos.com.br
+#julho/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
+www.hidoctor.com.br
