@@ -497,3 +497,5 @@ www.baixesoft.com
 impconcursos.com.br
 #julho/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
 www.hidoctor.com.br
+#julho/2024 - Malware family 397.Jaik.Variant.Generic
+www.tradergrafico.com.br
