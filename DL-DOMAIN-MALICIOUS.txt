@@ -499,3 +499,7 @@ impconcursos.com.br
 www.hidoctor.com.br
 #julho/2024 - Malware family 397.Jaik.Variant.Generic
 www.tradergrafico.com.br
+#julho/2024 - Malware family Agent.Riskware.Badjoke
+www.scriptbrasil.com.br
+#julho/2024 - Malware family Trojan.Generickdz.Script
+aanqylta.com
