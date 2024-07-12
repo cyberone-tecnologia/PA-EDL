@@ -248,7 +248,6 @@ d1x9q8w2e4.xyz
 libidotechnexus.com
 absolutecache.com
 apicachebot.com
-www.rivabeachbari.com
 #maio/2024 - Phishing campaign (Web Shell)
 completehealth.net.br
 #maio/2024 - Phishing campaign
@@ -503,3 +502,5 @@ www.tradergrafico.com.br
 www.scriptbrasil.com.br
 #julho/2024 - Malware family Trojan.Generickdz.Script
 aanqylta.com
+#julho/2024 - Malware family SocGholish
+www.rivabeachbari.com
