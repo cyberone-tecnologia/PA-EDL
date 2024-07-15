@@ -504,3 +504,9 @@ www.scriptbrasil.com.br
 aanqylta.com
 #julho/2024 - Malware family SocGholish
 www.rivabeachbari.com
+#julho/2024 - Phishing campaign
+*.check-tl-ver-176-1.com
+#julho/2024 - Amadey
+downloaddining2.com
+#julho/2024 - Malware family Adware.G.Jsrevizer
+autroliner.com
