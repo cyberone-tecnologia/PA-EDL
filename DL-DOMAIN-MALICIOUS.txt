@@ -440,8 +440,6 @@ chambermaidthree.xyz/
 #junho/2024 - Trojan Android Banker
 chromee-update-it.com
 v1069-guncelleme-chrome.epizy.com
-#junho/2024 - Malware family JS/Agent.PHC
-conexaoaeroporto.com.br
 #junho/2024 - Malware family gootkit
 myoldcountryhouse.com
 #junho/2024 - Malware family Quakbot
@@ -514,3 +512,5 @@ downloaddining2.com
 autroliner.com
 #julho/2024 - Malware family Virut
 kbkpay.com
+#julho/2024 - Malware family JS/Agent.PHC
+conexaoaeroporto.com.br
