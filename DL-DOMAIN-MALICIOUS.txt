@@ -471,6 +471,7 @@ polyfill.io
 googie-anaiytics.com
 #julho/2024 - Malware related
 *.asense.in
+*.readytocheckline.com
 #julho/2024 - Phishing domain
 *.cncapp1.bet
 leah.bet
