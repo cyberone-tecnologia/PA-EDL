@@ -515,3 +515,5 @@ autroliner.com
 kbkpay.com
 #julho/2024 - Malware family JS/Agent.PHC
 conexaoaeroporto.com.br
+#julho/2024 - Malware family Quakbot
+laticiniosbomjardim.com.br
