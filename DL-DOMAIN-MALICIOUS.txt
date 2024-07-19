@@ -472,6 +472,7 @@ googie-anaiytics.com
 #julho/2024 - Malware related
 *.asense.in
 *.readytocheckline.com
+getrunkhomuto.info
 #julho/2024 - Phishing domain
 *.cncapp1.bet
 leah.bet
