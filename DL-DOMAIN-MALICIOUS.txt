@@ -510,6 +510,7 @@ www.rivabeachbari.com
 rastreioencomenda.sa.ngrok.io
 *.vdxru.com
 d8hxy.app.goo.gl
+fix-crowdstrike-apocalypse.com
 #julho/2024 - Amadey
 downloaddining2.com
 #julho/2024 - Malware family Adware.G.Jsrevizer
@@ -520,3 +521,5 @@ kbkpay.com
 conexaoaeroporto.com.br
 #julho/2024 - Malware family Quakbot
 laticiniosbomjardim.com.br
+#julho/2024 - Malware family Trojan.Ml.B.Wacatac.Script
+www.cbtarco.org.br
