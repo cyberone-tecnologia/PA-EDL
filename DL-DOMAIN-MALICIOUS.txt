@@ -531,3 +531,5 @@ trustisimportant.fun
 k-analytics.net
 #julho/2024 - Malware family Agent.Mphcm.Js.Malware
 deborahsilvermusic.com
+#julho/2024 - Malware family emotet
+ardos.com.br
