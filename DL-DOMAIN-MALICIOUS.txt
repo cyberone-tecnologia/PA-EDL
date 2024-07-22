@@ -529,3 +529,5 @@ www.cbtarco.org.br
 trustisimportant.fun
 #julho/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 k-analytics.net
+#julho/2024 - Malware family Agent.Mphcm.Js.Malware
+deborahsilvermusic.com
