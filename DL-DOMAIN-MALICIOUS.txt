@@ -473,11 +473,13 @@ googie-anaiytics.com
 *.asense.in
 *.readytocheckline.com
 getrunkhomuto.info
+downloaddining.com
 #julho/2024 - Phishing domain
 *.cncapp1.bet
 leah.bet
 bol.bet
 vzlx0.ru.com
+app.assessmentgenerator.com
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
@@ -525,3 +527,5 @@ laticiniosbomjardim.com.br
 www.cbtarco.org.br
 #julho/2024 - Malware family Trojan.Script.Miner.Generic
 trustisimportant.fun
+#julho/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
+k-analytics.net
