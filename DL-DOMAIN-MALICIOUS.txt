@@ -533,3 +533,5 @@ k-analytics.net
 deborahsilvermusic.com
 #julho/2024 - Malware family emotet
 ardos.com.br
+#julho/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
+grandeponto.com.br
