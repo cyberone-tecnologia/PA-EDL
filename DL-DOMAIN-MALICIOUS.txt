@@ -523,3 +523,5 @@ conexaoaeroporto.com.br
 laticiniosbomjardim.com.br
 #julho/2024 - Malware family Trojan.Ml.B.Wacatac.Script
 www.cbtarco.org.br
+#julho/2024 - Malware family Trojan.Script.Miner.Generic
+trustisimportant.fun
