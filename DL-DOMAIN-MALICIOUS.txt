@@ -480,6 +480,7 @@ leah.bet
 bol.bet
 vzlx0.ru.com
 app.assessmentgenerator.com
+*.cnc.bet
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
