@@ -481,6 +481,9 @@ bol.bet
 vzlx0.ru.com
 app.assessmentgenerator.com
 *.cnc.bet
+crowdstrikebsod.com
+fix-crowdstrike-apocalypse.com
+fix-crowdstrike-bsod.com
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
@@ -513,7 +516,6 @@ www.rivabeachbari.com
 rastreioencomenda.sa.ngrok.io
 *.vdxru.com
 d8hxy.app.goo.gl
-fix-crowdstrike-apocalypse.com
 #julho/2024 - Amadey
 downloaddining2.com
 #julho/2024 - Malware family Adware.G.Jsrevizer
