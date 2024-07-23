@@ -486,6 +486,7 @@ fix-crowdstrike-apocalypse.com
 fix-crowdstrike-bsod.com
 *.tvuhd4k-magazineluiza.com
 *.mail-redir.com
+oferta-magazine-luiza.com
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
