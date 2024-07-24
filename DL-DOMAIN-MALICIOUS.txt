@@ -541,3 +541,7 @@ deborahsilvermusic.com
 ardos.com.br
 #julho/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
+#julho/2024 - Malware family 161143.Strictor.Variant.Generic
+nokstv.ru
+#julho/2024 - Malware family Trojan.Script.Generic
+www.grupomlm.com
