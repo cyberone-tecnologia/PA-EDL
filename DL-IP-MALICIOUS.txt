@@ -354,3 +354,5 @@
 60.28.220.196
 #julho/2024 - Malware family Js.fakeupdates
 188.166.89.89
+#julho/2024 - Ip suspeito Singapura comunicação IRC
+8.222.192.217
