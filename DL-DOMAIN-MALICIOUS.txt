@@ -526,8 +526,6 @@ downloaddining2.com
 autroliner.com
 #julho/2024 - Malware family Virut
 kbkpay.com
-#julho/2024 - Malware family JS/Agent.PHC
-conexaoaeroporto.com.br
 #julho/2024 - Malware family Quakbot
 laticiniosbomjardim.com.br
 #julho/2024 - Malware family Trojan.Ml.B.Wacatac.Script
