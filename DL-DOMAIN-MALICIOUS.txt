@@ -474,6 +474,7 @@ googie-anaiytics.com
 *.readytocheckline.com
 getrunkhomuto.info
 downloaddining.com
+murmansk-news.net
 #julho/2024 - Phishing domain
 *.cncapp1.bet
 leah.bet
