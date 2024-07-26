@@ -225,18 +225,12 @@ uploaddeimagens.com.br/
 hajvnoao.buzhantahvieh.com
 hidiugfvbnjh.ghazalehazhdarzadeh.com
 ghazalehazhdarzadeh.com
-#abril/2024 - Malware family Backdoor.Win32.Tofsee.Generic
-shulugoo.net
 #abril/2024 - Malware family Unknown
 akademipraktik.com
 #maio/2024 - Phishing domain
-analytics-henrique.top
-tukofertas.com.br
 ipfs.eth.aragon.network
 #maio/2024 - Malware family mykings_miner
 *.pc0416.xyz
-#maio/2024 - Malware family Trojan.Fm2.amfpk0bi.Vp2.Generic
-ideia2001.com.br
 #maio/2024 - Malware family Unknown
 teachabletutorials.com
 d1x9q8w2e4.xyz
@@ -246,8 +240,6 @@ d1x9q8w2e4.xyz
 *.onceokuloncesi.com
 #maio/2024 - Malware family SocGholish
 libidotechnexus.com
-absolutecache.com
-apicachebot.com
 #maio/2024 - Phishing campaign (Web Shell)
 completehealth.net.br
 #maio/2024 - Phishing campaign
@@ -301,8 +293,6 @@ web3-connectha.gq
 *.pvamz.net
 #maio/2024 - Malware Heodo
 www.llev.com.br
-#maio/2024 - Phishing redirect domain
-upsups.click
 #maio/2024 - Malware family Gen2.Pdf.Malicious.Html.Malware
 uncme.org.br
 curtadoc.tv
@@ -328,8 +318,6 @@ karacacomunicacao.com.br
 tesouraria-me.com
 #maio/2024 - Malware family Vbgrc.Talu.Kab.Phish.Phishing
 static.s123-cdn.com
-#maio/2024 - Malware family Trojan.JS.Agent.eqq
-maissoja.com.br
 #maio/2024 - Malware family Cmsbrute
 le-herisson.info
 #maio/2024 - Mshta executes JavaScript Scheme Fetch Remote Payload With GetObject
@@ -377,8 +365,6 @@ minastandes.com.br
 marketingmilionarioon.com
 #maio/2024 - Malware family Quakbot
 linkfone.com.br
-#maio/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
-aluminioepvcbh.com.br
 #junho/2024 - Malware family Unknown
 s9l0w7n3y5.xyz
 espacoetica.com.br
@@ -404,7 +390,6 @@ bandamazonas.com.br
 #junho/2024 - Malware family ta569
 funcallback.com
 searchgear.pro
-asyncfunctionapi.com
 #junho/2024 - Malware family Spam.Url
 *.ibcbh.com.br
 #junho/2024 - Malware family Balada Injector
@@ -479,8 +464,6 @@ murmansk-news.net
 *.cncapp1.bet
 leah.bet
 bol.bet
-vzlx0.ru.com
-app.assessmentgenerator.com
 *.cnc.bet
 crowdstrikebsod.com
 fix-crowdstrike-apocalypse.com
@@ -547,7 +530,9 @@ grandeponto.com.br
 nokstv.ru
 #julho/2024 - Malware family Trojan.Script.Generic
 www.grupomlm.com
-#julho/2024 IOCs Importados PA, identificação analise legada
+#julho/2024 - Adversary Contact
+19jt0pakbh19.icu
+#julho/2024 - IOCs Importados PA, identificação analise legada
 100security.com.br
 1717.1000uc.com
 absolutecache.com
@@ -689,15 +674,12 @@ a-diariooficial.com.br
 alucomposto.com.br
 animaatjes.de
 concretosflorense.com.br
-ebs.com.br
 elianepotiguara.org.br
 extinfran.com.br
 gpaci.org.br
 grupoaruanda.com.br
-grupomlm.com
 hidoctor.com.br
 influenciadormagalu.com.br
-jornaloflorense.com.br
 koloro.com.br
 licijur.com.br
 llconsult.com.br
@@ -715,5 +697,3 @@ ytbet288.com
 ytube2dl.com
 zarrue.com
 cdlto.com.br
-#julho/2024 - Adversary Contact
-19jt0pakbh19.icu
