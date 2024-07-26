@@ -490,6 +490,7 @@ fix-crowdstrike-bsod.com
 oferta-magazine-luiza.com
 *.pontos.co.ua
 clinicanat.com.br
+officialpaper.com.br
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
