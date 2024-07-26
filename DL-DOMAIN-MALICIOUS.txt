@@ -488,6 +488,7 @@ fix-crowdstrike-bsod.com
 *.tvuhd4k-magazineluiza.com
 *.mail-redir.com
 oferta-magazine-luiza.com
+*.pontos.co.ua
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
