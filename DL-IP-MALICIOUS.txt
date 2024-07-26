@@ -176,14 +176,8 @@
 103.45.246.106
 #marco/24 SolarMarker (aka Jupyter) Malware - 03/22/24
 194.15.216.196
-#maio/2024 - Malware family mykings_miner
-103.106.250.162
-#maio/2024 - Malware family Unknown
-185.192.111.202
 #maio/2024 - Malware family PuP.Js
 193.163.7.113
-#maio/2024 - Malware family Trojan.Win32.Cl.B.Fuery
-103.130.216.98
 #maio/2024 - Malware family Win.Dcrat
 5.23.50.56
 #maio/2024 - Brute Force Login Attempt
@@ -321,8 +315,6 @@
 88.119.171.161
 103.75.70.13
 103.207.69.87
-#junho/2024 - Malware family Win32/Agent.VJV
-107.148.94.106
 #junho/2024 - Malware family Trojan.Win32.Miner.Generic
 158.247.237.149
 #junho/2024 - Malware family Trojan.Downloader.Win32.V.Wannamine
@@ -358,7 +350,7 @@
 8.222.192.217
 #julho/2024 - Internal Host Communication with Malware Host
 45.140.19.240
-#julho/2024 IOCs Importados PA, identificação analise legada
+#julho/2024 - IOCs Importados PA, identificação analise legada
 103.106.250.162
 103.130.216.98
 103.200.23.247
