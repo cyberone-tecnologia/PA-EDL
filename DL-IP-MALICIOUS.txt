@@ -339,6 +339,7 @@
 104.152.52.105
 #julho/2024 - Malware family Unknown
 185.161.211.109
+8.222.251.253
 #julho/2024 - Malware family cobaltstrike
 211.152.136.71
 #julho/2024 - Malware family systembc
