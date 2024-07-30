@@ -702,3 +702,5 @@ cdlto.com.br
 *.orastreio.online
 *.minhasencomendas.store
 liberarentrega.online
+#julho/2024 - Malware family JS/Agent.PXU
+*.greengoplatform.com
