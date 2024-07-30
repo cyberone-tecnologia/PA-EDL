@@ -701,3 +701,4 @@ cdlto.com.br
 #julho/2024 - Phishing Campaign
 *.orastreio.online
 *.minhasencomendas.store
+liberarentrega.online
