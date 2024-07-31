@@ -437,3 +437,5 @@
 194.32.122.17
 #julho/2024 - Malware family redline
 109.105.109.162
+#julho/2024 - Malware family kronos
+185.220.101.148

@@ -710,3 +710,5 @@ liberarentrega.online
 *.greengoplatform.com
 #julho/2024 - Malware family Trojan.Ml.B.Phonzy.Script
 *.specialcraftbox.com
+#julho/2024 - Malware family TrojanDownloader:JS/FakejQuery.AR!MTB
+www.deniswarren.com
