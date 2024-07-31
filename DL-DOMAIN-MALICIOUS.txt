@@ -708,3 +708,5 @@ cdlto.com.br
 liberarentrega.online
 #julho/2024 - Malware family JS/Agent.PXU
 *.greengoplatform.com
+#julho/2024 - Malware family Trojan.Ml.B.Phonzy.Script
+*.specialcraftbox.com
