@@ -714,3 +714,5 @@ liberarentrega.online
 www.deniswarren.com
 #agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
 www.mybrowserbar.com
+#agosto/2024 - Malware family Unknown
+ndm2398asdlw.shop
