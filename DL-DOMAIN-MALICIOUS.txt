@@ -712,3 +712,5 @@ liberarentrega.online
 *.specialcraftbox.com
 #julho/2024 - Malware family TrojanDownloader:JS/FakejQuery.AR!MTB
 www.deniswarren.com
+#agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
+www.mybrowserbar.com
