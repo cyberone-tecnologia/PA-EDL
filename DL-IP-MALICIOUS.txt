@@ -326,7 +326,6 @@
 #julho/2024 - Malware family generic_miner
 89.58.15.35
 #julho/2024 - Remote Suspicious Probe Events
-90.151.171.109
 43.135.159.111
 104.152.52.218
 50.116.58.112
@@ -442,5 +441,8 @@
 144.76.201.253
 #agosto/2024 - Suspicious Probe Events
 104.152.52.226
+90.151.171.109
 #agosto/2024 - Malware family Agentemis
 123.123.123.123
+#agosto/2024 - Malware family Win.Amadey
+91.189.114.25
