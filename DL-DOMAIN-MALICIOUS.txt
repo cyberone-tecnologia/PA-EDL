@@ -724,3 +724,5 @@ preventivacreditos.com.br
 circuitoguimaraesrosa.com.br
 #agosto/2024 - Malware family HEUR:AdWare.Win32.Alien.gen
 *.tebi.io
+#agosto/2024 - Malware family Riskware.Hvtd.Scream.Swf
+orkutudo.com
