@@ -446,3 +446,5 @@
 123.123.123.123
 #agosto/2024 - Malware family Win.Amadey
 91.189.114.25
+#agosto/2024 - Portscan
+104.152.52.122
