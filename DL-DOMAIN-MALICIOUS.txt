@@ -726,3 +726,5 @@ circuitoguimaraesrosa.com.br
 *.tebi.io
 #agosto/2024 - Malware family Riskware.Hvtd.Scream.Swf
 orkutudo.com
+#agosto/2024 - Malware family Win32/Freemake.C
+*.freemake.net
