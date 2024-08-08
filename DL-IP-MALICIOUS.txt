@@ -448,3 +448,5 @@
 91.189.114.25
 #agosto/2024 - Portscan
 104.152.52.122
+#agosto/2024 - Malware family Win.Dcrat
+188.225.40.140
