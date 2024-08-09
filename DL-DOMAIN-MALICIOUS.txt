@@ -732,3 +732,7 @@ freemake.net
 monitor-ua.com
 #agosto/2024 - 
 astrakhan-news.net
+#agosto/2024 - Malicious domain
+*.marketingvici.com
+#agosto/2024 - Malware related
+stavropol-news.net
