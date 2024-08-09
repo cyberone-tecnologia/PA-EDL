@@ -727,6 +727,8 @@ circuitoguimaraesrosa.com.br
 #agosto/2024 - Malware family Riskware.Hvtd.Scream.Swf
 orkutudo.com
 #agosto/2024 - Malware family Win32/Freemake.C
-*.freemake.net
+freemake.net
 #agosto/2024 - Malware family apt_unc788
-*.monitor-ua.com
+monitor-ua.com
+#agosto/2024 - 
+astrakhan-news.net
