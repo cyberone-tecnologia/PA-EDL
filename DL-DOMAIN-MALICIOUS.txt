@@ -728,3 +728,5 @@ circuitoguimaraesrosa.com.br
 orkutudo.com
 #agosto/2024 - Malware family Win32/Freemake.C
 *.freemake.net
+#agosto/2024 - Malware family apt_unc788
+*.monitor-ua.com
