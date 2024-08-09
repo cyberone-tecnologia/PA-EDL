@@ -736,3 +736,5 @@ astrakhan-news.net
 *.marketingvici.com
 #agosto/2024 - Malware related
 stavropol-news.net
+#agosto/2024 - Malware family android_ermac
+offers25942.xyz

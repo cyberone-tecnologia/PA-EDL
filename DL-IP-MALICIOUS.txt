@@ -450,3 +450,5 @@
 104.152.52.122
 #agosto/2024 - Malware family Win.Dcrat
 188.225.40.140
+#agosto/2024 - Malware family android_ermac
+95.215.19.22
