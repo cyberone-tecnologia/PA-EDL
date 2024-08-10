@@ -457,7 +457,7 @@
 #agosto/2024 - Malware family Js.Fakeupdates
 168.119.164.111
 #agosto/2024 - IPs bruteforce servidor 172.16.5.200
-77.75.224.127
+177.75.224.127
 201.149.125.220
 187.103.173.34
 186.195.63.15
