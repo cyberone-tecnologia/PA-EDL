@@ -454,3 +454,5 @@
 95.215.19.22
 #agosto/2024 - Malware family njRAT
 18.228.115.60
+#agosto/2024 - Malware family Js.Fakeupdates
+168.119.164.111
