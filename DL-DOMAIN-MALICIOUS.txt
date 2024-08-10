@@ -740,3 +740,5 @@ stavropol-news.net
 offers25942.xyz
 #agosto/2024 - Malware family Trojan.Ml.A.Fl.Sabsik.Script
 flashlimp.com.br
+#agosto/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
+pedraferro.com
