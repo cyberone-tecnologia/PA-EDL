@@ -452,3 +452,5 @@
 188.225.40.140
 #agosto/2024 - Malware family android_ermac
 95.215.19.22
+#agosto/2024 - Malware family njRAT
+18.228.115.60
