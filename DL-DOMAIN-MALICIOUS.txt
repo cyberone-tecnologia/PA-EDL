@@ -742,3 +742,5 @@ offers25942.xyz
 flashlimp.com.br
 #agosto/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 pedraferro.com
+#agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
+intelectools.com.br
