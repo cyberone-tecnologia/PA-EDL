@@ -744,3 +744,5 @@ flashlimp.com.br
 pedraferro.com
 #agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
 intelectools.com.br
+#agosto/2024 - Malware family Unknown
+jswebcloud.com
