@@ -747,3 +747,5 @@ pedraferro.com
 intelectools.com.br
 #agosto/2024 - Malware family Unknown
 jswebcloud.com
+#agosto/2024 - Malware family Win32.Remoteadmin.C.Winvnc.Based
+www.chg.com.br
