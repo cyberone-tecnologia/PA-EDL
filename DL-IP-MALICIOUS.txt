@@ -467,3 +467,5 @@
 177.75.237.207
 #agosto/2024 - Malware family Unknown
 206.206.123.249
+#agosto/2024 - Malware family Trojan.Script.Miner.Generic
+202.61.204.169
