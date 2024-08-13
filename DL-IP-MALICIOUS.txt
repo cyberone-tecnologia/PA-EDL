@@ -469,3 +469,5 @@
 206.206.123.249
 #agosto/2024 - Malware family Trojan.Script.Miner.Generic
 202.61.204.169
+#agosto/2024 - IOC scan report ofense 3060
+104.152.52.211
