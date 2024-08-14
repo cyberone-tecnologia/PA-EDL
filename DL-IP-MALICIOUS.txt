@@ -473,3 +473,5 @@
 104.152.52.211
 #agosto/2024 - Phishing domain
 43.133.220.81
+#agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
+91.195.240.12
