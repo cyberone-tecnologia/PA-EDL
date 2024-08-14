@@ -751,3 +751,5 @@ jswebcloud.com
 www.chg.com.br
 #agosto/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
 *.hidoctor.com.br
+#agosto/2024 - Phishing Domain
+*.jiyz.cn
