@@ -471,3 +471,5 @@
 202.61.204.169
 #agosto/2024 - IOC scan report ofense 3060
 104.152.52.211
+#agosto/2024 - Phishing domain
+43.133.220.81
