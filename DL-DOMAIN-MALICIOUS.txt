@@ -753,3 +753,6 @@ www.chg.com.br
 *.hidoctor.com.br
 #agosto/2024 - Phishing Domain
 *.jiyz.cn
+*.maew.cn
+*.iyla.cn
+*.tpca.cn
