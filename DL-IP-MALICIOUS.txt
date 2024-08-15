@@ -477,3 +477,5 @@
 91.195.240.12
 #agosto/2024 - Phishing IP
 108.167.132.224
+#agosto/2024 - Malware family autoit
+45.92.33.62

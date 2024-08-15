@@ -762,3 +762,8 @@ k-analytics.net
 *.extinfran.com.br
 #agosto/2024 - Phishing domain
 clinicalettieri.com.br
+#agosto/2024 - Phishing domain
+*.matchlovers.link
+clcr.me
+#agosto/2024 - Malware family Trojan.GenericFCA.Script.3335
+babyfesta.com.br
