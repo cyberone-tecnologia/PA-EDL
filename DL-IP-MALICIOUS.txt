@@ -467,3 +467,5 @@
 177.75.237.207
 #agosto/2024 - Malware family Unknown
 206.206.123.249
+#agosto/2024 - Phishing IP
+108.167.132.224
