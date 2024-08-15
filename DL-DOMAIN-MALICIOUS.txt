@@ -495,6 +495,7 @@ www.baixesoft.com
 impconcursos.com.br
 #julho/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
 www.hidoctor.com.br
+*.hidoctor.com.br
 #julho/2024 - Malware family 397.Jaik.Variant.Generic
 www.tradergrafico.com.br
 #julho/2024 - Malware family Agent.Riskware.Badjoke
@@ -750,5 +751,14 @@ jswebcloud.com
 www.chg.com.br
 #agosto/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
 *.hidoctor.com.br
+#agosto/2024 - Phishing Domain
+*.jiyz.cn
+*.maew.cn
+*.iyla.cn
+*.tpca.cn
+#agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
+k-analytics.net
+#agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
+*.extinfran.com.br
 #agosto/2024 - Phishing domain
 clinicalettieri.com.br

@@ -467,5 +467,13 @@
 177.75.237.207
 #agosto/2024 - Malware family Unknown
 206.206.123.249
+#agosto/2024 - Malware family Trojan.Script.Miner.Generic
+202.61.204.169
+#agosto/2024 - IOC scan report ofense 3060
+104.152.52.211
+#agosto/2024 - Phishing domain
+43.133.220.81
+#agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
+91.195.240.12
 #agosto/2024 - Phishing IP
 108.167.132.224
