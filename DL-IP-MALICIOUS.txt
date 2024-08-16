@@ -483,3 +483,5 @@
 185.10.58.180
 #agosto/2024 - Botnet CandC ofense 3144
 66.225.225.225
+#agosto/2024 Network Scan - ofense 3140
+177.36.136.220
