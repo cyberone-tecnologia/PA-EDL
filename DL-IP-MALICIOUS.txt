@@ -481,3 +481,5 @@
 45.92.33.62
 #agosto/2024 - Malware family Unknown
 185.10.58.180
+#agosto/2024 - Botnet CandC ofense 3144
+66.225.225.225
