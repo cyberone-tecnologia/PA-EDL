@@ -487,3 +487,5 @@
 177.36.136.220
 #agosto/2024 Malware family Trojan.GenericFCA.Script.3335
 31.170.163.176
+#agosto/2024 Network Scan - ofense 3122
+34.86.13.18 
