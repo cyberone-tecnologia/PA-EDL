@@ -760,3 +760,5 @@ www.chg.com.br
 k-analytics.net
 #agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
 *.extinfran.com.br
+#agosto/2024 - Phishing Domain
+hardbin.com
