@@ -774,3 +774,5 @@ hardbin.com
 #agosto/2024 - Malware family Trojan.Genericgba.Java
 phoneky.co.uk
 phoneky.com
+#agosto/2024 - Malware family gootkit
+tororomba.com.br
