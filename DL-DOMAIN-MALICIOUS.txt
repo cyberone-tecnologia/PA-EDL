@@ -769,3 +769,8 @@ clcr.me
 babyfesta.com.br
 #agosto/2024 - Phishing Domain
 hardbin.com
+#agosto/2024 - Load Malicious Script
+*.novissajoias.com.br
+#agosto/2024 - Malware family Trojan.Genericgba.Java
+phoneky.co.uk
+phoneky.com
