@@ -778,3 +778,5 @@ phoneky.com
 tororomba.com.br
 #agosto/2024 - Malware family Unknown
 peskpdfgif.shop
+#agosto/2024 - Malware family Agent.Mrro.Js.Malware 
+agereti.com.br
