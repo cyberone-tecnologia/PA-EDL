@@ -497,3 +497,7 @@
 101.0.0.222
 #agosto/2024 - Malware family vidar
 65.109.168.175
+#agosto/2024 - Malware family emotet
+45.79.173.200
+#agosto/2024 - CobaltStrike
+36.102.212.117
