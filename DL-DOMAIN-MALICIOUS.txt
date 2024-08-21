@@ -780,3 +780,5 @@ tororomba.com.br
 peskpdfgif.shop
 #agosto/2024 - Malware family Agent.Mrro.Js.Malware 
 agereti.com.br
+#agosto/2024 - CobaltStrike
+*.init.cedexis-radar.net
