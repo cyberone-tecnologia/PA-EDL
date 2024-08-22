@@ -788,3 +788,5 @@ static6-jquery.com
 cdix.com.br
 #agosto/2024 - Phishing Domain
 olink.ai
+#agosto/2024 - Malware family Trojan.Win32.Msr.Phish
+*.cryptednews.space
