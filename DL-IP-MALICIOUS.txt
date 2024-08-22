@@ -501,5 +501,7 @@
 45.79.173.200
 #agosto/2024 - CobaltStrike
 36.102.212.117
-#agosto/2024 - CobaltStrike
 122.228.223.248
+111.170.24.248
+#agosto/2024 - Malware family rhadamanthys
+142.11.215.202

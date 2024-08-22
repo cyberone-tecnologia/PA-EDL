@@ -782,3 +782,9 @@ peskpdfgif.shop
 agereti.com.br
 #agosto/2024 - CobaltStrike
 *.init.cedexis-radar.net
+#agosto/2024 - Malware family 5d0c72d3.S.Phishing.Html.Generic
+static6-jquery.com
+#agosto/2024 - Malware family Win.Astaroth
+cdix.com.br
+#agosto/2024 - Phishing Domain
+olink.ai
