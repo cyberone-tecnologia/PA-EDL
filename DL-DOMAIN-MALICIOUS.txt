@@ -794,3 +794,5 @@ olink.ai
 qrcc.me
 #agosto/2024 - Malware family Win.Astaroth
 elevacultural.com
+#agosto/2024 - Malware family Trojan.Agent.Vqkox.Dldr.Tr
+greentechreviews.ru
