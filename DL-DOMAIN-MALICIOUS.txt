@@ -790,3 +790,5 @@ cdix.com.br
 olink.ai
 #agosto/2024 - Malware family Trojan.Win32.Msr.Phish
 *.cryptednews.space
+#agosto/2024 - Phishing Domain
+qrcc.me
