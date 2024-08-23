@@ -792,3 +792,5 @@ olink.ai
 *.cryptednews.space
 #agosto/2024 - Phishing Domain
 qrcc.me
+#agosto/2024 - Malware family Win.Astaroth
+elevacultural.com
