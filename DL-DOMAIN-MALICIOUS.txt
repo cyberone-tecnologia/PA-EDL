@@ -796,3 +796,10 @@ qrcc.me
 elevacultural.com
 #agosto/2024 - Malware family Trojan.Agent.Vqkox.Dldr.Tr
 greentechreviews.ru
+#agosto/2024 - Malware family Unknown
+nitroscripts.com
+*.getnitropack.com
+*.hotjar.com
+*.hotjar.io
+*.nitrocdn.com
+webness.com.br
