@@ -807,3 +807,5 @@ webness.com.br
 ajsdiaolke.shop
 #agosto/2024 - Malware family Unknown
 cache.cloudswiftcdn.com
+#agosto/2024 - Malware family Win32.ml.a.uwasson.program
+gamebase.app
