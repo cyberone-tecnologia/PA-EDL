@@ -803,3 +803,7 @@ nitroscripts.com
 *.hotjar.io
 *.nitrocdn.com
 webness.com.br
+#agosto/2024 - Malware family Unknown
+ajsdiaolke.shop
+#agosto/2024 - Malware family Unknown
+cache.cloudswiftcdn.com

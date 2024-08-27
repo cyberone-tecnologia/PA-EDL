@@ -505,3 +505,5 @@
 111.170.24.248
 #agosto/2024 - Malware family rhadamanthys
 142.11.215.202
+#agosto/2024 - Malware family Unknown
+101.99.75.138
