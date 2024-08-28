@@ -510,3 +510,13 @@
 #agosto/2024 - Malware family ek_clearfake
 104.21.14.60
 172.67.158.27
+#agosto/2024 - Probe india ofensa 3267
+167.71.234.130
+#agosto/2024 - Probe US ofensa 3260
+185.81.30.50
+#agosto/2024 - Probe NL Ofensa 3268
+194.50.16.7
+#agosto/2024 - Probe RU ofensa 3274
+90.151.171.106
+#agosto/2024 - Probe IN ofensa 3267
+167.71.234.130
