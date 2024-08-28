@@ -811,3 +811,9 @@ cache.cloudswiftcdn.com
 gamebase.app
 #agosto/2024 - Malware family Trojan.ee8a467a.ge
 tecnologyc.com
+#agosto/2024 - Malware family Unknown
+semanariolaprensa.com
+#agosto/2024 - Malware family Unknown
+semanariolaprensa.com
+#agosto/2024 - Malware related
+galactic-worship.com
