@@ -809,3 +809,5 @@ ajsdiaolke.shop
 cache.cloudswiftcdn.com
 #agosto/2024 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
+#agosto/2024 - Malware family Trojan.ee8a467a.ge
+tecnologyc.com
