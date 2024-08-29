@@ -523,3 +523,5 @@
 #agosto/2024 - Wildfire Phishing ofensa 3267
 27.86.106.196
 27.86.106.68
+#agosto/2024 - Malware related
+172.240.108.68
