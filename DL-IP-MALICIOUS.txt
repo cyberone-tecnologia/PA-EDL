@@ -520,3 +520,6 @@
 90.151.171.106
 #agosto/2024 - Probe IN ofensa 3267
 167.71.234.130
+#agosto/2024 - Wildfire Phishing ofensa 3267
+27.86.106.196
+27.86.106.68
