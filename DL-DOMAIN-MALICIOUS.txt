@@ -717,12 +717,31 @@ www.deniswarren.com
 www.mybrowserbar.com
 #agosto/2024 - Malware family Unknown
 ndm2398asdlw.shop
+jswebcloud.com
+peskpdfgif.shop
+nitroscripts.com
+*.getnitropack.com
+*.hotjar.com
+*.hotjar.io
+*.nitrocdn.com
+webness.com.br
+ajsdiaolke.shop
+cache.cloudswiftcdn.com
+semanariolaprensa.com
+semanariolaprensa.com
 #agosto/2024 - Malware related
 msk-news.net
+stavropol-news.net
+galactic-worship.com
+scaredframe.com
 #agosto/2024 - Malware family Quakbot
 preventivacreditos.com.br
 #agosto/2024 - Phishing domain
 circuitoguimaraesrosa.com.br
+clinicalettieri.com.br
+*.matchlovers.link
+clcr.me
+lllovers.uk
 #agosto/2024 - Malware family HEUR:AdWare.Win32.Alien.gen
 *.tebi.io
 #agosto/2024 - Malware family Riskware.Hvtd.Scream.Swf
@@ -731,12 +750,10 @@ orkutudo.com
 freemake.net
 #agosto/2024 - Malware family apt_unc788
 monitor-ua.com
-#agosto/2024 - 
+#agosto/2024 -
 astrakhan-news.net
 #agosto/2024 - Malicious domain
 *.marketingvici.com
-#agosto/2024 - Malware related
-stavropol-news.net
 #agosto/2024 - Malware family android_ermac
 offers25942.xyz
 #agosto/2024 - Malware family Trojan.Ml.A.Fl.Sabsik.Script
@@ -745,8 +762,7 @@ flashlimp.com.br
 pedraferro.com
 #agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
 intelectools.com.br
-#agosto/2024 - Malware family Unknown
-jswebcloud.com
+*.extinfran.com.br
 #agosto/2024 - Malware family Win32.Remoteadmin.C.Winvnc.Based
 www.chg.com.br
 #agosto/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
@@ -756,19 +772,13 @@ www.chg.com.br
 *.maew.cn
 *.iyla.cn
 *.tpca.cn
+hardbin.com
+olink.ai
+qrcc.me
 #agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 k-analytics.net
-#agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
-*.extinfran.com.br
-#agosto/2024 - Phishing domain
-clinicalettieri.com.br
-#agosto/2024 - Phishing domain
-*.matchlovers.link
-clcr.me
 #agosto/2024 - Malware family Trojan.GenericFCA.Script.3335
 babyfesta.com.br
-#agosto/2024 - Phishing Domain
-hardbin.com
 #agosto/2024 - Load Malicious Script
 *.novissajoias.com.br
 #agosto/2024 - Malware family Trojan.Genericgba.Java
@@ -776,9 +786,7 @@ phoneky.co.uk
 phoneky.com
 #agosto/2024 - Malware family gootkit
 tororomba.com.br
-#agosto/2024 - Malware family Unknown
-peskpdfgif.shop
-#agosto/2024 - Malware family Agent.Mrro.Js.Malware 
+#agosto/2024 - Malware family Agent.Mrro.Js.Malware
 agereti.com.br
 #agosto/2024 - CobaltStrike
 *.init.cedexis-radar.net
@@ -786,38 +794,14 @@ agereti.com.br
 static6-jquery.com
 #agosto/2024 - Malware family Win.Astaroth
 cdix.com.br
-#agosto/2024 - Phishing Domain
-olink.ai
+elevacultural.com
 #agosto/2024 - Malware family Trojan.Win32.Msr.Phish
 *.cryptednews.space
-#agosto/2024 - Phishing Domain
-qrcc.me
-#agosto/2024 - Malware family Win.Astaroth
-elevacultural.com
 #agosto/2024 - Malware family Trojan.Agent.Vqkox.Dldr.Tr
 greentechreviews.ru
-#agosto/2024 - Malware family Unknown
-nitroscripts.com
-*.getnitropack.com
-*.hotjar.com
-*.hotjar.io
-*.nitrocdn.com
-webness.com.br
-#agosto/2024 - Malware family Unknown
-ajsdiaolke.shop
-#agosto/2024 - Malware family Unknown
-cache.cloudswiftcdn.com
 #agosto/2024 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
 #agosto/2024 - Malware family Trojan.ee8a467a.ge
 tecnologyc.com
-#agosto/2024 - Malware family Unknown
-semanariolaprensa.com
-#agosto/2024 - Malware family Unknown
-semanariolaprensa.com
-#agosto/2024 - Malware related
-galactic-worship.com
-#agosto/2024 - Malware related
-scaredframe.com
-#agosto/2024 - Phishing domain
-lllovers.uk
+#agosto/2024 - Malware family Agent.Mphcm.Js.Malware
+nds.id
