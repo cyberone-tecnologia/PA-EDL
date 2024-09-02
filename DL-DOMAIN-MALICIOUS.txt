@@ -807,3 +807,7 @@ tecnologyc.com
 nds.id
 #setembro/2024 - Malware family Generic.multi
 ari-mama.com
+#setembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
+four.startperfectsolutions.com
+#setembro/2024 - Malware family Unknown
+cdnjscloudforced.com
