@@ -805,3 +805,5 @@ gamebase.app
 tecnologyc.com
 #agosto/2024 - Malware family Agent.Mphcm.Js.Malware
 nds.id
+#setembro/2024 - Malware family Generic.multi
+ari-mama.com
