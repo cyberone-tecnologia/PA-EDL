@@ -391,7 +391,6 @@
 188.119.66.141
 189.1.174.60
 189.127.165.113
-191.252.110.75
 191.6.208.9
 192.169.82.86
 193.106.174.174
@@ -439,6 +438,9 @@
 185.220.101.148
 #agosto/2024 - Malware family Unknown
 144.76.201.253
+206.206.123.249
+185.10.58.180
+101.99.75.138
 #agosto/2024 - Suspicious Probe Events
 104.152.52.226
 90.151.171.109
@@ -463,10 +465,8 @@
 186.195.63.15
 177.75.225.190
 177.75.224.139
-177.75.233.114	
+177.75.233.114
 177.75.237.207
-#agosto/2024 - Malware family Unknown
-206.206.123.249
 #agosto/2024 - Malware family Trojan.Script.Miner.Generic
 202.61.204.169
 #agosto/2024 - IOC scan report ofense 3060
@@ -479,8 +479,6 @@
 108.167.132.224
 #agosto/2024 - Malware family autoit
 45.92.33.62
-#agosto/2024 - Malware family Unknown
-185.10.58.180
 #agosto/2024 - Botnet CandC ofense 3144
 66.225.225.225
 #agosto/2024 Network Scan - ofense 3140
@@ -488,7 +486,7 @@
 #agosto/2024 Malware family Trojan.GenericFCA.Script.3335
 31.170.163.176
 #agosto/2024 Network Scan - ofense 3122
-34.86.13.18 
+34.86.13.18
 #agosto/2024 - Malware family systembc
 204.13.164.118
 #agosto/2024 probe ru,us ofernsa 3155 3168
@@ -505,8 +503,6 @@
 111.170.24.248
 #agosto/2024 - Malware family rhadamanthys
 142.11.215.202
-#agosto/2024 - Malware family Unknown
-101.99.75.138
 #agosto/2024 - Malware family ek_clearfake
 104.21.14.60
 172.67.158.27
@@ -525,3 +521,5 @@
 27.86.106.68
 #agosto/2024 - Malware related
 172.240.108.68
+#setembro/2024 - Malware family solarsys
+191.252.110.75
