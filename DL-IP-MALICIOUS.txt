@@ -339,8 +339,6 @@
 185.161.211.109
 #julho/2024 - Malware family cobaltstrike
 211.152.136.71
-#julho/2024 - Malware family systembc
-193.23.244.244
 #julho/2024 - Malware family cobaltstrike-2
 60.28.220.196
 #julho/2024 - Malware family Js.fakeupdates
@@ -484,8 +482,6 @@
 31.170.163.176
 #agosto/2024 Network Scan - ofense 3122
 34.86.13.18
-#agosto/2024 - Malware family systembc
-204.13.164.118
 #agosto/2024 probe ru,us ofernsa 3155 3168
 90.151.171.106
 104.152.52.208
@@ -524,3 +520,10 @@
 8.222.251.253
 #setembro/2024 - Malware family sinkhole_securityscorecard
 208.100.26.245
+#setembro/2024 - Malware family systembc
+86.59.21.38
+154.35.175.225
+204.13.164.118
+193.23.244.244
+#setembro/2024 - Malware family zegost
+128.31.0.39
