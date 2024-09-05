@@ -321,8 +321,6 @@
 104.37.187.182
 #julho/2024 - Malware related
 185.242.226.38
-#julho/2024 - Malware family sinkhole_securityscorecard
-208.100.26.245
 #julho/2024 - Malware family generic_miner
 89.58.15.35
 #julho/2024 - Remote Suspicious Probe Events
@@ -339,7 +337,6 @@
 146.70.52.30
 #julho/2024 - Malware family Unknown
 185.161.211.109
-8.222.251.253
 #julho/2024 - Malware family cobaltstrike
 211.152.136.71
 #julho/2024 - Malware family systembc
@@ -523,3 +520,7 @@
 172.240.108.68
 #setembro/2024 - Malware family solarsys
 191.252.110.75
+#setembro/2024 - Malware family Unknown
+8.222.251.253
+#setembro/2024 - Malware family sinkhole_securityscorecard
+208.100.26.245
