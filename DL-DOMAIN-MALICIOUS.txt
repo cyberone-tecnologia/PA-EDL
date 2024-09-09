@@ -816,3 +816,5 @@ downloadsbeta.com
 downloadstep.com
 #setembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
 *.100security.com.br
+#setembro/2024 - Malware related
+*.stickloader.info

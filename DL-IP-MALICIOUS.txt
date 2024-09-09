@@ -527,3 +527,5 @@
 193.23.244.244
 #setembro/2024 - Malware family zegost
 128.31.0.39
+#setembro/2024 - Malware family tofsee
+81.31.201.152
