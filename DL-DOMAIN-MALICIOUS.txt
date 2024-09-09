@@ -461,7 +461,6 @@ getrunkhomuto.info
 downloaddining.com
 murmansk-news.net
 #julho/2024 - Phishing domain
-*.cncapp1.bet
 leah.bet
 bol.bet
 *.cnc.bet
@@ -818,3 +817,5 @@ downloadstep.com
 *.100security.com.br
 #setembro/2024 - Malware related
 *.stickloader.info
+#setembro/2024 - Phishing domain
+*.cncapp1.bet
