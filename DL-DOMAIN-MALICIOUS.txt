@@ -820,3 +820,5 @@ downloadstep.com
 *.stickloader.info
 #setembro/2024 - Phishing domain
 *.cncapp1.bet
+#setembro/2024 - Malware family Exploit.Bo.Swf
+www.gameswf.com
