@@ -824,3 +824,5 @@ downloadstep.com
 www.gameswf.com
 #setembro/2024 - Malware family Trojan.Mtb.Da.Cryxos.Js
 *.lojagrupoorganica.com.br
+#setembro/2024 - Malware family Win.Astaroth
+bocasanta.com.br
