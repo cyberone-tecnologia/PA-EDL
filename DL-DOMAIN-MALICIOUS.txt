@@ -818,6 +818,7 @@ downloadstep.com
 *.100security.com.br
 #setembro/2024 - Malware related
 *.stickloader.info
+vrpirates.wiki
 #setembro/2024 - Phishing domain
 *.cncapp1.bet
 #setembro/2024 - Malware family Exploit.Bo.Swf
