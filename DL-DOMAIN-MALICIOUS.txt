@@ -827,3 +827,21 @@ www.gameswf.com
 *.lojagrupoorganica.com.br
 #setembro/2024 - Malware family Win.Astaroth
 bocasanta.com.br
+#setembro/2024 - Malware family Trojan.Android
+ahd.lat
+allsdy999.org
+etr.lat
+gf79.org
+goodapps.top
+gov24.me
+gov24.top
+krgoodapp.top
+krgov24.top
+like1902.xyz
+make69.info
+messtube999.info
+mtube888.info
+mylove777.org
+oktube999.info
+top1114.online
+ytube888.info 
