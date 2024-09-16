@@ -529,3 +529,5 @@
 128.31.0.39
 #setembro/2024 - Malware family tofsee
 81.31.201.152
+#setembro/2024 - Malware family vidar
+5.75.159.217
