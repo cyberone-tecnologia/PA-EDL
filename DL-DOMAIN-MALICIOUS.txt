@@ -863,3 +863,5 @@ husuy.com
 liberacaorastreiocorreios.co.ua
 #setembro/2024 - Malware family Linux.Risktool.B.Bitcoinminer
 *.adfinis-on-exoscale.ch
+#setembro/2024 - Malware family Malicious.PDF.malware.generic
+daleph.com
