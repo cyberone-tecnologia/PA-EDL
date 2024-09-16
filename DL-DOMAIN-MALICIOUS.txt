@@ -858,3 +858,5 @@ husuy.com
 *.preventive.best
 *.fiscal.best
 *.nutritionalhealth.best
+#setembro/2024 - Phishing Campaign
+liberacaorastreiocorreios.co.ua
