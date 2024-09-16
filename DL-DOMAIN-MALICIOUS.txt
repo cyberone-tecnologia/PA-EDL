@@ -851,3 +851,10 @@ ytube888.info
 sousehushoa.net
 #setembro/2024 - husuy.com
 husuy.com
+#setembro/2024 - Spam related
+*.infant.best
+*.themental.best
+*.excellentinsurance.best
+*.preventive.best
+*.fiscal.best
+*.nutritionalhealth.best
