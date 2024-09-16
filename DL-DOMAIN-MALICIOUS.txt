@@ -861,3 +861,5 @@ husuy.com
 *.nutritionalhealth.best
 #setembro/2024 - Phishing Campaign
 liberacaorastreiocorreios.co.ua
+#setembro/2024 - Malware family Linux.Risktool.B.Bitcoinminer
+*.adfinis-on-exoscale.ch
