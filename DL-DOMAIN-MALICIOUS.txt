@@ -865,3 +865,5 @@ liberacaorastreiocorreios.co.ua
 *.adfinis-on-exoscale.ch
 #setembro/2024 - Malware family Malicious.PDF.malware.generic
 daleph.com
+#setembro/2024 - Malware family Suspicious.malware.generic
+ocs.pr.gov.br
