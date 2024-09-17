@@ -870,3 +870,6 @@ daleph.com
 ocs.pr.gov.br
 #setembro/2024 - Malware family [Coinminer]
 wrochaconsorcios.com.br
+#setembro/2024 - "Disposable email host"
+tempsky.com
+mytemp.email
