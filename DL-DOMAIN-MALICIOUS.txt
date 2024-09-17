@@ -868,3 +868,5 @@ liberacaorastreiocorreios.co.ua
 daleph.com
 #setembro/2024 - Malware family Suspicious.malware.generic
 ocs.pr.gov.br
+#setembro/2024 - Malware family [Coinminer]
+wrochaconsorcios.com.br
