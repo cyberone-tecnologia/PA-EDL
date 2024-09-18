@@ -879,3 +879,5 @@ www.grupomlm.com
 verytradesafeapp.com
 #setembro/2024 - "Malware family Phishing.PDF.a.gen"
 www.pmtech.com.br
+#setembro/2024 - Malware family Trojan.GenericKD.69478801
+card.as
