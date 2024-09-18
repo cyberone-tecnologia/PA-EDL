@@ -532,8 +532,6 @@ ardos.com.br
 grandeponto.com.br
 #julho/2024 - Malware family 161143.Strictor.Variant.Generic
 nokstv.ru
-#julho/2024 - Malware family Trojan.Script.Generic
-www.grupomlm.com
 #julho/2024 - Adversary Contact
 19jt0pakbh19.icu
 vekeltaizy.net
@@ -875,3 +873,5 @@ tempsky.com
 mytemp.email
 #setembro/2024 - "Malware family smokeloader"
 planilhasvba.com.br
+#setembro/2024 - "Malware family Trojan.script.generic"
+www.grupomlm.com
