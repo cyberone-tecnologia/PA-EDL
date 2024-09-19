@@ -772,8 +772,6 @@ olink.ai
 qrcc.me
 #agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 k-analytics.net
-#agosto/2024 - Malware family Trojan.GenericFCA.Script.3335
-babyfesta.com.br
 #agosto/2024 - Load Malicious Script
 *.novissajoias.com.br
 #agosto/2024 - Malware family Trojan.Genericgba.Java
@@ -881,3 +879,5 @@ www.pmtech.com.br
 card.as
 #setembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
 four.startperfectsolutions.com
+#setembro/2024 - "Malware family Trojan.genericfca.script.3335"
+babyfesta.com.br
