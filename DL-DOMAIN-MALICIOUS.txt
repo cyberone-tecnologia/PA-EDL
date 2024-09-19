@@ -769,7 +769,6 @@ www.chg.com.br
 *.tpca.cn
 hardbin.com
 olink.ai
-qrcc.me
 #agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 k-analytics.net
 #agosto/2024 - Load Malicious Script
@@ -881,3 +880,7 @@ card.as
 four.startperfectsolutions.com
 #setembro/2024 - "Malware family Trojan.genericfca.script.3335"
 babyfesta.com.br
+#setembro/2024 - "Malicious domain"
+claro-link.brsafe.com.br
+#setembro/2024 - "Phishing domain"
+qrcc.me
