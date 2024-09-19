@@ -802,8 +802,6 @@ tecnologyc.com
 nds.id
 #setembro/2024 - Malware family Generic.multi
 ari-mama.com
-#setembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
-four.startperfectsolutions.com
 #setembro/2024 - Malware family Unknown
 cdnjscloudforced.com
 dais7nsa.shop
@@ -881,3 +879,5 @@ verytradesafeapp.com
 www.pmtech.com.br
 #setembro/2024 - Malware family Trojan.GenericKD.69478801
 card.as
+#setembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
+four.startperfectsolutions.com
