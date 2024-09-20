@@ -802,7 +802,6 @@ ari-mama.com
 cdnjscloudforced.com
 dais7nsa.shop
 smolcatkgi.shop
-github-scanner.com
 #setembro/2024 - Phishing
 correiosliberarpedidos.co.ua
 #setembro/2024 - Malware family peaklight
@@ -890,3 +889,14 @@ blacksaltys.com
 apidevst.com
 #setembro/2024 - "Malware family Trojan.agent.hapanz.script"
 new2sportnews.com
+#setembro/2024 - Malware campaign github-scanner[.]com
+github-scanner.com
+eemmbryequo.shop
+keennylrwmqlw.shop
+licenseodqwmqn.shop
+tendencctywop.shop
+tesecuuweqo.shop
+relaxatinownio.shop
+reggwardssdqw.shop
+tryyudjasudqo.shop
+genedjestytw.shop
