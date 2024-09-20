@@ -541,3 +541,5 @@
 193.202.16.169
 #setembro/2024 - "Malware family sinkhole_paloalto"
 72.5.65.111
+#setembro/2024 - "Malware family SocGholish"
+89.169.172.9
