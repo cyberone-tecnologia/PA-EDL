@@ -611,7 +611,6 @@ manual.unilab.com.br
 mestredaobra.com
 minergate.com
 multitudewarfare.top
-new2sportnews.com
 newmd.com.br
 observatoriodeourofino.com.br
 odontocompany.site
@@ -803,6 +802,7 @@ ari-mama.com
 cdnjscloudforced.com
 dais7nsa.shop
 smolcatkgi.shop
+github-scanner.com
 #setembro/2024 - Phishing
 correiosliberarpedidos.co.ua
 #setembro/2024 - Malware family peaklight
@@ -888,3 +888,5 @@ qrcc.me
 blacksaltys.com
 #setembro/2024 - "Malware family ta569"
 apidevst.com
+#setembro/2024 - "Malware family Trojan.agent.hapanz.script"
+new2sportnews.com
