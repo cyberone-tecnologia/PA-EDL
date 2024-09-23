@@ -883,6 +883,7 @@ babyfesta.com.br
 claro-link.brsafe.com.br
 #setembro/2024 - "Phishing domain"
 qrcc.me
+liberacao-rastreamentocorreios.com.ua
 #setembro/2024 - "Malware family Unknown"
 blacksaltys.com
 #setembro/2024 - "Malware family ta569"
