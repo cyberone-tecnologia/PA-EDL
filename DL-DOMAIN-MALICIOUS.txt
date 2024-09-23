@@ -869,6 +869,7 @@ mytemp.email
 planilhasvba.com.br
 #setembro/2024 - "Malware family Trojan.script.generic"
 www.grupomlm.com
+blacktargstore.com.br
 #setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
 verytradesafeapp.com
 #setembro/2024 - "Malware family Phishing.PDF.a.gen"
