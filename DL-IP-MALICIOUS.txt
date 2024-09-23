@@ -543,7 +543,7 @@
 72.5.65.111
 #setembro/2024 - "Malware family SocGholish"
 89.169.172.9
-#setembro/2024 - Incidente cortex id-304 ppnuiykf.js
+#setembro/2024 - Worm related
 95.153.31.18
 117.20.41.87
 204.11.56.48
