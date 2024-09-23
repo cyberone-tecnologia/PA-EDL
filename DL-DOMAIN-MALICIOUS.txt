@@ -909,3 +909,5 @@ urchintelemetry.com
 consultaragora.com
 #setembro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
 hidoctor.com.br
+#setembro/2024 - "Malware family Trojan.ml.b.wacatac.script"
+abramed.org.br
