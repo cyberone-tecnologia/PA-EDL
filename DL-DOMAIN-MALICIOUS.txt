@@ -678,7 +678,6 @@ elianepotiguara.org.br
 extinfran.com.br
 gpaci.org.br
 grupoaruanda.com.br
-hidoctor.com.br
 influenciadormagalu.com.br
 koloro.com.br
 licijur.com.br
@@ -907,3 +906,5 @@ bellsyscdn.com
 urchintelemetry.com
 #setembro/2024 - "Malware family Trojan.genericfca.script.3334"
 consultaragora.com
+#setembro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
+hidoctor.com.br
