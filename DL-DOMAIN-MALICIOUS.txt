@@ -814,6 +814,8 @@ vrpirates.wiki
 #setembro/2024 - Phishing domain
 *.cncapp1.bet
 *.dash-cioudflare.com
+louisvidiam.com
+*.primeoffertonline.world
 #setembro/2024 - Malware family Exploit.Bo.Swf
 www.gameswf.com
 #setembro/2024 - Malware family Trojan.Mtb.Da.Cryxos.Js
