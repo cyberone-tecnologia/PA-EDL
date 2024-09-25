@@ -555,5 +555,3 @@
 66.206.13.2
 #setembro/2024 - "Malware family rhadamanthys"
 87.251.67.40
-#setembro/2024 - "Phishing domain"
-52.72.49.79

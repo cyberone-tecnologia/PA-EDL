@@ -811,6 +811,8 @@ downloadstep.com
 #setembro/2024 - Malware related
 *.stickloader.info
 vrpirates.wiki
+meucredicard.com
+intermiamicf.co
 #setembro/2024 - Phishing domain
 *.cncapp1.bet
 *.dash-cioudflare.com
