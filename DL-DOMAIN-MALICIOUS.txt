@@ -818,6 +818,8 @@ intermiamicf.co
 *.dash-cioudflare.com
 louisvidiam.com
 *.primeoffertonline.world
+starlinkprimeviva.com
+mainetti.eng.br
 #setembro/2024 - Malware family Exploit.Bo.Swf
 www.gameswf.com
 #setembro/2024 - Malware family Trojan.Mtb.Da.Cryxos.Js
