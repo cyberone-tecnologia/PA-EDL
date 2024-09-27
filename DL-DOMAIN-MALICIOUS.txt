@@ -737,8 +737,6 @@ clcr.me
 lllovers.uk
 #agosto/2024 - Malware family HEUR:AdWare.Win32.Alien.gen
 *.tebi.io
-#agosto/2024 - Malware family Riskware.Hvtd.Scream.Swf
-orkutudo.com
 #agosto/2024 - Malware family Win32/Freemake.C
 freemake.net
 #agosto/2024 - Malware family apt_unc788
@@ -918,3 +916,5 @@ hidoctor.com.br
 abramed.org.br
 #setembro/2024 - "Malware family Win.Astaroth"
 hipershow.com.br
+#setembro/2024 - "Malware family Riskware.hvtd.scream.SWF"
+orkutudo.com

@@ -528,8 +528,6 @@
 81.31.201.152
 #setembro/2024 - Malware family vidar
 5.75.159.217
-#setembro/2024 - Malware family cobaltstrike-2
-5.161.85.189
 #setembro/2024 - Brute Force Attempt
 85.239.57.51
 167.253.48.104
@@ -558,3 +556,5 @@
 87.251.67.40
 #setembro/2024 - "Malware family Unknown"
 162.19.139.184
+#setembro/2024 - "Malware family cobaltstrike-2"
+5.161.85.189
