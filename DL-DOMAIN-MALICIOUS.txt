@@ -597,7 +597,6 @@ images.agptek.us
 interjoan.com
 isbncoverdb.com
 jiusnansss.com
-jornaloflorense.com.br
 jrltransportes.com.br
 kifortequimica.com.br
 kmrfibras.com.br
@@ -918,3 +917,7 @@ abramed.org.br
 hipershow.com.br
 #setembro/2024 - "Malware family Riskware.hvtd.scream.SWF"
 orkutudo.com
+#setembro/2024 - "Malware family Malware.Win32.generic"
+www.llconsult.com.br
+#setembro/2024 - "Malware family Malicious.PDF.malware"
+jornaloflorense.com.br
