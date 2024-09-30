@@ -517,13 +517,6 @@
 8.222.251.253
 #setembro/2024 - Malware family sinkhole_securityscorecard
 208.100.26.245
-#setembro/2024 - Malware family systembc
-86.59.21.38
-154.35.175.225
-204.13.164.118
-193.23.244.244
-#setembro/2024 - Malware family zegost
-128.31.0.39
 #setembro/2024 - Malware family tofsee
 81.31.201.152
 #setembro/2024 - Malware family vidar
@@ -558,3 +551,10 @@
 162.19.139.184
 #setembro/2024 - "Malware family cobaltstrike-2"
 5.161.85.189
+#setembro/2024 - "Malware family systembc"
+204.13.164.118
+86.59.21.38
+193.23.244.244
+154.35.175.225
+#setembro/2024 - "Malware family zegost"
+128.31.0.39
