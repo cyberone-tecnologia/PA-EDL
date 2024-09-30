@@ -921,3 +921,5 @@ orkutudo.com
 www.llconsult.com.br
 #setembro/2024 - "Malware family Malicious.PDF.malware"
 jornaloflorense.com.br
+#setembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
+athleticclub.com.br
