@@ -815,7 +815,6 @@ generete-nav-correios.space-to-rent.com
 #setembro/2024 - Phishing domain
 *.cncapp1.bet
 *.dash-cioudflare.com
-louisvidiam.com
 *.primeoffertonline.world
 starlinkprimeviva.com
 mainetti.eng.br
@@ -929,3 +928,8 @@ athleticclub.com.br
 g.happydatingworld1.top
 #outubro/2024 - "Malware family peaklight"
 downloadsbeta.com
+#outubro/2024 - Malware family Win.Astaroth
+biomontes.com.br
+bradescoprime-vivadigital.com
+louisvidiam.com
+bradesco.primeofertasonline.work
