@@ -801,7 +801,6 @@ smolcatkgi.shop
 #setembro/2024 - Phishing
 correiosliberarpedidos.co.ua
 #setembro/2024 - Malware family peaklight
-downloadsbeta.com
 downloadstep.com
 #setembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
 *.100security.com.br
@@ -928,3 +927,5 @@ jornaloflorense.com.br
 athleticclub.com.br
 #setembro/2024 - "Malware related"
 g.happydatingworld1.top
+#outubro/2024 - "Malware family peaklight"
+downloadsbeta.com
