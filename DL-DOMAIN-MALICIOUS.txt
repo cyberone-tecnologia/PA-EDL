@@ -592,7 +592,6 @@ gowsalesvs.live
 grupomlm.com
 gspiceyl.com
 here.selectofmychoices.com
-ideia2001.com.br
 images.agptek.us
 interjoan.com
 isbncoverdb.com
@@ -916,8 +915,6 @@ hidoctor.com.br
 abramed.org.br
 #setembro/2024 - "Malware family Win.Astaroth"
 hipershow.com.br
-#setembro/2024 - "Malware family Riskware.hvtd.scream.SWF"
-orkutudo.com
 #setembro/2024 - "Malware family Malware.Win32.generic"
 www.llconsult.com.br
 #setembro/2024 - "Malware family Malicious.PDF.malware"
@@ -937,3 +934,7 @@ bradesco.primeofertasonline.work
 rydrive.xyz
 peg3z.app.goo.gl
 nvidrive.com
+#outubro/2024 - "Malware family Trojan.fm2.amfpk0bi.vp2.generic"
+ideia2001.com.br
+#outubro/2024 - "Malware family Riskware.hvtd.scream.SWF"
+orkutudo.com
