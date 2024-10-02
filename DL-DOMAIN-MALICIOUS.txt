@@ -688,7 +688,6 @@ priori.com.br
 scriptbrasil.com.br
 sqlmagazine.com.br
 yogaone.es
-ycmobliveslb.dhdf851f.click
 yourbrand-18274.kxcdn.com
 ytbet288.com
 ytube2dl.com
@@ -951,3 +950,5 @@ chhimi.com
 tayakay.com
 #outubro/2024 - "Malware family Trojan.Generic.KD"
 www.controlemunicipal.com.br
+#outubro/2024 - "Malware related"
+ycmobliveslb.dhdf851f.click
