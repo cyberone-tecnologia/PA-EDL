@@ -948,3 +948,6 @@ nivelaservicos.com.br
 elrifeno.com
 #outubro/2024 - Malware family SocGholish
 chhimi.com
+tayakay.com
+#outubro/2024 - "Malware family Trojan.Generic.KD"
+www.controlemunicipal.com.br
