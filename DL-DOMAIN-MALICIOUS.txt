@@ -874,8 +874,6 @@ www.grupomlm.com
 blacktargstore.com.br
 #setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
 verytradesafeapp.com
-#setembro/2024 - "Malware family Phishing.PDF.a.gen"
-www.pmtech.com.br
 #setembro/2024 - Malware family Trojan.GenericKD.69478801
 card.as
 #setembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
@@ -939,3 +937,8 @@ orkutudo.com
 #outubro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
 www.c123.com.br
 ideia2001.com.br
+#outubro/2024 - "Malware family Phishing.PDF.a.gen"
+www.pmtech.com.br
+#outubro/2024 - Phishing domain
+nivelaservicos.com.br
+8libkxg.8270k7.com
