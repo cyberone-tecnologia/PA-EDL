@@ -622,7 +622,6 @@ pmisp.org.br
 printerservice.com.br
 prodigits.co.uk
 proffelipebarros.com.br
-programdiag.com
 promais.med.br
 psgermain.com.br
 ptirtika.com
@@ -955,3 +954,6 @@ ycmobliveslb.dhdf851f.click
 turismodeminas.com.br
 #outubro/2024 - "Phishing domain"
 ipfs.eth.aragon.network
+#outubro/2024 - "Malware family Adware.g.jsrevizer"
+programdiag.com
+shopstorys.com
