@@ -532,7 +532,6 @@
 72.5.65.111
 #setembro/2024 - "Malware family SocGholish"
 89.169.172.9
-37.9.4.115
 #setembro/2024 - Worm related
 95.153.31.18
 117.20.41.87
@@ -558,3 +557,5 @@
 154.35.175.225
 #setembro/2024 - "Malware family zegost"
 128.31.0.39
+#outubro/2024 - "Malware family SocGholish"
+37.9.4.115
