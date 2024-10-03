@@ -227,8 +227,6 @@ hidiugfvbnjh.ghazalehazhdarzadeh.com
 ghazalehazhdarzadeh.com
 #abril/2024 - Malware family Unknown
 akademipraktik.com
-#maio/2024 - Phishing domain
-ipfs.eth.aragon.network
 #maio/2024 - Malware family mykings_miner
 *.pc0416.xyz
 #maio/2024 - Malware family Unknown
@@ -952,3 +950,7 @@ tayakay.com
 www.controlemunicipal.com.br
 #outubro/2024 - "Malware related"
 ycmobliveslb.dhdf851f.click
+#outubro/2024 - "Malware family Trojan.mtb.rj.obfuse.js"
+turismodeminas.com.br
+#outubro/2024 - "Phishing domain"
+ipfs.eth.aragon.network
