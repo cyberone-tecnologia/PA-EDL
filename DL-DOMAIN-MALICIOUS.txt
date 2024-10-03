@@ -941,6 +941,7 @@ nivelaservicos.com.br
 8libkxg.8270k7.com
 #outubro/2024 - Malware related
 198.36.109.208.host.secureserver.net
+evaways.com
 #outubro/2024 - Malware family Trojan.Generic.KD
 elrifeno.com
 #outubro/2024 - Malware family SocGholish
