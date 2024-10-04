@@ -879,7 +879,6 @@ babyfesta.com.br
 #setembro/2024 - "Malicious domain"
 claro-link.brsafe.com.br
 #setembro/2024 - "Phishing domain"
-qrcc.me
 liberacao-rastreamentocorreios.com.ua
 #setembro/2024 - "Malware family Unknown"
 blacksaltys.com
@@ -954,6 +953,7 @@ ycmobliveslb.dhdf851f.click
 turismodeminas.com.br
 #outubro/2024 - "Phishing domain"
 ipfs.eth.aragon.network
+qrcc.me
 #outubro/2024 - "Malware family Adware.g.jsrevizer"
 programdiag.com
 shopstorys.com
