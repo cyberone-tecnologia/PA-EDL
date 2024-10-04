@@ -939,6 +939,7 @@ bradesco.acessoprime.digital
 ibpfnovologin-acessodesco.com
 mariafernandacardoso.com.br
 bradescoprime-vivadigital.com
+clienteprime.digital
 #outubro/2024 - Malware related
 198.36.109.208.host.secureserver.net
 evaways.com
