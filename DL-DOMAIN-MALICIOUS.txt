@@ -612,7 +612,6 @@ observatoriodeourofino.com.br
 odontocompany.site
 olybible.com
 oncespyaye.live
-pagina.pro
 pc.pc0416.xyz
 pedrinhomateriais.com.br
 pixclub.site
@@ -958,6 +957,7 @@ turismodeminas.com.br
 #outubro/2024 - "Phishing domain"
 ipfs.eth.aragon.network
 qrcc.me
+pagina.pro
 #outubro/2024 - "Malware family Adware.g.jsrevizer"
 programdiag.com
 shopstorys.com
