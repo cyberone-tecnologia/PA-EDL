@@ -935,6 +935,8 @@ www.pmtech.com.br
 #outubro/2024 - Phishing domain
 nivelaservicos.com.br
 8libkxg.8270k7.com
+tolomeo.com.br
+bradesco.acessoprime.digital
 #outubro/2024 - Malware related
 198.36.109.208.host.secureserver.net
 evaways.com
