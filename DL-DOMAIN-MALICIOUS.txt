@@ -959,3 +959,5 @@ programdiag.com
 shopstorys.com
 #outubro/2024 - "Malware family Unknown"
 www.abs-tech.com
+#outubro/2024 - Malware family Unknown
+packedbrick.com
