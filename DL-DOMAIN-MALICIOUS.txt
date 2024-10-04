@@ -918,7 +918,6 @@ athleticclub.com.br
 downloadsbeta.com
 #outubro/2024 - Malware family Win.Astaroth
 biomontes.com.br
-bradescoprime-vivadigital.com
 louisvidiam.com
 bradesco.primeofertasonline.work
 #outubro/2024 - Phishing Campaign
@@ -939,6 +938,7 @@ tolomeo.com.br
 bradesco.acessoprime.digital
 ibpfnovologin-acessodesco.com
 mariafernandacardoso.com.br
+bradescoprime-vivadigital.com
 #outubro/2024 - Malware related
 198.36.109.208.host.secureserver.net
 evaways.com
