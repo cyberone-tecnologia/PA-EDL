@@ -515,8 +515,6 @@
 191.252.110.75
 #setembro/2024 - Malware family Unknown
 8.222.251.253
-#setembro/2024 - Malware family sinkhole_securityscorecard
-208.100.26.245
 #setembro/2024 - Malware family tofsee
 81.31.201.152
 #setembro/2024 - Malware family vidar
@@ -559,3 +557,5 @@
 128.31.0.39
 #outubro/2024 - "Malware family SocGholish"
 37.9.4.115
+#outubro/2024 - "Malware family sinkhole_securityscorecard"
+208.100.26.245

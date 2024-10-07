@@ -546,7 +546,6 @@ apicachebot.com
 apifetchmethod.com
 app.assessmentgenerator.com
 app.rdstation.email
-asyncawaitapi.com
 asyncfunctionapi.com
 autocity.com
 beecorp.com.br
@@ -616,7 +615,6 @@ pc.pc0416.xyz
 pedrinhomateriais.com.br
 pixclub.site
 plankjock.com
-plumasstore.com.br
 pmisp.org.br
 printerservice.com.br
 prodigits.co.uk
@@ -965,3 +963,8 @@ shopstorys.com
 www.abs-tech.com
 #outubro/2024 - Malware family Unknown
 packedbrick.com
+#outubro/2024 - "Malware family Trojan.Ml.B.Phonzy.Script"
+plumasstore.com.br
+#outubro/2024 - "Malware family ta569"
+asyncawaitapi.com
+speedchaoptimise.com
