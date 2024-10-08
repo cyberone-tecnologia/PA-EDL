@@ -586,7 +586,6 @@ getonmyhorse.com
 ghost.blueecho88.com
 googlecloudns.com
 gowsalesvs.live
-grupomlm.com
 gspiceyl.com
 here.selectofmychoices.com
 images.agptek.us
@@ -863,7 +862,6 @@ mytemp.email
 #setembro/2024 - "Malware family smokeloader"
 planilhasvba.com.br
 #setembro/2024 - "Malware family Trojan.script.generic"
-www.grupomlm.com
 blacktargstore.com.br
 #setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
 verytradesafeapp.com
@@ -968,3 +966,6 @@ plumasstore.com.br
 #outubro/2024 - "Malware family ta569"
 asyncawaitapi.com
 speedchaoptimise.com
+#outubro/2024 - "Malware family Trojan.script.generic"
+www.grupomlm.com
+grupomlm.com
