@@ -511,8 +511,6 @@
 27.86.106.68
 #agosto/2024 - Malware related
 172.240.108.68
-#setembro/2024 - Malware family solarsys
-191.252.110.75
 #setembro/2024 - Malware family Unknown
 8.222.251.253
 #setembro/2024 - Malware family tofsee
@@ -559,3 +557,5 @@
 37.9.4.115
 #outubro/2024 - "Malware family sinkhole_securityscorecard"
 208.100.26.245
+#outubro/2024 - "Malware family solarsys"
+191.252.110.75
