@@ -555,6 +555,7 @@
 128.31.0.39
 #outubro/2024 - "Malware family SocGholish"
 37.9.4.115
+77.232.36.155
 #outubro/2024 - "Malware family sinkhole_securityscorecard"
 208.100.26.245
 #outubro/2024 - "Malware family solarsys"

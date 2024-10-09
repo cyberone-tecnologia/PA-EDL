@@ -491,7 +491,6 @@ www.baixesoft.com
 #julho/2024 - Malware family Agent.Mrro.Js.Malware
 impconcursos.com.br
 #julho/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
-www.hidoctor.com.br
 *.hidoctor.com.br
 #julho/2024 - Malware family 397.Jaik.Variant.Generic
 www.tradergrafico.com.br
@@ -976,3 +975,5 @@ speedchaoptimise.com
 #outubro/2024 - "Malware family Trojan.script.generic"
 www.grupomlm.com
 grupomlm.com
+#outubro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
+www.hidoctor.com.br
