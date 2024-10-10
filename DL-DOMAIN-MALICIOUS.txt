@@ -978,3 +978,5 @@ www.grupomlm.com
 grupomlm.com
 #outubro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
 www.hidoctor.com.br
+#outubro/2024 - Malware family sinkhole_shadowserver
+bitemores.com
