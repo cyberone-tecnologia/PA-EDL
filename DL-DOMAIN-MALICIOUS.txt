@@ -985,3 +985,5 @@ bitemores.com
 meiboot.com
 #outubro/2024 - "Malware family parrot_tds"
 load.webdatahoster.com
+#outubro/2024 - "Malware family Trojan.script.genericfca"
+www.fabriltelhas.com.br
