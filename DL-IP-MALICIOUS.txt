@@ -560,3 +560,7 @@
 208.100.26.245
 #outubro/2024 - "Malware family solarsys"
 191.252.110.75
+#outubro/2024 - "Malware family sinkhole_shadowserver"
+5.79.71.225
+178.162.203.211
+85.17.31.122
