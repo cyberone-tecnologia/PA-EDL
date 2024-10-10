@@ -558,14 +558,14 @@
 77.232.36.155
 #outubro/2024 - "Malware family sinkhole_securityscorecard"
 208.100.26.245
-#outubro/2024 - "Malware family solarsys"
+#outubro/2024 - Malware family solarsys
 191.252.110.75
-#outubro/2024 - "Malware family sinkhole_shadowserver"
-5.79.71.225
+#outubro/2024 - Malware family sinkhole_shadowserver
 178.162.203.211
-85.17.31.122
-85.17.31.82
-5.79.71.205
-178.162.217.107
 178.162.203.202
 178.162.203.226
+5.79.71.225
+85.17.31.82
+178.162.217.107
+5.79.71.205
+85.17.31.122
