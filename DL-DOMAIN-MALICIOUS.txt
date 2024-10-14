@@ -964,6 +964,7 @@ qrcc.me
 pagina.pro
 www.roblox.com.kg
 corrector.co
+daycoval.facildepagar.com.br
 #outubro/2024 - "Malware family Adware.g.jsrevizer"
 programdiag.com
 shopstorys.com
@@ -990,3 +991,7 @@ meiboot.com
 load.webdatahoster.com
 #outubro/2024 - "Malware family Trojan.script.genericfca"
 www.fabriltelhas.com.br
+#outubro/2024 - "Malware family Trojan.Win32.Eqxecn.Vb"
+www.multiservicos.inf.br
+#outubro/2024 - "Malware family Adware.Win32.aureate"
+multiservicos.inf.br
