@@ -922,7 +922,6 @@ nvidrive.com
 orkutudo.com
 #outubro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
 www.c123.com.br
-ideia2001.com.br
 #outubro/2024 - "Malware family Phishing.PDF.a.gen"
 www.pmtech.com.br
 #outubro/2024 - Phishing domain
@@ -974,6 +973,7 @@ www.paixaocameras.com.br
 srftjwrty6kew.shop
 #outubro/2024 - Malware family Unknown
 packedbrick.com
+srftjwrty6kew.shop
 #outubro/2024 - "Malware family Trojan.Ml.B.Phonzy.Script"
 plumasstore.com.br
 #outubro/2024 - "Malware family ta569"
@@ -995,5 +995,5 @@ www.fabriltelhas.com.br
 www.multiservicos.inf.br
 #outubro/2024 - "Malware family Adware.Win32.aureate"
 multiservicos.inf.br
-#outubro/2024 - Malware family Unknown
-srftjwrty6kew.shop
+#outubro/2024 - "Malware family Trojan.fm2.amfpk0bi.vp2.generic"
+ideia2001.com.br
