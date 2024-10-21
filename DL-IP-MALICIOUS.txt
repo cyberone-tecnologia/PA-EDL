@@ -575,3 +575,6 @@
 #outubro/2024 - Malware type worm2
 192.168.1.1
 10.0.0.1
+#Outubro/212132 - Malware teste
+52.204.28.172
+35.170.167.123
