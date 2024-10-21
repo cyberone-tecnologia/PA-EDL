@@ -581,3 +581,6 @@
 #Outubro/212137 - Malware teste123
 52.204.28.172
 35.170.167.123
+#Outubro/212116 - Malware teste alinhamento
+52.204.28.172
+35.170.167.123
