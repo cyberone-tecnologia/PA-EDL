@@ -1000,3 +1000,5 @@ multiservicos.inf.br
 ideia2001.com.br
 #outubro/2024 - "Malware family Riskware.kcdfgx.obfuscated.script"
 search.fenrawrye.live
+#outubro/2024 - Malicious domain
+pedreirao.com.br
