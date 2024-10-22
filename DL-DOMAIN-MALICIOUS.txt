@@ -998,3 +998,5 @@ www.multiservicos.inf.br
 multiservicos.inf.br
 #outubro/2024 - "Malware family Trojan.fm2.amfpk0bi.vp2.generic"
 ideia2001.com.br
+#outubro/2024 - "Malware family Riskware.kcdfgx.obfuscated.script"
+search.fenrawrye.live
