@@ -599,3 +599,6 @@
 #Outubro/232324 - Malware domain Docker
 meumalware.com
 malwarehard.wyx
+#Outubro/23231 - Malware IP teste Docker
+52.204.28.172
+35.170.167.123
