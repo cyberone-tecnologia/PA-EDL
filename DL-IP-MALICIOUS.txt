@@ -596,3 +596,6 @@
 #Outubro/232323 - Malware teste Docker Novo
 52.204.28.172
 35.170.167.123
+#Outubro/232324 - Malware domain Docker
+meumalware.com
+malwarehard.wyx
