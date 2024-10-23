@@ -1001,3 +1001,6 @@ ideia2001.com.br
 #Outubro/232334 - Teste IOC domain com Docker
 malicious.com
 hackmalicious.net
+#Outubro/23230 - Malware domain Docker
+meumalware.com
+malwarehard.wyx
