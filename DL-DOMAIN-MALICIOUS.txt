@@ -1007,3 +1007,6 @@ malwarehard.wyx
 #Outubro/23235 - Malware domain teste Docker
 maliciousdomain.com
 c2domain.net
+#Outubro/2024 - Malware domain teste Docker
+maliciousdomain.com
+c2domain.net
