@@ -1010,3 +1010,5 @@ c2domain.net
 #Outubro/2024 - Malware domain teste Docker
 maliciousdomain.com
 c2domain.net
+#Outubro/2024 - Phishing domain
+maxformaacademias.com.br
