@@ -1014,3 +1014,5 @@ c2domain.net
 maxformaacademias.com.br
 #Outubro/2024 - Phishing domain
 maxformaacademias.com.br
+#Outubro/2024 - C2 domain
+c2teste.com.br
