@@ -1004,3 +1004,6 @@ hackmalicious.net
 #Outubro/23230 - Malware domain Docker
 meumalware.com
 malwarehard.wyx
+#Outubro/23235 - Malware domain teste Docker
+maliciousdomain.com
+c2domain.net
