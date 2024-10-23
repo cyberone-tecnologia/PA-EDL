@@ -1016,9 +1016,3 @@ maxformaacademias.com.br
 maxformaacademias.com.br
 #Outubro/2024 - C2 domain
 c2teste.com.br
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
