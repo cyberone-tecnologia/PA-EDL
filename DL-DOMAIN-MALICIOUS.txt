@@ -571,7 +571,6 @@ direitopublico.com.br
 dw.uptodown.net
 ebs.com.br
 eeatgoodx.com
-encr.pw
 erdokemiahetolmacs.hu
 escriba.com.br
 esportefitness.com
@@ -966,6 +965,7 @@ www.roblox.com.kg
 corrector.co
 daycoval.facildepagar.com.br
 maxformaacademias.com.br
+encr.pw
 #outubro/2024 - "Malware family Adware.g.jsrevizer"
 programdiag.com
 shopstorys.com
@@ -1003,3 +1003,5 @@ ideia2001.com.br
 search.fenrawrye.live
 #outubro/2024 - Malicious domain
 pedreirao.com.br
+#outubro/2024 - "Malware family 79bcd70c.obfscred.js.gt"
+guitarflash3.com
