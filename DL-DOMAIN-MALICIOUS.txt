@@ -1018,3 +1018,5 @@ maxformaacademias.com.br
 c2teste.com.br
 #Outubro/2024 - Activity Test Query
 activity.lumu.io
+#Outubro/2024 - Activity Test Query
+activity.lumu.io
