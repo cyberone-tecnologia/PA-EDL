@@ -1024,3 +1024,5 @@ activity.lumu.io
 activity.lumu.io
 #Outubro/2024 - Malware related
 ikaecaepebe.homes
+#Outubro/2024 - Activity Test Query
+activity.lumu.io
