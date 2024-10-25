@@ -1020,3 +1020,5 @@ c2teste.com.br
 activity.lumu.io
 #Outubro/2024 - Activity Test Query
 activity.lumu.io
+#Outubro/2024 - Activity Test Query
+activity.lumu.io
