@@ -1028,3 +1028,5 @@ ikaecaepebe.homes
 activity.lumu.io
 #Outubro/2024 - Malware family SocGholish
 customer.thewayofmoney.us
+#Outubro/2024 - Malware family Win.Astaroth
+jubam.com.br
