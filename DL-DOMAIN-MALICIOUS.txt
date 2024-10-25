@@ -1008,3 +1008,5 @@ search.fenrawrye.live
 pedreirao.com.br
 #outubro/2024 - "Malware family 79bcd70c.obfscred.js.gt"
 guitarflash3.com
+#outubro/2024 - "Malware family SocGholish"
+customer.thewayofmoney.us
