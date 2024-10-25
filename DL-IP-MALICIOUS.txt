@@ -572,3 +572,5 @@
 #outubro/2024 - IP Phishing domain
 52.204.28.172
 35.170.167.123
+#outubro/2024 - Malware family SocGholish
+91.240.202.172
