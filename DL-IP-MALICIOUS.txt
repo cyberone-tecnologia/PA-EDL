@@ -580,3 +580,5 @@ malwarehard.wyx
 35.170.167.123
 #Outubro/2024 - Malware family zegost
 128.31.0.39
+#Outubro/2024 - Malware family zegost
+128.31.0.39 
