@@ -1030,3 +1030,5 @@ activity.lumu.io
 customer.thewayofmoney.us
 #Outubro/2024 - Malware family Win.Astaroth
 jubam.com.br
+#Outubro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+hidoctor.com.br
