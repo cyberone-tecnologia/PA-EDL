@@ -1048,3 +1048,5 @@ planilhasvba.com.br
 planilhasvba.com.br
 #Outubro/2024 - Malware family Win.Astaroth
 jubam.com.br
+#Outubro/2024 - Malware family Win.Astaroth
+jubam.com.br
