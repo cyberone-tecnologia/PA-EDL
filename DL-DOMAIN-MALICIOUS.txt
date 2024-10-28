@@ -857,8 +857,6 @@ wrochaconsorcios.com.br
 #setembro/2024 - "Disposable email host"
 tempsky.com
 mytemp.email
-#setembro/2024 - "Malware family smokeloader"
-planilhasvba.com.br
 #setembro/2024 - "Malware family Trojan.script.generic"
 blacktargstore.com.br
 #setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
@@ -1010,3 +1008,5 @@ pedreirao.com.br
 guitarflash3.com
 #outubro/2024 - "Malware family SocGholish"
 customer.thewayofmoney.us
+#outubro/2024 - "Malware family smokeloader"
+planilhasvba.com.br
