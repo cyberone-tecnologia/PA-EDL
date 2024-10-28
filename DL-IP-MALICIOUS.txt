@@ -605,3 +605,6 @@ malwarehard.wyx
 #Outubro/23234 - Malware IP teste Docker
 52.204.28.172
 35.170.167.123
+
+#Outubro/2024 - Malware family zegost
+128.31.0.39
