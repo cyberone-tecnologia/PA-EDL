@@ -569,9 +569,6 @@
 178.162.217.107
 5.79.71.205
 85.17.31.122
-#outubro/2024 - Malware type worm2
-192.168.1.1
-10.0.0.1
 #Outubro/232324 - Malware domain Docker
 meumalware.com
 malwarehard.wyx
@@ -582,3 +579,6 @@ malwarehard.wyx
 128.31.0.39
 #Outubro/2024 - Malware family zegost
 128.31.0.39 
+#Outubro/2024 - Teste
+192.168.1.1
+10.0.0.1
