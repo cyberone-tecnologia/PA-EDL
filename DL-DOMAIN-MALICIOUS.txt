@@ -1038,3 +1038,5 @@ hidoctor.com.br
 load.365analytics.xyz
 #Outubro/2024 - Malware related
 load.365analytics.xyz
+#Outubro/2024 - Malware related
+load.365analytics.xyz
