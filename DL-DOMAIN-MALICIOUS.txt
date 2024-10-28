@@ -1032,3 +1032,5 @@ customer.thewayofmoney.us
 jubam.com.br
 #Outubro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
 hidoctor.com.br
+#Outubro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+hidoctor.com.br
