@@ -579,6 +579,6 @@ malwarehard.wyx
 128.31.0.39
 #Outubro/2024 - Malware family zegost
 128.31.0.39 
-#Outubro/2024 - Teste
-192.168.1.1
 10.0.0.1
+#Outubro/2024 - Teste2
+192.168.1.1
