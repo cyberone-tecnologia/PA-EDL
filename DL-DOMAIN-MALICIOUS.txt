@@ -1044,3 +1044,5 @@ load.365analytics.xyz
 planilhasvba.com.br
 #Outubro/2024 - Malware family smokeloader
 planilhasvba.com.br
+#Outubro/2024 - Malware family smokeloader
+planilhasvba.com.br
