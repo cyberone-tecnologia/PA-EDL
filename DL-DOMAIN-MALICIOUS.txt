@@ -1050,3 +1050,5 @@ planilhasvba.com.br
 jubam.com.br
 #Outubro/2024 - Malware family Win.Astaroth
 jubam.com.br
+#Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
+redenoticia.es
