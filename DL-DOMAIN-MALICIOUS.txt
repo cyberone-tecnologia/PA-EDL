@@ -1052,3 +1052,5 @@ jubam.com.br
 jubam.com.br
 #Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
 redenoticia.es
+#Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
+redenoticia.es
