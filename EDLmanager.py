@@ -23,6 +23,16 @@ def writeEDL(file_path, edl):
             for ioc in iocs:
                 file.write(f'{ioc}\n')
 
+def removeIOC(edl_path, ioc):
+    edl = readEDL(edl_path)
+    comments = list(edl.keys())
+    for group in comments:
+        ioc_group = edl[group]
+        if ioc in ioc_group:
+            ioc_group.remove(ioc)
+            print(f'[-] {ioc}')
+    writeEDL(edl_path, edl)
+
 def add2EDL(edl_path, comment_group, new_ioc):
     edl = readEDL(edl_path)
     block = True
@@ -68,14 +78,15 @@ def formatMonth():
     }
     return f'#{month_pt[month]}/{year} - '
 
-def menu():
+def main():
     parser = argparse.ArgumentParser(description='EDL Manager')
     parser.add_argument('-i', '--ip', dest='ip', required=False, help='Add IP to DL-IP-MALICIOUS.txt')
     parser.add_argument('-d', '--domain', dest='domain', required=False, help='Add DOMAIN to DL-DOMAIN-MALICIOUS.txt')
     parser.add_argument('-e', '--email', dest='email', required=False, help='Add EMAIL to DL-EMAIL-MALICIOUS.txt')
     parser.add_argument('-s', '--hash', dest='hash', required=False, help='Add HASH to DL-HASH-MALICIOUS.txt')
-    parser.add_argument('-c', '--comment', dest='comment', required=True, help='Add "comment" about the IOC')
+    parser.add_argument('-c', '--comment', dest='comment', required=False, help='Add "comment" about the IOC')
     parser.add_argument('-m', '--more', dest='more', required=False, action='store_true', help='Add more IOC')
+    parser.add_argument('-r', '--remove', dest='remove', required=False, action='store_true', help='Remove IOC')
     args = parser.parse_args()
 
     data = None
@@ -90,7 +101,7 @@ def menu():
     }
 
     if not any(getattr(args, arg) for arg in arg_map.keys()):
-        parser.error('One of the options -i, -d, -e, or -s must be provided along with -m or -c')
+        parser.error('One of the options -i, -d, -e, or -s must be provided along with -r or -c')
     
     for arg, (message, file_option) in arg_map.items():
         if getattr(args, arg):
@@ -101,7 +112,7 @@ def menu():
                 print(data)
             option = file_option
             break
-        
+
     if args.more:
         while True:
             data = input()
@@ -109,18 +120,20 @@ def menu():
                 bulk.append(data)
             else:
                 break
-    
-    comment = formatMonth() + args.comment
-    return option, comment, data, bulk
-
-def main():
-    option, comment, data, bulk = menu()
-    print("~ History:")
-    if bulk:
         for ioc in bulk:
-            add2EDL(option, comment, ioc)
-    elif option:
-        add2EDL(option, comment, data)
+            if args.remove:
+                removeIOC(option, ioc)
+            elif args.comment:
+                add2EDL(option, formatMonth() + args.comment, ioc)
+            else:
+                print("Missing arguments")
+    else:
+        if args.remove:
+            removeIOC(option, data)
+        elif args.comment:
+            add2EDL(option, formatMonth() + args.comment, data)
+        else:
+            print("Missing arguments")
 
 if __name__ == "__main__":
     main()
