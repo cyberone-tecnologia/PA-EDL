@@ -1011,3 +1011,5 @@ guitarflash3.com
 customer.thewayofmoney.us
 #outubro/2024 - "Malware family smokeloader"
 planilhasvba.com.br
+#outubro/2024 - "Malware family Adware.139c8928.popunder.js.gt"
+freepopnews.skin
