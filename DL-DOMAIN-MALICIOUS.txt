@@ -702,7 +702,6 @@ jswebcloud.com
 peskpdfgif.shop
 nitroscripts.com
 *.getnitropack.com
-*.hotjar.com
 *.hotjar.io
 *.nitrocdn.com
 webness.com.br
