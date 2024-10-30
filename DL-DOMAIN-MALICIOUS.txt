@@ -1110,3 +1110,5 @@ www.jornaloflorense.com.br
 cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
 www.jornaloflorense.com.br
+#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
