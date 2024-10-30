@@ -968,10 +968,6 @@ corrector.co
 daycoval.facildepagar.com.br
 maxformaacademias.com.br
 encr.pw
-#outubro/2024 - "Malware family Adware.g.jsrevizer"
-programdiag.com
-shopstorys.com
-linkangood.com
 #outubro/2024 - "Malware family Unknown"
 www.abs-tech.com
 www.paixaocameras.com.br
@@ -1015,3 +1011,43 @@ customer.thewayofmoney.us
 planilhasvba.com.br
 #outubro/2024 - "Malware family Adware.139c8928.popunder.js.gt"
 freepopnews.skin
+#outubro/2024 - Malware family Adware.g.jsrevizer
+amptylogick.com
+ciclonrox.com
+cdnclntr.com
+cozytech.biz
+cdn-js.net
+cdn-mxpnl.com
+craftprimes.com
+cosmeticsrc.com
+criticalltech.com
+dimagesrc.com
+extcoolff.com
+extnetcool.com
+icontent.us
+killssource.com
+linkangood.com
+lifebounce.net
+lonelyfix.com
+luselucky.com
+lowffdompro.com
+loungesrc.net
+meextffcon.com
+miniklixk.org
+mobiclean.xyz
+modelwork.org
+nextextlink.com
+painlesses.com
+polinaryapp.com
+proudflex.org
+programdiag.com
+ratexchange.net
+serverads.net
+shopstorys.com
+simonzody.com
+takethatad.com
+techsuperb.biz
+treestarys.com
+worldmodel.biz
+yourrecovery.net
+zoudlogick.net
