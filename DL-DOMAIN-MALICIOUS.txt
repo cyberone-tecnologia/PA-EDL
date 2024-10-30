@@ -897,8 +897,6 @@ abramed.org.br
 hipershow.com.br
 #setembro/2024 - "Malware family Malware.Win32.generic"
 www.llconsult.com.br
-#setembro/2024 - "Malware family Malicious.PDF.malware"
-jornaloflorense.com.br
 #setembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
 athleticclub.com.br
 #outubro/2024 - "Malware family peaklight"
@@ -1053,5 +1051,25 @@ yourrecovery.net
 zoudlogick.net
 #outubro/2024 - "Malware family Trojan.ml.b.fl.sabsik.script"
 www.jornaloflorense.com.br
+locnuocvietmy.com
 #outubro/2024 - "Malware family Trojan.downloader.kqkkfv.script"
 cdn.highcompanybr.com
+#outubro/2024 - "Malware family Malicious.PDF.malware"
+jornaloflorense.com.br
+cobe-ing.it
+#outubro/2024 - "Malware family Exploit.Vyugf.Minerva.Yav.Exp"
+paneldeconso.com
+#outubro/2024 - "Malware family Trojan.Win32.A.Ditertag"
+caribsplash.org
+#outubro/2024 - "Malware family Trojan.8a00.phish.PDF"
+gift-edu.ru
+#outubro/2024 - "Malware family Trojan.PDF.PhishingX.generic"
+envisystem.com
+#outubro/2024 - "Malware family Trojan.Ml.B.Fl.Sabsik.Script"
+asiahealthcaredentalcentre.com
+#outubro/2024 - "Malware family Trojan.cl.a.woreflint.script"
+27061010.com
+#outubro/2024 - "Malware family Spam.PDF"
+dynamicyunnan.com
+www.biogreeno.com
+de-ko-gmbh.com
