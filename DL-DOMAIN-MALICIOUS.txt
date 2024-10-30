@@ -1114,3 +1114,5 @@ www.jornaloflorense.com.br
 www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
 cdn.highcompanybr.com
+#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
