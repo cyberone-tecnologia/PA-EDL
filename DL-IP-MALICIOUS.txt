@@ -574,3 +574,5 @@
 35.170.167.123
 #outubro/2024 - Malware family SocGholish
 91.240.202.172
+#outubro/2024 - Email spoofing
+181.12.6.36
