@@ -1066,3 +1066,5 @@ freepopnews.skin
 freepopnews.skin
 #Outubro/2024 - Malware family Adware.139c8928.popunder.js.gt
 freepopnews.skin
+#Outubro/2024 - Malware family Adware.g.jsrevizer
+linkangood.com
