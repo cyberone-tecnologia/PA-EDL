@@ -1152,3 +1152,5 @@ loopconstruct.com
 www.concretosflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
 cdn.highcompanybr.com
+#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
