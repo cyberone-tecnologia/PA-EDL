@@ -1146,3 +1146,5 @@ loopconstruct.com
 loopconstruct.com
 #Outubro/2024 - Malware family SocGholish
 www.concretosflorense.com.br
+#Outubro/2024 - Malware family FakeUpdates
+loopconstruct.com
