@@ -1128,3 +1128,5 @@ www.jornaloflorense.com.br
 cdn.highcompanybr.com
 #Outubro/2024 - Malware family SocGholish
 www.concretosflorense.com.br
+#Outubro/2024 - Malware family SocGholish
+www.concretosflorense.com.br
