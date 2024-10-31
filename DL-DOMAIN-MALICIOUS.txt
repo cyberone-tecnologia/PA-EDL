@@ -1150,3 +1150,5 @@ www.concretosflorense.com.br
 loopconstruct.com
 #Outubro/2024 - Malware family SocGholish
 www.concretosflorense.com.br
+#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
