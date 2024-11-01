@@ -1180,3 +1180,5 @@ cdn.highcompanybr.com
 cdn.highcompanybr.com
 #Novembro/2024 - Malware family FakeUpdates
 objmapper.com
+#Novembro/2024 - Malware family FakeUpdates
+objmapper.com
