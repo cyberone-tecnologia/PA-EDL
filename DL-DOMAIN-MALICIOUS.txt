@@ -1178,3 +1178,5 @@ cdn.highcompanybr.com
 cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
 cdn.highcompanybr.com
+#Novembro/2024 - Malware family FakeUpdates
+objmapper.com
