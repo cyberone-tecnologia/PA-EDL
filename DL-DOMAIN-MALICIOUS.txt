@@ -1077,3 +1077,5 @@ de-ko-gmbh.com
 jancsoalapitvany.hu
 #outubro/2024 - "Malware family FakeUpdates"
 loopconstruct.com
+#novembro/2024 - "Malware family FakeUpdates"
+objmapper.com
