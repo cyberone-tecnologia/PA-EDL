@@ -1204,3 +1204,5 @@ dareka4te.shop
 dareka4te.shop
 #Novembro/2024 - Malware family Unknown
 dareka4te.shop
+#Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
+four.startperfectsolutions.com
