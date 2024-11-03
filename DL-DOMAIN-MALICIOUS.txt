@@ -1202,3 +1202,5 @@ activity.lumu.io
 dareka4te.shop
 #Novembro/2024 - Malware family Unknown
 dareka4te.shop
+#Novembro/2024 - Malware family Unknown
+dareka4te.shop
