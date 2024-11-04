@@ -1208,3 +1208,5 @@ dareka4te.shop
 four.startperfectsolutions.com
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
+#Novembro/2024 - Malware family Js.agent.rrl
+upehelp.com.br
