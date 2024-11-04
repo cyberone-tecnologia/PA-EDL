@@ -645,7 +645,6 @@ trackmenow.life
 trademark.iglesiaelarca.com
 trissfibra.com.br
 tsweeqksa.net
-tukofertas.com.br
 twixar.me
 tx.gl
 uorak.com
@@ -1083,3 +1082,5 @@ dareka4te.shop
 four.startperfectsolutions.com
 #novembro/2024 - "Malware family Js.agent.rrl"
 upehelp.com.br
+#novembro/2024 - "Phishing domain"
+tukofertas.com.br
