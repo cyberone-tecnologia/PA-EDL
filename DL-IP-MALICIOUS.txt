@@ -584,4 +584,5 @@ malwarehard.wyx
 192.168.1.1
 37.9.4.115
 #Outubro/2024 - Malware family cobaltstrike-2 TESTE
+77.232.36.155#Novembro/2024 - Malware family cobaltstrike-2 TESTE
 77.232.36.155
