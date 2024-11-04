@@ -1216,3 +1216,5 @@ upehelp.com.br
 upehelp.com.br
 #Novembro/2024 - Phishing domain
 tukofertas.com.br
+#Novembro/2024 - Phishing domain
+tukofertas.com.br
