@@ -861,8 +861,6 @@ blacktargstore.com.br
 verytradesafeapp.com
 #setembro/2024 - Malware family Trojan.GenericKD.69478801
 card.as
-#setembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
-four.startperfectsolutions.com
 #setembro/2024 - "Malware family Trojan.genericfca.script.3335"
 babyfesta.com.br
 #setembro/2024 - "Malicious domain"
@@ -1079,3 +1077,7 @@ jancsoalapitvany.hu
 loopconstruct.com
 #novembro/2024 - "Malware family FakeUpdates"
 objmapper.com
+#novembro/2024 - "Malware family Unknown"
+dareka4te.shop
+#novembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
+four.startperfectsolutions.com
