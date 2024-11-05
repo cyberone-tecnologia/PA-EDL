@@ -1222,3 +1222,5 @@ tukofertas.com.br
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
+#Novembro/2024 - Malware related
+fas-amazonia.org
