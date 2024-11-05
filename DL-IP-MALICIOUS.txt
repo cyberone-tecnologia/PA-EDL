@@ -577,3 +577,5 @@
 185.76.79.50
 #outubro/2024 - Email spoofing
 181.12.6.36
+#novembro/2024 - Brute Force Login Attemp
+176.124.205.197
