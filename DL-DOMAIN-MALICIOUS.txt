@@ -1224,3 +1224,5 @@ grandeponto.com.br
 grandeponto.com.br
 #Novembro/2024 - Malware related
 fas-amazonia.org
+#Novembro/2024 - Malware related
+fas-amazonia.org
