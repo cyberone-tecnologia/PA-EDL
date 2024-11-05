@@ -1084,3 +1084,5 @@ upehelp.com.br
 tukofertas.com.br
 #novembro/2024 - "Malware family Trojan.Ml.B.Fl.Sabsik.Script"
 grandeponto.com.br
+#novembro/2024 - "Malware related"
+fas-amazonia.org
