@@ -525,8 +525,6 @@ k-analytics.net
 deborahsilvermusic.com
 #julho/2024 - Malware family emotet
 ardos.com.br
-#julho/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
-grandeponto.com.br
 #julho/2024 - Malware family 161143.Strictor.Variant.Generic
 nokstv.ru
 #julho/2024 - Adversary Contact
@@ -1084,3 +1082,5 @@ four.startperfectsolutions.com
 upehelp.com.br
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
+#novembro/2024 - "Malware family Trojan.Ml.B.Fl.Sabsik.Script"
+grandeponto.com.br
