@@ -1256,3 +1256,5 @@ www.baixesoft.com
 www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
 www.baixesoft.com
+#Novembro/2024 - Activity Test Query
+activity.lumu.io
