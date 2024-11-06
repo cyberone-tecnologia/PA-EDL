@@ -1234,3 +1234,5 @@ fas-amazonia.org
 wds.weqs.ink
 #Novembro/2024 - Activity Test Query
 activity.lumu.io
+#Novembro/2024 - Activity Test Query
+activity.lumu.io
