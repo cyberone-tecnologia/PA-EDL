@@ -1286,3 +1286,5 @@ activity.lumu.io
 loopconstruct.com
 #Novembro/2024 - Malware family socgholish
 loopconstruct.com
+#Novembro/2024 - Malware family socgholish
+loopconstruct.com
