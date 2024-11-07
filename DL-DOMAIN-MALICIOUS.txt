@@ -1274,3 +1274,5 @@ www.baixesoft.com
 www.baixesoft.com
 #Novembro/2024 - Activity Test Query
 activity.lumu.io
+#Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
+four.startperfectsolutions.com
