@@ -1278,3 +1278,5 @@ activity.lumu.io
 four.startperfectsolutions.com
 #Novembro/2024 - Activity Test Query
 activity.lumu.io
+#Novembro/2024 - Malware family Win.Astaroth
+renapsi.org.br
