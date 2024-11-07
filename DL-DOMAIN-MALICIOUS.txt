@@ -1068,8 +1068,6 @@ dynamicyunnan.com
 www.biogreeno.com
 de-ko-gmbh.com
 jancsoalapitvany.hu
-#outubro/2024 - "Malware family FakeUpdates"
-loopconstruct.com
 #novembro/2024 - "Malware family FakeUpdates"
 objmapper.com
 #novembro/2024 - "Malware family Unknown"
@@ -1092,3 +1090,5 @@ activity.lumu.io
 www.baixesoft.com
 #novembro/2024 - "Malware family Win.Astaroth"
 renapsi.org.br
+#novembro/2024 - "Malware family socgholish"
+loopconstruct.com
