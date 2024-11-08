@@ -1306,3 +1306,5 @@ activity.lumu.io
 activity.lumu.io
 #Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
+#Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
+100security.com.br
