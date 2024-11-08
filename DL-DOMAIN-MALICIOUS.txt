@@ -1292,3 +1292,5 @@ loopconstruct.com
 pay.risepay.com.br
 #Novembro/2024 - Activity Test Query
 activity.lumu.io
+#Novembro/2024 - Malware related
+pay.risepay.com.br
