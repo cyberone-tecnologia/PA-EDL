@@ -1294,3 +1294,5 @@ pay.risepay.com.br
 activity.lumu.io
 #Novembro/2024 - Malware related
 pay.risepay.com.br
+#Novembro/2024 - Malware related
+pay.risepay.com.br
