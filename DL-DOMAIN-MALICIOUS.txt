@@ -1300,3 +1300,5 @@ pay.risepay.com.br
 activity.lumu.io
 #Novembro/2024 - Activity Test Query
 activity.lumu.io
+#Novembro/2024 - Activity Test Query
+activity.lumu.io
