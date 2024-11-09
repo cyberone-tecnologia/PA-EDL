@@ -1310,3 +1310,5 @@ activity.lumu.io
 100security.com.br
 #Novembro/2024 - Malware family Unknown
 dareka4te.shop
+#Novembro/2024 - Malware family Unknown
+dareka4te.shop
