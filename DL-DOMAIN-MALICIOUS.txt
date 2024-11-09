@@ -1,1316 +1,783 @@
-#fevereiro/2024 - Xloader Malware Campaign - 22/02/2024
-k7ym8xyls.sbs
-maguirelaneliving.com
-feshi.store
-hillfinconsult.com
-awllywood.com
-sdshopping.org
-thesleeperandco.com
-pltsystems.com
-fenster-kronen.de
-#fevereiro/2024 - AgentTesla Malware Campaign - 22/02/2024
-atec.com.tr
-#fevereiro/2024 - QR Code Credential Harvesting
-msg111.plala.or.jp
-#fevereiro/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/2024
-saicetyapy.space
-grebiunti.top
-arsimonopa.com
-lemonimonakio.com
-#fevereiro/2024 - FIS: Suspicious Domain
-integrapaysolutions.com
-#fevereiro/2024 - QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
-em4001.ashitexas.org
-#fevereiro/2024 - Teams-themed Microsoft 365 Credential Harvesting | softr.app
-crpsac.com
-softr.app
-#fevereiro/2024 - Lumma Stealer Malware Campaign - 28/02/2024
-associationokeo.shop
-turkeyunlikelyofw.shop
-pooreveningfuseor.pw
-edurestunningcrackyow.fun
-detectordiscusser.shop
-problemregardybuiwo.fun
-lighterepisodeheighte.fun
-technologyenterdo.shop
-syncarpiajanapiom.fun
-#fevereiro/2024 - Credential Capture 28/02/2024
-c8a516d1.e55e6733904fb475d6637658.workers.dev
-nahamclago.com
-bunmmpoer.top
-#fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
-connectivity-check.linkpc.net
-#fevereiro/2024 - WAB SMC Threat Intel Share: SocGholish | Compromised Websites
-termly.io
-ebooks.ferrelljoe.com
-sidecardoughnuts.com
-higherthoughtinstitute.com
-#fevereiro/2024 - Credential Capture 29/02/2024
-view.librerialieggi.com
-#fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
-gudintas.at
-pik96.ru
-rosatiauto.com
-kingpirate.ru
-connectivity-check.linkpc.net
-#fevereiro/2024 - FIS: Suspicious Domains
-banking-service.xyz
-parix.solutions
-#fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
-time-check-broker.com
-namecheap.com
-#marco/2024 - Guloader/Xloader Malware Campaign - 01/03/2024
-icbmv.ro
-tiambiental.com
-elemental.agency
-kandlprinting.online
-zonenail.info
-lunamymoon.com
-pfannen-scholl.info
-infinityinkpress.com
-flatiron.hair
-cochevivo.com
-#marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/2024
-basiconlineincome.com
-#marco/2024 - Credential Harvesting | AhaSlides Abuse
-ahaslides.com
-#marco/2024 - Suspicious Domain:  golubcapitall.com
-Golubcapitall.com
-#marco/2024 - Credential Capture 04/03/2024
-thinonthin.life
-#marco/2024 - VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/2024
-asa.com
-aljannatquranteach.com
-bbsupplyandsalon.com
-betsmovepiyango47.com
-eduvationgroup.com
-growcalm.com
-grupodistribuidora.com
-#marco/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/2024
-zumkoshapsret.com
-jertacco.com
-#marco/2024 - FIS: Suspicious Domain 06/03/2024
-worldpay.work
-#marco/2024 - [Cyberintel] Re: EXTERNAL: Re: Fake Bloomberg Software Downloads - PowerTrash
-thetinytask.net
-#marco/2024 - [Cyberintel] 03-06-2024 - Darkgate Campaigns
-bamautzky.de
-#marco/2024 - ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
-opticare.co.zw
-#marco/2024 - SEO Poisoning: HealthEquity AiTM
-healthequity.sa.com
-#marco/2024 - Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
-xeis.io
-#marco/2024 - Credential Capture 08/03/2024
-docuverseinhub.com
-#marco/2024 - Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
-renovaserv.bio
-quantumservice.tarde
-serviUpdate.bio
-pararaios05fvd.ver
-pisosg8tr.xyz
-#marco/24  ENC: Credential Capture 22/03
-acccountsprivacy0fficeportal.alefkevin.com.br
-#marco/24 VTI: Unknown Malware 21/03
-zcr.ink
-gta5cheats.org
-ztm.ink
-tripadvisor.gift
-#marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 06/08
-aloha-assist.com
-ncrsupport.com
-ursketz.com
-connect-tripadvisor.com
-#marco/24 Rhadamanthys 25/03
-arnaudpairoto.com
-puttyconnect.info
-#marco/24
-valutekcardsolutions.com
-valuteccadrsolutions.com
-valuteccardsolutiions.com
-valuteccardoslutions.com
-valuteccardsoluitons.com
-valuteccards0lutions.com
-valuyeccardsolutions.com
-valutwccardsolutions.com
-valutecxardsolutions.com
-valuteccardsolutoons.com
-valutecacrdsolutions.com
-veluteccardsolutions.com
-valuteccardsoluions.com
-valuteccardsolutionss.com
-valuteccardsolutinos.com
-vaiuteccardsolutions.com
-valuteccardsolutoins.com
-valuteccardsollutions.com
-valuteccardsolutionns.com
-valuteccarrdsolutions.com
-valuteccardsolutiones.com
-#marco/24 [Cyberintel] 03-26-2024 - Darkgate Campaigns
-magazinewp.com
-monsterleadsbiz.com
-cnitedu.com
-deorion.com
-massachusettscomputerservices.com
-oklahomacityehs.com
-wassonite.com
-wpseed.com
-#marco/24 Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware 22/03
-sokingscrosshotel.com
-titnovacrion.top
-grunzalom.fun
-#marco/24 Suspicious Domains 27/03
-valateccardsolutions.com
-valuteccardsloutions.com
-valutevcardsolutions.com
-valuteccsrdsolutions.com
-valuteccardsolutins.com
-valuteccardslutions.com
-valuteccardsulutions.com
-#marco/24 Phishing Campaigns IoCs 27/03
-cnitedu.com
-wassonite.com
-wpseed.com
-smerconish.com
-serjobs.org
-mail.mailchimpapp.com
-mail.govos.com
-mannmortgage.com
-northnewjerseychamber.ccsend.com
-footprintssafaris.co.ug
-saltstrong.com
-visitmysmokies.com
-mail.bossbabe.com
-benworthcapital.com
-divinehealth.com
-linkrestaurantgroup.com
-shared1.ccsend.com
-drakepest.com
-blakely[@]mannmortgage.com
-mannmortgage.com
-triadfastenerlp.com
-exelmed.com
-three-ss.com
-mannmortgage.com
-puredry.com
-jamesltaylor.com
-icontactmail4.com
-mesaonline.org
-greenspans-law.com
-puredry.com
-jessaminechamber.org
-lawofficesres.com
-drakepest.com
-mannmortgage.com
-slochamber[@]slochamber.org
-writersLife.org
-drakepest.com
-cdoiqprogram.ccsend.com
-#marco/24 New Powertrash C2
-cdn30.space
-cdn25.space
-msq242424240000.online
-msq2323232300000.online
-mjs2222220000.online
-#marco/24 JsOutProx RAT Malware - 03/27/24
-suedxcapuertggando.ddns.net
-ywetxpgvydaopdopiu.ddns.net
-hgtikdnlipotpfgder.ddns.net
-kipluterndern.hopto.org
-foitkdndboptpddsup.ddns.net
-hudukpgdgfytpddswq.ddns.net
-#marco/24 Remcos RAT Malware Campaign - 29/03/2024
-uploaddeimagens.com.br/
-#marco/24 Open-Benefits Enrollment Credential Harvesting
-hajvnoao.buzhantahvieh.com
-hidiugfvbnjh.ghazalehazhdarzadeh.com
-ghazalehazhdarzadeh.com
-#abril/2024 - Malware family Unknown
-akademipraktik.com
-#maio/2024 - Malware family mykings_miner
-*.pc0416.xyz
-#maio/2024 - Malware family Unknown
-teachabletutorials.com
-d1x9q8w2e4.xyz
-#maio/2024 - Malware family PuP.Js
-*.bestresulttostart.com
-#maio/2024 - Malware family Backdoor.Win32.Xyk.Darkkomet
-*.onceokuloncesi.com
-#maio/2024 - Malware family SocGholish
-libidotechnexus.com
-#maio/2024 - Phishing campaign (Web Shell)
-completehealth.net.br
-#maio/2024 - Phishing campaign
-islamkoy.com
-*autopadrao3.cloud
-#maio/2024 - C&C
-bigwimalbr.com.br
-arueoalxbox.org
-topxmaxxx.com
-jdoojsbdi.com
-uyuyahbox.com
-kolamvr.com
-vrmaobox.org
-hyetasbox.org
-zammolpaxfl.com
-juaherya.com.br
-yuryanxbo.com
-kuamlopc.com
-primeacessobrad.skin
-gaifubw.com
-*.servicodesessetedecobranca.com
-#maio/2024 - Malware
-magazine-luiza.com
-ofertas-magazineluiza.com
-cultuenlace.com
-account3748532.org
-o2outsourcing.com.br
-cracked.gmgadvertising.com
-tonsurtom.com.br
-technokingdigital.com
-supplier.yaarx.com
-tresmail.net
-account58956.com
-hotelgarbos.com.br
-jagaranmf.com
-benishgps.com
-maggitoyota.com.br
-jmich.johndgreat.com
-smtplw-04.com
-*.homeacessoprime.com
-#maio/2024 - Grayware
-lopasmxbo.com.br
-*.quemchegarprimeiro.com.br
-jfu259.com
-bradesclivelsend.com
-moovelog.com
-#maio/2024 - Phishing
-*.mkt15.pro
-*.v6.army
-web3-connectha.gq
-*.pvamz.net
-#maio/2024 - Malware Heodo
-www.llev.com.br
-#maio/2024 - Malware family Gen2.Pdf.Malicious.Html.Malware
-uncme.org.br
-curtadoc.tv
-hiepsibaotap.com
-#maio/2024 - Malware related
-becorsolaom.com
-thewowfeed.com
-fastdl.site
-#maio/2024 - Malware family gootkit
-tororomba.com.br
-#maio/2024 - QakBot
-geracaoaventura.com
-#maio/2024 - Malware family Trojan.Ml.A.Fl.Sabsik.Script
-centersol.com.br
-#maio/2024 - Antivirus Phishing
-lxkzcss.xyz
-#maio/2024 - Malware family Trojan.Downloader.Win32.Banload.Bit.Bdj
-www.pge.ac.gov.br
-#maio/2024 - Malware family chanitor
-insidebox.pt
-#maio/2024 - Malicious domain
-karacacomunicacao.com.br
-tesouraria-me.com
-#maio/2024 - Malware family Vbgrc.Talu.Kab.Phish.Phishing
-static.s123-cdn.com
-#maio/2024 - Malware family Cmsbrute
-le-herisson.info
-#maio/2024 - Mshta executes JavaScript Scheme Fetch Remote Payload With GetObject
-*.boavistanet.net
-*.siderol.net
-*.saudeencap.store
-*.grupoescrita.com
-*.dcljeans.store
-*.araujoelima.com
-*.dvodontomaraba.com.br
-*.dcljeans.com
-*.saudeencap.com.br
-*.saudeencap.online
-*.fastec-mg.dating
-*.comidinhaaver.art
-*.ativacaodistribuidora.com.br
-*.santacasamacatuba.com.br
-*.acocatarinense.com.br
-*.sisansaude.com
-*.contasapagar.net
-#maio/2024 - Malware family android_coyote
-*.museuparque.com
-*.acaodegraca.com
-britoingresso.com
-*.bestoraculo.com
-*.turmadabruta.com
-*.hopedagemunique.com
-*.controleparque.com
-*.parqueitaim.com
-*.goldwik.com
-pecaslogro.com
-#maio/2024 - C2
-*.contratodocliente.com
-*.servicosetedecobranca.com
-#maio/2024 - Malware family Win.Astaroth
-cienciadameditacao.com.br
-cervejahballastpoint.cfd
-aquali.com.br
-cervejahcantillon.cfd
-sintinorp.com.br
-ravseg.com.br
-clubedochute.com.br
-minastandes.com.br
-#maio/2024 - Malware family Socks5Systemz
-marketingmilionarioon.com
-#maio/2024 - Malware family Quakbot
-linkfone.com.br
-#junho/2024 - Malware family Unknown
-s9l0w7n3y5.xyz
-espacoetica.com.br
-*.parqueitaim.com
-mdasidy72.lol
-jsincloud.com
-#junho/2024 - command-and-control
-*.oseuenvio.com
-#junho/2024 - Malware family 4c3eft.Malwthreat.Js
-*.webfiledata.com
-#junho/2024 - Malware family Unknown (fake update)
-b9y3b7ner2.xyz
-#junho/2024 - Malware family SocGholish
-load.memoryloader.com
-scada.paradizeconstruction.com
-jswebcache.com
-*.memoryloader.com
-ndas8m92.shop
-*.krazzykriss.com
-#junho/2024 - QakBot
-clickcurvelo.com
-bandamazonas.com.br
-#junho/2024 - Malware family ta569
-funcallback.com
-searchgear.pro
-#junho/2024 - Malware family Spam.Url
-*.ibcbh.com.br
-#junho/2024 - Malware family Balada Injector
-*.rdntocdns.com
-#06/2024 - Malware family Unknown
-*.check-tl-ver-154-2.com
-*.bellatrixmeissa.com
-*.rtb-feed.com
-#06/2024 - Grayware
-*.pshmetrk.com
-*.trknext.com
-#junho/2024 - Phishing campaign
-*.check-tl-ver-154-2.com
-*.bellatrixmeissa.com
-*.rtb-feed.com
-*.pshmetrk.com
-*.trknext.com
-*.js-check.com
-*.ultracdn.top
-paraboobs.xyz
-chambermaidthree.xyz
-sosr.co.in
-*.junctionspeedforum.co.in
-pshmetrk.com
-*.securesystemzone.com
-*.jdoqocy.com
-*.globalgroupportal.com
-chambermaidthree.xyz/
-*.dotomi.com
-*.emjcd.com
-*.trafficflowdiscovery.com
-*.networkfullchain.co.in
-#junho/2024 - Trojan Android Banker
-chromee-update-it.com
-v1069-guncelleme-chrome.epizy.com
-#junho/2024 - Malware family gootkit
-myoldcountryhouse.com
-#junho/2024 - Malware family Quakbot
-g2iprovisaoamericana.med.br
-#junho/2024 - Malware family Trojan.Agent.Uyr.Js
-cdntoswitchspirit.com
-restartyourchoices.com
-rdntocdns.com
-specialtaskevents.com
-startfinishthis.com
-greensisteroftime.com
-broworker9s.com
-#junho/2024 - Malware family JS/Agent.RRO
-agazetarm.com.br
-#junho/2024 - Phishing domain
-*.campus-centre.fr
-typebot.co
-*.check-tl-ver-116-3.com
-#junho/2024 - Malware family Adware.K.Lnkr
-hublosk.com
-#junho/2024 - Malware family Trojan.Mtb.Amb.Malscript.Js
-rlimpermeabilizacao.com
-#junho/2024 - Malware xmr mining related
-*.xmrpool.ru
-kr1s.ru
-*.4i7i.com
-#junho/2024 - Malware related
-polyfill.io
-googie-anaiytics.com
-#julho/2024 - Malware related
-*.asense.in
-*.readytocheckline.com
-getrunkhomuto.info
-downloaddining.com
-murmansk-news.net
-#julho/2024 - Phishing domain
-leah.bet
-bol.bet
-*.cnc.bet
-crowdstrikebsod.com
-fix-crowdstrike-apocalypse.com
-fix-crowdstrike-bsod.com
-*.tvuhd4k-magazineluiza.com
-*.mail-redir.com
-oferta-magazine-luiza.com
-*.pontos.co.ua
-clinicanat.com.br
-officialpaper.com.br
-*.stc.srv.br
-xn----7sbbabydmnabw7adjco1bcucct3a7c5i0d.kyiv.ua
-#julho/2024 - Malware family sload
-doggygangers.com
-#julho/2024 - Unknown Malware Campaign
-acessdocumentos.autos
-*.notasdigitalmax.com
-*.vultrobjects.com
-documentos-suporteacess.autos
-#julho/2024 - QakBot
-masrybs.com
-#julho/2024 - Malware family Trojan.Win32.B.Bitrep
-all4phones.de
-#julho/2024 - Malware family Win32.Tr.Sk.Genericrxgu
-*.uokit.com
-#julho/2024 - Malware family Trojan.Win32.J.Bitcoinminer
-www.baixesoft.com
-#julho/2024 - Malware family Agent.Mrro.Js.Malware
-impconcursos.com.br
-#julho/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
-*.hidoctor.com.br
-#julho/2024 - Malware family 397.Jaik.Variant.Generic
-www.tradergrafico.com.br
-#julho/2024 - Malware family Agent.Riskware.Badjoke
-www.scriptbrasil.com.br
-#julho/2024 - Malware family Trojan.Generickdz.Script
-aanqylta.com
-#julho/2024 - Malware family SocGholish
-www.rivabeachbari.com
-#julho/2024 - Phishing campaign
-*.check-tl-ver-176-1.com
-rastreioencomenda.sa.ngrok.io
-*.vdxru.com
-d8hxy.app.goo.gl
-ibyflpamsx.com
-amazupkxa.com
-#julho/2024 - Amadey
-downloaddining2.com
-#julho/2024 - Malware family Adware.G.Jsrevizer
-autroliner.com
-#julho/2024 - Malware family Virut
-kbkpay.com
-#julho/2024 - Malware family Quakbot
-laticiniosbomjardim.com.br
-#julho/2024 - Malware family Trojan.Ml.B.Wacatac.Script
-www.cbtarco.org.br
-#julho/2024 - Malware family Trojan.Script.Miner.Generic
-trustisimportant.fun
-#julho/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
-k-analytics.net
-#julho/2024 - Malware family Agent.Mphcm.Js.Malware
-deborahsilvermusic.com
-#julho/2024 - Malware family emotet
-ardos.com.br
-#julho/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
-grandeponto.com.br
-#julho/2024 - Malware family 161143.Strictor.Variant.Generic
-nokstv.ru
-#julho/2024 - Adversary Contact
-19jt0pakbh19.icu
-vekeltaizy.net
-#julho/2024 - IOCs Importados PA, identificação analise legada
-1717.1000uc.com
-absolutecache.com
-acouguevegano.com.br
-actionelectric.pt
-admin.grupor8.com.br
-akmos.com.br
-aluminioepvcbh.com.br
-analytics-henrique.top
-apicachebot.com
-apifetchmethod.com
-app.assessmentgenerator.com
-app.rdstation.email
-asyncfunctionapi.com
-autocity.com
-beecorp.com.br
-bind.bestresulttostart.com
-brwsuprimentos.com.br
-cacs.org.br
-canvaessencial.com.br
-kaisergames.de
-cdn.ocmhood.com
-cdnw1.omeuwebsite.com
-celiciosatrip.com
-clicandoeandando.com
-clinicatoque.com.br
-conectiva.com.br
-consent.clarosgvas.mobicare.com.br
-contanely.com
-correagontijo.com.br
-danisallesdesign.com
-debasesingle.life
-decoraktive.com
-descontador.com.br
-detran-mg-ipva.azurewebsites.net
-direitopublico.com.br
-dw.uptodown.net
-ebs.com.br
-eeatgoodx.com
-encr.pw
-erdokemiahetolmacs.hu
-escriba.com.br
-esportefitness.com
-facbalancas.com.br
-facebook.lojaseofertas.com
-filosofiaespirita.org
-find.bestresulttostart.com
-fundacaotidesetubal.org.br
-get-my-push.xyz
-getonmyhorse.com
-ghost.blueecho88.com
-googlecloudns.com
-gowsalesvs.live
-gspiceyl.com
-here.selectofmychoices.com
-images.agptek.us
-interjoan.com
-isbncoverdb.com
-jiusnansss.com
-jrltransportes.com.br
-kifortequimica.com.br
-kmrfibras.com.br
-limeerror.org
-linkangood.com
-linkr.it
-livrosnarede.com.br
-mailsuite.com
-maissoja.com.br
-manual.unilab.com.br
-mestredaobra.com
-minergate.com
-multitudewarfare.top
-newmd.com.br
-observatoriodeourofino.com.br
-odontocompany.site
-olybible.com
-oncespyaye.live
-pc.pc0416.xyz
-pedrinhomateriais.com.br
-pixclub.site
-plankjock.com
-pmisp.org.br
-printerservice.com.br
-prodigits.co.uk
-proffelipebarros.com.br
-promais.med.br
-psgermain.com.br
-ptirtika.com
-puxeumacadeira.com.br
-revistaexclusive.com.br
-rpacx.com
-saudeepe.com.br
-sdk.ocmhood.com
-selectofmychoices.com
-sellspafull.live
-shulugoo.net
-sintracomsulminas.com.br
-sistemaathos.com.br
-sleep.stratosbody.com
-ssw.inf.br
-start.apistatexperience.com
-static.s123-cdn-static.com
-system-alert.online720.name
-t.ocmhood.com
-tecrede.com.br
-tempoms.com.br
-terrafm94.com.br
-thishosting.rocks
-tnoodlezy.com
-track.greengoplatform.com
-trackinghub.info
-trackmenow.life
-trademark.iglesiaelarca.com
-trissfibra.com.br
-tsweeqksa.net
-tukofertas.com.br
-twixar.me
-tx.gl
-uorak.com
-upscri.be
-upsups.click
-vibedroom.org
-vzlx0.ru.com
-webdataspace.com
-willianzingoni.com.br
-wirsilsa.net
-wpemojii.com
-ww25.criarenquete.com
-a-diariooficial.com.br
-alucomposto.com.br
-animaatjes.de
-concretosflorense.com.br
-elianepotiguara.org.br
-extinfran.com.br
-gpaci.org.br
-grupoaruanda.com.br
-influenciadormagalu.com.br
-koloro.com.br
-licijur.com.br
-llconsult.com.br
-maxximus.com.br
-musicacolaborativa.com
-onceokuloncesi.com
-onlinevaluepack.com
-priori.com.br
-scriptbrasil.com.br
-sqlmagazine.com.br
-yogaone.es
-yourbrand-18274.kxcdn.com
-ytbet288.com
-ytube2dl.com
-zarrue.com
-cdlto.com.br
-#julho/2024 - Phishing Campaign
-*.orastreio.online
-*.minhasencomendas.store
-liberarentrega.online
-#julho/2024 - Malware family JS/Agent.PXU
-*.greengoplatform.com
-#julho/2024 - Malware family Trojan.Ml.B.Phonzy.Script
-*.specialcraftbox.com
-#julho/2024 - Malware family TrojanDownloader:JS/FakejQuery.AR!MTB
-www.deniswarren.com
-#agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
-www.mybrowserbar.com
-#agosto/2024 - Malware family Unknown
-ndm2398asdlw.shop
-jswebcloud.com
-peskpdfgif.shop
-nitroscripts.com
-*.getnitropack.com
-*.hotjar.com
-*.hotjar.io
-*.nitrocdn.com
-webness.com.br
-ajsdiaolke.shop
-cache.cloudswiftcdn.com
-semanariolaprensa.com
-semanariolaprensa.com
-#agosto/2024 - Malware related
-msk-news.net
-stavropol-news.net
-galactic-worship.com
-scaredframe.com
-#agosto/2024 - Malware family Quakbot
-preventivacreditos.com.br
-#agosto/2024 - Phishing domain
-circuitoguimaraesrosa.com.br
-clinicalettieri.com.br
-*.matchlovers.link
-clcr.me
-lllovers.uk
-#agosto/2024 - Malware family HEUR:AdWare.Win32.Alien.gen
-*.tebi.io
-#agosto/2024 - Malware family Win32/Freemake.C
-freemake.net
-#agosto/2024 - Malware family apt_unc788
-monitor-ua.com
-#agosto/2024 -
-astrakhan-news.net
-#agosto/2024 - Malicious domain
-*.marketingvici.com
-#agosto/2024 - Malware family android_ermac
-offers25942.xyz
-#agosto/2024 - Malware family Trojan.Ml.A.Fl.Sabsik.Script
-flashlimp.com.br
-#agosto/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
-pedraferro.com
-#agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
-intelectools.com.br
-*.extinfran.com.br
-#agosto/2024 - Malware family Win32.Remoteadmin.C.Winvnc.Based
-www.chg.com.br
-#agosto/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
-*.hidoctor.com.br
-#agosto/2024 - Phishing Domain
-*.jiyz.cn
-*.maew.cn
-*.iyla.cn
-*.tpca.cn
-hardbin.com
-olink.ai
-#agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
-k-analytics.net
-#agosto/2024 - Load Malicious Script
-*.novissajoias.com.br
-#agosto/2024 - Malware family Trojan.Genericgba.Java
-phoneky.co.uk
-phoneky.com
-#agosto/2024 - Malware family gootkit
-tororomba.com.br
-#agosto/2024 - Malware family Agent.Mrro.Js.Malware
-agereti.com.br
-#agosto/2024 - CobaltStrike
-*.init.cedexis-radar.net
-#agosto/2024 - Malware family 5d0c72d3.S.Phishing.Html.Generic
-static6-jquery.com
-#agosto/2024 - Malware family Win.Astaroth
-cdix.com.br
-elevacultural.com
-#agosto/2024 - Malware family Trojan.Win32.Msr.Phish
-*.cryptednews.space
-#agosto/2024 - Malware family Trojan.Agent.Vqkox.Dldr.Tr
-greentechreviews.ru
-#agosto/2024 - Malware family Win32.ml.a.uwasson.program
-gamebase.app
-#agosto/2024 - Malware family Trojan.ee8a467a.ge
-tecnologyc.com
-#agosto/2024 - Malware family Agent.Mphcm.Js.Malware
-nds.id
-#setembro/2024 - Malware family Generic.multi
-ari-mama.com
-#setembro/2024 - Malware family Unknown
-cdnjscloudforced.com
-dais7nsa.shop
-smolcatkgi.shop
-#setembro/2024 - Phishing
-correiosliberarpedidos.co.ua
-#setembro/2024 - Malware family peaklight
-downloadstep.com
-#setembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
-*.100security.com.br
-#setembro/2024 - Malware related
-*.stickloader.info
-vrpirates.wiki
-meucredicard.com
-intermiamicf.co
-human-bot-view.chalnlizt.org
-challinksch.com
-generete-nav-correios.space-to-rent.com
-#setembro/2024 - Phishing domain
-*.cncapp1.bet
-*.dash-cioudflare.com
-*.primeoffertonline.world
-starlinkprimeviva.com
-mainetti.eng.br
-#setembro/2024 - Malware family Exploit.Bo.Swf
-www.gameswf.com
-#setembro/2024 - Malware family Trojan.Mtb.Da.Cryxos.Js
-*.lojagrupoorganica.com.br
-#setembro/2024 - Malware family Win.Astaroth
-bocasanta.com.br
-#setembro/2024 - Malware family Trojan.Android
-ahd.lat
-allsdy999.org
-etr.lat
-gf79.org
-goodapps.top
-gov24.me
-gov24.top
-krgoodapp.top
-krgov24.top
-like1902.xyz
-make69.info
-messtube999.info
-mtube888.info
-mylove777.org
-oktube999.info
-top1114.online
-ytube888.info
-#setembro/2024 - Malware family Android.risktool.aace.dnotua
-*.nefrocalc.net
-#setembro/2024 - trojan.vapsup
-sousehushoa.net
-#setembro/2024 - husuy.com
-husuy.com
-#setembro/2024 - Spam related
-*.infant.best
-*.themental.best
-*.excellentinsurance.best
-*.preventive.best
-*.fiscal.best
-*.nutritionalhealth.best
-#setembro/2024 - Phishing Campaign
-liberacaorastreiocorreios.co.ua
-#setembro/2024 - Malware family Linux.Risktool.B.Bitcoinminer
-*.adfinis-on-exoscale.ch
-#setembro/2024 - Malware family Malicious.PDF.malware.generic
-daleph.com
-#setembro/2024 - Malware family Suspicious.malware.generic
-ocs.pr.gov.br
-#setembro/2024 - Malware family [Coinminer]
-wrochaconsorcios.com.br
-#setembro/2024 - "Disposable email host"
-tempsky.com
-mytemp.email
-#setembro/2024 - "Malware family smokeloader"
-planilhasvba.com.br
-#setembro/2024 - "Malware family Trojan.script.generic"
-blacktargstore.com.br
-#setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
-verytradesafeapp.com
-#setembro/2024 - Malware family Trojan.GenericKD.69478801
-card.as
-#setembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
-four.startperfectsolutions.com
-#setembro/2024 - "Malware family Trojan.genericfca.script.3335"
-babyfesta.com.br
-#setembro/2024 - "Malicious domain"
-claro-link.brsafe.com.br
-#setembro/2024 - "Phishing domain"
-liberacao-rastreamentocorreios.com.ua
-#setembro/2024 - "Malware family Unknown"
-blacksaltys.com
-#setembro/2024 - "Malware family ta569"
-apidevst.com
-#setembro/2024 - "Malware family Trojan.agent.hapanz.script"
-new2sportnews.com
-#setembro/2024 - Malware campaign github-scanner[.]com
-github-scanner.com
-eemmbryequo.shop
-keennylrwmqlw.shop
-licenseodqwmqn.shop
-tendencctywop.shop
-tesecuuweqo.shop
-relaxatinownio.shop
-reggwardssdqw.shop
-tryyudjasudqo.shop
-genedjestytw.shop
-#setembro/2024 - Worm related
-bellsyscdn.com
-urchintelemetry.com
-#setembro/2024 - "Malware family Trojan.genericfca.script.3334"
-consultaragora.com
-#setembro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
-hidoctor.com.br
-#setembro/2024 - "Malware family Trojan.ml.b.wacatac.script"
-abramed.org.br
-#setembro/2024 - "Malware family Win.Astaroth"
-hipershow.com.br
-#setembro/2024 - "Malware family Malware.Win32.generic"
-www.llconsult.com.br
-#setembro/2024 - "Malware family Malicious.PDF.malware"
-jornaloflorense.com.br
-#setembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
-athleticclub.com.br
-#outubro/2024 - "Malware family peaklight"
-downloadsbeta.com
-#outubro/2024 - Malware family Win.Astaroth
-biomontes.com.br
-louisvidiam.com
-bradesco.primeofertasonline.work
-#outubro/2024 - Phishing Campaign
-rydrive.xyz
-peg3z.app.goo.gl
-nvidrive.com
-#outubro/2024 - "Malware family Riskware.hvtd.scream.SWF"
-orkutudo.com
-#outubro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
-www.c123.com.br
-#outubro/2024 - "Malware family Phishing.PDF.a.gen"
-www.pmtech.com.br
-#outubro/2024 - Phishing domain
-nivelaservicos.com.br
-8libkxg.8270k7.com
-tolomeo.com.br
-bradesco.acessoprime.digital
-ibpfnovologin-acessodesco.com
-mariafernandacardoso.com.br
 bradescoprime-vivadigital.com
 clienteprime.digital
-rastreiofiscalizacaoaduaneira.co.ua
-rastreiofiscalizacaoaduaneira.com
-specialpromotiondaily.comeira.com
-taxapagamentocorreios.com
-clientepromotions.com
-ibfprime.com
-primevalidar.solutions
-grupointerno.solutions
-acessojuridico.solutions
-#outubro/2024 - Malware related
-198.36.109.208.host.secureserver.net
-evaways.com
-#outubro/2024 - Malware family Trojan.Generic.KD
-elrifeno.com
-#outubro/2024 - Malware family SocGholish
-chhimi.com
-tayakay.com
-#outubro/2024 - "Malware family Trojan.Generic.KD"
-www.controlemunicipal.com.br
-#outubro/2024 - "Malware related"
-ycmobliveslb.dhdf851f.click
-g.happydatingworld1.top
-#outubro/2024 - "Malware family Trojan.mtb.rj.obfuse.js"
-turismodeminas.com.br
-prohall.com.br
-#outubro/2024 - "Phishing domain"
-ipfs.eth.aragon.network
-qrcc.me
-pagina.pro
-www.roblox.com.kg
-corrector.co
-daycoval.facildepagar.com.br
-#outubro/2024 - "Malware family Adware.g.jsrevizer"
-programdiag.com
-shopstorys.com
-#outubro/2024 - "Malware family Unknown"
-www.abs-tech.com
-www.paixaocameras.com.br
-srftjwrty6kew.shop
-#outubro/2024 - Malware family Unknown
-packedbrick.com
-srftjwrty6kew.shop
-#outubro/2024 - "Malware family Trojan.Ml.B.Phonzy.Script"
+mylove777.org
+*.krazzykriss.com
+linkr.it
+challinksch.com
 plumasstore.com.br
-#outubro/2024 - "Malware family ta569"
-asyncawaitapi.com
-speedchaoptimise.com
-#outubro/2024 - "Malware family Trojan.script.generic"
-www.grupomlm.com
-grupomlm.com
-#outubro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
-www.hidoctor.com.br
-#outubro/2024 - Malware family sinkhole_shadowserver
-bitemores.com
-meiboot.com
-#outubro/2024 - "Malware family parrot_tds"
-load.webdatahoster.com
-#outubro/2024 - "Malware family Trojan.script.genericfca"
-www.fabriltelhas.com.br
-#outubro/2024 - "Malware family Trojan.Win32.Eqxecn.Vb"
-www.multiservicos.inf.br
-#outubro/2024 - "Malware family Adware.Win32.aureate"
-multiservicos.inf.br
-#outubro/2024 - "Malware family Trojan.fm2.amfpk0bi.vp2.generic"
-ideia2001.com.br
-#Outubro/232334 - Teste IOC domain com Docker
+loopconstruct.com
+infinityinkpress.com
+writersLife.org
+galactic-worship.com
+syncarpiajanapiom.fun
+mail.govos.com
+*.araujoelima.com
+all4phones.de
+proffelipebarros.com.br
+*.cryptednews.space
+primevalidar.solutions
+serjobs.org
+web3-connectha.gq
+*.check-tl-ver-154-2.com
+*.nefrocalc.net
+lunamymoon.com
+d1x9q8w2e4.xyz
+willianzingoni.com.br
+preventivacreditos.com.br
+termly.io
+deorion.com
+uncme.org.br
+arueoalxbox.org
+o2outsourcing.com.br
+webdataspace.com
+make69.info
+nvidrive.com
+zumkoshapsret.com
+valuteccardsulutions.com
+footprintssafaris.co.ug
+isbncoverdb.com
+tsweeqksa.net
+*.nutritionalhealth.best
+tiambiental.com
+aquali.com.br
+here.selectofmychoices.com
+upsups.click
+*.stickloader.info
+*.cncapp1.bet
+elrifeno.com
+triadfastenerlp.com
+contanely.com
+sistemaathos.com.br
+onlinevaluepack.com
+scaredframe.com
+mytemp.email
+bellsyscdn.com
+athleticclub.com.br
+em4001.ashitexas.org
+*.comidinhaaver.art
+greensisteroftime.com
 malicious.com
-hackmalicious.net
-#Outubro/23230 - Malware domain Docker
-meumalware.com
-malwarehard.wyx
-#Outubro/23235 - Malware domain teste Docker
-maliciousdomain.com
-c2domain.net
-#Outubro/2024 - Malware domain teste Docker
-maliciousdomain.com
-c2domain.net
-#Outubro/2024 - Phishing domain
-maxformaacademias.com.br
-#Outubro/2024 - Phishing domain
-maxformaacademias.com.br
-#Outubro/2024 - C2 domain
-c2teste.com.br
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Malware related
-ikaecaepebe.homes
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Malware family SocGholish
-customer.thewayofmoney.us
-#Outubro/2024 - Malware family Win.Astaroth
-jubam.com.br
-#Outubro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
-hidoctor.com.br
-#Outubro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
-hidoctor.com.br
-#Outubro/2024 - Malware related
-load.365analytics.xyz
-#Outubro/2024 - Malware related
-load.365analytics.xyz
-#Outubro/2024 - Malware related
-load.365analytics.xyz
-#Outubro/2024 - Malware family smokeloader
-planilhasvba.com.br
-#Outubro/2024 - Malware family smokeloader
-planilhasvba.com.br
-#Outubro/2024 - Malware family smokeloader
-planilhasvba.com.br
-#Outubro/2024 - Malware family Win.Astaroth
-jubam.com.br
-#Outubro/2024 - Malware family Win.Astaroth
-jubam.com.br
-#Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
-redenoticia.es
-#Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
-redenoticia.es
-#Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
-redenoticia.es
-#Outubro/2024 - Malware related
 maiscupom.com
-#Outubro/2024 - Malware related
-maiscupom.com
-#Outubro/2024 - Malware family Adware.139c8928.popunder.js.gt
-freepopnews.skin
-#Outubro/2024 - Malware family Adware.139c8928.popunder.js.gt
-freepopnews.skin
-#Outubro/2024 - Malware family Adware.139c8928.popunder.js.gt
-freepopnews.skin
-#Outubro/2024 - Malware family Adware.g.jsrevizer
-linkangood.com
-#Outubro/2024 - Malware family Adware.g.jsrevizer
-linkangood.com
-#Outubro/2024 - Malware family Adware.g.jsrevizer
-linkangood.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
-www.jornaloflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family SocGholish
-www.concretosflorense.com.br
-#Outubro/2024 - Malware family SocGholish
-www.concretosflorense.com.br
-#Outubro/2024 - Malware family SocGholish
-www.concretosflorense.com.br
-#Outubro/2024 - Malware family SocGholish
-www.concretosflorense.com.br
-#Outubro/2024 - Malware family FakeUpdates
-loopconstruct.com
-#Outubro/2024 - Malware family FakeUpdates
-loopconstruct.com
-#Outubro/2024 - Malware family FakeUpdates
-loopconstruct.com
-#Outubro/2024 - Malware family FakeUpdates
-loopconstruct.com
-#Outubro/2024 - Malware family FakeUpdates
-loopconstruct.com
-#Outubro/2024 - Malware family SocGholish
-www.concretosflorense.com.br
-#Outubro/2024 - Malware family FakeUpdates
-loopconstruct.com
-#Outubro/2024 - Malware family SocGholish
-www.concretosflorense.com.br
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
-cdn.highcompanybr.com
-#Novembro/2024 - Malware family FakeUpdates
-objmapper.com
-#Novembro/2024 - Malware family FakeUpdates
-objmapper.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Malware family Unknown
-dareka4te.shop
-#Novembro/2024 - Malware family Unknown
-dareka4te.shop
-#Novembro/2024 - Malware family Unknown
-dareka4te.shop
-#Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
-four.startperfectsolutions.com
-#Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
-four.startperfectsolutions.com
-#Novembro/2024 - Malware family Js.agent.rrl
-upehelp.com.br
-#Novembro/2024 - Malware family Js.agent.rrl
-upehelp.com.br
-#Novembro/2024 - Malware family Js.agent.rrl
-upehelp.com.br
-#Novembro/2024 - Phishing domain
-tukofertas.com.br
-#Novembro/2024 - Phishing domain
-tukofertas.com.br
-#Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
-grandeponto.com.br
-#Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
-grandeponto.com.br
-#Novembro/2024 - Malware related
-fas-amazonia.org
-#Novembro/2024 - Malware related
-fas-amazonia.org
-#Novembro/2024 - Malware related
-fas-amazonia.org
-#Novembro/2024 - Malware related
-fas-amazonia.org
-#Novembro/2024 - Malware family Adware.agent.hk.js
-wds.weqs.ink
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Malware family Win32.bundleloader.j
-www.baixesoft.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
-four.startperfectsolutions.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Malware family Win.Astaroth
+*.js-check.com
+jiusnansss.com
+card.as
+specialpromotiondaily.comeira.com
+c8a516d1.e55e6733904fb475d6637658.workers.dev
+ahaslides.com
+mannmortgage.com
+hotelgarbos.com.br
+*.dash-cioudflare.com
+bocasanta.com.br
+clinicatoque.com.br
+trackinghub.info
+concretosflorense.com.br
+keennylrwmqlw.shop
+shopstorys.com
+flatiron.hair
+bbsupplyandsalon.com
+officialpaper.com.br
+jdoojsbdi.com
+freemake.net
+peg3z.app.goo.gl
 renapsi.org.br
-#Novembro/2024 - Activity Test Query
+icbmv.ro
+bamautzky.de
+aloha-assist.com
+wrochaconsorcios.com.br
+edurestunningcrackyow.fun
+typebot.co
+track.greengoplatform.com
+vaiuteccardsolutions.com
+minastandes.com.br
+www.gameswf.com
+a-diariooficial.com.br
+sousehushoa.net
+packedbrick.com
+gaifubw.com
+*.museuparque.com
+promais.med.br
+*.orastreio.online
+cdix.com.br
+valuteccardsolutoons.com
+puxeumacadeira.com.br
+gpaci.org.br
+load.webdatahoster.com
+lighterepisodeheighte.fun
+*.getnitropack.com
+gov24.top
+*.matchlovers.link
+visitmysmokies.com
+*.saudeencap.store
+bol.bet
+trustisimportant.fun
+k-analytics.net
+phoneky.co.uk
+grupointerno.solutions
+ipfs.eth.aragon.network
+associationokeo.shop
+puredry.com
+*.acaodegraca.com
+*.stc.srv.br
+tempsky.com
+blacktargstore.com.br
+aanqylta.com
+*.vdxru.com
+rpacx.com
+tryyudjasudqo.shop
+britoingresso.com
+*.servicosetedecobranca.com
+documentos-suporteacess.autos
+wpseed.com
+account3748532.org
+github-scanner.com
+agazetarm.com.br
+kbkpay.com
+akmos.com.br
+facebook.lojaseofertas.com
+stavropol-news.net
+valuteccadrsolutions.com
+monsterleadsbiz.com
+akademipraktik.com
+*.jiyz.cn
+cdn.highcompanybr.com
+printerservice.com.br
+g.happydatingworld1.top
+www.abs-tech.com
+multiservicos.inf.br
+greenspans-law.com
+*.contasapagar.net
+*.hopedagemunique.com
+specialtaskevents.com
+oferta-magazine-luiza.com
+static6-jquery.com
+generete-nav-correios.space-to-rent.com
+rydrive.xyz
+hgtikdnlipotpfgder.ddns.net
+lopasmxbo.com.br
+scada.paradizeconstruction.com
+four.startperfectsolutions.com
+renovaserv.bio
+massachusettscomputerservices.com
+vrpirates.wiki
+admin.grupor8.com.br
+top1114.online
+www.controlemunicipal.com.br
+www.pge.ac.gov.br
+searchgear.pro
+*.emjcd.com
+planilhasvba.com.br
+kifortequimica.com.br
+grupoaruanda.com.br
+cdlto.com.br
+urchintelemetry.com
+bandamazonas.com.br
+offers25942.xyz
+krgoodapp.top
+*.servicodesessetedecobranca.com
+cracked.gmgadvertising.com
+*.rtb-feed.com
+*.readytocheckline.com
+mtube888.info
+ebooks.ferrelljoe.com
+divinehealth.com
+foitkdndboptpddsup.ddns.net
+www.grupomlm.com
+hublosk.com
+doggygangers.com
+trademark.iglesiaelarca.com
+puttyconnect.info
+static.s123-cdn.com
+*.acocatarinense.com.br
+krgov24.top
+liberacaorastreiocorreios.co.ua
+liberacao-rastreamentocorreios.com.ua
+kipluterndern.hopto.org
+account58956.com
+sosr.co.in
+grandeponto.com.br
+bind.bestresulttostart.com
+lawofficesres.com
+topxmaxxx.com
+broworker9s.com
+eduvationgroup.com
+growcalm.com
+laticiniosbomjardim.com.br
+g2iprovisaoamericana.med.br
+esportefitness.com
+nivelaservicos.com.br
+aljannatquranteach.com
+valuteccardsolutiones.com
+juaherya.com.br
+apicachebot.com
+decoraktive.com
+licijur.com.br
+pedraferro.com
+downloadstep.com
+valuteccards0lutions.com
+three-ss.com
+cdn25.space
+exelmed.com
+hudukpgdgfytpddswq.ddns.net
+tresmail.net
+mailsuite.com
+pc.pc0416.xyz
+k7ym8xyls.sbs
+detectordiscusser.shop
+parix.solutions
+flashlimp.com.br
+husuy.com
+phoneky.com
+mariafernandacardoso.com.br
+sidecardoughnuts.com
+ncrsupport.com
+*.boavistanet.net
+app.assessmentgenerator.com
+shulugoo.net
+c2domain.net
+interjoan.com
+correiosliberarpedidos.co.ua
+moovelog.com
+curtadoc.tv
+www.cbtarco.org.br
+myoldcountryhouse.com
+*.hotjar.com
+*.infant.best
+freepopnews.skin
+turkeyunlikelyofw.shop
+grupodistribuidora.com
+valuteccardsolutinos.com
+prodigits.co.uk
+*.themental.best
+new2sportnews.com
+atec.com.tr
+*.fastec-mg.dating
+detran-mg-ipva.azurewebsites.net
+karacacomunicacao.com.br
+d8hxy.app.goo.gl
+manual.unilab.com.br
+upehelp.com.br
+valuteccardsloutions.com
+tonsurtom.com.br
+*.quemchegarprimeiro.com.br
+rastreioencomenda.sa.ngrok.io
+amazupkxa.com
+zarrue.com
+hardbin.com
+acessojuridico.solutions
+becorsolaom.com
+tesouraria-me.com
+*.uokit.com
+meumalware.com
+*.marketingvici.com
+programdiag.com
+jrltransportes.com.br
+kmrfibras.com.br
+upscri.be
+*.pontos.co.ua
+clientepromotions.com
+customer.thewayofmoney.us
+*.bellatrixmeissa.com
+selectofmychoices.com
+gamebase.app
+cdnjscloudforced.com
+8libkxg.8270k7.com
+islamkoy.com
+lxkzcss.xyz
+*.saudeencap.online
+circuitoguimaraesrosa.com.br
+relaxatinownio.shop
+cultuenlace.com
+*.homeacessoprime.com
+chambermaidthree.xyz
+sleep.stratosbody.com
+tecrede.com.br
+opticare.co.zw
+ghazalehazhdarzadeh.com
+kr1s.ru
+getrunkhomuto.info
+correagontijo.com.br
+fas-amazonia.org
+feshi.store
+ywetxpgvydaopdopiu.ddns.net
+jsincloud.com
+eeatgoodx.com
+elevacultural.com
+prohall.com.br
+www.fabriltelhas.com.br
+shared1.ccsend.com
+ravseg.com.br
+beecorp.com.br
+restartyourchoices.com
+cacs.org.br
+clicandoeandando.com
+smerconish.com
+libidotechnexus.com
+clubedochute.com.br
+clinicanat.com.br
+www.c123.com.br
+speedchaoptimise.com
+wassonite.com
+fundacaotidesetubal.org.br
+ytbet288.com
+encr.pw
+odontocompany.site
+dais7nsa.shop
+messtube999.info
+ycmobliveslb.dhdf851f.click
+drakepest.com
+cdn30.space
+*.rdntocdns.com
+*.grupoescrita.com
+*.santacasamacatuba.com.br
+*.ibcbh.com.br
+technologyenterdo.shop
+time-check-broker.com
+jamesltaylor.com
+get-my-push.xyz
+oncespyaye.live
+tnoodlezy.com
+www.chg.com.br
+www.pmtech.com.br
+banking-service.xyz
+*.onceokuloncesi.com
+*autopadrao3.cloud
+evaways.com
+uorak.com
+allsdy999.org
+*.preventive.best
+sdshopping.org
+b9y3b7ner2.xyz
+aluminioepvcbh.com.br
+*.asense.in
+maxximus.com.br
+tecnologyc.com
+genedjestytw.shop
+www.llconsult.com.br
+pltsystems.com
+namecheap.com
+jertacco.com
+tayakay.com
+marketingmilionarioon.com
+system-alert.online720.name
+*.nitrocdn.com
+softr.app
+thetinytask.net
+fastdl.site
+uploaddeimagens.com.br/
+*.mkt15.pro
+cervejahcantillon.cfd
+www.tradergrafico.com.br
+plankjock.com
+integrapaysolutions.com
+valuteccardsolutionns.com
+linkrestaurantgroup.com
+vzlx0.ru.com
+acessdocumentos.autos
+apifetchmethod.com
+dw.uptodown.net
+gov24.me
+daleph.com
+quantumservice.tarde
+valuteccardoslutions.com
+rdntocdns.com
+hidoctor.com.br
+*.specialcraftbox.com
+*.siderol.net
+consent.clarosgvas.mobicare.com.br
+facbalancas.com.br
+asyncfunctionapi.com
+minergate.com
+sellspafull.live
+*.adfinis-on-exoscale.ch
+abramed.org.br
+cochevivo.com
+mesaonline.org
+googie-anaiytics.com
+*.trknext.com
+*.jdoqocy.com
+monitor-ua.com
+www.multiservicos.inf.br
+jubam.com.br
+msg111.plala.or.jp
+crpsac.com
+valuteccardsolutionss.com
+funcallback.com
+*.notasdigitalmax.com
+observatoriodeourofino.com.br
+static.s123-cdn-static.com
+louisvidiam.com
+ofertas-magazineluiza.com
+benishgps.com
+maggitoyota.com.br
+*.check-tl-ver-116-3.com
+polyfill.io
+*.cnc.bet
+zonenail.info
+acccountsprivacy0fficeportal.alefkevin.com.br
+pecaslogro.com
+suedxcapuertggando.ddns.net
+maissoja.com.br
+babyfesta.com.br
+debasesingle.life
+find.bestresulttostart.com
+*.maew.cn
+grupomlm.com
+arnaudpairoto.com
+*.controleparque.com
+kaisergames.de
+objmapper.com
+*.ultracdn.top
+*.vultrobjects.com
+taxapagamentocorreios.com
+pshmetrk.com
+start.apistatexperience.com
+trissfibra.com.br
+elianepotiguara.org.br
+*.novissajoias.com.br
+basiconlineincome.com
+msq2323232300000.online
+mjs2222220000.online
+apidevst.com
+semanariolaprensa.com
+olink.ai
+www.paixaocameras.com.br
+worldpay.work
+canvaessencial.com.br
+sdk.ocmhood.com
+mail.bossbabe.com
+www.rivabeachbari.com
+nds.id
+ytube2dl.com
+hiepsibaotap.com
+filosofiaespirita.org
+tx.gl
+descontador.com.br
+images.agptek.us
+animaatjes.de
+liberarentrega.online
+betsmovepiyango47.com
+uyuyahbox.com
+masrybs.com
+jagaranmf.com
+*.lojagrupoorganica.com.br
+ibfprime.com
+smtplw-04.com
+acouguevegano.com.br
+limeerror.org
+hillfinconsult.com
+valuteccardsoluitons.com
+valuyeccardsolutions.com
+downloaddining.com
+livrosnarede.com.br
+www.mybrowserbar.com
+higherthoughtinstitute.com
+thinonthin.life
+valuteccsrdsolutions.com
+daycoval.facildepagar.com.br
+saltstrong.com
+*.trafficflowdiscovery.com
+murmansk-news.net
+onceokuloncesi.com
+clinicalettieri.com.br
+asa.com
+valutecxardsolutions.com
+googlecloudns.com
+bigwimalbr.com.br
+supplier.yaarx.com
+v1069-guncelleme-chrome.epizy.com
+tempoms.com.br
+verytradesafeapp.com
+connect-tripadvisor.com
+valutecacrdsolutions.com
+blakely[@]mannmortgage.com
+tolomeo.com.br
+turismodeminas.com.br
+icontactmail4.com
+jswebcache.com
+sqlmagazine.com.br
+reggwardssdqw.shop
+hipershow.com.br
+gudintas.at
+valuteccardsolutiions.com
+sokingscrosshotel.com
+*.networkfullchain.co.in
+startfinishthis.com
+conectiva.com.br
+gspiceyl.com
+*.tpca.cn
+hajvnoao.buzhantahvieh.com
+completehealth.net.br
+thewowfeed.com
+*.init.cedexis-radar.net
+hackmalicious.net
+*.dotomi.com
+crowdstrikebsod.com
+autroliner.com
+agereti.com.br
+starlinkprimeviva.com
+kingpirate.ru
+*.bestoraculo.com
+*.securesystemzone.com
+jswebcloud.com
+jornaloflorense.com.br
+ztm.ink
+fix-crowdstrike-apocalypse.com
+downloaddining2.com
+bradesclivelsend.com
+*.parqueitaim.com
+clickcurvelo.com
 activity.lumu.io
-#Novembro/2024 - Malware family socgholish
-loopconstruct.com
-#Novembro/2024 - Malware family socgholish
-loopconstruct.com
-#Novembro/2024 - Malware family socgholish
-loopconstruct.com
-#Novembro/2024 - Malware related
-pay.risepay.com.br
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Malware related
-pay.risepay.com.br
-#Novembro/2024 - Malware related
-pay.risepay.com.br
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
+saicetyapy.space
+ursketz.com
+yuryanxbo.com
+orkutudo.com
 100security.com.br
-#Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
-100security.com.br
-#Novembro/2024 - Malware family Unknown
-dareka4te.shop
-#Novembro/2024 - Malware family Unknown
-dareka4te.shop
-#Novembro/2024 - Malware family Unknown
+kandlprinting.online
+valutevcardsolutions.com
+leah.bet
+*.turmadabruta.com
+ebs.com.br
+musicacolaborativa.com
+nitroscripts.com
+chhimi.com
+awllywood.com
+pfannen-scholl.info
+pararaios05fvd.ver
+scriptbrasil.com.br
+ahd.lat
+srftjwrty6kew.shop
+load.365analytics.xyz
+nokstv.ru
+1717.1000uc.com
+app.rdstation.email
+escriba.com.br
+*.memoryloader.com
+impconcursos.com.br
+www.scriptbrasil.com.br
+sintinorp.com.br
+psgermain.com.br
+rastreiofiscalizacaoaduaneira.com
+pisosg8tr.xyz
+grunzalom.fun
+*.dcljeans.store
+valuteccardsolutins.com
+*.tvuhd4k-magazineluiza.com
+vrmaobox.org
+*.webfiledata.com
+paraboobs.xyz
+ptirtika.com
+revistaexclusive.com.br
+pooreveningfuseor.pw
+serviUpdate.bio
+magazinewp.com
+*.extinfran.com.br
+mail.mailchimpapp.com
+*.4i7i.com
+19jt0pakbh19.icu
+ssw.inf.br
+t.ocmhood.com
+lemonimonakio.com
+Golubcapitall.com
+tripadvisor.gift
+ikaecaepebe.homes
+*.hotjar.io
+gta5cheats.org
+valuteccardsolutoins.com
+ardos.com.br
+blacksaltys.com
+technokingdigital.com
+autocity.com
+ghost.blueecho88.com
+*.globalgroupportal.com
+rlimpermeabilizacao.com
+pedrinhomateriais.com.br
+lllovers.uk
+greentechreviews.ru
+benworthcapital.com
+centersol.com.br
+espacoetica.com.br
+getonmyhorse.com
+pixclub.site
+wirsilsa.net
+peskpdfgif.shop
+xeis.io
+teachabletutorials.com
+chromee-update-it.com
+human-bot-view.chalnlizt.org
+www.concretosflorense.com.br
+kolamvr.com
+hyetasbox.org
+actionelectric.pt
+brwsuprimentos.com.br
+thishosting.rocks
+meucredicard.com
+bunmmpoer.top
+valutekcardsolutions.com
+tororomba.com.br
+fix-crowdstrike-bsod.com
+ibyflpamsx.com
+extinfran.com.br
+astrakhan-news.net
+intermiamicf.co
+zammolpaxfl.com
+*.sisansaude.com
+chambermaidthree.xyz/
+ocs.pr.gov.br
+198.36.109.208.host.secureserver.net
+*.junctionspeedforum.co.in
+xn----7sbbabydmnabw7adjco1bcucct3a7c5i0d.kyiv.ua
+msk-news.net
+*.100security.com.br
+*.primeoffertonline.world
+valuteccardsoluions.com
+jmich.johndgreat.com
+ndas8m92.shop
+*.excellentinsurance.best
+*.fiscal.best
+www.jornaloflorense.com.br
+twixar.me
+wds.weqs.ink
+www.llev.com.br
+*.check-tl-ver-176-1.com
+cdn.ocmhood.com
+valateccardsolutions.com
+linkfone.com.br
+priori.com.br
+nahamclago.com
+bradesco.primeofertasonline.work
+claro-link.brsafe.com.br
+pik96.ru
+erdokemiahetolmacs.hu
+terrafm94.com.br
+*.campus-centre.fr
+*.hidoctor.com.br
+deborahsilvermusic.com
+*.greengoplatform.com
+maxformaacademias.com.br
+connectivity-check.linkpc.net
+magazine-luiza.com
+*.contratodocliente.com
+pay.risepay.com.br
+mainetti.eng.br
+gf79.org
+bradesco.acessoprime.digital
+corrector.co
+fenster-kronen.de
+veluteccardsolutions.com
+ww25.criarenquete.com
+wpemojii.com
+*.minhasencomendas.store
+downloadsbeta.com
+ibpfnovologin-acessodesco.com
+asyncawaitapi.com
+titnovacrion.top
+cdoiqprogram.ccsend.com
+cienciadameditacao.com.br
+kuamlopc.com
+*.v6.army
+*.dvodontomaraba.com.br
+*.ativacaodistribuidora.com.br
+cervejahballastpoint.cfd
+maguirelaneliving.com
+northnewjerseychamber.ccsend.com
+*.bestresulttostart.com
+trackmenow.life
+etr.lat
+eemmbryequo.shop
+rastreiofiscalizacaoaduaneira.co.ua
+danisallesdesign.com
+direitopublico.com.br
+olybible.com
+absolutecache.com
+mestredaobra.com
+*.iyla.cn
+www.hidoctor.com.br
+ideia2001.com.br
+arsimonopa.com
+oklahomacityehs.com
+cdntoswitchspirit.com
+biomontes.com.br
+zcr.ink
+www.baixesoft.com
+influenciadormagalu.com.br
+vekeltaizy.net
+newmd.com.br
+oktube999.info
+tendencctywop.shop
+www.roblox.com.kg
+view.librerialieggi.com
+elemental.agency
+valuteccarrdsolutions.com
+consultaragora.com
+pagina.pro
+insidebox.pt
+saudeepe.com.br
+ndm2398asdlw.shop
+smolcatkgi.shop
+goodapps.top
+ytube888.info
+licenseodqwmqn.shop
+primeacessobrad.skin
+*.saudeencap.com.br
+alucomposto.com.br
+geracaoaventura.com
+analytics-henrique.top
+linkangood.com
+tukofertas.com.br
+yogaone.es
+grebiunti.top
+valutwccardsolutions.com
+cnitedu.com
+malwarehard.wyx
+webness.com.br
+ajsdiaolke.shop
+ari-mama.com
+cdnw1.omeuwebsite.com
+clcr.me
+maliciousdomain.com
+*.oseuenvio.com
+*.mail-redir.com
+problemregardybuiwo.fun
+s9l0w7n3y5.xyz
+www.deniswarren.com
+gowsalesvs.live
+llconsult.com.br
+tesecuuweqo.shop
+qrcc.me
+jessaminechamber.org
+le-herisson.info
+*.pshmetrk.com
+jfu259.com
+mdasidy72.lol
+cache.cloudswiftcdn.com
+healthequity.sa.com
+msq242424240000.online
+hidiugfvbnjh.ghazalehazhdarzadeh.com
+*.pc0416.xyz
+*.pvamz.net
+*.dcljeans.com
+*.goldwik.com
+load.memoryloader.com
+rosatiauto.com
+docuverseinhub.com
+valuteccardslutions.com
+like1902.xyz
+c2teste.com.br
+*.xmrpool.ru
+celiciosatrip.com
+sintracomsulminas.com.br
+meiboot.com
+redenoticia.es
+valuteccardsollutions.com
+*.tebi.io
+intelectools.com.br
+pmisp.org.br
+vibedroom.org
+koloro.com.br
+yourbrand-18274.kxcdn.com
+bitemores.com
+thesleeperandco.com
+slochamber[@]slochamber.org
+multitudewarfare.top
+#Novembro/2024 - Malware domain teste Docker
 dareka4te.shop
