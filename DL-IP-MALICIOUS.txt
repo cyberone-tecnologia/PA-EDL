@@ -579,3 +579,6 @@
 181.12.6.36
 #novembro/2024 - Brute Force Login Attemp
 176.124.205.197
+#novembro/2024 - Malicious IP
+177.131.113.22
+177.105.112.155
