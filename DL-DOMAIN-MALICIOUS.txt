@@ -1320,3 +1320,5 @@ dareka4te.shop
 apav.pt
 #Novembro/2024 - Malware family SocGholish
 apav.pt
+#Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+www.hidoctor.com.br
