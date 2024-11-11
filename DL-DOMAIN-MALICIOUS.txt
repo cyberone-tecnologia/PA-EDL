@@ -1318,3 +1318,5 @@ dareka4te.shop
 #Novembro/2024 - Malware domain teste Docker
 #Novembro/2024 - Malware family SocGholish
 apav.pt
+#Novembro/2024 - Malware family SocGholish
+apav.pt
