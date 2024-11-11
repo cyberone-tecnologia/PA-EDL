@@ -975,7 +975,6 @@ speedchaoptimise.com
 www.grupomlm.com
 grupomlm.com
 #outubro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
-www.hidoctor.com.br
 hidoctor.com.br
 #outubro/2024 - Malware family sinkhole_shadowserver
 bitemores.com
@@ -1095,3 +1094,5 @@ renapsi.org.br
 vps-d8aafc2b.vps.ovh.net
 #novembro/2024 - "Malware family SocGholish"
 apav.pt
+#novembro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
+www.hidoctor.com.br
