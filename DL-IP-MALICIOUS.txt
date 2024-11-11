@@ -582,3 +582,5 @@
 #novembro/2024 - Malicious IP
 177.131.113.22
 177.105.112.155
+#novembro/2024 - Brute Force Login Attempt
+38.180.91.132
