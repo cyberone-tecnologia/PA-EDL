@@ -1087,7 +1087,11 @@ pay.risepay.com.br
 wds.weqs.ink
 #novembro/2024 - "Malware family Win32.bundleloader.j"
 www.baixesoft.com
-#novembro/2024 - "Malware family Win.Astaroth"
-renapsi.org.br
 #novembro/2024 - "Malware family socgholish"
 loopconstruct.com
+#novembro/2024 - Malware family Win.Astaroth
+cloudprimebefore.co.ua
+renapsi.org.br
+vps-d8aafc2b.vps.ovh.net
+#novembro/2024 - "Malware family SocGholish"
+apav.pt
