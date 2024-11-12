@@ -1324,3 +1324,5 @@ apav.pt
 www.hidoctor.com.br
 #Novembro/2024 - Phishing domain
 teste23.com.br
+#Novembro/2024 - Malware family magentocore
+analytishub.com
