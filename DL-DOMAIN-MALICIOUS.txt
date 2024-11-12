@@ -1096,3 +1096,5 @@ vps-d8aafc2b.vps.ovh.net
 apav.pt
 #novembro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
 www.hidoctor.com.br
+#novembro/2024 - "Malware family magentocore"
+analytishub.com
