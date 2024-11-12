@@ -52,6 +52,7 @@ gudintas.at
 pik96.ru
 rosatiauto.com
 kingpirate.ru
+connectivity-check.linkpc.net
 #fevereiro/2024 - FIS: Suspicious Domains
 banking-service.xyz
 parix.solutions
@@ -167,6 +168,9 @@ valuteccardsolutins.com
 valuteccardslutions.com
 valuteccardsulutions.com
 #marco/24 Phishing Campaigns IoCs 27/03
+cnitedu.com
+wassonite.com
+wpseed.com
 smerconish.com
 serjobs.org
 mail.mailchimpapp.com
@@ -183,18 +187,24 @@ linkrestaurantgroup.com
 shared1.ccsend.com
 drakepest.com
 blakely[@]mannmortgage.com
+mannmortgage.com
 triadfastenerlp.com
 exelmed.com
 three-ss.com
+mannmortgage.com
 puredry.com
 jamesltaylor.com
 icontactmail4.com
 mesaonline.org
 greenspans-law.com
+puredry.com
 jessaminechamber.org
 lawofficesres.com
+drakepest.com
+mannmortgage.com
 slochamber[@]slochamber.org
 writersLife.org
+drakepest.com
 cdoiqprogram.ccsend.com
 #marco/24 New Powertrash C2
 cdn30.space
@@ -356,6 +366,7 @@ linkfone.com.br
 #junho/2024 - Malware family Unknown
 s9l0w7n3y5.xyz
 espacoetica.com.br
+*.parqueitaim.com
 mdasidy72.lol
 jsincloud.com
 #junho/2024 - command-and-control
@@ -389,6 +400,11 @@ searchgear.pro
 *.pshmetrk.com
 *.trknext.com
 #junho/2024 - Phishing campaign
+*.check-tl-ver-154-2.com
+*.bellatrixmeissa.com
+*.rtb-feed.com
+*.pshmetrk.com
+*.trknext.com
 *.js-check.com
 *.ultracdn.top
 paraboobs.xyz
@@ -694,6 +710,7 @@ webness.com.br
 ajsdiaolke.shop
 cache.cloudswiftcdn.com
 semanariolaprensa.com
+semanariolaprensa.com
 #agosto/2024 - Malware related
 msk-news.net
 stavropol-news.net
@@ -729,6 +746,7 @@ intelectools.com.br
 #agosto/2024 - Malware family Win32.Remoteadmin.C.Winvnc.Based
 www.chg.com.br
 #agosto/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
+*.hidoctor.com.br
 #agosto/2024 - Phishing Domain
 *.jiyz.cn
 *.maew.cn
@@ -737,12 +755,14 @@ www.chg.com.br
 hardbin.com
 olink.ai
 #agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
+k-analytics.net
 #agosto/2024 - Load Malicious Script
 *.novissajoias.com.br
 #agosto/2024 - Malware family Trojan.Genericgba.Java
 phoneky.co.uk
 phoneky.com
 #agosto/2024 - Malware family gootkit
+tororomba.com.br
 #agosto/2024 - Malware family Agent.Mrro.Js.Malware
 agereti.com.br
 #agosto/2024 - CobaltStrike
@@ -954,6 +974,7 @@ www.paixaocameras.com.br
 srftjwrty6kew.shop
 #outubro/2024 - Malware family Unknown
 packedbrick.com
+srftjwrty6kew.shop
 #outubro/2024 - "Malware family Trojan.Ml.B.Phonzy.Script"
 plumasstore.com.br
 #outubro/2024 - "Malware family ta569"
@@ -987,188 +1008,321 @@ malwarehard.wyx
 maliciousdomain.com
 c2domain.net
 #Outubro/2024 - Malware domain teste Docker
+maliciousdomain.com
+c2domain.net
 #Outubro/2024 - Phishing domain
 maxformaacademias.com.br
 #Outubro/2024 - Phishing domain
+maxformaacademias.com.br
 #Outubro/2024 - C2 domain
 c2teste.com.br
 #Outubro/2024 - Activity Test Query
 activity.lumu.io
 #Outubro/2024 - Activity Test Query
+activity.lumu.io
 #Outubro/2024 - Activity Test Query
+activity.lumu.io
 #Outubro/2024 - Malware related
 ikaecaepebe.homes
 #Outubro/2024 - Activity Test Query
+activity.lumu.io
 #Outubro/2024 - Malware family SocGholish
 customer.thewayofmoney.us
 #Outubro/2024 - Malware family Win.Astaroth
 jubam.com.br
 #Outubro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+hidoctor.com.br
 #Outubro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+hidoctor.com.br
 #Outubro/2024 - Malware related
 load.365analytics.xyz
 #Outubro/2024 - Malware related
+load.365analytics.xyz
 #Outubro/2024 - Malware related
+load.365analytics.xyz
 #Outubro/2024 - Malware family smokeloader
+planilhasvba.com.br
 #Outubro/2024 - Malware family smokeloader
+planilhasvba.com.br
 #Outubro/2024 - Malware family smokeloader
+planilhasvba.com.br
 #Outubro/2024 - Malware family Win.Astaroth
+jubam.com.br
 #Outubro/2024 - Malware family Win.Astaroth
+jubam.com.br
 #Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
 redenoticia.es
 #Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
+redenoticia.es
 #Outubro/2024 - Malware family HEUR:Trojan.Script.Generic
+redenoticia.es
 #Outubro/2024 - Malware related
 maiscupom.com
 #Outubro/2024 - Malware related
+maiscupom.com
 #Outubro/2024 - Malware family Adware.139c8928.popunder.js.gt
 freepopnews.skin
 #Outubro/2024 - Malware family Adware.139c8928.popunder.js.gt
+freepopnews.skin
 #Outubro/2024 - Malware family Adware.139c8928.popunder.js.gt
+freepopnews.skin
 #Outubro/2024 - Malware family Adware.g.jsrevizer
+linkangood.com
 #Outubro/2024 - Malware family Adware.g.jsrevizer
+linkangood.com
 #Outubro/2024 - Malware family Adware.g.jsrevizer
+linkangood.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
 www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
 cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.ml.b.fl.sabsik.script
+www.jornaloflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family SocGholish
 www.concretosflorense.com.br
 #Outubro/2024 - Malware family SocGholish
+www.concretosflorense.com.br
 #Outubro/2024 - Malware family SocGholish
+www.concretosflorense.com.br
 #Outubro/2024 - Malware family SocGholish
+www.concretosflorense.com.br
 #Outubro/2024 - Malware family FakeUpdates
 loopconstruct.com
 #Outubro/2024 - Malware family FakeUpdates
+loopconstruct.com
 #Outubro/2024 - Malware family FakeUpdates
+loopconstruct.com
 #Outubro/2024 - Malware family FakeUpdates
+loopconstruct.com
 #Outubro/2024 - Malware family FakeUpdates
+loopconstruct.com
 #Outubro/2024 - Malware family SocGholish
+www.concretosflorense.com.br
 #Outubro/2024 - Malware family FakeUpdates
+loopconstruct.com
 #Outubro/2024 - Malware family SocGholish
+www.concretosflorense.com.br
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Outubro/2024 - Malware family Trojan.downloader.kqkkfv.script
+cdn.highcompanybr.com
 #Novembro/2024 - Malware family FakeUpdates
 objmapper.com
 #Novembro/2024 - Malware family FakeUpdates
+objmapper.com
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware family Unknown
 dareka4te.shop
 #Novembro/2024 - Malware family Unknown
+dareka4te.shop
 #Novembro/2024 - Malware family Unknown
+dareka4te.shop
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
+four.startperfectsolutions.com
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
+four.startperfectsolutions.com
 #Novembro/2024 - Malware family Js.agent.rrl
 upehelp.com.br
 #Novembro/2024 - Malware family Js.agent.rrl
+upehelp.com.br
 #Novembro/2024 - Malware family Js.agent.rrl
+upehelp.com.br
 #Novembro/2024 - Phishing domain
+tukofertas.com.br
 #Novembro/2024 - Phishing domain
+tukofertas.com.br
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
+grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
+grandeponto.com.br
 #Novembro/2024 - Malware related
 fas-amazonia.org
 #Novembro/2024 - Malware related
+fas-amazonia.org
 #Novembro/2024 - Malware related
+fas-amazonia.org
 #Novembro/2024 - Malware related
+fas-amazonia.org
 #Novembro/2024 - Malware family Adware.agent.hk.js
 wds.weqs.ink
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
+www.baixesoft.com
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
+four.startperfectsolutions.com
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware family Win.Astaroth
 renapsi.org.br
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware family socgholish
+loopconstruct.com
 #Novembro/2024 - Malware family socgholish
+loopconstruct.com
 #Novembro/2024 - Malware family socgholish
+loopconstruct.com
 #Novembro/2024 - Malware related
 pay.risepay.com.br
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware related
+pay.risepay.com.br
 #Novembro/2024 - Malware related
+pay.risepay.com.br
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Activity Test Query
+activity.lumu.io
 #Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
 #Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
+100security.com.br
 #Novembro/2024 - Malware family Unknown
+dareka4te.shop
 #Novembro/2024 - Malware family Unknown
+dareka4te.shop
 #Novembro/2024 - Malware family Unknown
+dareka4te.shop
 #Novembro/2024 - Malware domain teste Docker
 #Novembro/2024 - Malware domain teste Docker
 #Novembro/2024 - Malware family SocGholish
 apav.pt
 #Novembro/2024 - Malware family SocGholish
+apav.pt
 #Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+www.hidoctor.com.br
 #Novembro/2024 - Phishing domain
 teste23.com.br
 #Novembro/2024 - Malware family magentocore
-analytishub.com#Novembro/2024 - Malware domain teste Docker
-dareka4te.shop
+analytishub.com
