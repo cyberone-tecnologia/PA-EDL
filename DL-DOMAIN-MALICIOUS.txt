@@ -1198,9 +1198,6 @@ activity.lumu.io
 activity.lumu.io
 #Novembro/2024 - Activity Test Query
 activity.lumu.io
-#Novembro/2024 - Malware family Unknown
-#Novembro/2024 - Malware family Unknown
-#Novembro/2024 - Malware family Unknown
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
@@ -1305,11 +1302,6 @@ activity.lumu.io
 100security.com.br
 #Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
-#Novembro/2024 - Malware family Unknown
-#Novembro/2024 - Malware family Unknown
-#Novembro/2024 - Malware family Unknown
-#Novembro/2024 - Malware domain teste Docker
-#Novembro/2024 - Malware domain teste Docker
 #Novembro/2024 - Malware family SocGholish
 apav.pt
 #Novembro/2024 - Malware family SocGholish
@@ -1320,7 +1312,5 @@ www.hidoctor.com.br
 teste23.com.br
 #Novembro/2024 - Malware family magentocore
 analytishub.com
-#Novembro/2024 - Malware domain teste Docker
-#Novembro/2024 - Malware domain teste Docker
-#Novembro/2024 - Malware domain teste Docker2
+#Novembro/2024 - Malware domain teste Docker3
 dareka4te.shop
