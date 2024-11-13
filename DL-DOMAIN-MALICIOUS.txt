@@ -1101,3 +1101,5 @@ www.hidoctor.com.br
 analytishub.com
 #novembro/2024 - "Malware family Trojan.mtb.ydaa.obfuse.js"
 madalosso.com.br
+#novembro/2024 - "Malware family 4c3eft.Malwthreat.Js"
+storage.webfiledata.com
