@@ -1103,3 +1103,5 @@ analytishub.com
 madalosso.com.br
 #novembro/2024 - "Malware family 4c3eft.Malwthreat.Js"
 storage.webfiledata.com
+#novembro/2024 - "Malware family Trojan.mtb.sfaa.obfuse.js"
+mais1cafe.com.br
