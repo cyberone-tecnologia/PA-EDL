@@ -1264,3 +1264,5 @@ www.hidoctor.com.br
 activity.lumu.io
 #Novembro/2024 - Phishing domain
 search.buzzonfeed.com
+#Novembro/2024 - Malware family Trojan.mtb.ydaa.obfuse.js
+madalosso.com.br
