@@ -1099,3 +1099,5 @@ apav.pt
 www.hidoctor.com.br
 #novembro/2024 - "Malware family magentocore"
 analytishub.com
+#novembro/2024 - "Malware family Trojan.mtb.ydaa.obfuse.js"
+madalosso.com.br
