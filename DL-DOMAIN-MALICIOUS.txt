@@ -1014,16 +1014,8 @@ maxformaacademias.com.br
 maxformaacademias.com.br
 #Outubro/2024 - C2 domain
 c2teste.com.br
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
 #Outubro/2024 - Malware related
 ikaecaepebe.homes
-#Outubro/2024 - Activity Test Query
-activity.lumu.io
 #Outubro/2024 - Malware family SocGholish
 customer.thewayofmoney.us
 #Outubro/2024 - Malware family Win.Astaroth
@@ -1180,22 +1172,6 @@ cdn.highcompanybr.com
 objmapper.com
 #Novembro/2024 - Malware family FakeUpdates
 objmapper.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
@@ -1224,16 +1200,6 @@ fas-amazonia.org
 fas-amazonia.org
 #Novembro/2024 - Malware family Adware.agent.hk.js
 wds.weqs.ink
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware family Win32.bundleloader.j
 www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
@@ -1248,8 +1214,6 @@ www.baixesoft.com
 www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
 www.baixesoft.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware family Win32.bundleloader.j
 www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
@@ -1264,16 +1228,10 @@ www.baixesoft.com
 www.baixesoft.com
 #Novembro/2024 - Malware family Win32.bundleloader.j
 www.baixesoft.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware family Win.Astaroth
 renapsi.org.br
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware family socgholish
 loopconstruct.com
 #Novembro/2024 - Malware family socgholish
@@ -1282,20 +1240,10 @@ loopconstruct.com
 loopconstruct.com
 #Novembro/2024 - Malware related
 pay.risepay.com.br
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware related
 pay.risepay.com.br
 #Novembro/2024 - Malware related
 pay.risepay.com.br
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
 #Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
@@ -1312,3 +1260,5 @@ dareka4te.shop
 analytishub.com
 #Novembro/2024 - Malware teste server na produção
 www.hidoctor.com.br
+#Novembro/2024 - Activity Test Query
+activity.lumu.io
