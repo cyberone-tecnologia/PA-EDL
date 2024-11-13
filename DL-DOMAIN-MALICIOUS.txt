@@ -963,7 +963,6 @@ ipfs.eth.aragon.network
 qrcc.me
 pagina.pro
 www.roblox.com.kg
-corrector.co
 daycoval.facildepagar.com.br
 #outubro/2024 - "Malware family Adware.g.jsrevizer"
 programdiag.com
@@ -1270,3 +1269,5 @@ madalosso.com.br
 storage.webfiledata.com
 #Novembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
 mais1cafe.com.br
+#Novembro/2024 - Phishing domain
+corrector.co
