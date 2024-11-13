@@ -1268,3 +1268,5 @@ search.buzzonfeed.com
 madalosso.com.br
 #Novembro/2024 - Malware family 4c3eft.Malwthreat.Js
 storage.webfiledata.com
+#Novembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
+mais1cafe.com.br
