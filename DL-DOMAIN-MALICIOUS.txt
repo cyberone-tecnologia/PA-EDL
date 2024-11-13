@@ -983,8 +983,6 @@ speedchaoptimise.com
 #outubro/2024 - "Malware family Trojan.script.generic"
 www.grupomlm.com
 grupomlm.com
-#outubro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
-www.hidoctor.com.br
 #outubro/2024 - Malware family sinkhole_shadowserver
 bitemores.com
 meiboot.com
@@ -1306,11 +1304,11 @@ activity.lumu.io
 apav.pt
 #Novembro/2024 - Malware family SocGholish
 apav.pt
-#Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
-www.hidoctor.com.br
 #Novembro/2024 - Phishing domain
 teste23.com.br
 #Novembro/2024 - Malware domain teste Docker
 dareka4te.shop
 #Novembro/2024 - Malware magentocore
 analytishub.com
+#Novembro/2024 - Malware teste server na produção
+www.hidoctor.com.br
