@@ -1077,6 +1077,7 @@ four.startperfectsolutions.com
 upehelp.com.br
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
+search.buzzonfeed.com
 #novembro/2024 - "Malware family Trojan.Ml.B.Fl.Sabsik.Script"
 grandeponto.com.br
 #novembro/2024 - "Malware related"
