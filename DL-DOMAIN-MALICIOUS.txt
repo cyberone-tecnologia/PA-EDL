@@ -1266,3 +1266,5 @@ activity.lumu.io
 search.buzzonfeed.com
 #Novembro/2024 - Malware family Trojan.mtb.ydaa.obfuse.js
 madalosso.com.br
+#Novembro/2024 - Malware family 4c3eft.Malwthreat.Js
+storage.webfiledata.com
