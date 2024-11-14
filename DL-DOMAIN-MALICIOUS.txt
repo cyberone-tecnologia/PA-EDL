@@ -1174,12 +1174,6 @@ objmapper.com
 four.startperfectsolutions.com
 #Novembro/2024 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
-#Novembro/2024 - Malware family Js.agent.rrl
-upehelp.com.br
-#Novembro/2024 - Malware family Js.agent.rrl
-upehelp.com.br
-#Novembro/2024 - Malware family Js.agent.rrl
-upehelp.com.br
 #Novembro/2024 - Phishing domain
 tukofertas.com.br
 #Novembro/2024 - Phishing domain
@@ -1272,3 +1266,5 @@ fas-amazonia.org
 g.happydatingworld1.top
 #Novembro/2024 - Malware related
 654652.com
+#Novembro/2024 - Malware family Js.agent.rrl
+upehelp.com.br
