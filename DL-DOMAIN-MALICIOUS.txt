@@ -955,7 +955,6 @@ ipfs.eth.aragon.network
 qrcc.me
 pagina.pro
 www.roblox.com.kg
-corrector.co
 daycoval.facildepagar.com.br
 maxformaacademias.com.br
 encr.pw
@@ -1078,6 +1077,7 @@ upehelp.com.br
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
 search.buzzonfeed.com
+corrector.co
 #novembro/2024 - "Malware family Trojan.Ml.B.Fl.Sabsik.Script"
 grandeponto.com.br
 #novembro/2024 - "Malware related"

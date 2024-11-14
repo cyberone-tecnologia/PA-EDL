@@ -584,5 +584,3 @@
 177.105.112.155
 #novembro/2024 - Brute Force Login Attempt
 38.180.91.132
-#novembro/2024 - "TOR NODE"
-103.252.90.108
