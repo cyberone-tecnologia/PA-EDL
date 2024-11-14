@@ -1271,3 +1271,5 @@ storage.webfiledata.com
 mais1cafe.com.br
 #Novembro/2024 - Phishing domain
 corrector.co
+#Novembro/2024 - Malware family GT:JS.Nemucod.3.4883BB5A
+stay.decentralappps.com
