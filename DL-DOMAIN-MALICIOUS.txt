@@ -1105,3 +1105,5 @@ madalosso.com.br
 storage.webfiledata.com
 #novembro/2024 - "Malware family Trojan.mtb.sfaa.obfuse.js"
 mais1cafe.com.br
+#novembro/2024 - "Malware family GT:JS.Nemucod.3.4883BB5A"
+stay.decentralappps.com
