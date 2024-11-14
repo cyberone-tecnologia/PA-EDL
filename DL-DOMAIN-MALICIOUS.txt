@@ -1107,3 +1107,6 @@ storage.webfiledata.com
 mais1cafe.com.br
 #novembro/2024 - "Malware family GT:JS.Nemucod.3.4883BB5A"
 stay.decentralappps.com
+#novembro/2024 - Phishing domain
+acessoriacescritorioonline.com
+acessoriasdigitl.com
