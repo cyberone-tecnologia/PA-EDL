@@ -1259,8 +1259,6 @@ dareka4te.shop
 analytishub.com
 #Novembro/2024 - Malware teste server na produção
 www.hidoctor.com.br
-#Novembro/2024 - Activity Test Query
-activity.lumu.io
 #Novembro/2024 - Phishing domain
 search.buzzonfeed.com
 #Novembro/2024 - Malware family Trojan.mtb.ydaa.obfuse.js
@@ -1273,3 +1271,5 @@ mais1cafe.com.br
 corrector.co
 #Novembro/2024 - Malware family GT:JS.Nemucod.3.4883BB5A
 stay.decentralappps.com
+#Novembro/2024 - Activity Test Query
+activity.lumu.io
