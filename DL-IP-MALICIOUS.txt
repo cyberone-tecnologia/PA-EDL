@@ -594,3 +594,5 @@ malwarehard.wyx
 103.252.90.108
 #Novembro/2024 - TOR NODE
 185.165.171.84
+#Novembro/2024 - TOR NODE
+154.213.184.70
