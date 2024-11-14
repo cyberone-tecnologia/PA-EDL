@@ -954,7 +954,6 @@ tayakay.com
 www.controlemunicipal.com.br
 #outubro/2024 - "Malware related"
 ycmobliveslb.dhdf851f.click
-g.happydatingworld1.top
 #outubro/2024 - "Malware family Trojan.mtb.rj.obfuse.js"
 turismodeminas.com.br
 prohall.com.br
@@ -1269,3 +1268,5 @@ activity.lumu.io
 fas-amazonia.org
 #Novembro/2024 - Malware family Trojan.Win32.rfn.a.skeeyah
 1.piratebays.to
+#Novembro/2024 - Malware related
+g.happydatingworld1.top
