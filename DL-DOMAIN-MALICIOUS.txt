@@ -1268,3 +1268,5 @@ g.happydatingworld1.top
 654652.com
 #Novembro/2024 - Malware family Js.agent.rrl
 upehelp.com.br
+#Novembro/2024 - Malware family Trojan.Android.Mtb.V.Sagnt
+upy.happymod.cool
