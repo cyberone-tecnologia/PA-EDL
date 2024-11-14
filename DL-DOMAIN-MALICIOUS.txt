@@ -1189,14 +1189,6 @@ tukofertas.com.br
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
-#Novembro/2024 - Malware related
-fas-amazonia.org
-#Novembro/2024 - Malware related
-fas-amazonia.org
-#Novembro/2024 - Malware related
-fas-amazonia.org
-#Novembro/2024 - Malware related
-fas-amazonia.org
 #Novembro/2024 - Malware family Adware.agent.hk.js
 wds.weqs.ink
 #Novembro/2024 - Malware family Win32.bundleloader.j
@@ -1273,3 +1265,5 @@ corrector.co
 stay.decentralappps.com
 #Novembro/2024 - Activity Test Query
 activity.lumu.io
+#Novembro/2024 - Malware related
+fas-amazonia.org
