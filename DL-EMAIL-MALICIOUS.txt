@@ -599,3 +599,18 @@ sac.eventos[@]smtplw-14.com
 ofertas.magalu-22[@]oferta-magazine-luiza.com
 ofertas.magalu-47[@]saldao-magazine-luiza.com
 ofertas92[@]pravoce-magazine-luiza.com
+#novembro/2024 - Phishing
+cliente.bradesco[@]rwaci.emporiodasfrutas.com
+cliente.bradesco[@]demtt.luxosportfitness.com
+cliente.bradesco[@]vhaap.bembomcarnes.com
+cliente.bradesco[@]nbzgb.nossosaborpizzaria.com
+cliente.bradesco[@]hlzlm.pastelariagourmetexpress.com
+cliente.bradesco[@]ycrso.babyshopfeliz.com
+cliente.bradesco[@]kgrdi.masterautooficina.com
+cliente.bradesco[@]obuiy.churrascodefogo.com
+cliente.bradesco[@]rmlqp.brasilfashionboutique.com
+cliente.bradesco[@]ickjw.marmitasfitdelivery.com
+cliente.bradesco[@]uqiqj.estiloclassicdecor.com
+cliente.bradesco[@]yecjr.masterautooficina.com
+cliente.bradesco[@]bzekw.padariadoalemao.com
+cliente.bradesco[@]bbecj.babyshopfeliz.com
