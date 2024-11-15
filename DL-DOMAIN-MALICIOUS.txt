@@ -1270,3 +1270,5 @@ g.happydatingworld1.top
 upehelp.com.br
 #Novembro/2024 - Malware family Trojan.Android.Mtb.V.Sagnt
 upy.happymod.cool
+#Novembro/2024 - Malware related
+megapainel.online
