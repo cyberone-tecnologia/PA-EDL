@@ -1233,8 +1233,6 @@ teste23.com.br
 dareka4te.shop
 #Novembro/2024 - Malware magentocore
 analytishub.com
-#Novembro/2024 - Malware teste server na produção
-www.hidoctor.com.br
 #Novembro/2024 - Phishing domain
 search.buzzonfeed.com
 #Novembro/2024 - Malware family Trojan.mtb.ydaa.obfuse.js
@@ -1273,3 +1271,5 @@ grupomlm.com
 teste12.com.br
 #Novembro/2024 - Phishing domain
 teste123.com.br
+#Novembro/2024 - Teste na produção
+www.hidoctor.com.br
