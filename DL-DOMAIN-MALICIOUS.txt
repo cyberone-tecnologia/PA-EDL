@@ -1269,3 +1269,5 @@ grandeponto.com.br
 www.grupomlm.com
 #Novembro/2024 - Malware family Trojan.script.generic
 grupomlm.com
+#Novembro/2024 - Phishing domain
+teste12.com.br
