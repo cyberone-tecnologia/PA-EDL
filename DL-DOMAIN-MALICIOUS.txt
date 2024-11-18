@@ -970,7 +970,6 @@ plumasstore.com.br
 asyncawaitapi.com
 speedchaoptimise.com
 #outubro/2024 - "Malware family Trojan.script.generic"
-www.grupomlm.com
 grupomlm.com
 #outubro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
 hidoctor.com.br
@@ -1116,3 +1115,5 @@ acessoriasdigitl.com
 1.piratebays.to
 #novembro/2024 - "Malware family Trojan.Android.Mtb.V.Sagnt"
 upy.happymod.cool
+#novembro/2024 - "Malware family Trojan.script.generic"
+www.grupomlm.com
