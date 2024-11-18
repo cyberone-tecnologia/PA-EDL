@@ -1266,6 +1266,6 @@ megapainel.online
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
-grupomlm.com
-#Novembro/2024 - Malware family Trojan.script.generic
 www.grupomlm.com
+#Novembro/2024 - Malware family Trojan.script.generic
+grupomlm.com
