@@ -1271,3 +1271,5 @@ www.grupomlm.com
 grupomlm.com
 #Novembro/2024 - Phishing domain
 teste12.com.br
+#Novembro/2024 - Phishing domain
+teste123.com.br
