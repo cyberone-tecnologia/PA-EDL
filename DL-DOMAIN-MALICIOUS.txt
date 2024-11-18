@@ -976,8 +976,6 @@ plumasstore.com.br
 #outubro/2024 - "Malware family ta569"
 asyncawaitapi.com
 speedchaoptimise.com
-#outubro/2024 - "Malware family Trojan.script.generic"
-grupomlm.com
 #outubro/2024 - Malware family sinkhole_shadowserver
 bitemores.com
 meiboot.com
@@ -1269,3 +1267,5 @@ megapainel.online
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
 www.grupomlm.com
+#Novembro/2024 - Malware family Trojan.script.generic
+grupomlm.com
