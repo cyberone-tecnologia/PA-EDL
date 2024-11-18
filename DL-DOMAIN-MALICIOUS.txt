@@ -1084,6 +1084,7 @@ fas-amazonia.org
 pay.risepay.com.br
 g.happydatingworld1.top
 654652.com
+megapainel.online
 #novembro/2024 - "Malware family Adware.agent.hk.js"
 wds.weqs.ink
 #novembro/2024 - "Malware family Win32.bundleloader.j"
@@ -1113,3 +1114,5 @@ acessoriacescritorioonline.com
 acessoriasdigitl.com
 #novembro/2024 - "Malware family Trojan.Win32.rfn.a.skeeyah"
 1.piratebays.to
+#novembro/2024 - "Malware family Trojan.Android.Mtb.V.Sagnt"
+upy.happymod.cool
