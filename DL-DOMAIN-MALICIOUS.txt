@@ -890,8 +890,6 @@ abramed.org.br
 hipershow.com.br
 #setembro/2024 - "Malware family Malware.Win32.generic"
 www.llconsult.com.br
-#setembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
-athleticclub.com.br
 #outubro/2024 - "Malware family peaklight"
 downloadsbeta.com
 #outubro/2024 - Malware family Win.Astaroth
@@ -1120,3 +1118,5 @@ www.grupomlm.com
 #novembro/2024 - Phishing campaign
 red.silvercoastlivingpt.com
 4k-uhd-magazineluiza.com
+#novembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
+athleticclub.com.br
