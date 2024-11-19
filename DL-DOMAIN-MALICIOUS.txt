@@ -904,8 +904,6 @@ hipershow.com.br
 www.llconsult.com.br
 #setembro/2024 - "Malware family Malicious.PDF.malware"
 jornaloflorense.com.br
-#setembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
-athleticclub.com.br
 #outubro/2024 - "Malware family peaklight"
 downloadsbeta.com
 #outubro/2024 - Malware family Win.Astaroth
@@ -1273,3 +1271,5 @@ teste12.com.br
 teste123.com.br
 #Novembro/2024 - Teste na produção
 www.hidoctor.com.br
+#Novembro/2024 - Malware family Trojan.mtb.ek.iframe.js
+athleticclub.com.br
