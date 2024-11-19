@@ -1096,6 +1096,8 @@ renapsi.org.br
 vps-d8aafc2b.vps.ovh.net
 #novembro/2024 - "Malware family SocGholish"
 apav.pt
+#novembro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
+www.hidoctor.com.br
 #novembro/2024 - "Malware family magentocore"
 analytishub.com
 #novembro/2024 - "Malware family Trojan.mtb.ydaa.obfuse.js"
@@ -1118,5 +1120,3 @@ www.grupomlm.com
 #novembro/2024 - Phishing campaign
 red.silvercoastlivingpt.com
 4k-uhd-magazineluiza.com
-#Novembro/2024 - Teste na produção
-www.hidoctor.com.br
