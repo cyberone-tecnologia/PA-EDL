@@ -1120,3 +1120,5 @@ red.silvercoastlivingpt.com
 4k-uhd-magazineluiza.com
 #novembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
 athleticclub.com.br
+#Novembro/2024 - Activity Test Query
+activity.lumu.io
