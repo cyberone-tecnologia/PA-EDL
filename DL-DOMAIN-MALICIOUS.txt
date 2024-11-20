@@ -1126,3 +1126,5 @@ www.100security.com.br
 100security.com.br
 #Novembro/2024 - Malware family Trojan.mtb.rj.obfuse.js
 gasuportetech.com.br
+#Novembro/2024 - Malware related
+fibregaffe.net
