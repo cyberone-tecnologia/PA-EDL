@@ -1094,8 +1094,6 @@ renapsi.org.br
 vps-d8aafc2b.vps.ovh.net
 #novembro/2024 - "Malware family SocGholish"
 apav.pt
-#novembro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
-www.hidoctor.com.br
 #novembro/2024 - "Malware family magentocore"
 analytishub.com
 #novembro/2024 - "Malware family Trojan.mtb.ydaa.obfuse.js"
@@ -1128,3 +1126,5 @@ www.100security.com.br
 gasuportetech.com.br
 #Novembro/2024 - Malware related
 fibregaffe.net
+#Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+www.hidoctor.com.br
