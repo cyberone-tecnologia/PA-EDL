@@ -1130,3 +1130,5 @@ fibregaffe.net
 www.hidoctor.com.br
 #Novembro/2024 - Malware family Agent.Tr.Gjad.Js
 newsadsppush.com
+#Novembro/2024 - Phishing domain
+optiontwentiethhart.com
