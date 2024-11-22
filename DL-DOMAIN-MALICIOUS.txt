@@ -949,7 +949,6 @@ turismodeminas.com.br
 prohall.com.br
 #outubro/2024 - "Phishing domain"
 ipfs.eth.aragon.network
-qrcc.me
 pagina.pro
 www.roblox.com.kg
 daycoval.facildepagar.com.br
@@ -1132,3 +1131,5 @@ www.hidoctor.com.br
 newsadsppush.com
 #Novembro/2024 - Phishing domain
 optiontwentiethhart.com
+#Novembro/2024 - Phishing domain
+qrcc.me
