@@ -1128,3 +1128,5 @@ gasuportetech.com.br
 fibregaffe.net
 #Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
 www.hidoctor.com.br
+#Novembro/2024 - Malware family Agent.Tr.Gjad.Js
+newsadsppush.com
