@@ -1071,8 +1071,6 @@ upehelp.com.br
 tukofertas.com.br
 search.buzzonfeed.com
 corrector.co
-#novembro/2024 - "Malware family Trojan.Ml.B.Fl.Sabsik.Script"
-grandeponto.com.br
 #novembro/2024 - "Malware related"
 fas-amazonia.org
 pay.risepay.com.br
@@ -1143,3 +1141,5 @@ blacktargstore.com.br
 bokdigit.shop
 #Novembro/2024 - Malware family magentocore
 jadov.store
+#Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
+grandeponto.com.br
