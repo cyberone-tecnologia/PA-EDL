@@ -1141,3 +1141,5 @@ embrasil.com.br
 blacktargstore.com.br
 #Novembro/2024 - Malware family magentocore
 bokdigit.shop
+#Novembro/2024 - Malware family magentocore
+jadov.store
