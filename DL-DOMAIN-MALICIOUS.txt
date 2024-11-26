@@ -850,8 +850,6 @@ wrochaconsorcios.com.br
 #setembro/2024 - "Disposable email host"
 tempsky.com
 mytemp.email
-#setembro/2024 - "Malware family Trojan.script.generic"
-blacktargstore.com.br
 #setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
 verytradesafeapp.com
 #setembro/2024 - Malware family Trojan.GenericKD.69478801
@@ -1139,3 +1137,5 @@ webexcelsior.org
 lukma.com
 #novembro/2024 - Malware family Worm.Win32.V.Phorpiex
 embrasil.com.br
+#Novembro/2024 - Malware family Trojan.script.generic
+blacktargstore.com.br
