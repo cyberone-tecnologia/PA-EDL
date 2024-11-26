@@ -1139,3 +1139,5 @@ lukma.com
 embrasil.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
 blacktargstore.com.br
+#Novembro/2024 - Malware family magentocore
+bokdigit.shop
