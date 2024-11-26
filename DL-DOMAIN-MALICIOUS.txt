@@ -1124,6 +1124,7 @@ www.100security.com.br
 gasuportetech.com.br
 #Novembro/2024 - Malware related
 fibregaffe.net
+hostpdf.co
 #Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
 www.hidoctor.com.br
 #Novembro/2024 - Malware family Agent.Tr.Gjad.Js
@@ -1133,5 +1134,4 @@ optiontwentiethhart.com
 qrcc.me
 #novembro/2024 - Malware related
 webexcelsior.org
-#Novembro/2024 - Malware related
-hostpdf.co
+lukma.com
