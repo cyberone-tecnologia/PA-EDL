@@ -1135,3 +1135,5 @@ qrcc.me
 #novembro/2024 - Malware related
 webexcelsior.org
 lukma.com
+#novembro/2024 - Malware family Worm.Win32.V.Phorpiex
+embrasil.com.br
