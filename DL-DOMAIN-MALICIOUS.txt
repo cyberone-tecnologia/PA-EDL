@@ -1143,5 +1143,6 @@ jadov.store
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
 #novembro/2024 - Malware family magentocore
-brandiffy.com
 gstatlc.org
+#Novembro/2024 - Malware family magentocore
+brandiffy.com
