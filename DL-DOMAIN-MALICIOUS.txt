@@ -1139,9 +1139,10 @@ embrasil.com.br
 #Novembro/2024 - Malware family magentocore
 bokdigit.shop
 jadov.store
-brandiffy.com
 gstatlc.org
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
 blacktargstore.com.br
+#Novembro/2024 - Malware family magentocore
+brandiffy.com
