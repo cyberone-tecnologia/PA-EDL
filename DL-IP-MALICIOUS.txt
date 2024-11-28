@@ -584,3 +584,5 @@
 177.105.112.155
 #novembro/2024 - Brute Force Login Attempt
 38.180.91.132
+#novembro/2024 - Shadowserver
+64.62.156.52
