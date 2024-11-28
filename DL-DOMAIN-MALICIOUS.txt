@@ -1077,7 +1077,6 @@ pay.risepay.com.br
 g.happydatingworld1.top
 654652.com
 megapainel.online
-quickresource.xyz
 #novembro/2024 - "Malware family Adware.agent.hk.js"
 wds.weqs.ink
 #novembro/2024 - "Malware family Win32.bundleloader.j"
@@ -1147,3 +1146,5 @@ blacktargstore.com.br
 brandiffy.com
 #Novembro/2024 - Malware family magentocore
 gstatlc.org
+#Novembro/2024 - Malware related
+quickresource.xyz
