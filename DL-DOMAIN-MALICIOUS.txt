@@ -966,8 +966,6 @@ asyncawaitapi.com
 speedchaoptimise.com
 #outubro/2024 - "Malware family Trojan.script.generic"
 grupomlm.com
-#outubro/2024 - "Malware family Trojan.Win32.dropper.agxq.scrop"
-hidoctor.com.br
 #outubro/2024 - Malware family sinkhole_shadowserver
 bitemores.com
 meiboot.com
@@ -1148,3 +1146,5 @@ brandiffy.com
 gstatlc.org
 #Novembro/2024 - Malware related
 quickresource.xyz
+#Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
+hidoctor.com.br
