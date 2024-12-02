@@ -1121,8 +1121,10 @@ gasuportetech.com.br
 #Novembro/2024 - Malware related
 fibregaffe.net
 hostpdf.co
+quickresource.xyz
 #Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
 www.hidoctor.com.br
+hidoctor.com.br
 #Novembro/2024 - Malware family Agent.Tr.Gjad.Js
 newsadsppush.com
 #Novembro/2024 - Phishing domain
@@ -1136,17 +1138,13 @@ embrasil.com.br
 #Novembro/2024 - Malware family magentocore
 bokdigit.shop
 jadov.store
+brandiffy.com
+gstatlc.org
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
 blacktargstore.com.br
-#Novembro/2024 - Malware family magentocore
-brandiffy.com
-#Novembro/2024 - Malware family magentocore
-gstatlc.org
-#Novembro/2024 - Malware related
-quickresource.xyz
-#Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
-hidoctor.com.br
 #Novembro/2024 - Malware family FakeUpdates
 source.scriptsafedata.com
+#dezembro/2024 - Disposable email host
+tmail.com
