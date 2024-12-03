@@ -1148,3 +1148,5 @@ blacktargstore.com.br
 source.scriptsafedata.com
 #dezembro/2024 - Disposable email host
 tmail.com
+#Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
+metalsoft.com.br
