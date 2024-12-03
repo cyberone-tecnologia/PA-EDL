@@ -1079,8 +1079,6 @@ megapainel.online
 wds.weqs.ink
 #novembro/2024 - "Malware family Win32.bundleloader.j"
 www.baixesoft.com
-#novembro/2024 - "Malware family socgholish"
-loopconstruct.com
 #novembro/2024 - Malware family Win.Astaroth
 cloudprimebefore.co.ua
 renapsi.org.br
@@ -1150,3 +1148,5 @@ source.scriptsafedata.com
 tmail.com
 #Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
 metalsoft.com.br
+#Dezembro/2024 - Malware family Unknown
+loopconstruct.com
