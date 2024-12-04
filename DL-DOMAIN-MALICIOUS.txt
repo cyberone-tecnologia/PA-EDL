@@ -940,7 +940,6 @@ ycmobliveslb.dhdf851f.click
 bulkconflictpeculiarities.com
 alophasspales.shop
 ikaecaepebe.homes
-load.365analytics.xyz
 maiscupom.com
 #outubro/2024 - "Malware family Trojan.mtb.rj.obfuse.js"
 turismodeminas.com.br
@@ -1150,3 +1149,5 @@ tmail.com
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
 loopconstruct.com
+#Dezembro/2024 - Malware related
+load.365analytics.xyz
