@@ -1151,3 +1151,5 @@ metalsoft.com.br
 loopconstruct.com
 #Dezembro/2024 - Malware related
 load.365analytics.xyz
+#Dezembro/2024 - Malware family Cmsbrute
+aidaramezani.com
