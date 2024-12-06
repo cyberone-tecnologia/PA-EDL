@@ -1117,7 +1117,6 @@ www.100security.com.br
 gasuportetech.com.br
 #Novembro/2024 - Malware related
 fibregaffe.net
-hostpdf.co
 quickresource.xyz
 #Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
 www.hidoctor.com.br
@@ -1168,3 +1167,5 @@ wiofjieowege.biz.ua
 sistema-client-mic-2097574.fr-1.paas.massivegrid.net
 #Dezembro/2024 - Malware related
 tuto.tuggest.space
+#Dezembro/2024 - Malware related
+hostpdf.co
