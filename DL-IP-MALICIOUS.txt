@@ -588,6 +588,7 @@
 64.62.156.52
 #dezembro/2024 - Malware related
 173.255.204.62
+94.156.79.8
 #dezembro/2024 - Brute Force Login Attempt
 154.214.1.48
 104.207.46.41
