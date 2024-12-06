@@ -1171,3 +1171,5 @@ sistema-client-mic-2097574.fr-1.paas.massivegrid.net
 tuto.tuggest.space
 #Dezembro/2024 - Malware related
 hostpdf.co
+#Dezembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
+mandala.drus.net
