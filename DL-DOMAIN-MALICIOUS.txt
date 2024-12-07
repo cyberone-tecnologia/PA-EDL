@@ -1173,3 +1173,5 @@ tuto.tuggest.space
 hostpdf.co
 #Dezembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
 mandala.drus.net
+#Dezembro/2024 - Malware family socgholish
+majorbrdide.com
