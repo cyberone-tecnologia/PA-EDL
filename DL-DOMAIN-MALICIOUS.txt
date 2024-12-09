@@ -1152,6 +1152,9 @@ loopconstruct.com
 load.365analytics.xyz
 tuto.tuggest.space
 hostpdf.co
+tuto.tuggest.space
+hostpdf.co
+wairegauleet.net
 #Dezembro/2024 - Malware family Cmsbrute
 aidaramezani.com
 #dezembro/2024 - Phishing related
@@ -1167,13 +1170,9 @@ marudharpolymers.co.in
 online.atendimentodigital-cliente.pro
 wiofjieowege.biz.ua
 sistema-client-mic-2097574.fr-1.paas.massivegrid.net
-#Dezembro/2024 - Malware related
-tuto.tuggest.space
-#Dezembro/2024 - Malware related
-hostpdf.co
 #Dezembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
 mandala.drus.net
 #Dezembro/2024 - Malware family socgholish
 majorbrdide.com
-#Dezembro/2024 - Malware related
-wairegauleet.net
+#dezembro/2024 - Adware related
+*.iobit.com
