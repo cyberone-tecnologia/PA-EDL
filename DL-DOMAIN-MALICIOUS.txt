@@ -1178,3 +1178,4 @@ majorbrdide.com
 *.iobit.com
 #dezembro/2024 - Malware related
 stexoakraimtap.com
+amigosquedoam.com.br
