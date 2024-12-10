@@ -1179,3 +1179,5 @@ majorbrdide.com
 #dezembro/2024 - Malware related
 stexoakraimtap.com
 amigosquedoam.com.br
+#Dezembro/2024 - Phishing domain
+vulcanobrasil.com.br
