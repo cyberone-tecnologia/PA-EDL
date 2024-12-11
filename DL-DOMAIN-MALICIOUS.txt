@@ -1140,8 +1140,6 @@ gstatlc.org
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
 blacktargstore.com.br
-#Novembro/2024 - Malware family FakeUpdates
-source.scriptsafedata.com
 #dezembro/2024 - Disposable email host
 tmail.com
 #Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
@@ -1183,3 +1181,5 @@ amigosquedoam.com.br
 vulcanobrasil.com.br
 #Dezembro/2024 - Malware family FakeUpdates
 blackshelter.org
+#Dezembro/2024 - Malware family FakeUpdates
+source.scriptsafedata.com
