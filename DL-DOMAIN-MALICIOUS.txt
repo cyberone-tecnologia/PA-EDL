@@ -1144,7 +1144,6 @@ tmail.com
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
 loopconstruct.com
-dareka4te.shop
 #Dezembro/2024 - Malware related
 load.365analytics.xyz
 tuto.tuggest.space
@@ -1187,3 +1186,5 @@ amigosquedoam.com.br
 #dezembro/2024 - Phishing campaign
 correiosrastreamentoencomenda.com
 rastreamentofiscaliza.com
+#Dezembro/2024 - Malware family Unknown
+dareka4te.shop
