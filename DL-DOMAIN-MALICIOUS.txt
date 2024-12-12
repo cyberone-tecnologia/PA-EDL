@@ -1186,3 +1186,5 @@ source.scriptsafedata.com
 amigosquedoam.com.br
 #Dezembro/2024 - Malware related
 bancodobrasil.emktbbts.com.br
+#Dezembro/2024 - Malware related
+comotos.co
