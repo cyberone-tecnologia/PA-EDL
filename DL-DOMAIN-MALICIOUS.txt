@@ -1058,8 +1058,6 @@ de-ko-gmbh.com
 jancsoalapitvany.hu
 #novembro/2024 - "Malware family FakeUpdates"
 objmapper.com
-#novembro/2024 - "Malware family Unknown"
-dareka4te.shop
 #novembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
 four.startperfectsolutions.com
 #novembro/2024 - "Malware family Js.agent.rrl"
@@ -1188,3 +1186,5 @@ amigosquedoam.com.br
 bancodobrasil.emktbbts.com.br
 #Dezembro/2024 - Malware related
 comotos.co
+#Dezembro/2024 - Malware family Unknown
+dareka4te.shop
