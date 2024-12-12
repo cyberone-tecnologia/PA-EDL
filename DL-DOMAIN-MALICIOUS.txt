@@ -1144,6 +1144,7 @@ tmail.com
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
 loopconstruct.com
+dareka4te.shop
 #Dezembro/2024 - Malware related
 load.365analytics.xyz
 tuto.tuggest.space
@@ -1151,6 +1152,8 @@ hostpdf.co
 tuto.tuggest.space
 hostpdf.co
 wairegauleet.net
+bancodobrasil.emktbbts.com.br
+comotos.co
 #Dezembro/2024 - Malware family Cmsbrute
 aidaramezani.com
 #dezembro/2024 - Phishing related
@@ -1178,13 +1181,9 @@ stexoakraimtap.com
 vulcanobrasil.com.br
 #Dezembro/2024 - Malware family FakeUpdates
 blackshelter.org
-#Dezembro/2024 - Malware family FakeUpdates
 source.scriptsafedata.com
 #Dezembro/2024 - Malware hash: 8a6969141623434b70322e19938b33ff058104a26c8dc535e7d566c180927d3d
 amigosquedoam.com.br
-#Dezembro/2024 - Malware related
-bancodobrasil.emktbbts.com.br
-#Dezembro/2024 - Malware related
-comotos.co
-#Dezembro/2024 - Malware family Unknown
-dareka4te.shop
+#dezembro/2024 - Phishing campaign
+correiosrastreamentoencomenda.com
+rastreamentofiscaliza.com
