@@ -1067,7 +1067,6 @@ tukofertas.com.br
 search.buzzonfeed.com
 corrector.co
 #novembro/2024 - "Malware related"
-fas-amazonia.org
 pay.risepay.com.br
 g.happydatingworld1.top
 654652.com
@@ -1191,3 +1190,5 @@ dareka4te.shop
 floravirtual.com.br
 #Dezembro/2024 - Malware family Win.Astaroth
 renapsi.org.br
+#Dezembro/2024 - Malware related
+fas-amazonia.org
