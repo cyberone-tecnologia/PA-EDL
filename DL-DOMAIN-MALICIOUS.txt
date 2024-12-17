@@ -1129,7 +1129,6 @@ embrasil.com.br
 bokdigit.shop
 jadov.store
 brandiffy.com
-gstatlc.org
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
@@ -1196,3 +1195,5 @@ pay.risepay.com.br
 corrector.co
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
+#Dezembro/2024 - Malware family magentocore
+gstatlc.org
