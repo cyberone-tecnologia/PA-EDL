@@ -1065,7 +1065,6 @@ upehelp.com.br
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
 search.buzzonfeed.com
-corrector.co
 #novembro/2024 - "Malware related"
 g.happydatingworld1.top
 654652.com
@@ -1193,3 +1192,5 @@ renapsi.org.br
 fas-amazonia.org
 #Dezembro/2024 - Malware related
 pay.risepay.com.br
+#Dezembro/2024 - Phishing domain
+corrector.co
