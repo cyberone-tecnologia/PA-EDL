@@ -1194,3 +1194,5 @@ fas-amazonia.org
 pay.risepay.com.br
 #Dezembro/2024 - Phishing domain
 corrector.co
+#Dezembro/2024 - Malware family magentocore
+dsgntag.com
