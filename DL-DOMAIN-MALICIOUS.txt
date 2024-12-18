@@ -1197,3 +1197,5 @@ corrector.co
 dsgntag.com
 #Dezembro/2024 - Malware family magentocore
 gstatlc.org
+#Dezembro/2024 - Malware family wp_inject
+authmycookie.com
