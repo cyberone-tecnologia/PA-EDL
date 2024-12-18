@@ -1065,10 +1065,7 @@ upehelp.com.br
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
 search.buzzonfeed.com
-corrector.co
 #novembro/2024 - "Malware related"
-fas-amazonia.org
-pay.risepay.com.br
 g.happydatingworld1.top
 654652.com
 megapainel.online
@@ -1132,7 +1129,6 @@ embrasil.com.br
 bokdigit.shop
 jadov.store
 brandiffy.com
-gstatlc.org
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
 #Novembro/2024 - Malware family Trojan.script.generic
@@ -1191,3 +1187,17 @@ dareka4te.shop
 floravirtual.com.br
 #Dezembro/2024 - Malware family Win.Astaroth
 renapsi.org.br
+#Dezembro/2024 - Malware related
+fas-amazonia.org
+#Dezembro/2024 - Malware related
+pay.risepay.com.br
+#Dezembro/2024 - Phishing domain
+corrector.co
+#Dezembro/2024 - Malware family magentocore
+dsgntag.com
+#Dezembro/2024 - Malware family magentocore
+gstatlc.org
+#Dezembro/2024 - Malware family wp_inject
+authmycookie.com
+#Dezembro/2024 - Malware related
+goodjiveet.best
