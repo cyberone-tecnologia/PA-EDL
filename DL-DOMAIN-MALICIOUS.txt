@@ -1199,3 +1199,5 @@ dsgntag.com
 gstatlc.org
 #Dezembro/2024 - Malware family wp_inject
 authmycookie.com
+#Dezembro/2024 - Malware related
+goodjiveet.best
