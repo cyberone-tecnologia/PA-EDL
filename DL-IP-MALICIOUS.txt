@@ -596,9 +596,6 @@
 104.207.53.109
 104.207.51.216
 104.207.35.201
-#dezembro/2024 - Potential Cobalt Strike Usage
-44.220.188.49
-#dezembro/2024 - Brute Force Login Attempt
 65.111.30.247
 65.111.30.169
 65.111.30.237
@@ -648,3 +645,7 @@
 65.111.8.179
 65.111.9.84
 65.111.3.3
+#dezembro/2024 - Potential Cobalt Strike Usage
+44.220.188.49
+#dezembro/2024 - Potential DDoS Against Single Host (TCP)
+45.177.132.0/22
