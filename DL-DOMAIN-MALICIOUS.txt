@@ -1174,7 +1174,6 @@ stexoakraimtap.com
 #Dezembro/2024 - Phishing domain
 vulcanobrasil.com.br
 #Dezembro/2024 - Malware family FakeUpdates
-blackshelter.org
 source.scriptsafedata.com
 #Dezembro/2024 - Malware hash: 8a6969141623434b70322e19938b33ff058104a26c8dc535e7d566c180927d3d
 amigosquedoam.com.br
@@ -1201,3 +1200,5 @@ gstatlc.org
 authmycookie.com
 #Dezembro/2024 - Malware related
 goodjiveet.best
+#Dezembro/2024 - Malware family FakeUpdates
+blackshelter.org
