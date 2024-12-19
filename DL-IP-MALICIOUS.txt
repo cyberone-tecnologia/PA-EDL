@@ -649,3 +649,4 @@
 44.220.188.49
 #dezembro/2024 - Potential DDoS Against Single Host (TCP)
 45.177.132.0/22
+45.179.48.0/22
