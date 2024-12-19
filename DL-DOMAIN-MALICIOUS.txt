@@ -1182,8 +1182,6 @@ correiosrastreamentoencomenda.com
 rastreamentofiscaliza.com
 #Dezembro/2024 - Malware family Unknown
 dareka4te.shop
-#Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
-floravirtual.com.br
 #Dezembro/2024 - Malware family Win.Astaroth
 renapsi.org.br
 #Dezembro/2024 - Malware related
@@ -1202,3 +1200,5 @@ authmycookie.com
 goodjiveet.best
 #Dezembro/2024 - Malware family FakeUpdates
 blackshelter.org
+#Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
+floravirtual.com.br
