@@ -1139,6 +1139,7 @@ tmail.com
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
 loopconstruct.com
+dareka4te.shop
 #Dezembro/2024 - Malware related
 load.365analytics.xyz
 tuto.tuggest.space
@@ -1148,6 +1149,9 @@ hostpdf.co
 wairegauleet.net
 bancodobrasil.emktbbts.com.br
 comotos.co
+fas-amazonia.org
+pay.risepay.com.br
+goodjiveet.best
 #Dezembro/2024 - Malware family Cmsbrute
 aidaramezani.com
 #dezembro/2024 - Phishing related
@@ -1171,34 +1175,24 @@ majorbrdide.com
 *.iobit.com
 #dezembro/2024 - Malware related
 stexoakraimtap.com
+quipdew.com
 #Dezembro/2024 - Phishing domain
 vulcanobrasil.com.br
+corrector.co
 #Dezembro/2024 - Malware family FakeUpdates
 source.scriptsafedata.com
+blackshelter.org
 #Dezembro/2024 - Malware hash: 8a6969141623434b70322e19938b33ff058104a26c8dc535e7d566c180927d3d
 amigosquedoam.com.br
 #dezembro/2024 - Phishing campaign
 correiosrastreamentoencomenda.com
 rastreamentofiscaliza.com
-#Dezembro/2024 - Malware family Unknown
-dareka4te.shop
 #Dezembro/2024 - Malware family Win.Astaroth
 renapsi.org.br
-#Dezembro/2024 - Malware related
-fas-amazonia.org
-#Dezembro/2024 - Malware related
-pay.risepay.com.br
-#Dezembro/2024 - Phishing domain
-corrector.co
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
-#Dezembro/2024 - Malware family magentocore
 gstatlc.org
 #Dezembro/2024 - Malware family wp_inject
 authmycookie.com
-#Dezembro/2024 - Malware related
-goodjiveet.best
-#Dezembro/2024 - Malware family FakeUpdates
-blackshelter.org
 #Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
