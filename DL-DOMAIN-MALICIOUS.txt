@@ -1179,6 +1179,7 @@ quipdew.com
 #Dezembro/2024 - Phishing domain
 vulcanobrasil.com.br
 corrector.co
+www.vizzano.com.br
 #Dezembro/2024 - Malware family FakeUpdates
 source.scriptsafedata.com
 blackshelter.org
@@ -1191,11 +1192,13 @@ rastreamentofiscaliza.com
 renapsi.org.br
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
+dnsphire.com
 #Dezembro/2024 - Malware family wp_inject
 authmycookie.com
 #Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
 #Dezembro/2024 - Malware family Magecart
 gstatlc.org
-#Dezembro/2024 - Phishing domain
-www.vizzano.com.br
+#dezembro/2024 - Phishing domain
+pagarasuataxa.com
+pagamentosinfracao.com
