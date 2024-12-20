@@ -1196,3 +1196,6 @@ gstatlc.org
 authmycookie.com
 #Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
+#dezembro/2024 - Phishing domain
+pagarasuataxa.com
+pagamentosinfracao.com
