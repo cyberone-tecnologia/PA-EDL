@@ -1195,15 +1195,9 @@ dsgntag.com
 authmycookie.com
 #Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
-<<<<<<< HEAD
-#dezembro/2024 - Phishing domain
-pagarasuataxa.com
-pagamentosinfracao.com
-=======
 #Dezembro/2024 - Malware family magentocore
 dnsphire.com
 #Dezembro/2024 - Malware family Magecart
 gstatlc.org
 #Dezembro/2024 - Phishing domain
 www.vizzano.com.br
->>>>>>> cbef54a219e9483ec0a6b431bef4bfa84cc4d14b
