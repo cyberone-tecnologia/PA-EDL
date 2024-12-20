@@ -515,8 +515,6 @@ kbkpay.com
 laticiniosbomjardim.com.br
 #julho/2024 - Malware family Trojan.Ml.B.Wacatac.Script
 www.cbtarco.org.br
-#julho/2024 - Malware family Trojan.Script.Miner.Generic
-trustisimportant.fun
 #julho/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 k-analytics.net
 #julho/2024 - Malware family Agent.Mphcm.Js.Malware
@@ -1213,3 +1211,5 @@ pedidocorreios.txbrasilcx.co.ua
 detran-taxaonline.co.ua
 #Dezembro/2024 - Malware hash: b0a4a76cca26c140efe042db8a0ef08d5d295edd04ac7316ea90001f51ecce9c
 municipiodomaio.cv
+#Dezembro/2024 - Malware family Trojan.script.miner.generic
+trustisimportant.fun
