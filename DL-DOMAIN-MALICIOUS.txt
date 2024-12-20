@@ -1202,3 +1202,5 @@ gstatlc.org
 #dezembro/2024 - Phishing domain
 pagarasuataxa.com
 pagamentosinfracao.com
+#Dezembro/2024 - Malware hash: b0a4a76cca26c140efe042db8a0ef08d5d295edd04ac7316ea90001f51ecce9c
+municipiodomaio.cv
