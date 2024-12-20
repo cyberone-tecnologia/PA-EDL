@@ -1213,3 +1213,5 @@ detran-taxaonline.co.ua
 municipiodomaio.cv
 #Dezembro/2024 - Malware family Trojan.script.miner.generic
 trustisimportant.fun
+#Dezembro/2024 - Malware related
+storystaffrings.com
