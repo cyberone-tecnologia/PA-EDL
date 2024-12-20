@@ -1203,5 +1203,6 @@ gstatlc.org
 pagarasuataxa.com
 pagamentosinfracao.com
 paguesuartaxa.com
+paguerosuataxa.com
 #Dezembro/2024 - Malware hash: b0a4a76cca26c140efe042db8a0ef08d5d295edd04ac7316ea90001f51ecce9c
 municipiodomaio.cv
