@@ -1162,7 +1162,6 @@ hamster-kombat.tempurl.host
 pedidosbusca.advansegurotaxacep.co.ua
 correios.buscaencomenda.kyiv.ua
 pagalfandegarastreamentos.co.ua
-correios.aduaneirafiscal.com
 marudharpolymers.co.in
 online.atendimentodigital-cliente.pro
 wiofjieowege.biz.ua
@@ -1204,5 +1203,13 @@ pagarasuataxa.com
 pagamentosinfracao.com
 paguesuartaxa.com
 paguerosuataxa.com
+correios.buscapedidos.co.ua
+entregasexpressas.mailbuscabox.kyiv.ua
+buscaencomenda.consultarbuscarbr.co.ua
+correios.aduaneirafiscal.com
+pagueaduaneira.co.ua
+pagueasuataxa.com
+pedidocorreios.txbrasilcx.co.ua
+detran-taxaonline.co.ua
 #Dezembro/2024 - Malware hash: b0a4a76cca26c140efe042db8a0ef08d5d295edd04ac7316ea90001f51ecce9c
 municipiodomaio.cv
