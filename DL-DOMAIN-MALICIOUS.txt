@@ -1199,3 +1199,5 @@ floravirtual.com.br
 dnsphire.com
 #Dezembro/2024 - Malware family Magecart
 gstatlc.org
+#Dezembro/2024 - Phishing domain
+www.vizzano.com.br
