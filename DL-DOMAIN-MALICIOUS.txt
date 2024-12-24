@@ -1215,3 +1215,5 @@ municipiodomaio.cv
 trustisimportant.fun
 #Dezembro/2024 - Malware related
 storystaffrings.com
+#Dezembro/2024 - Malware family magentocore
+mktcrafter.com
