@@ -974,8 +974,6 @@ www.fabriltelhas.com.br
 www.multiservicos.inf.br
 #outubro/2024 - "Malware family Adware.Win32.aureate"
 multiservicos.inf.br
-#outubro/2024 - "Malware family Trojan.fm2.amfpk0bi.vp2.generic"
-ideia2001.com.br
 #outubro/2024 - "Malware family Riskware.kcdfgx.obfuscated.script"
 search.fenrawrye.live
 #outubro/2024 - Malicious domain
@@ -1219,3 +1217,5 @@ mktcrafter.com
 gstatlc.org
 #Dezembro/2024 - Malware family ek_generic
 ecomicrolab.com
+#Dezembro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
+ideia2001.com.br
