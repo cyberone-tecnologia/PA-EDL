@@ -931,8 +931,6 @@ elrifeno.com
 #outubro/2024 - Malware family SocGholish
 chhimi.com
 tayakay.com
-#outubro/2024 - "Malware family Trojan.Generic.KD"
-www.controlemunicipal.com.br
 #outubro/2024 - "Malware related"
 ycmobliveslb.dhdf851f.click
 bulkconflictpeculiarities.com
@@ -1219,3 +1217,5 @@ gstatlc.org
 ecomicrolab.com
 #Dezembro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
 ideia2001.com.br
+#Dezembro/2024 - Malware family Trojan.Generic.KD
+www.controlemunicipal.com.br
