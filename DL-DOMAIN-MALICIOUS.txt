@@ -1217,3 +1217,5 @@ storystaffrings.com
 mktcrafter.com
 #Dezembro/2024 - Malware family Unknown
 gstatlc.org
+#Dezembro/2024 - Malware family ek_generic
+ecomicrolab.com
