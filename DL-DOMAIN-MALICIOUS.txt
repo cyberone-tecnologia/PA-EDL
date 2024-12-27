@@ -1185,8 +1185,6 @@ renapsi.org.br
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
 dnsphire.com
-#Dezembro/2024 - Malware family wp_inject
-authmycookie.com
 #Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
 #dezembro/2024 - Phishing domain
@@ -1222,3 +1220,5 @@ www.controlemunicipal.com.br
 bancodobrasil.emktbbts.com.br
 #Dezembro/2024 - Malware family Trojan.mtb.aba.phish
 lippel.com.br
+#Dezembro/2024 - Malware family wp_inject
+authmycookie.com
