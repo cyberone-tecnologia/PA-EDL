@@ -1222,3 +1222,5 @@ bancodobrasil.emktbbts.com.br
 lippel.com.br
 #Dezembro/2024 - Malware family wp_inject
 authmycookie.com
+#Dezembro/2024 - Malware family Unknown
+groundrats.org
