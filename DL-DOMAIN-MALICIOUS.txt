@@ -1141,7 +1141,6 @@ hostpdf.co
 tuto.tuggest.space
 hostpdf.co
 wairegauleet.net
-bancodobrasil.emktbbts.com.br
 comotos.co
 fas-amazonia.org
 pay.risepay.com.br
@@ -1219,3 +1218,5 @@ ecomicrolab.com
 ideia2001.com.br
 #Dezembro/2024 - Malware family Trojan.Generic.KD
 www.controlemunicipal.com.br
+#Dezembro/2024 - Malware related
+bancodobrasil.emktbbts.com.br
