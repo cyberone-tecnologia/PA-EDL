@@ -1054,8 +1054,6 @@ jancsoalapitvany.hu
 objmapper.com
 #novembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
 four.startperfectsolutions.com
-#novembro/2024 - "Malware family Js.agent.rrl"
-upehelp.com.br
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
 search.buzzonfeed.com
@@ -1228,3 +1226,5 @@ saaadnesss.shop
 minutoligado.com.br
 #Dezembro/2024 - Malware family wp_inject
 authmycookie.com
+#Dezembro/2024 - Malware family Js.agent.rrl
+upehelp.com.br
