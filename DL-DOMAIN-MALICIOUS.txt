@@ -1228,3 +1228,5 @@ minutoligado.com.br
 authmycookie.com
 #Dezembro/2024 - Malware family Js.agent.rrl
 upehelp.com.br
+#Dezembro/2024 - Malware family wp_inject
+broredir5s.site
