@@ -1230,3 +1230,5 @@ authmycookie.com
 upehelp.com.br
 #Dezembro/2024 - Malware family wp_inject
 broredir5s.site
+#Dezembro/2024 - Malware related
+dpuppers.net
