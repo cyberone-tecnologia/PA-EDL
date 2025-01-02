@@ -1232,3 +1232,5 @@ broredir5s.site
 dpuppers.net
 #Janeiro/2025 - Malware family wp_inject
 authmycookie.com
+#Janeiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
+ghp.ci
