@@ -1224,11 +1224,11 @@ groundrats.org
 saaadnesss.shop
 #Dezembro/2024 - Malware related
 minutoligado.com.br
-#Dezembro/2024 - Malware family wp_inject
-authmycookie.com
 #Dezembro/2024 - Malware family Js.agent.rrl
 upehelp.com.br
 #Dezembro/2024 - Malware family wp_inject
 broredir5s.site
 #Dezembro/2024 - Malware related
 dpuppers.net
+#Janeiro/2025 - Malware family wp_inject
+authmycookie.com
