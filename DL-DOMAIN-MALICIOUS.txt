@@ -1228,11 +1228,11 @@ minutoligado.com.br
 upehelp.com.br
 #Dezembro/2024 - Malware family wp_inject
 broredir5s.site
-#Dezembro/2024 - Malware related
-dpuppers.net
 #Janeiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
 ghp.ci
 #Janeiro/2025 - Malware family ek_generic
 adflowtube.com
 #Janeiro/2025 - Malware family wp_inject
 authmycookie.com
+#Janeiro/2025 - Malware related
+dpuppers.net
