@@ -1234,3 +1234,5 @@ dpuppers.net
 authmycookie.com
 #Janeiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
 ghp.ci
+#Janeiro/2025 - Malware family ek_generic
+adflowtube.com
