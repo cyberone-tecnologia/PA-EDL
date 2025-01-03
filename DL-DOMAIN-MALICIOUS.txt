@@ -1236,3 +1236,5 @@ authmycookie.com
 dpuppers.net
 #Janeiro/2025 - Malware family Trojan.mtb.aba.phish
 lippel.com.br
+#Janeiro/2025 - Malware family Trojan.script.wacatac.b.ml
+scripts.nsn-server.xyz
