@@ -1216,8 +1216,6 @@ ideia2001.com.br
 www.controlemunicipal.com.br
 #Dezembro/2024 - Malware related
 bancodobrasil.emktbbts.com.br
-#Dezembro/2024 - Malware family Trojan.mtb.aba.phish
-lippel.com.br
 #Dezembro/2024 - Malware family Unknown
 groundrats.org
 #Dezembro/2024 - Malware family lummac2
@@ -1236,3 +1234,5 @@ adflowtube.com
 authmycookie.com
 #Janeiro/2025 - Malware related
 dpuppers.net
+#Janeiro/2025 - Malware family Trojan.mtb.aba.phish
+lippel.com.br
