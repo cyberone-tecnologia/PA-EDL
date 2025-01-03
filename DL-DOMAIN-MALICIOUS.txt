@@ -1238,3 +1238,5 @@ dpuppers.net
 lippel.com.br
 #Janeiro/2025 - Malware family Trojan.script.wacatac.b.ml
 scripts.nsn-server.xyz
+#Janeiro/2025 - Malware family IFrame.b
+pontiarmada.com
