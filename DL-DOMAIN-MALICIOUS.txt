@@ -1226,8 +1226,6 @@ minutoligado.com.br
 upehelp.com.br
 #Dezembro/2024 - Malware family wp_inject
 broredir5s.site
-#Janeiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
-ghp.ci
 #Janeiro/2025 - Malware family ek_generic
 adflowtube.com
 #Janeiro/2025 - Malware family wp_inject
@@ -1240,3 +1238,5 @@ lippel.com.br
 pontiarmada.com
 #Janeiro/2025 - Malware family Trojan.script.wacatac.b.ml
 scripts.nsn-server.xyz
+#Janeiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
+ghp.ci
