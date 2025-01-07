@@ -1183,8 +1183,6 @@ renapsi.org.br
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
 dnsphire.com
-#Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
-floravirtual.com.br
 #dezembro/2024 - Phishing domain
 pagarasuataxa.com
 pagamentosinfracao.com
@@ -1240,3 +1238,5 @@ pontiarmada.com
 scripts.nsn-server.xyz
 #Janeiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
 ghp.ci
+#Janeiro/2025 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
+floravirtual.com.br
