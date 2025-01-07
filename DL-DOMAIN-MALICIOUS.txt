@@ -1132,6 +1132,8 @@ metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
 loopconstruct.com
 dareka4te.shop
+gstatlc.org
+groundrats.org
 #Dezembro/2024 - Malware related
 load.365analytics.xyz
 tuto.tuggest.space
@@ -1143,6 +1145,9 @@ comotos.co
 fas-amazonia.org
 pay.risepay.com.br
 goodjiveet.best
+storystaffrings.com
+bancodobrasil.emktbbts.com.br
+minutoligado.com.br
 #Dezembro/2024 - Malware family Cmsbrute
 aidaramezani.com
 #dezembro/2024 - Phishing related
@@ -1183,6 +1188,7 @@ renapsi.org.br
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
 dnsphire.com
+mktcrafter.com
 #Dezembro/2024 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
 #dezembro/2024 - Phishing domain
@@ -1190,7 +1196,6 @@ pagarasuataxa.com
 pagamentosinfracao.com
 paguesuartaxa.com
 paguerosuataxa.com
-correios.buscapedidos.co.ua
 entregasexpressas.mailbuscabox.kyiv.ua
 buscaencomenda.consultarbuscarbr.co.ua
 correios.aduaneirafiscal.com
@@ -1202,26 +1207,14 @@ detran-taxaonline.co.ua
 municipiodomaio.cv
 #Dezembro/2024 - Malware family Trojan.script.miner.generic
 trustisimportant.fun
-#Dezembro/2024 - Malware related
-storystaffrings.com
-#Dezembro/2024 - Malware family magentocore
-mktcrafter.com
-#Dezembro/2024 - Malware family Unknown
-gstatlc.org
 #Dezembro/2024 - Malware family ek_generic
 ecomicrolab.com
 #Dezembro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
 ideia2001.com.br
 #Dezembro/2024 - Malware family Trojan.Generic.KD
 www.controlemunicipal.com.br
-#Dezembro/2024 - Malware related
-bancodobrasil.emktbbts.com.br
-#Dezembro/2024 - Malware family Unknown
-groundrats.org
 #Dezembro/2024 - Malware family lummac2
 saaadnesss.shop
-#Dezembro/2024 - Malware related
-minutoligado.com.br
 #Dezembro/2024 - Malware family Js.agent.rrl
 upehelp.com.br
 #Dezembro/2024 - Malware family wp_inject
@@ -1240,3 +1233,8 @@ lippel.com.br
 scripts.nsn-server.xyz
 #Janeiro/2025 - Malware family IFrame.b
 pontiarmada.com
+#janeiro/2025 - Phishing Campaign
+alert.altezzagranhabitat.com.br
+consulta-cnh-detran.com
+correios.buscapedidos.co.ua
+buscacep.buscaeowigjeowfew.biz.ua
