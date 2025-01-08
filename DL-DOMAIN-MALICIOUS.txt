@@ -1229,3 +1229,5 @@ pontiarmada.com
 floravirtual.com.br
 #Janeiro/2025 - Malware family 79bcd70c.obfscred.js.gt
 guitarflash3.com
+#janeiro/2025 - Malware family 4c3eft.malwthreat.js
+ping.cachespace.net
