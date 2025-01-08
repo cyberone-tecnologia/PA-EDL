@@ -976,8 +976,6 @@ multiservicos.inf.br
 search.fenrawrye.live
 #outubro/2024 - Malicious domain
 pedreirao.com.br
-#outubro/2024 - "Malware family 79bcd70c.obfscred.js.gt"
-guitarflash3.com
 #outubro/2024 - "Malware family SocGholish"
 customer.thewayofmoney.us
 www.concretosflorense.com.br
@@ -1229,3 +1227,5 @@ lippel.com.br
 pontiarmada.com
 #Janeiro/2025 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
+#Janeiro/2025 - Malware family 79bcd70c.obfscred.js.gt
+guitarflash3.com
