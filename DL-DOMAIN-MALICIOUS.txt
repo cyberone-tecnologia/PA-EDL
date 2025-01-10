@@ -1209,8 +1209,6 @@ ecomicrolab.com
 ideia2001.com.br
 #Dezembro/2024 - Malware family Trojan.Generic.KD
 www.controlemunicipal.com.br
-#Dezembro/2024 - Malware family lummac2
-saaadnesss.shop
 #Dezembro/2024 - Malware family Js.agent.rrl
 upehelp.com.br
 #Dezembro/2024 - Malware family wp_inject
@@ -1233,3 +1231,5 @@ guitarflash3.com
 ping.cachespace.net
 #janeiro/2025 - Malware related
 magpapelaria.com.br
+#janeiro/2025 - Malware family lummac2
+saaadnesss.shop
