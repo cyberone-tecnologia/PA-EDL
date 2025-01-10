@@ -1061,8 +1061,6 @@ g.happydatingworld1.top
 megapainel.online
 #novembro/2024 - "Malware family Adware.agent.hk.js"
 wds.weqs.ink
-#novembro/2024 - "Malware family Win32.bundleloader.j"
-www.baixesoft.com
 #novembro/2024 - Malware family Win.Astaroth
 cloudprimebefore.co.ua
 vps-d8aafc2b.vps.ovh.net
@@ -1233,3 +1231,5 @@ ping.cachespace.net
 magpapelaria.com.br
 #janeiro/2025 - Malware family lummac2
 saaadnesss.shop
+#Janeiro/2025 - Malware family Win32.bundleloader.j
+www.baixesoft.com
