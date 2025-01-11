@@ -1143,7 +1143,6 @@ pay.risepay.com.br
 goodjiveet.best
 storystaffrings.com
 bancodobrasil.emktbbts.com.br
-minutoligado.com.br
 #Dezembro/2024 - Malware family Cmsbrute
 aidaramezani.com
 #dezembro/2024 - Phishing related
@@ -1233,3 +1232,5 @@ magpapelaria.com.br
 saaadnesss.shop
 #Janeiro/2025 - Malware family Win32.bundleloader.j
 www.baixesoft.com
+#Janeiro/2025 - Malware related
+minutoligado.com.br
