@@ -1228,9 +1228,10 @@ guitarflash3.com
 ping.cachespace.net
 #janeiro/2025 - Malware related
 magpapelaria.com.br
+minutoligado.com.br
 #janeiro/2025 - Malware family lummac2
 saaadnesss.shop
 #Janeiro/2025 - Malware family Win32.bundleloader.j
 www.baixesoft.com
-#Janeiro/2025 - Malware related
-minutoligado.com.br
+#janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
+raspadorareal.com.br
