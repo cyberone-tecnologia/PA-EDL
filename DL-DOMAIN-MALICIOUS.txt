@@ -1229,6 +1229,7 @@ ping.cachespace.net
 #janeiro/2025 - Malware related
 magpapelaria.com.br
 minutoligado.com.br
+reefastovizash.net
 #janeiro/2025 - Malware family lummac2
 saaadnesss.shop
 #Janeiro/2025 - Malware family Win32.bundleloader.j
