@@ -1238,3 +1238,5 @@ www.baixesoft.com
 raspadorareal.com.br
 #janeiro/2025 - Malware family magentocore
 geopyt.online
+#janeiro/2025 - Malware family Magecart
+wordpress-redirect.biz
