@@ -1232,8 +1232,6 @@ reefastovizash.net
 saaadnesss.shop
 #Janeiro/2025 - Malware family Win32.bundleloader.j
 www.baixesoft.com
-#janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
-raspadorareal.com.br
 #janeiro/2025 - Malware family magentocore
 geopyt.online
 #janeiro/2025 - Malware family Magecart
@@ -1243,3 +1241,5 @@ blacksaltys.com
 progressivewebappsdev.com
 #janeiro/2025 - Tinyfluff
 f3f1b7.com
+#Janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
+raspadorareal.com.br
