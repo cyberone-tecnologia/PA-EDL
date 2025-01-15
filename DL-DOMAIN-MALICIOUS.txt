@@ -858,8 +858,6 @@ babyfesta.com.br
 claro-link.brsafe.com.br
 #setembro/2024 - "Phishing domain"
 liberacao-rastreamentocorreios.com.ua
-#setembro/2024 - "Malware family Unknown"
-blacksaltys.com
 #setembro/2024 - "Malware family ta569"
 apidevst.com
 #setembro/2024 - "Malware family Trojan.agent.hapanz.script"
@@ -1240,3 +1238,5 @@ raspadorareal.com.br
 geopyt.online
 #janeiro/2025 - Malware family Magecart
 wordpress-redirect.biz
+#Janeiro/2025 - Malware family ta569
+blacksaltys.com
