@@ -1243,3 +1243,5 @@ progressivewebappsdev.com
 f3f1b7.com
 #Janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
 raspadorareal.com.br
+#Janeiro/2025 - Phishing domain
+www.gecos.fr
