@@ -1249,3 +1249,5 @@ www.gecos.fr
 topspent.xyz
 #Janeiro/2025 - Malware family socgholish
 trust.scriptobject.com
+#Janeiro/2025 - Malware family Win32.Bc.Adwarefiletour
+baixar.programanex.com.br
