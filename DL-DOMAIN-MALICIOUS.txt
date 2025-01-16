@@ -1245,3 +1245,5 @@ f3f1b7.com
 raspadorareal.com.br
 #Janeiro/2025 - Phishing domain
 www.gecos.fr
+#Janeiro/2025 - Malware family Lumma Stealer
+topspent.xyz
