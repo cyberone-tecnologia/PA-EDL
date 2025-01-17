@@ -1255,3 +1255,5 @@ baixar.programanex.com.br
 br.brasil104-1070.com.br
 #Janeiro/2025 - Malware related
 pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
+#Janeiro/2025 - QuasarRAT
+api3-software-proxy-connection.com
