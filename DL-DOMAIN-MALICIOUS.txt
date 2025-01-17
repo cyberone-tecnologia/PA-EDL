@@ -1251,3 +1251,5 @@ topspent.xyz
 trust.scriptobject.com
 #Janeiro/2025 - Malware family Win32.Bc.Adwarefiletour
 baixar.programanex.com.br
+#Janeiro/2025 - Phishing domain
+br.brasil104-1070.com.br
