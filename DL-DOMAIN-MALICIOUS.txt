@@ -1253,3 +1253,5 @@ trust.scriptobject.com
 baixar.programanex.com.br
 #Janeiro/2025 - Phishing domain
 br.brasil104-1070.com.br
+#Janeiro/2025 - Malware related
+pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
