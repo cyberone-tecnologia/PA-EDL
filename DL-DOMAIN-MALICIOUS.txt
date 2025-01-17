@@ -1214,6 +1214,7 @@ adflowtube.com
 authmycookie.com
 #Janeiro/2025 - Malware related
 dpuppers.net
+pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
 #Janeiro/2025 - Malware family Trojan.mtb.aba.phish
 lippel.com.br
 #Janeiro/2025 - Malware family IFrame.b
@@ -1226,6 +1227,7 @@ ping.cachespace.net
 magpapelaria.com.br
 minutoligado.com.br
 reefastovizash.net
+di-res-eu.2epqdyr789.com
 #janeiro/2025 - Malware family lummac2
 saaadnesss.shop
 #Janeiro/2025 - Malware family Win32.bundleloader.j
@@ -1243,16 +1245,13 @@ f3f1b7.com
 raspadorareal.com.br
 #Janeiro/2025 - Phishing domain
 www.gecos.fr
+br.brasil104-1070.com.br
 #Janeiro/2025 - Malware family Lumma Stealer
 topspent.xyz
 #Janeiro/2025 - Malware family socgholish
 trust.scriptobject.com
 #Janeiro/2025 - Malware family Win32.Bc.Adwarefiletour
 baixar.programanex.com.br
-#Janeiro/2025 - Malware related
-pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
-#Janeiro/2025 - Phishing domain
-br.brasil104-1070.com.br
 #Janeiro/2025 - QuasarRAT
 api3-software-proxy-connection.com
 #Janeiro/2025 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
