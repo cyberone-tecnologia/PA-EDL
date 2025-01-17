@@ -1218,8 +1218,6 @@ dpuppers.net
 lippel.com.br
 #Janeiro/2025 - Malware family IFrame.b
 pontiarmada.com
-#Janeiro/2025 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
-floravirtual.com.br
 #Janeiro/2025 - Malware family 79bcd70c.obfscred.js.gt
 guitarflash3.com
 #janeiro/2025 - Malware family 4c3eft.malwthreat.js
@@ -1257,3 +1255,5 @@ pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
 br.brasil104-1070.com.br
 #Janeiro/2025 - QuasarRAT
 api3-software-proxy-connection.com
+#Janeiro/2025 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
+floravirtual.com.br
