@@ -1214,7 +1214,6 @@ adflowtube.com
 authmycookie.com
 #Janeiro/2025 - Malware related
 dpuppers.net
-pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
 #Janeiro/2025 - Malware family Trojan.mtb.aba.phish
 lippel.com.br
 #Janeiro/2025 - Malware family IFrame.b
@@ -1258,3 +1257,5 @@ api3-software-proxy-connection.com
 floravirtual.com.br
 #Janeiro/2025 - Malware family Riskware.adblock
 dyetui.com
+#Janeiro/2025 - Malware related
+pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
