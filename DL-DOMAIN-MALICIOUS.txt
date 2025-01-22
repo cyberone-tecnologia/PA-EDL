@@ -1259,3 +1259,5 @@ api3-software-proxy-connection.com
 floravirtual.com.br
 #Janeiro/2025 - Malware family Riskware.adblock
 dyetui.com
+#janeiro/2025 - Malware family android_hiddad
+vachoumpuh.net
