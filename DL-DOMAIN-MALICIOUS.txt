@@ -1273,3 +1273,5 @@ teste123.com.br
 www.hidoctor.com.br
 #Novembro/2024 - Malware family Trojan.mtb.ek.iframe.js
 athleticclub.com.br
+#Janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
+raspadorareal.com.br
