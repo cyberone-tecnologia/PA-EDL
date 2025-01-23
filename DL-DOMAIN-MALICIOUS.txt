@@ -979,8 +979,6 @@ customer.thewayofmoney.us
 www.concretosflorense.com.br
 #outubro/2024 - "Malware family smokeloader"
 planilhasvba.com.br
-#outubro/2024 - "Malware family Adware.139c8928.popunder.js.gt"
-freepopnews.skin
 #outubro/2024 - Malware family Adware.g.jsrevizer
 amptylogick.com
 ciclonrox.com
@@ -1264,3 +1262,5 @@ dyetui.com
 vachoumpuh.net
 #Janeiro/2025 - Malware family android_hiddad
 hauwoopauy.net
+#Janeiro/2025 - Malware family Adware.f43d0e77.popunder.js.gt
+freepopnews.skin
