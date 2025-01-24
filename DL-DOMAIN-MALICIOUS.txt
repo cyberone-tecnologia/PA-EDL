@@ -1165,7 +1165,6 @@ quipdew.com
 #Dezembro/2024 - Phishing domain
 vulcanobrasil.com.br
 corrector.co
-www.vizzano.com.br
 #Dezembro/2024 - Malware family FakeUpdates
 source.scriptsafedata.com
 blackshelter.org
@@ -1264,3 +1263,5 @@ vachoumpuh.net
 hauwoopauy.net
 #Janeiro/2025 - Malware family Adware.f43d0e77.popunder.js.gt
 freepopnews.skin
+#Janeiro/2025 - Phishing domain
+www.vizzano.com.br
