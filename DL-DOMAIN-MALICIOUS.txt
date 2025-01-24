@@ -1265,3 +1265,5 @@ hauwoopauy.net
 freepopnews.skin
 #Janeiro/2025 - Phishing domain
 www.vizzano.com.br
+#Janeiro/2025 - Malware family Ransomware.Trojan.Win32.cxdgqd
+www.sitedogta.com.br
