@@ -1256,8 +1256,6 @@ baixar.programanex.com.br
 api3-software-proxy-connection.com
 #Janeiro/2025 - Malware hash: e94d96e842ce8fd263afb9ca9f864eb2fe98893d2847147a870a48cd11669a30
 floravirtual.com.br
-#Janeiro/2025 - Malware family Riskware.adblock
-dyetui.com
 #Janeiro/2025 - Malware family android_hiddad
 vachoumpuh.net
 hauwoopauy.net
@@ -1273,3 +1271,5 @@ www.sitedogta.com.br
 y2mate.nu
 #Janeiro/2025 - Malware family fakeapp
 sistemasinaionline.com.br
+#Janeiro/2025 - Malware family Riskware.adblock
+dyetui.com
