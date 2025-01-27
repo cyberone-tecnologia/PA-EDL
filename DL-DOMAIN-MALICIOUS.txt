@@ -1259,7 +1259,6 @@ floravirtual.com.br
 #Janeiro/2025 - Malware family android_hiddad
 vachoumpuh.net
 hauwoopauy.net
-mihaivibsaz.net
 liglomsoltuwhax.net
 vaimucuvikuwu.net
 nashickaltirdab.com
@@ -1280,3 +1279,5 @@ dyetui.com
 >>>>>>> 9fe8db6219b50735f09899f51df62143e7d1617d
 #Janeiro/2025 - Malware family Unknown
 tetsted.com
+#Janeiro/2025 - Malware family android_hiddad
+mihaivibsaz.net
