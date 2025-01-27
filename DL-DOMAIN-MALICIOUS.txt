@@ -1245,6 +1245,7 @@ raspadorareal.com.br
 #Janeiro/2025 - Phishing domain
 www.gecos.fr
 br.brasil104-1070.com.br
+www.vizzano.com.br
 #Janeiro/2025 - Malware family Lumma Stealer
 topspent.xyz
 #Janeiro/2025 - Malware family socgholish
@@ -1259,19 +1260,14 @@ floravirtual.com.br
 dyetui.com
 #Janeiro/2025 - Malware family android_hiddad
 vachoumpuh.net
-#Janeiro/2025 - Malware family android_hiddad
 hauwoopauy.net
+mihaivibsaz.net
+liglomsoltuwhax.net
+vaimucuvikuwu.net
+nashickaltirdab.com
 #Janeiro/2025 - Malware family Adware.f43d0e77.popunder.js.gt
 freepopnews.skin
-#Janeiro/2025 - Phishing domain
-www.vizzano.com.br
 #Janeiro/2025 - Malware family Ransomware.Trojan.Win32.cxdgqd
 www.sitedogta.com.br
-#Janeiro/2025 - Malware family android_hiddad
-mihaivibsaz.net
-#Janeiro/2025 - Malware family android_hiddad
-liglomsoltuwhax.net
-#Janeiro/2025 - Malware family android_hiddad
-vaimucuvikuwu.net
-#Janeiro/2025 - Malware family android_hiddad
-nashickaltirdab.com
+#janeiro/2025 - Grayware related
+y2mate.nu
