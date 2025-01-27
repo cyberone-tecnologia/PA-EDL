@@ -1271,3 +1271,5 @@ freepopnews.skin
 www.sitedogta.com.br
 #janeiro/2025 - Grayware related
 y2mate.nu
+#janeiro/2025 - Phishing Campaign
+cnhmultas-govbr.org
