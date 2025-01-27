@@ -1278,3 +1278,5 @@ sistemasinaionline.com.br
 #Janeiro/2025 - Malware family Riskware.adblock
 dyetui.com
 >>>>>>> 9fe8db6219b50735f09899f51df62143e7d1617d
+#Janeiro/2025 - Malware family Unknown
+tetsted.com
