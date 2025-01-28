@@ -1262,6 +1262,8 @@ hauwoopauy.net
 liglomsoltuwhax.net
 vaimucuvikuwu.net
 nashickaltirdab.com
+mihaivibsaz.net
+fubsoughaigo.net
 #Janeiro/2025 - Malware family Adware.f43d0e77.popunder.js.gt
 freepopnews.skin
 #Janeiro/2025 - Malware family Ransomware.Trojan.Win32.cxdgqd
@@ -1279,7 +1281,5 @@ dyetui.com
 >>>>>>> 9fe8db6219b50735f09899f51df62143e7d1617d
 #Janeiro/2025 - Malware family Unknown
 tetsted.com
-#Janeiro/2025 - Malware family android_hiddad
-mihaivibsaz.net
-#Janeiro/2025 - Malware family android_hiddad
-fubsoughaigo.net
+#janeiro/2025 - Malicious domain
+tismwcoffee.com
