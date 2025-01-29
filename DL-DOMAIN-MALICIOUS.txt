@@ -1284,3 +1284,5 @@ tismwcoffee.com
 unifloor.com.br
 #janeiro/2025 - Malware family android_hiddad
 weegraphooph.net
+#janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
+mgperfil.com.br
