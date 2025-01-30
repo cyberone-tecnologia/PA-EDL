@@ -1008,7 +1008,6 @@ nextextlink.com
 painlesses.com
 polinaryapp.com
 proudflex.org
-programdiag.com
 ratexchange.net
 serverads.net
 shopstorys.com
@@ -1295,3 +1294,5 @@ adfpoint.com
 oabaubsutha.com
 #Janeiro/2025 - Malware related
 s13a.biz
+#Janeiro/2025 - Malware family Adware.g.jsrevizer
+programdiag.com
