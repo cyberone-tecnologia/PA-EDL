@@ -1225,7 +1225,6 @@ magpapelaria.com.br
 minutoligado.com.br
 reefastovizash.net
 di-res-eu.2epqdyr789.com
-s13a.biz
 maissuprimentos.com
 brehmed.wantidy.sbs
 #janeiro/2025 - Malware family lummac2
@@ -1294,3 +1293,5 @@ iyoutubetomp4.com
 adfpoint.com
 #Janeiro/2025 - Malware family android_hiddad
 oabaubsutha.com
+#Janeiro/2025 - Malware related
+s13a.biz
