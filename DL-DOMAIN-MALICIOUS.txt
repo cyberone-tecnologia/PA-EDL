@@ -1010,7 +1010,6 @@ polinaryapp.com
 proudflex.org
 ratexchange.net
 serverads.net
-shopstorys.com
 simonzody.com
 takethatad.com
 techsuperb.biz
@@ -1296,3 +1295,5 @@ oabaubsutha.com
 s13a.biz
 #Janeiro/2025 - Malware family Adware.g.jsrevizer
 programdiag.com
+#Janeiro/2025 - Malware family Adware.g.jsrevizer
+shopstorys.com
