@@ -1283,7 +1283,6 @@ tismwcoffee.com
 unifloor.com.br
 #janeiro/2025 - Malware family android_hiddad
 weegraphooph.net
-grapseex.com
 #janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
 mgperfil.com.br
 #janeiro/2025 - Graywere
@@ -1299,3 +1298,5 @@ shopstorys.com
 programdiag.com
 #Janeiro/2025 - Malware family android_hiddad
 gutockeewhargo.net
+#Janeiro/2025 - Malware family android_hiddad
+grapseex.com
