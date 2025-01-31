@@ -543,7 +543,6 @@ asyncfunctionapi.com
 autocity.com
 beecorp.com.br
 bind.bestresulttostart.com
-brwsuprimentos.com.br
 cacs.org.br
 canvaessencial.com.br
 kaisergames.de
@@ -1297,3 +1296,5 @@ programdiag.com
 program-edition.es
 #Janeiro/2025 - Malware family Trojan.Ml.B.Phonzy.Script
 plumasstore.com.br
+#Janeiro/2025 - Phishing domain
+brwsuprimentos.com.br
