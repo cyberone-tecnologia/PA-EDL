@@ -952,8 +952,6 @@ srftjwrty6kew.shop
 #outubro/2024 - Malware family Unknown
 packedbrick.com
 srftjwrty6kew.shop
-#outubro/2024 - "Malware family Trojan.Ml.B.Phonzy.Script"
-plumasstore.com.br
 #outubro/2024 - "Malware family ta569"
 asyncawaitapi.com
 speedchaoptimise.com
@@ -1297,3 +1295,5 @@ shopstorys.com
 programdiag.com
 #janeiro/2025 - Phishing related
 program-edition.es
+#Janeiro/2025 - Malware family Trojan.Ml.B.Phonzy.Script
+plumasstore.com.br
