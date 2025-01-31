@@ -1210,6 +1210,7 @@ authmycookie.com
 #Janeiro/2025 - Malware related
 dpuppers.net
 pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
+s13a.biz
 #Janeiro/2025 - Malware family Trojan.mtb.aba.phish
 lippel.com.br
 #Janeiro/2025 - Malware family IFrame.b
@@ -1263,6 +1264,9 @@ vaimucuvikuwu.net
 nashickaltirdab.com
 mihaivibsaz.net
 fubsoughaigo.net
+oabaubsutha.com
+gutockeewhargo.net
+grapseex.com
 #Janeiro/2025 - Malware family Adware.f43d0e77.popunder.js.gt
 freepopnews.skin
 #Janeiro/2025 - Malware family Ransomware.Trojan.Win32.cxdgqd
@@ -1288,15 +1292,8 @@ mgperfil.com.br
 #janeiro/2025 - Graywere
 iyoutubetomp4.com
 adfpoint.com
-#Janeiro/2025 - Malware family android_hiddad
-oabaubsutha.com
-#Janeiro/2025 - Malware related
-s13a.biz
 #Janeiro/2025 - Malware family Adware.g.jsrevizer
 shopstorys.com
-#Janeiro/2025 - Malware family Adware.g.jsrevizer
 programdiag.com
-#Janeiro/2025 - Malware family android_hiddad
-gutockeewhargo.net
-#Janeiro/2025 - Malware family android_hiddad
-grapseex.com
+#janeiro/2025 - Phishing related
+program-edition.es
