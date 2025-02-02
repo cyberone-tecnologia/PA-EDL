@@ -1298,3 +1298,5 @@ program-edition.es
 plumasstore.com.br
 #Janeiro/2025 - Phishing domain
 brwsuprimentos.com.br
+#Fevereiro/2025 - Malware family android_hiddad
+ourtoonoolr.net
