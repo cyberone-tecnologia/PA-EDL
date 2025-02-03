@@ -708,7 +708,6 @@ scaredframe.com
 #agosto/2024 - Malware family Quakbot
 preventivacreditos.com.br
 #agosto/2024 - Phishing domain
-circuitoguimaraesrosa.com.br
 clinicalettieri.com.br
 *.matchlovers.link
 clcr.me
@@ -1301,3 +1300,5 @@ plumasstore.com.br
 ourtoonoolr.net
 #fevereiro/2025 - Malware related
 ordernew.com.br
+#Fevereiro/2025 - Phishing domain
+circuitoguimaraesrosa.com.br
