@@ -1243,6 +1243,7 @@ raspadorareal.com.br
 www.gecos.fr
 br.brasil104-1070.com.br
 www.vizzano.com.br
+brwsuprimentos.com.br
 #Janeiro/2025 - Malware family Lumma Stealer
 topspent.xyz
 #Janeiro/2025 - Malware family socgholish
@@ -1296,7 +1297,7 @@ programdiag.com
 program-edition.es
 #Janeiro/2025 - Malware family Trojan.Ml.B.Phonzy.Script
 plumasstore.com.br
-#Janeiro/2025 - Phishing domain
-brwsuprimentos.com.br
 #Fevereiro/2025 - Malware family android_hiddad
 ourtoonoolr.net
+#fevereiro/2025 - Malware related
+ordernew.com.br
