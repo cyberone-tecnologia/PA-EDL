@@ -1302,3 +1302,5 @@ ourtoonoolr.net
 ordernew.com.br
 #Fevereiro/2025 - Malware family Unknown
 polytechnix.com
+#Fevereiro/2025 - Malware family android_hiddad
+autchopord.net
