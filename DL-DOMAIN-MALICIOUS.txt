@@ -1306,3 +1306,5 @@ polytechnix.com
 autchopord.net
 #Fevereiro/2025 - Malware family Unknown
 wp-cdn.top
+#Fevereiro/2025 - Malware family Magecart
+cdn.iconstaff.top
