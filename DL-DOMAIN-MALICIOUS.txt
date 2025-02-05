@@ -1308,3 +1308,5 @@ wp-cdn.top
 cdn.iconstaff.top
 #Fevereiro/2025 - Malware family Unknown
 wordpress-redirect.biz
+#Fevereiro/2025 - Malware family SocGholish
+cdn-serveq.net
