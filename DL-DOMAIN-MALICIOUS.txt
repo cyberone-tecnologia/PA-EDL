@@ -1229,8 +1229,6 @@ www.baixesoft.com
 #janeiro/2025 - Malware family magentocore
 geopyt.online
 dsgnjet.com
-#janeiro/2025 - Malware family Magecart
-wordpress-redirect.biz
 #Janeiro/2025 - Malware family ta569
 blacksaltys.com
 progressivewebappsdev.com
@@ -1308,3 +1306,5 @@ autchopord.net
 wp-cdn.top
 #Fevereiro/2025 - Malware family Magecart
 cdn.iconstaff.top
+#Fevereiro/2025 - Malware family Unknown
+wordpress-redirect.biz
