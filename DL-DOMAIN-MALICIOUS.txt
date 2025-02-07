@@ -1211,8 +1211,6 @@ s13a.biz
 lippel.com.br
 #Janeiro/2025 - Malware family IFrame.b
 pontiarmada.com
-#Janeiro/2025 - Malware family 79bcd70c.obfscred.js.gt
-guitarflash3.com
 #janeiro/2025 - Malware family 4c3eft.malwthreat.js
 ping.cachespace.net
 #janeiro/2025 - Malware related
@@ -1314,3 +1312,5 @@ lupsushuns.com
 www.baixesoft.com
 #Fevereiro/2025 - Malware family Unknown
 wp-cdn.top
+#Fevereiro/2025 - Malware family 79bcd70c.obfscred.js.gt
+guitarflash3.com
