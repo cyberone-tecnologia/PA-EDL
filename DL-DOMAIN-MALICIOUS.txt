@@ -1207,8 +1207,6 @@ authmycookie.com
 dpuppers.net
 pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
 s13a.biz
-#Janeiro/2025 - Malware family Trojan.mtb.aba.phish
-lippel.com.br
 #Janeiro/2025 - Malware family IFrame.b
 pontiarmada.com
 #janeiro/2025 - Malware family 4c3eft.malwthreat.js
@@ -1313,3 +1311,5 @@ guitarflash3.com
 ghp.ci
 #fevereiro/2025 - Malware family Unknown
 neshion.com
+#Fevereiro/2025 - Malware family Trojan.mtb.aba.phish
+lippel.com.br
