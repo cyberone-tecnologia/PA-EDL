@@ -1313,3 +1313,5 @@ neshion.com#Fevereiro/2025 - Malware related
 maissuprimentos.com
 #Fevereiro/2025 - Phishing domain
 maxformaacademias.com.br
+#Fevereiro/2025 - Malware hash: 02fadedd141959135f8966a86544730630dc9c23a71b0fb3f9ed1a281997aa2a
+akutyforemploej.com
