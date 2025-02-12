@@ -941,7 +941,6 @@ ipfs.eth.aragon.network
 pagina.pro
 www.roblox.com.kg
 daycoval.facildepagar.com.br
-maxformaacademias.com.br
 encr.pw
 #outubro/2024 - "Malware family Unknown"
 www.abs-tech.com
@@ -1312,3 +1311,5 @@ ghp.ci
 neshion.com#Fevereiro/2025 - Malware related
 #Fevereiro/2025 - Malware related
 maissuprimentos.com
+#Fevereiro/2025 - Phishing domain
+maxformaacademias.com.br
