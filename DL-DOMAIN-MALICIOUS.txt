@@ -1216,7 +1216,6 @@ magpapelaria.com.br
 minutoligado.com.br
 reefastovizash.net
 di-res-eu.2epqdyr789.com
-maissuprimentos.com
 brehmed.wantidy.sbs
 #janeiro/2025 - Malware family lummac2
 saaadnesss.shop
@@ -1310,4 +1309,5 @@ guitarflash3.com
 #fevereiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
 ghp.ci
 #fevereiro/2025 - Malware family Unknown
-neshion.com
+neshion.com#Fevereiro/2025 - Malware related
+maissuprimentos.com
