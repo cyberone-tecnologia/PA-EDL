@@ -1230,7 +1230,6 @@ raspadorareal.com.br
 #Janeiro/2025 - Phishing domain
 www.gecos.fr
 br.brasil104-1070.com.br
-www.vizzano.com.br
 brwsuprimentos.com.br
 #Janeiro/2025 - Malware family Lumma Stealer
 topspent.xyz
@@ -1316,3 +1315,5 @@ maxformaacademias.com.br
 akutyforemploej.com
 #fevereiro/2025 - Adware related
 getrunkhomuto.info
+#Fevereiro/2025 - Phishing domain
+www.vizzano.com.br
