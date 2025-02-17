@@ -1299,8 +1299,6 @@ wp-cdn.top
 cdn.iconstaff.top
 #Fevereiro/2025 - Malware family SocGholish
 cdn-serveq.net
-#Fevereiro/2025 - Malware family Win32.bundleloader.j
-www.baixesoft.com
 #Fevereiro/2025 - Malware family 79bcd70c.obfscred.js.gt
 guitarflash3.com
 #fevereiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
@@ -1316,3 +1314,5 @@ maxformaacademias.com.br
 akutyforemploej.com
 #fevereiro/2025 - Adware related
 getrunkhomuto.info#Fevereiro/2025 - Malware family Unknown
+#Fevereiro/2025 - Malware family Win32.bundleloader.j
+www.baixesoft.com
