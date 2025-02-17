@@ -1316,3 +1316,5 @@ akutyforemploej.com
 getrunkhomuto.info#Fevereiro/2025 - Malware family Unknown
 #Fevereiro/2025 - Malware family Win32.bundleloader.j
 www.baixesoft.com
+#Fevereiro/2025 - Disposable email host
+gotmail.com
