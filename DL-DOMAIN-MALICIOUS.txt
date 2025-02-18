@@ -1324,3 +1324,5 @@ linkangood.com
 8a.nextwavxe.ru
 #Fevereiro/2025 - Malware family Riskware.adblock
 dyetui.com
+#Fevereiro/2025 - Malware family Spam.PDF
+memsports.com.br
