@@ -1260,8 +1260,6 @@ y2mate.nu
 cnhmultas-govbr.org
 #Janeiro/2025 - Malware family fakeapp
 sistemasinaionline.com.br
-#Janeiro/2025 - Malware family Riskware.adblock
-dyetui.com
 #Janeiro/2025 - Malware family Unknown
 tetsted.com
 #janeiro/2025 - Malicious domain
@@ -1324,3 +1322,5 @@ tor.taxi
 linkangood.com
 #fevereiro/2025 - Phishing campaign
 8a.nextwavxe.ru
+#Fevereiro/2025 - Malware family Riskware.adblock
+dyetui.com
