@@ -987,7 +987,6 @@ extcoolff.com
 extnetcool.com
 icontent.us
 killssource.com
-linkangood.com
 lifebounce.net
 lonelyfix.com
 luselucky.com
@@ -1322,3 +1321,5 @@ gotmail.com
 tor.taxi
 #Fevereiro/2025 - Disposable email host
 20minutemail.com
+#Fevereiro/2025 - Malware family Adware.g.jsrevizer
+linkangood.com
