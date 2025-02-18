@@ -1318,7 +1318,7 @@ getrunkhomuto.info#Fevereiro/2025 - Malware family Unknown
 www.baixesoft.com
 #Fevereiro/2025 - Disposable email host
 gotmail.com
-#Fevereiro/2025 - Disposable email host
-20minutemail.com
 #Fevereiro/2025 - Malware family rasprobin
 tor.taxi
+#Fevereiro/2025 - Disposable email host
+20minutemail.com
