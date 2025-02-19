@@ -293,7 +293,6 @@ web3-connectha.gq
 www.llev.com.br
 #maio/2024 - Malware family Gen2.Pdf.Malicious.Html.Malware
 uncme.org.br
-curtadoc.tv
 hiepsibaotap.com
 #maio/2024 - Malware related
 becorsolaom.com
@@ -1326,3 +1325,5 @@ linkangood.com
 dyetui.com
 #Fevereiro/2025 - Malware family Spam.PDF
 memsports.com.br
+#Fevereiro/2025 - Malware family Malicious.PDF.malware
+curtadoc.tv
