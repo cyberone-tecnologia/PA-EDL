@@ -1329,3 +1329,5 @@ memsports.com.br
 curtadoc.tv
 #Fevereiro/2025 - Malware family Trojan.mtb.rj.obfuse.js
 cliquearquitetura.com.br
+#Fevereiro/2025 - Malware family Trojan.ml.b.wacatac.script
+prideuniformes.com.br
