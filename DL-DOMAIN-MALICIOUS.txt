@@ -1327,3 +1327,5 @@ dyetui.com
 memsports.com.br
 #Fevereiro/2025 - Malware family Malicious.PDF.malware
 curtadoc.tv
+#Fevereiro/2025 - Malware family Trojan.mtb.rj.obfuse.js
+cliquearquitetura.com.br
