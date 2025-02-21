@@ -1331,6 +1331,6 @@ prideuniformes.com.br
 #Fevereiro/2025 - Malware family Agent.mrro.jsmalware
 eletrojr.com.br
 #Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
-www.100security.com.br
-#Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
+#Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
+www.100security.com.br
