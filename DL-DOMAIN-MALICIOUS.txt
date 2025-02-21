@@ -1331,3 +1331,5 @@ curtadoc.tv
 cliquearquitetura.com.br
 #Fevereiro/2025 - Malware family Trojan.ml.b.wacatac.script
 prideuniformes.com.br
+#Fevereiro/2025 - Malware family Agent.mrro.jsmalware
+eletrojr.com.br
