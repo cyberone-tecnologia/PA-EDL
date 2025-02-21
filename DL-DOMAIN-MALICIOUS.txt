@@ -1077,8 +1077,6 @@ bf.papercups.com.sg
 4kuhd-magazineluiza.com
 #novembro/2024 - "Malware family Trojan.mtb.ek.iframe.js"
 athleticclub.com.br
-#Novembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
-100security.com.br
 #Novembro/2024 - Malware family Trojan.mtb.rj.obfuse.js
 gasuportetech.com.br
 #Novembro/2024 - Malware related
@@ -1334,3 +1332,5 @@ prideuniformes.com.br
 eletrojr.com.br
 #Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
 www.100security.com.br
+#Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
+100security.com.br
