@@ -1311,7 +1311,6 @@ getrunkhomuto.info#Fevereiro/2025 - Malware family Unknown
 www.baixesoft.com
 #Fevereiro/2025 - Disposable email host
 gotmail.com
-20minutemail.com
 #Fevereiro/2025 - Malware family rasprobin
 tor.taxi
 #Fevereiro/2025 - Malware family Adware.g.jsrevizer
@@ -1339,3 +1338,5 @@ www.llconsult.com.br
 getrunkhomuto.info
 #Fevereiro/2025 - Phishing domain
 jaccs-lampast.vqulg.cn
+#Fevereiro/2025 - Disposable email host
+20minutemail.com
