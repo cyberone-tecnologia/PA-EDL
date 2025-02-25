@@ -1139,8 +1139,6 @@ wiofjieowege.biz.ua
 sistema-client-mic-2097574.fr-1.paas.massivegrid.net
 #Dezembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
 mandala.drus.net
-#Dezembro/2024 - Malware family socgholish
-majorbrdide.com
 #dezembro/2024 - Adware related
 *.iobit.com
 #dezembro/2024 - Malware related
@@ -1340,3 +1338,5 @@ jaccs-lampast.vqulg.cn
 tor.taxi
 #Fevereiro/2025 - Disposable email host
 20minutemail.com
+#Fevereiro/2025 - Malware family socgholish
+majorbrdide.com
