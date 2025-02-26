@@ -1254,8 +1254,6 @@ cnhmultas-govbr.org
 sistemasinaionline.com.br
 #Janeiro/2025 - Malware family Unknown
 tetsted.com
-#janeiro/2025 - Malicious domain
-tismwcoffee.com
 #janeiro/2025 - Malware family Js.Trojan.cryxos.12960
 unifloor.com.br
 #janeiro/2025 - Malware family android_hiddad
@@ -1280,6 +1278,7 @@ lupsushuns.com
 #fevereiro/2025 - Malware related
 ordernew.com.br
 groostaupy.net
+tismwcoffee.com
 #Fevereiro/2025 - Malware family Unknown
 polytechnix.com
 wordpress-redirect.biz
@@ -1298,8 +1297,10 @@ neshion.com#Fevereiro/2025 - Malware related
 maissuprimentos.com
 barcely.gallels.fun
 grazingmarrywomanhood.com
+xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--36--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd0eejfg2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b
 #Fevereiro/2025 - Phishing domain
 maxformaacademias.com.br
+jaccs-lampast.vqulg.cn
 #Fevereiro/2025 - Malware hash: 02fadedd141959135f8966a86544730630dc9c23a71b0fb3f9ed1a281997aa2a
 akutyforemploej.com
 #fevereiro/2025 - Adware related
@@ -1308,6 +1309,7 @@ getrunkhomuto.info#Fevereiro/2025 - Malware family Unknown
 www.baixesoft.com
 #Fevereiro/2025 - Disposable email host
 gotmail.com
+20minutemail.com
 #Fevereiro/2025 - Malware family Adware.g.jsrevizer
 linkangood.com
 #fevereiro/2025 - Phishing campaign
@@ -1331,13 +1333,7 @@ www.100security.com.br
 www.llconsult.com.br
 #fevereiro/2025 - grayware
 getrunkhomuto.info
-#Fevereiro/2025 - Phishing domain
-jaccs-lampast.vqulg.cn
 #Fevereiro/2025 - Malware family rasprobin
 tor.taxi
-#Fevereiro/2025 - Disposable email host
-20minutemail.com
 #Fevereiro/2025 - Malware family socgholish
 majorbrdide.com
-#Fevereiro/2025 - Malware related
-xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--36--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd0eejfg2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b
