@@ -1329,8 +1329,6 @@ eletrojr.com.br
 #Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
 www.100security.com.br
-#Fevereiro/2025 - Malware family Win32.prifou.browsermodifier
-www.llconsult.com.br
 #fevereiro/2025 - grayware
 getrunkhomuto.info
 #Fevereiro/2025 - Malware family rasprobin
@@ -1339,3 +1337,5 @@ tor.taxi
 majorbrdide.com
 #Fevereiro/2025 - Malware family Adware.agent.hk.js
 wds.weqs.ink
+#Fevereiro/2025 - Malware family Win32.prifou.browsermodifier
+www.llconsult.com.br
