@@ -1314,6 +1314,7 @@ gotmail.com
 linkangood.com
 #fevereiro/2025 - Phishing campaign
 8a.nextwavxe.ru
+correios-atende.s3.us-east-1.amazonaws.com
 #Fevereiro/2025 - Malware family Riskware.adblock
 dyetui.com
 #Fevereiro/2025 - Malware family Spam.PDF
