@@ -1042,8 +1042,6 @@ search.buzzonfeed.com
 g.happydatingworld1.top
 654652.com
 megapainel.online
-#novembro/2024 - "Malware family Adware.agent.hk.js"
-wds.weqs.ink
 #novembro/2024 - Malware family Win.Astaroth
 cloudprimebefore.co.ua
 vps-d8aafc2b.vps.ovh.net
@@ -1339,3 +1337,5 @@ getrunkhomuto.info
 tor.taxi
 #Fevereiro/2025 - Malware family socgholish
 majorbrdide.com
+#Fevereiro/2025 - Malware family Adware.agent.hk.js
+wds.weqs.ink
