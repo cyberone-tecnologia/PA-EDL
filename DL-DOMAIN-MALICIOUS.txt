@@ -1339,3 +1339,5 @@ majorbrdide.com
 wds.weqs.ink
 #Fevereiro/2025 - Malware family Win32.prifou.browsermodifier
 www.llconsult.com.br
+#Fevereiro/2025 - Disposable email host
+imailt.com
