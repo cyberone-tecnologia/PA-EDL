@@ -680,8 +680,6 @@ liberarentrega.online
 *.greengoplatform.com
 #julho/2024 - Malware family Trojan.Ml.B.Phonzy.Script
 *.specialcraftbox.com
-#julho/2024 - Malware family TrojanDownloader:JS/FakejQuery.AR!MTB
-www.deniswarren.com
 #agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
 www.mybrowserbar.com
 #agosto/2024 - Malware family Unknown
@@ -1347,3 +1345,5 @@ r.bestadperf.com
 nnoq.pages.dev
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
+#Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
+www.deniswarren.com
