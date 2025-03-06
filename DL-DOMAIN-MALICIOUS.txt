@@ -1345,3 +1345,5 @@ imailt.com
 r.bestadperf.com
 #Março/2025 - Malware family Unknown
 nnoq.pages.dev
+#Março/2025 - Malware family js.clearfake
+nn11.pages.dev
