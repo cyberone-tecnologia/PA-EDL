@@ -1331,8 +1331,6 @@ www.100security.com.br
 getrunkhomuto.info
 #Fevereiro/2025 - Malware family rasprobin
 tor.taxi
-#Fevereiro/2025 - Malware family socgholish
-majorbrdide.com
 #Fevereiro/2025 - Malware family Adware.agent.hk.js
 wds.weqs.ink
 #Fevereiro/2025 - Malware family Win32.prifou.browsermodifier
@@ -1351,3 +1349,5 @@ zackoumpeels.net
 saleshifft.com
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
+#Março/2025 - Malware family socgholish
+majorbrdide.com
