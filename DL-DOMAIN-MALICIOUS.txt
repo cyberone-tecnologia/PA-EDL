@@ -1345,9 +1345,9 @@ r.bestadperf.com
 nnoq.pages.dev
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
-#Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
-www.deniswarren.com
 #Março/2025 - Malware related
 zackoumpeels.net
 #Março/2025 - Malware related
 saleshifft.com
+#Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
+www.deniswarren.com
