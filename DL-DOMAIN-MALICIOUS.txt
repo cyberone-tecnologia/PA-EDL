@@ -1347,3 +1347,5 @@ nnoq.pages.dev
 nn11.pages.dev
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
+#Março/2025 - Malware related
+zackoumpeels.net
