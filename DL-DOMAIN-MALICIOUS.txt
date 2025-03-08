@@ -1102,7 +1102,6 @@ tmail.com
 #Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
-loopconstruct.com
 dareka4te.shop
 gstatlc.org
 groundrats.org
@@ -1355,3 +1354,5 @@ majorbrdide.com
 sesc.ativsys.com.br
 #Março/2025 - Malware related
 casadocolecionador.com.br
+#Março/2025 - Malware family socgholish
+loopconstruct.com
