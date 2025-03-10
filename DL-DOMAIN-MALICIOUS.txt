@@ -1356,3 +1356,5 @@ casadocolecionador.com.br
 loopconstruct.com
 #Março/2025 - Malware related
 sesc.ativsys.com.br
+#Março/2025 - Malware family Unknown
+bestoacmoaltou.net
