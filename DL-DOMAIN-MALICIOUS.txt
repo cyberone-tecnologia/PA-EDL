@@ -1344,7 +1344,6 @@ nn11.pages.dev
 zackoumpeels.net
 saleshifft.com
 casadocolecionador.com.br
-sesc.ativsys.com.br
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
@@ -1368,3 +1367,5 @@ dsgncore.com
 bestoacmoaltou.net
 #Março/2025 - Malware related
 grazingmarrywomanhood.com
+#Março/2025 - Malware related
+sesc.ativsys.com.br
