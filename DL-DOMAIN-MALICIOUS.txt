@@ -1339,6 +1339,7 @@ www.llconsult.com.br
 r.bestadperf.com
 #Março/2025 - Malware family Unknown
 nnoq.pages.dev
+bestoacmoaltou.net
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
 #Março/2025 - Malware related
@@ -1359,7 +1360,6 @@ usheebainaut.com
 cmperdiscount.shop
 vupes.com.br
 yrvmey.com
+cnss.gov.lb
 #março/2025 - Malware family Win32/ITProductDev.A
 ummydownloader.com
-#Março/2025 - Malware family Unknown
-bestoacmoaltou.net
