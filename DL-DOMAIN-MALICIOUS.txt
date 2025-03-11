@@ -1306,6 +1306,7 @@ www.baixesoft.com
 #Fevereiro/2025 - Disposable email host
 gotmail.com
 20minutemail.com
+imailt.com
 #Fevereiro/2025 - Malware family Adware.g.jsrevizer
 linkangood.com
 #fevereiro/2025 - Phishing campaign
@@ -1334,27 +1335,22 @@ tor.taxi
 wds.weqs.ink
 #Fevereiro/2025 - Malware family Win32.prifou.browsermodifier
 www.llconsult.com.br
-#Fevereiro/2025 - Disposable email host
-imailt.com
 #Fevereiro/2025 - Malware family Lumma Stealer
 r.bestadperf.com
 #Março/2025 - Malware family Unknown
 nnoq.pages.dev
+bestoacmoaltou.net
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
 #Março/2025 - Malware related
 zackoumpeels.net
-#Março/2025 - Malware related
 saleshifft.com
+casadocolecionador.com.br
+sesc.ativsys.com.br
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
 majorbrdide.com
-#Março/2025 - Malware related
-casadocolecionador.com.br
-#Março/2025 - Malware family socgholish
 loopconstruct.com
-#Março/2025 - Malware related
-sesc.ativsys.com.br
-#Março/2025 - Malware family Unknown
-bestoacmoaltou.net
+#março/2025 - Malware family Unknown
+jeepaunucoast.net
