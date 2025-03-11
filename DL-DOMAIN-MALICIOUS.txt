@@ -1339,7 +1339,6 @@ www.llconsult.com.br
 r.bestadperf.com
 #Março/2025 - Malware family Unknown
 nnoq.pages.dev
-bestoacmoaltou.net
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
 #Março/2025 - Malware related
@@ -1354,3 +1353,5 @@ majorbrdide.com
 loopconstruct.com
 #março/2025 - Malware family Unknown
 jeepaunucoast.net
+#Março/2025 - Malware family Unknown
+bestoacmoaltou.net
