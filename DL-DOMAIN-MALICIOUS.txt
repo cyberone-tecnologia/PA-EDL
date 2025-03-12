@@ -1368,3 +1368,5 @@ entregasmundo.de
 bestoacmoaltou.net
 #Março/2025 - Malware family Win32/ITProductDev.A
 ummydownloader.com
+#Março/2025 - Malware family Js.agent.rrl
+kinoforum.org.br
