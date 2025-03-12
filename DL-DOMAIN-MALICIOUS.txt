@@ -1343,7 +1343,6 @@ nn11.pages.dev
 #Março/2025 - Malware related
 zackoumpeels.net
 saleshifft.com
-casadocolecionador.com.br
 dsgncore.com
 65x6565.com
 grazingmarrywomanhood.com
@@ -1370,3 +1369,5 @@ bestoacmoaltou.net
 ummydownloader.com
 #Março/2025 - Malware family Js.agent.rrl
 kinoforum.org.br
+#Março/2025 - Malware related
+casadocolecionador.com.br
