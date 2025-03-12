@@ -1338,12 +1338,17 @@ www.llconsult.com.br
 r.bestadperf.com
 #Março/2025 - Malware family Unknown
 nnoq.pages.dev
+bestoacmoaltou.net
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
 #Março/2025 - Malware related
 zackoumpeels.net
 saleshifft.com
 casadocolecionador.com.br
+dsgncore.com
+65x6565.com
+grazingmarrywomanhood.com
+sesc.ativsys.com.br
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
@@ -1359,13 +1364,6 @@ yrvmey.com
 cnss.gov.lb
 #março/2025 - Malware family Win32/ITProductDev.A
 ummydownloader.com
-#Março/2025 - Malware related
-dsgncore.com
-#Março/2025 - Malware related
-65x6565.com
-#Março/2025 - Malware family Unknown
-bestoacmoaltou.net
-#Março/2025 - Malware related
-grazingmarrywomanhood.com
-#Março/2025 - Malware related
-sesc.ativsys.com.br
+#março/2025 - Phishing Campaign
+intl.invscz.com
+entregasmundo.de
