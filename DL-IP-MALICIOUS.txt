@@ -746,3 +746,5 @@
 195.149.87.101
 #fevereiro/2025 - Malware related
 212.115.124.132
+#março/2025 - Cobalt Strike Server
+191.101.131.226
