@@ -584,7 +584,6 @@ jrltransportes.com.br
 kifortequimica.com.br
 kmrfibras.com.br
 limeerror.org
-linkr.it
 livrosnarede.com.br
 mailsuite.com
 maissoja.com.br
@@ -1383,3 +1382,5 @@ bestoacmoaltou.net
 download.gamercdn.top
 #Março/2025 - Malware related
 oodruhoufouzair.com
+#Março/2025 - Phishing domain
+linkr.it
