@@ -1388,3 +1388,5 @@ linkr.it
 cg55.cc
 #Março/2025 - Malware related
 mangalivre.ru
+#Março/2025 - Phishing domain
+www.wixsite.com
