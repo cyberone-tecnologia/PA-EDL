@@ -1391,6 +1391,6 @@ mangalivre.ru
 #Março/2025 - Phishing domain
 www.wixsite.com
 #Março/2025 - Malware related
-reginaldolopes.net
+reginaldolopes.net 
 #Março/2025 - Phishing campaign
 web3-supp.com
