@@ -584,7 +584,6 @@ jrltransportes.com.br
 kifortequimica.com.br
 kmrfibras.com.br
 limeerror.org
-linkr.it
 livrosnarede.com.br
 mailsuite.com
 maissoja.com.br
@@ -1373,9 +1372,15 @@ casadocolecionador.com.br
 servermax.shop
 #Março/2025 - Malware related
 5mythtracker.xyz
-#Março/2025 - Malware family Unknown
-bestoacmoaltou.net
 #Março/2025 - Malware family magentocore
 asd123qwe2.online
 #Março/2025 - Malware related
 direito2.com.br
+#Março/2025 - Malware family Unknown
+bestoacmoaltou.net
+#Março/2025 - Malware family Adware.android.agent
+download.gamercdn.top
+#Março/2025 - Malware related
+oodruhoufouzair.com
+#Março/2025 - Phishing domain
+linkr.it
