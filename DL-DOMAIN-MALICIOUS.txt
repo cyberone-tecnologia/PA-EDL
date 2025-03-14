@@ -1384,3 +1384,5 @@ download.gamercdn.top
 oodruhoufouzair.com
 #Março/2025 - Phishing domain
 linkr.it
+#Março/2025 - Malware related
+cg55.cc
