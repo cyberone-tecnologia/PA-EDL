@@ -1373,8 +1373,6 @@ servermax.shop
 5mythtracker.xyz
 #Março/2025 - Malware family magentocore
 asd123qwe2.online
-#Março/2025 - Malware related
-direito2.com.br
 #Março/2025 - Malware family Unknown
 bestoacmoaltou.net
 #Março/2025 - Malware family Adware.android.agent
@@ -1399,3 +1397,5 @@ usheebainaut.com
 jocmiglenedsupi.com
 #Março/2025 - Malware related
 curriculumoutcry.com
+#Março/2025 - Malware related
+direito2.com.br
