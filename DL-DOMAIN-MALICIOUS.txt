@@ -1354,7 +1354,6 @@ loopconstruct.com
 #março/2025 - Malware family Unknown
 jeepaunucoast.net
 #março/2025 - Malware related
-usheebainaut.com
 cmperdiscount.shop
 vupes.com.br
 yrvmey.com
@@ -1394,3 +1393,5 @@ www.wixsite.com
 reginaldolopes.net
 #Março/2025 - Phishing campaign
 web3-supp.com
+#Março/2025 - Malware related
+usheebainaut.com
