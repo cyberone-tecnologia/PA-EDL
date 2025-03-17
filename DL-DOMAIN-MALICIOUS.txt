@@ -1344,7 +1344,6 @@ zackoumpeels.net
 saleshifft.com
 dsgncore.com
 65x6565.com
-grazingmarrywomanhood.com
 sesc.ativsys.com.br
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
@@ -1354,7 +1353,6 @@ loopconstruct.com
 #março/2025 - Malware family Unknown
 jeepaunucoast.net
 #março/2025 - Malware related
-usheebainaut.com
 cmperdiscount.shop
 vupes.com.br
 yrvmey.com
@@ -1370,12 +1368,8 @@ kinoforum.org.br
 casadocolecionador.com.br
 #Março/2025 - Malware related
 servermax.shop
-#Março/2025 - Malware related
-5mythtracker.xyz
 #Março/2025 - Malware family magentocore
 asd123qwe2.online
-#Março/2025 - Malware related
-direito2.com.br
 #Março/2025 - Malware family Unknown
 bestoacmoaltou.net
 #Março/2025 - Malware family Adware.android.agent
@@ -1386,3 +1380,27 @@ oodruhoufouzair.com
 linkr.it
 #Março/2025 - Malware related
 cg55.cc
+#Março/2025 - Malware related
+mangalivre.ru
+#Março/2025 - Phishing domain
+www.wixsite.com
+#Março/2025 - Malware related
+reginaldolopes.net
+#Março/2025 - Phishing campaign
+web3-supp.com
+#Março/2025 - Malware family Unknown
+jocmiglenedsupi.com
+#Março/2025 - Malware related
+curriculumoutcry.com
+#Março/2025 - Malware related
+direito2.com.br
+#Março/2025 - Malware related
+mosteirozen.com.br
+#Março/2025 - Malware related
+usheebainaut.com
+#Março/2025 - Malware related
+grazingmarrywomanhood.com
+#Março/2025 - Malware related
+reidoscanais.cc
+#Março/2025 - Malware related
+5mythtracker.xyz
