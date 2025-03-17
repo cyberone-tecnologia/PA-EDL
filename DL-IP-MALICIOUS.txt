@@ -748,9 +748,10 @@
 212.115.124.132
 #março/2025 - Cobalt Strike Server
 191.101.131.226
-#março/2025 - Malicious
-191.96.78.250
 #março/2025 - Malicious IP Detected
 102.165.46.225
+#março/2025 - Malware related
 191.96.224.103
 191.101.131.115
+45.185.208.131
+191.96.78.250
