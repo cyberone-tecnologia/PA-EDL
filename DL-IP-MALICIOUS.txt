@@ -1,7 +1,3 @@
-#fevereiro/2024 - Xloader Malware Campaign - 22/02/2024
-94.127.187.62
-#fevereiro/2024 - AgentTesla Malware Campaign - 22/02/2024
-154.61.75.15
 #fevereiro/2024 - QR Code Credential Harvesting
 60.36.166.28
 #fevereiro/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/2024
