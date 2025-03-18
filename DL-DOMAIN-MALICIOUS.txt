@@ -1339,6 +1339,7 @@ r.bestadperf.com
 nnoq.pages.dev
 bestoacmoaltou.net
 jocmiglenedsupi.com
+paulsss.com
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
 #Março/2025 - Malware related
@@ -1362,6 +1363,9 @@ reidoscanais.cc
 grazingmarrywomanhood.com
 =======
 >>>>>>> e890818b3941840a249ce017420b72acb2620d05
+grazingmarrywomanhood.com
+direito2.com.br
+5mythtracker.xyz
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
@@ -1394,11 +1398,5 @@ linkr.it
 www.wixsite.com
 #Março/2025 - Phishing campaign
 web3-supp.com
-#Março/2025 - Malware related
-grazingmarrywomanhood.com
-#Março/2025 - Malware family Unknown
-paulsss.com
-#Março/2025 - Malware related
-direito2.com.br
-#Março/2025 - Malware related
-5mythtracker.xyz
+#março/2025 - Malware family Trojan.downloader.kqkkfv.script
+vidabemvinda.com.br
