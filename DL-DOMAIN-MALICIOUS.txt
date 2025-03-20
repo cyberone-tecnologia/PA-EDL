@@ -1361,6 +1361,7 @@ reidoscanais.cc
 direito2.com.br
 5mythtracker.xyz
 forlindma.online
+digitalcorp.site
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
@@ -1380,6 +1381,7 @@ sendflow.pro
 daniel-ip.com
 mspshopz.shop
 grazingmarrywomanhood.com
+lvtuucmyfpz.com
 #março/2025 - Phishing Campaign
 intl.invscz.com
 entregasmundo.de
@@ -1400,5 +1402,3 @@ web3-supp.com
 vidabemvinda.com.br
 #março/2025 - Malware family Agent.Tr.Gjad.Js
 vg4u8rvq65t6.com
-#Março/2025 - Malware related
-digitalcorp.site
