@@ -1416,3 +1416,5 @@ urquhar.tapest.cfd
 usheebainaut.com
 #Março/2025 - Malware related
 keenram.anariding.site
+#Março/2025 - Malware family android_fakeapp
+infowester.com
