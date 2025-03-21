@@ -1102,7 +1102,6 @@ tmail.com
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
 dareka4te.shop
-gstatlc.org
 groundrats.org
 #Dezembro/2024 - Malware related
 load.365analytics.xyz
@@ -1360,6 +1359,14 @@ direito2.com.br
 forlindma.online
 digitalcorp.site
 jquery.bond
+lvtuucmyfpz.com
+curriculumoutcry.com
+www.ver-dados-atendimento.online
+urquhar.tapest.cfd
+usheebainaut.com
+keenram.anariding.site
+cg55.cc
+kjr.com.au
 #Março/2025 - Malware family Trojan.Downloader.js.fakejquery.ar.mtb
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
@@ -1403,21 +1410,9 @@ vidabemvinda.com.br
 vg4u8rvq65t6.com
 #março/2025 - Malware family Agent.g1.sload.jsmalware
 blog.mclartymaia.com.br
-#Março/2025 - Malware related
-lvtuucmyfpz.com
-#Março/2025 - Malware related
-curriculumoutcry.com
-#Março/2025 - Malware related
-www.ver-dados-atendimento.online
-#Março/2025 - Malware related
-urquhar.tapest.cfd
-#Março/2025 - Malware related
-usheebainaut.com
-#Março/2025 - Malware related
-keenram.anariding.site
 #Março/2025 - Malware family android_fakeapp
 infowester.com
-#Março/2025 - Malware related
-cg55.cc
-#Março/2025 - Malware related
-kjr.com.au
+#março/2025 - Malware family magentocore
+snslyticus.com
+#março/2025 - Malware family Magecart
+gstatlc.org
