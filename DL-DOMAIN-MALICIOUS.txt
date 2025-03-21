@@ -1350,7 +1350,6 @@ dsgncore.com
 casadocolecionador.com.br
 servermax.shop
 oodruhoufouzair.com
-cg55.cc
 mangalivre.ru
 reginaldolopes.net
 mosteirozen.com.br
@@ -1418,3 +1417,5 @@ usheebainaut.com
 keenram.anariding.site
 #Março/2025 - Malware family android_fakeapp
 infowester.com
+#Março/2025 - Malware related
+cg55.cc
