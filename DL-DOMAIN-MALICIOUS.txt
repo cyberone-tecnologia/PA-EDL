@@ -1386,7 +1386,6 @@ mspshopz.shop
 grazingmarrywomanhood.com
 free-connecting-app.monster
 palestra.brietholdingbrasil.com.br
-moropplinsires.com
 embedtv.online
 reidoscanais.cc
 lideboxr.store
@@ -1429,3 +1428,5 @@ orbito.online
 semprecuidando.com.br
 #Março/2025 - Malware family Adware.g.jsrevizer
 programdiag.com
+#Março/2025 - Malware related
+moropplinsires.com
