@@ -1258,7 +1258,6 @@ iyoutubetomp4.com
 adfpoint.com
 #Janeiro/2025 - Malware family Adware.g.jsrevizer
 shopstorys.com
-programdiag.com
 #janeiro/2025 - Phishing related
 program-edition.es
 #Janeiro/2025 - Malware family Trojan.Ml.B.Phonzy.Script
@@ -1428,3 +1427,5 @@ gstatlc.org
 orbito.online
 #Março/2025 - Malware related
 semprecuidando.com.br
+#Março/2025 - Malware family Adware.g.jsrevizer
+programdiag.com
