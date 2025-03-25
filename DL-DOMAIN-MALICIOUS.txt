@@ -1303,8 +1303,6 @@ www.baixesoft.com
 gotmail.com
 20minutemail.com
 imailt.com
-#Fevereiro/2025 - Malware family Adware.g.jsrevizer
-linkangood.com
 #fevereiro/2025 - Phishing campaign
 8a.nextwavxe.ru
 correios-atende.s3.us-east-1.amazonaws.com
@@ -1434,3 +1432,5 @@ rapiddevapi.com
 usheebainaut.com
 #Março/2025 - Malware related
 oodruhoufouzair.com
+#Março/2025 - Malware family Adware.g.jsrevizer
+linkangood.com
