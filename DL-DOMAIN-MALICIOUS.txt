@@ -1377,7 +1377,6 @@ www.strictlydigital.co
 www.motelsunrise.com.br
 cdn.yyclub.work
 sendflow.pro
-daniel-ip.com
 mspshopz.shop
 grazingmarrywomanhood.com
 free-connecting-app.monster
@@ -1442,3 +1441,5 @@ catalogobrasil.net
 sosrodizios.com.br
 #Março/2025 - Malware related
 coaufu.com
+#Março/2025 - Malware related
+daniel-ip.com
