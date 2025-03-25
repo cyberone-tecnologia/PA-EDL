@@ -1347,7 +1347,6 @@ dsgncore.com
 65x6565.com
 casadocolecionador.com.br
 servermax.shop
-oodruhoufouzair.com
 mangalivre.ru
 reginaldolopes.net
 mosteirozen.com.br
@@ -1433,3 +1432,5 @@ moropplinsires.com
 rapiddevapi.com
 #Março/2025 - Malware related
 usheebainaut.com
+#Março/2025 - Malware related
+oodruhoufouzair.com
