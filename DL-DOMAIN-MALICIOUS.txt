@@ -1447,3 +1447,5 @@ daniel-ip.com
 linscountryclub.com.br
 #Março/2025 - Malware family Unknown
 www.alucomposto.com.br
+#Março/2025 - Phishing domain
+triban.co
