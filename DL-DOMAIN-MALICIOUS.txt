@@ -1443,3 +1443,5 @@ sosrodizios.com.br
 coaufu.com
 #Março/2025 - Malware related
 daniel-ip.com
+#Março/2025 - Malware family Trojan.mtb.aba.phish
+www.belmontekatz.com.br
