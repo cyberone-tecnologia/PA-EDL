@@ -1438,8 +1438,6 @@ catalogobrasil.net
 #Março/2025 - Malware related
 sosrodizios.com.br
 #Março/2025 - Malware related
-coaufu.com
-#Março/2025 - Malware related
 daniel-ip.com
 #Março/2025 - Malware related
 linscountryclub.com.br
@@ -1453,3 +1451,5 @@ buzzflying.shop
 usheebainaut.com
 #Março/2025 - Malware related
 vaguestcicale.top
+#Março/2025 - Malware related
+coaufu.com
