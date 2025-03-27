@@ -1449,3 +1449,5 @@ linscountryclub.com.br
 www.alucomposto.com.br
 #Março/2025 - Phishing domain
 triban.co
+#Março/2025 - Malware related
+buzzflying.shop
