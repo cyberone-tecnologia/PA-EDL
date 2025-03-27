@@ -1428,8 +1428,6 @@ moropplinsires.com
 #Março/2025 - Malware family FakeUpdates
 rapiddevapi.com
 #Março/2025 - Malware related
-usheebainaut.com
-#Março/2025 - Malware related
 oodruhoufouzair.com
 #Março/2025 - Malware family Adware.g.jsrevizer
 linkangood.com
@@ -1451,3 +1449,5 @@ www.alucomposto.com.br
 triban.co
 #Março/2025 - Malware related
 buzzflying.shop
+#Março/2025 - Malware related
+usheebainaut.com
