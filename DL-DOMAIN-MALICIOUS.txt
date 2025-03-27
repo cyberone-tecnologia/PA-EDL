@@ -758,8 +758,6 @@ elevacultural.com
 *.cryptednews.space
 #agosto/2024 - Malware family Trojan.Agent.Vqkox.Dldr.Tr
 greentechreviews.ru
-#agosto/2024 - Malware family Win32.ml.a.uwasson.program
-gamebase.app
 #agosto/2024 - Malware family Trojan.ee8a467a.ge
 tecnologyc.com
 #agosto/2024 - Malware family Agent.Mphcm.Js.Malware
@@ -1459,3 +1457,5 @@ js.targetedtrafficcrew.com
 dns.windowsdnsservicereload.icu
 glassesquadrias.com.br
 enerlux.ch
+#Março/2025 - Malware family Win32.ml.a.uwasson.program
+gamebase.app
