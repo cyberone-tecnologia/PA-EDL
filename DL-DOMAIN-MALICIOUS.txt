@@ -1455,3 +1455,7 @@ vaguestcicale.top
 coaufu.com
 #Março/2025 - Malware related
 js.targetedtrafficcrew.com
+#Março/2025 - Phishing campaign
+dns.windowsdnsservicereload.icu
+glassesquadrias.com.br
+enerlux.ch
