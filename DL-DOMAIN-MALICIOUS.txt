@@ -1467,3 +1467,5 @@ famitracker.com
 1sh.co
 #Março/2025 - Malware family Lumma Stealer
 r.bestadperf.com
+#Março/2025 - Malware family Trojan.af.cryxos.js
+didigalvao.com.br
