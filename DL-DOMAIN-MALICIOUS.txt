@@ -1463,3 +1463,5 @@ grazingmarrywomanhood.com
 coaufu.com
 #Março/2025 - Phishing domain
 onne.link
+#Março/2025 - Malware family Trojan.gen2.zpack.crypt.tr
+famitracker.com
