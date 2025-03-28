@@ -1465,3 +1465,5 @@ coaufu.com
 onne.link
 #Março/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
+#Março/2025 - Phishing domain
+1sh.co
