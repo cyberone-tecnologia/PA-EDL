@@ -1373,7 +1373,6 @@ www.strictlydigital.co
 www.motelsunrise.com.br
 cdn.yyclub.work
 sendflow.pro
-mspshopz.shop
 free-connecting-app.monster
 palestra.brietholdingbrasil.com.br
 embedtv.online
@@ -1469,3 +1468,5 @@ famitracker.com
 r.bestadperf.com
 #Março/2025 - Malware family Trojan.af.cryxos.js
 didigalvao.com.br
+#Março/2025 - Malware family android_fakeapp
+mspshopz.shop
