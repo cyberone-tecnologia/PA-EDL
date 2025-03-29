@@ -1048,8 +1048,6 @@ analytishub.com
 madalosso.com.br
 #novembro/2024 - "Malware family 4c3eft.Malwthreat.Js"
 storage.webfiledata.com
-#novembro/2024 - "Malware family Trojan.mtb.sfaa.obfuse.js"
-mais1cafe.com.br
 #novembro/2024 - "Malware family GT:JS.Nemucod.3.4883BB5A"
 stay.decentralappps.com
 #novembro/2024 - Phishing domain
@@ -1470,3 +1468,5 @@ r.bestadperf.com
 didigalvao.com.br
 #Março/2025 - Malware family android_fakeapp
 mspshopz.shop
+#Março/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
+mais1cafe.com.br
