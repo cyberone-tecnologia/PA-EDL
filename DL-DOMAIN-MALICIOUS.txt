@@ -1168,8 +1168,6 @@ municipiodomaio.cv
 trustisimportant.fun
 #Dezembro/2024 - Malware family ek_generic
 ecomicrolab.com
-#Dezembro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
-ideia2001.com.br
 #Dezembro/2024 - Malware family Trojan.Generic.KD
 www.controlemunicipal.com.br
 #Dezembro/2024 - Malware family Js.agent.rrl
@@ -1472,3 +1470,5 @@ mspshopz.shop
 mais1cafe.com.br
 #Março/2025 - Malware related
 cojughodrabuh.com
+#Março/2025 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
+ideia2001.com.br
