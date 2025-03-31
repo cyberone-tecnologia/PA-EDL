@@ -960,7 +960,6 @@ search.fenrawrye.live
 #outubro/2024 - Malicious domain
 pedreirao.com.br
 #outubro/2024 - "Malware family SocGholish"
-customer.thewayofmoney.us
 www.concretosflorense.com.br
 #outubro/2024 - "Malware family smokeloader"
 planilhasvba.com.br
@@ -1472,3 +1471,5 @@ mais1cafe.com.br
 cojughodrabuh.com
 #Março/2025 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
 ideia2001.com.br
+#Março/2025 - Malware family socgholish
+customer.thewayofmoney.us
