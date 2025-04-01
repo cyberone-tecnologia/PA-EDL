@@ -1299,8 +1299,6 @@ imailt.com
 correios-atende.s3.us-east-1.amazonaws.com
 #Fevereiro/2025 - Malware family Riskware.adblock
 dyetui.com
-#Fevereiro/2025 - Malware family Spam.PDF
-memsports.com.br
 #Fevereiro/2025 - Malware family Malicious.PDF.malware
 curtadoc.tv
 #Fevereiro/2025 - Malware family Trojan.mtb.rj.obfuse.js
@@ -1491,3 +1489,5 @@ b8t.watchcollision.xyz
 www.fmetropolitana.com.br/
 #Abril/2025 - Wildfire reported as malware
 www.viagemastral.com/
+#Abril/2025 - Malware family Spam.PDF
+memsports.com.br
