@@ -1487,3 +1487,5 @@ shop.boomaorganic.com.br/
 orbe.me/
 #Abril/2025 - Wildfire reported as malware
 elb.regexsolutions.com.br/
+#Abril/2025 - Wildfire reported as malware
+file-connection-all-ez.com/
