@@ -1478,3 +1478,5 @@ corp1.minhaclaro.com.br
 supportsentparticle.com/
 #Abril/2025 - Malware family Trojan.downloader.kqkkfv.script
 flashlimp.com.br
+#Abril/2025 - malware
+regularizarencomendas.com/
