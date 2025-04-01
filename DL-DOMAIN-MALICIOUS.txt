@@ -1491,3 +1491,5 @@ elb.regexsolutions.com.br/
 file-connection-all-ez.com/
 #Abril/2025 - Malware related
 regularizarencomendas.com
+#Abril/2025 - Wildfire reported as malware
+www.contraditor.com/
