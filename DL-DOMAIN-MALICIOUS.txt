@@ -1472,3 +1472,5 @@ mais1cafe.com.br
 ideia2001.com.br
 #Março/2025 - malware
 api.joynetgame.com/
+#Abril/2025 - malware
+cdn.regexsolutions.com.br/
