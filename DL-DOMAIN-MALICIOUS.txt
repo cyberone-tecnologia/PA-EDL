@@ -1472,24 +1472,20 @@ ideia2001.com.br
 api.joynetgame.com/
 #Abril/2025 - malware
 cdn.regexsolutions.com.br/
-#Abril/2025 - Malware family Exploit.java.cve.2012.4681
-corp1.minhaclaro.com.br
-#Abril/2025 - malware
 supportsentparticle.com/
-#Abril/2025 - Malware family Trojan.downloader.kqkkfv.script
-flashlimp.com.br
-#Abril/2025 - malware
 regularizarencomendas.com/
-#Abril/2025 - malware
 www.decusparquet.com/#Abril/2025 - Wildfire reported as malware
 shop.boomaorganic.com.br/
+#Abril/2025 - Malware family Exploit.java.cve.2012.4681
+corp1.minhaclaro.com.br
+#Abril/2025 - Malware family Trojan.downloader.kqkkfv.script
+flashlimp.com.br
 #Abril/2025 - Wildfire reported as malware
 orbe.me/
-#Abril/2025 - Wildfire reported as malware
 elb.regexsolutions.com.br/
-#Abril/2025 - Wildfire reported as malware
 file-connection-all-ez.com/
+www.contraditor.com/
 #Abril/2025 - Malware related
 regularizarencomendas.com
-#Abril/2025 - Wildfire reported as malware
-www.contraditor.com/
+#abril/2025 - Malware related
+b8t.watchcollision.xyz
