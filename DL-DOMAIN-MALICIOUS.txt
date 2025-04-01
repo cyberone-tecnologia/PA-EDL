@@ -1474,3 +1474,5 @@ ideia2001.com.br
 api.joynetgame.com/
 #Abril/2025 - malware
 cdn.regexsolutions.com.br/
+#Abril/2025 - Malware family Exploit.java.cve.2012.4681
+corp1.minhaclaro.com.br
