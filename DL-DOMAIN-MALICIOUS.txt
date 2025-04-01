@@ -1489,3 +1489,5 @@ orbe.me/
 elb.regexsolutions.com.br/
 #Abril/2025 - Wildfire reported as malware
 file-connection-all-ez.com/
+#Abril/2025 - Malware related
+regularizarencomendas.com
