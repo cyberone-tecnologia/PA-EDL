@@ -1476,3 +1476,5 @@ api.joynetgame.com/
 cdn.regexsolutions.com.br/
 #Abril/2025 - Malware family Exploit.java.cve.2012.4681
 corp1.minhaclaro.com.br
+#Abril/2025 - malware
+supportsentparticle.com/
