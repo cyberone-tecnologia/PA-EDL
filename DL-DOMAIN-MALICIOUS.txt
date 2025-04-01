@@ -718,8 +718,6 @@ astrakhan-news.net
 *.marketingvici.com
 #agosto/2024 - Malware family android_ermac
 offers25942.xyz
-#agosto/2024 - Malware family Trojan.Ml.A.Fl.Sabsik.Script
-flashlimp.com.br
 #agosto/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 pedraferro.com
 #agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
@@ -1478,3 +1476,5 @@ cdn.regexsolutions.com.br/
 corp1.minhaclaro.com.br
 #Abril/2025 - malware
 supportsentparticle.com/
+#Abril/2025 - Malware family Trojan.downloader.kqkkfv.script
+flashlimp.com.br
