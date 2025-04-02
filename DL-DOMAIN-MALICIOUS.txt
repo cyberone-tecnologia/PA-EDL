@@ -1447,8 +1447,6 @@ gstatlc.org
 #Março/2025 - Malware family Adware.g.jsrevizer
 programdiag.com
 linkangood.com
-#Março/2025 - Malware family FakeUpdates
-rapiddevapi.com
 #Março/2025 - Malware family Lokibot
 catalogobrasil.net
 #Março/2025 - Malware family Win32.ml.a.uwasson.program
@@ -1513,3 +1511,5 @@ teslasolucoes.com.br/
 57vkb8tz.boats
 #Abril/2025 - Wildfire reported as malware
 upload-us.bcbd123.com/
+#Abril/2025 - Malware family FakeUpdates
+rapiddevapi.com
