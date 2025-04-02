@@ -1482,7 +1482,6 @@ regularizarencomendas.com
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 saliedash.com
-flirtsnation.com
 #Abril/2025 - Malware family Spam.PDF
 memsports.com.br
 #abril/2025 - Malware family android_fakeapp
@@ -1525,3 +1524,5 @@ blog.lojaslinna.com.br/
 upload-sys-pics.bcbd123.com/
 #Abril/2025 - Malware family Lummastealer
 steamverde.net
+#Abril/2025 - Malware related
+flirtsnation.com
