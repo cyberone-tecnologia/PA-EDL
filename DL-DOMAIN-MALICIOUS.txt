@@ -1515,9 +1515,9 @@ rapiddevapi.com
 valedoparaopeba.com.br/
 #Abril/2025 - Wildfire reported as malware
 us.boxif.xyz/
-#Abril/2025 - Malware related
-57vkb8tz.boats
 #Abril/2025 - Malware family Magecart
 cdn-statistics.com
 #Abril/2025 - Wildfire reported as malware
 blog.lojaslinna.com.br/
+#Abril/2025 - Malware related
+57vkb8tz.boats
