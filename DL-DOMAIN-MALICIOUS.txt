@@ -1519,3 +1519,5 @@ us.boxif.xyz/
 57vkb8tz.boats
 #Abril/2025 - Malware family Magecart
 cdn-statistics.com
+#Abril/2025 - Wildfire reported as malware
+blog.lojaslinna.com.br/
