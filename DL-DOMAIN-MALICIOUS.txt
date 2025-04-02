@@ -1521,3 +1521,5 @@ cdn-statistics.com
 blog.lojaslinna.com.br/
 #Abril/2025 - Malware related
 57vkb8tz.boats
+#Abril/2025 - Wildfire reported as malware
+upload-sys-pics.bcbd123.com/
