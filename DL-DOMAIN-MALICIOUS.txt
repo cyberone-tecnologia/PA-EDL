@@ -1495,8 +1495,6 @@ pay.checkoutsafes.com
 coaufu.com
 #Abril/2025 - Wildfire reported as malware
 a4consult.com.br/
-#Abril/2025 - Malware related
-57vkb8tz.boats
 #Abril/2025 - Phishing domain
 tudosobretodos.se
 #Abril/2025 - Wildfire reported as malware
@@ -1511,3 +1509,5 @@ www2.setapigames.shop
 www.oficialsport.com.br/
 #Abril/2025 - Wildfire reported as malware
 teslasolucoes.com.br/
+#Abril/2025 - Malware related
+57vkb8tz.boats
