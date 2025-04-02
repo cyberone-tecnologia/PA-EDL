@@ -1518,11 +1518,11 @@ us.boxif.xyz/
 cdn-statistics.com
 #Abril/2025 - Wildfire reported as malware
 blog.lojaslinna.com.br/
-#Abril/2025 - Malware related
-57vkb8tz.boats
 #Abril/2025 - Wildfire reported as malware
 upload-sys-pics.bcbd123.com/
 #Abril/2025 - Malware family Lummastealer
 steamverde.net
 #Abril/2025 - Malware related
 flirtsnation.com
+#Abril/2025 - Malware related
+57vkb8tz.boats
