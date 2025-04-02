@@ -1441,7 +1441,6 @@ vg4u8rvq65t6.com
 blog.mclartymaia.com.br
 #Março/2025 - Malware family android_fakeapp
 infowester.com
-mspshopz.shop
 #março/2025 - Malware family magentocore
 snslyticus.com
 #março/2025 - Malware family Magecart
@@ -1486,5 +1485,10 @@ regularizarencomendas.com
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 saliedash.com
+flirtsnation.com
 #Abril/2025 - Malware family Spam.PDF
 memsports.com.br
+#abril/2025 - Malware family android_fakeapp
+mspshopz.shop
+#abril/2025 - Phishing domain
+pay.checkoutsafes.com
