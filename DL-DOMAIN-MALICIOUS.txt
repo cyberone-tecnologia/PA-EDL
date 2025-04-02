@@ -1493,8 +1493,6 @@ mspshopz.shop
 pay.checkoutsafes.com
 #Abril/2025 - Malware related
 coaufu.com
-#Abril/2025 - Malware related
-resurrectionincomplete.com
 #Abril/2025 - Wildfire reported as malware
 a4consult.com.br/
 #Abril/2025 - Malware related
@@ -1505,3 +1503,5 @@ tudosobretodos.se
 www.ecopontes.com.br/
 #Abril/2025 - Malware related
 betao.bet.br
+#Abril/2025 - Malware related
+resurrectionincomplete.com
