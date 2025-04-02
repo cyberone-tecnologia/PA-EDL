@@ -1492,10 +1492,10 @@ mspshopz.shop
 #abril/2025 - Phishing domain
 pay.checkoutsafes.com
 #Abril/2025 - Malware related
-57vkb8tz.boats
-#Abril/2025 - Malware related
 coaufu.com
 #Abril/2025 - Malware related
 resurrectionincomplete.com
 #Abril/2025 - Wildfire reported as malware
 a4consult.com.br/
+#Abril/2025 - Malware related
+57vkb8tz.boats
