@@ -1523,3 +1523,5 @@ blog.lojaslinna.com.br/
 57vkb8tz.boats
 #Abril/2025 - Wildfire reported as malware
 upload-sys-pics.bcbd123.com/
+#Abril/2025 - Malware family Lummastealer
+steamverde.net
