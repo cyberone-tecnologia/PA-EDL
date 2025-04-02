@@ -1507,3 +1507,5 @@ betao.bet.br
 resurrectionincomplete.com
 #Abril/2025 - Malware related
 www2.setapigames.shop
+#Abril/2025 - Wildfire reported as malware
+www.oficialsport.com.br/
