@@ -1501,3 +1501,5 @@ a4consult.com.br/
 57vkb8tz.boats
 #Abril/2025 - Phishing domain
 tudosobretodos.se
+#Abril/2025 - Wildfire reported as malware
+www.ecopontes.com.br/
