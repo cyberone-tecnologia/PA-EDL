@@ -1449,8 +1449,6 @@ programdiag.com
 linkangood.com
 #Março/2025 - Malware family Lokibot
 catalogobrasil.net
-#Março/2025 - Malware family Win32.ml.a.uwasson.program
-gamebase.app
 #Março/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
 #Março/2025 - Malware family Lumma Stealer
@@ -1551,3 +1549,5 @@ lp.fesn.org.br/
 api.replay.com.br
 #Abril/2025 - Wildfire reported as malware
 www.ejetaragua.com/
+#Abril/2025 - Malware family Win32.ml.a.uwasson.program
+gamebase.app
