@@ -1547,3 +1547,5 @@ emktlw.com.br
 savepay-resources.pages.dev
 #Abril/2025 - Wildfire reported as malware
 lp.fesn.org.br/
+#Abril/2025 - Malware related
+api.replay.com.br
