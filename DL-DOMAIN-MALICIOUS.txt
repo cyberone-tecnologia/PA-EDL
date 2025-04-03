@@ -1530,3 +1530,5 @@ rapiddevapi.com
 speedtest.internet10.net.br:8080/speedtest/upload.php?x=1743661563936.0
 #Abril/2025 - Wildfire reported as malware
 www.valesports.com.br/
+#Abril/2025 - Wildfire reported as malware
+app.antiblock.com.br/
