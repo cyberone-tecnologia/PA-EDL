@@ -1539,8 +1539,6 @@ elimundo.com
 f0yhaqr9okdj.xyz/
 #Abril/2025 - Wildfire reported as malware
 fitaup.com/
-#Abril/2025 - Phishing domain
-emktlw.com.br
 #Abril/2025 - Malware related
 savepay-resources.pages.dev
 #Abril/2025 - Wildfire reported as malware
@@ -1551,3 +1549,5 @@ api.replay.com.br
 www.ejetaragua.com/
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
+#Abril/2025 - Phishing domain
+emktlw.com.br
