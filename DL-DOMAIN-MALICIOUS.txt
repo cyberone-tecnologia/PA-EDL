@@ -1481,7 +1481,6 @@ www.viagemastral.com/
 regularizarencomendas.com
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
-saliedash.com
 #Abril/2025 - Malware family Spam.PDF
 memsports.com.br
 #abril/2025 - Malware family android_fakeapp
@@ -1534,3 +1533,5 @@ www.valesports.com.br/
 app.antiblock.com.br/
 #Abril/2025 - Malware family Adware.agent.hk.js
 css.xjsx.lol
+#Abril/2025 - Malware related
+saliedash.com
