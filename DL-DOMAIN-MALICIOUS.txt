@@ -1549,3 +1549,5 @@ savepay-resources.pages.dev
 lp.fesn.org.br/
 #Abril/2025 - Malware related
 api.replay.com.br
+#Abril/2025 - Wildfire reported as malware
+www.ejetaragua.com/
