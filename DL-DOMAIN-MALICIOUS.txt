@@ -1553,3 +1553,5 @@ gamebase.app
 emktlw.com.br
 #Abril/2025 - Malware family Win32.ml.c.puwaders.pua
 medworld.com.br
+#Abril/2025 - Malware related
+oaskpodaspodkaspodkaspok.xyz
