@@ -1517,8 +1517,6 @@ blog.lojaslinna.com.br/
 upload-sys-pics.bcbd123.com/
 #Abril/2025 - Malware family Lummastealer
 steamverde.net
-#Abril/2025 - Malware related
-flirtsnation.com
 #Abril/2025 - Malware family FakeUpdates
 rapiddevapi.com
 #Abril/2025 - Malware related
@@ -1557,3 +1555,5 @@ medworld.com.br
 oaskpodaspodkaspodkaspok.xyz
 #Abril/2025 - Malware family Emmenhtal
 novogerenciador.tjma.jus.br
+#Abril/2025 - Malware related
+flirtsnation.com
