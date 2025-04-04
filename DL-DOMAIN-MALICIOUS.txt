@@ -1367,7 +1367,6 @@ cojughodrabuh.com
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
 majorbrdide.com
-loopconstruct.com
 customer.thewayofmoney.us
 #março/2025 - Malware family Unknown
 jeepaunucoast.net
@@ -1571,3 +1570,5 @@ www.acassius.com.br/
 skyimagensaereas.com.br/
 #Abril/2025 - Wildfire reported as malware
 pararaiosbh.com/
+#Abril/2025 - Malware family socgholish
+loopconstruct.com
