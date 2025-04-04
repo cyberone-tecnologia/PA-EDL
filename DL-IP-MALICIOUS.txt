@@ -1,4 +1,4 @@
-#fevereiro/2024 - QR Code Credential Harvesting
+k#fevereiro/2024 - QR Code Credential Harvesting
 60.36.166.28
 #fevereiro/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/2024
 178.23.190.199
@@ -764,3 +764,5 @@
 192.42.116.189
 65.21.195.87
 94.142.241.41
+# bloqueio temporario 03 04
+10.28.0.40
