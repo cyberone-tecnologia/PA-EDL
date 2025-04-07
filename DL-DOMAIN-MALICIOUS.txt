@@ -1415,8 +1415,6 @@ vmi2302831.contaboserver.net
 ummydownloader.com
 #Março/2025 - Malware family Js.agent.rrl
 kinoforum.org.br
-#Março/2025 - Malware family magentocore
-asd123qwe2.online
 #Março/2025 - Malware family Adware.android.agent
 download.gamercdn.top
 #Março/2025 - Phishing domain
@@ -1602,3 +1600,5 @@ pnmais.com/
 clinicaabrahaoosta.com.br
 #Abril/2025 - Wildfire reported as malware
 accountantflowerrespiration.com/
+#Abril/2025 - Malware family magentocore
+asd123qwe2.online
