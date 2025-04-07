@@ -1588,3 +1588,5 @@ propagandainflavel.com.br/
 agatec.com.br/
 #Abril/2025 - Malware family Stg.Trojan.PDF.agent
 files.tryflowdrive.com
+#Abril/2025 - Wildfire reported as malware
+punchpantherwhip.com/
