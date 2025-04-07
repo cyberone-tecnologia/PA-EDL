@@ -1586,3 +1586,5 @@ simplificatreinamentos.com.br
 propagandainflavel.com.br/
 #Abril/2025 - Wildfire reported as malware
 agatec.com.br/
+#Abril/2025 - Malware family Stg.Trojan.PDF.agent
+files.tryflowdrive.com
