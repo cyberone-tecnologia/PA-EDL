@@ -1619,3 +1619,6 @@ cooltours.s3.sa-east-1.amazonaws.com/
 impervia.com.br/
 #Abril/2025 - Phishing domain
 emktlw.com.br
+#Abril/2025 - Phishing campaign
+seufuturosemdividas.shop
+bomnegocio.ch
