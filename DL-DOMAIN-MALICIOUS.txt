@@ -1630,3 +1630,5 @@ www.flexclima.com.br/
 www.danielcorp.com.br/
 #Abril/2025 - Wildfire reported as malware
 namaslaycrew.com/
+#Abril/2025 - Phishing domain
+checkout.bestfybr.com.br
