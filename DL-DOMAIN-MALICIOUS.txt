@@ -1536,8 +1536,6 @@ f0yhaqr9okdj.xyz/
 fitaup.com/
 #Abril/2025 - Wildfire reported as malware
 lp.fesn.org.br/
-#Abril/2025 - Malware related
-api.replay.com.br
 #Abril/2025 - Wildfire reported as malware
 www.ejetaragua.com/
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
@@ -1576,8 +1574,6 @@ wugroansaghadry.com/
 mercadoapp.digital
 #Abril/2025 - Wildfire reported as malware
 www.trustedcpmrevenue.com/
-#Abril/2025 - Malware related
-simplificatreinamentos.com.br
 #Abril/2025 - Wildfire reported as malware
 propagandainflavel.com.br/
 #Abril/2025 - Wildfire reported as malware
@@ -1613,3 +1609,6 @@ update.9mod.com/
 www.documentoonline.com.br/
 #Abril/2025 - Malware related
 taboola.cassino.bet.br
+#Abril/2025 - Malware related
+simplificatreinamentos.com.br
+api.replay.com.br
