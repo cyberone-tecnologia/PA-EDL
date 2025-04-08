@@ -1611,6 +1611,7 @@ www.documentoonline.com.br/
 taboola.cassino.bet.br
 #Abril/2025 - Malware related
 simplificatreinamentos.com.br
-api.replay.com.br
 #Abril/2025 - Wildfire reported as malware
 lotusinteligencia.com.br/
+#Abril/2025 - Malware related
+api.replay.com.br
