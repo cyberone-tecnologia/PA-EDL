@@ -1617,3 +1617,5 @@ api.replay.com.br
 emktlw.com.br
 #Abril/2025 - Wildfire reported as malware
 cooltours.s3.sa-east-1.amazonaws.com/
+#Abril/2025 - Wildfire reported as malware
+impervia.com.br/
