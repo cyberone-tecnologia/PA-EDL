@@ -1632,9 +1632,9 @@ www.danielcorp.com.br/
 namaslaycrew.com/
 #Abril/2025 - Phishing domain
 checkout.bestfybr.com.br
-#Abril/2025 - Malware related
-fj8ndqrhn5.com
 #Abril/2025 - Wildfire reported as malware
 worldskateamerica.org/
 #Abril/2025 - Malware family Agent.mphcj.jsmalware
 praticandofisio.com
+#Abril/2025 - Malware related
+fj8ndqrhn5.com
