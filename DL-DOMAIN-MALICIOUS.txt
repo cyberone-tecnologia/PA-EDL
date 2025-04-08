@@ -1538,8 +1538,6 @@ fitaup.com/
 lp.fesn.org.br/
 #Abril/2025 - Wildfire reported as malware
 www.ejetaragua.com/
-#Abril/2025 - Malware family Win32.ml.a.uwasson.program
-gamebase.app
 #Abril/2025 - Malware family Win32.ml.c.puwaders.pua
 medworld.com.br
 #Abril/2025 - Malware related
@@ -1638,3 +1636,5 @@ worldskateamerica.org/
 praticandofisio.com
 #Abril/2025 - Malware related
 fj8ndqrhn5.com
+#Abril/2025 - Malware family Win32.ml.a.uwasson.program
+gamebase.app
