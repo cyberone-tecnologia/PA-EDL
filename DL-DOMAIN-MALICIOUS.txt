@@ -1540,8 +1540,6 @@ lp.fesn.org.br/
 www.ejetaragua.com/
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
-#Abril/2025 - Phishing domain
-emktlw.com.br
 #Abril/2025 - Malware family Win32.ml.c.puwaders.pua
 medworld.com.br
 #Abril/2025 - Malware related
@@ -1615,3 +1613,5 @@ simplificatreinamentos.com.br
 lotusinteligencia.com.br/
 #Abril/2025 - Malware related
 api.replay.com.br
+#Abril/2025 - Phishing domain
+emktlw.com.br
