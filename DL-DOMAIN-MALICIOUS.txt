@@ -1632,3 +1632,5 @@ www.danielcorp.com.br/
 namaslaycrew.com/
 #Abril/2025 - Phishing domain
 checkout.bestfybr.com.br
+#Abril/2025 - Malware related
+fj8ndqrhn5.com
