@@ -1653,3 +1653,5 @@ curtadoc.tv
 asd123qwe2.online
 #Abril/2025 - Malware family Emmenhtal
 novogerenciador.tjma.jus.br
+#Abril/2025 - Wildfire reported as malware
+casadocorredor.com.br/
