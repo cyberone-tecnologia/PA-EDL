@@ -1640,3 +1640,5 @@ fj8ndqrhn5.com
 gamebase.app
 #Abril/2025 - Wildfire reported as malware
 speedtest.viaondas.com.br:8080/speedtest/latency.txt?x=1744185961982
+#Abril/2025 - Wildfire reported as malware
+arquidioceselondrina.com.br/
