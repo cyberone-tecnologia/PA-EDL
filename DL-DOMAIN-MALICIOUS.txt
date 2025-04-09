@@ -1667,3 +1667,5 @@ promo.maroo.la/
 redirect-security.digital
 #Abril/2025 - Malware related
 simon-eat.com
+#Abril/2025 - Wildfire reported as malware
+dpuppers.com/
