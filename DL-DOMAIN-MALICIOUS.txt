@@ -1586,8 +1586,6 @@ pnmais.com/
 clinicaabrahaoosta.com.br
 #Abril/2025 - Wildfire reported as malware
 accountantflowerrespiration.com/
-#Abril/2025 - Malware family magentocore
-asd123qwe2.online
 #Abril/2025 - Wildfire reported as malware
 partsdiesel.com.br/
 #Abril/2025 - Wildfire reported as malware
@@ -1651,3 +1649,5 @@ cdn-statistics.com
 alvimage.alvo.com.br/
 #Abril/2025 - Malware family Malicious.PDF.malware
 curtadoc.tv
+#Abril/2025 - Malware family magentocore
+asd123qwe2.online
