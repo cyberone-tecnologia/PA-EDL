@@ -1651,3 +1651,5 @@ alvimage.alvo.com.br/
 curtadoc.tv
 #Abril/2025 - Malware family magentocore
 asd123qwe2.online
+#Abril/2025 - Malware family Emmenhtal
+novogerenciador.tjma.jus.br
