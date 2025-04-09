@@ -1661,3 +1661,5 @@ lnkl.st/
 construtoraplano.com.br/
 #Abril/2025 - Malware family Unknown
 choutsaugroo.com
+#Abril/2025 - Wildfire reported as malware
+promo.maroo.la/
