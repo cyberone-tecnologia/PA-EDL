@@ -1663,3 +1663,5 @@ construtoraplano.com.br/
 choutsaugroo.com
 #Abril/2025 - Wildfire reported as malware
 promo.maroo.la/
+#Abril/2025 - Malware family Magecart
+redirect-security.digital
