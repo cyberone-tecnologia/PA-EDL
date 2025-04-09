@@ -1506,8 +1506,6 @@ upload-us.bcbd123.com/
 valedoparaopeba.com.br/
 #Abril/2025 - Wildfire reported as malware
 us.boxif.xyz/
-#Abril/2025 - Malware family Magecart
-cdn-statistics.com
 #Abril/2025 - Wildfire reported as malware
 blog.lojaslinna.com.br/
 #Abril/2025 - Wildfire reported as malware
@@ -1647,3 +1645,5 @@ www.melloazevedo.com.br/
 tutoriseguranca.com.br/
 #Abril/2025 - Malware family socgholish
 publication.garyjobeferguson.com
+#Abril/2025 - Malware family Magecart
+cdn-statistics.com
