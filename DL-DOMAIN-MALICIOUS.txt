@@ -1644,3 +1644,5 @@ speedtest.viaondas.com.br:8080/speedtest/latency.txt?x=1744185961982
 arquidioceselondrina.com.br/
 #Abril/2025 - Wildfire reported as malware
 escoladoepoxi.com.br/
+#Abril/2025 - Wildfire reported as malware
+www.melloazevedo.com.br/
