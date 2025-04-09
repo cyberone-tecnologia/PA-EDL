@@ -1649,3 +1649,5 @@ publication.garyjobeferguson.com
 cdn-statistics.com
 #Abril/2025 - Malware related
 7mythtracker.xyz
+#Abril/2025 - Wildfire reported as malware
+alvimage.alvo.com.br/
