@@ -1517,7 +1517,7 @@ rapiddevapi.com
 #Abril/2025 - Malware related
 57vkb8tz.boats
 #Abril/2025 - Wildfire reported as malware
-speedtest.internet10.net.br:8080/speedtest/upload.php?x=1743661563936.0
+speedtest.internet10.net.br
 #Abril/2025 - Wildfire reported as malware
 www.valesports.com.br/
 #Abril/2025 - Wildfire reported as malware
