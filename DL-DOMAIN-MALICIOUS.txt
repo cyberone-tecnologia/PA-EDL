@@ -1665,3 +1665,5 @@ choutsaugroo.com
 promo.maroo.la/
 #Abril/2025 - Malware family Magecart
 redirect-security.digital
+#Abril/2025 - Malware related
+simon-eat.com
