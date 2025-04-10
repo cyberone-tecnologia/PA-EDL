@@ -1651,8 +1651,6 @@ alvimage.alvo.com.br/
 curtadoc.tv
 #Abril/2025 - Malware family magentocore
 asd123qwe2.online
-#Abril/2025 - Malware family Emmenhtal
-novogerenciador.tjma.jus.br
 #Abril/2025 - Wildfire reported as malware
 casadocorredor.com.br/
 #Abril/2025 - Wildfire reported as malware
@@ -1675,3 +1673,5 @@ xpcqf9cn.xyz
 storage.ml-cachehost.net
 #Abril/2025 - Malware related
 dl.edge-aicdn.net
+#Abril/2025 - Malware family Emmenhtal
+novogerenciador.tjma.jus.br
