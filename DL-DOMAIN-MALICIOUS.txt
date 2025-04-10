@@ -1675,3 +1675,5 @@ storage.ml-cachehost.net
 dl.edge-aicdn.net
 #Abril/2025 - Malware family Emmenhtal
 novogerenciador.tjma.jus.br
+#Abril/2025 - Malware related
+di-res-eu.fj8ndqrhn5.com
