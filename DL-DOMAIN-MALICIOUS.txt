@@ -1399,3 +1399,5 @@ aa.quantumshift.sbs
 sender.proxicoin.org
 #Abril/2025 - Malware family Trojan.6cab.phish.PDF
 static.s123-cdn.com
+#Abril/2025 - Malware family Agent.Mrrl.Js.Malware
+espacobe.com.br
