@@ -1679,3 +1679,5 @@ novogerenciador.tjma.jus.br
 di-res-eu.fj8ndqrhn5.com
 #Abril/2025 - Malware related
 handcoves.org
+#Abril/2025 - Malware related
+aa.quantumshift.sbs
