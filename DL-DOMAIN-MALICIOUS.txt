@@ -1681,3 +1681,5 @@ di-res-eu.fj8ndqrhn5.com
 handcoves.org
 #Abril/2025 - Malware related
 aa.quantumshift.sbs
+#Abril/2025 - Malware related
+sender.proxicoin.org
