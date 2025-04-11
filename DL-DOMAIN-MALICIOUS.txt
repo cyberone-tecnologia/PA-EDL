@@ -1,29 +1,20 @@
 #fevereiro/2024 - Xloader Malware Campaign - 22/02/2024
 k7ym8xyls.sbs
-maguirelaneliving.com
-feshi.store
 hillfinconsult.com
 awllywood.com
-sdshopping.org
 thesleeperandco.com
-pltsystems.com
-fenster-kronen.de
 #fevereiro/2024 - AgentTesla Malware Campaign - 22/02/2024
 atec.com.tr
 #fevereiro/2024 - QR Code Credential Harvesting
-msg111.plala.or.jp
 #fevereiro/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/2024
 saicetyapy.space
 grebiunti.top
 arsimonopa.com
 lemonimonakio.com
 #fevereiro/2024 - FIS: Suspicious Domain
-integrapaysolutions.com
 #fevereiro/2024 - QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
-em4001.ashitexas.org
 #fevereiro/2024 - Teams-themed Microsoft 365 Credential Harvesting | softr.app
 crpsac.com
-softr.app
 #fevereiro/2024 - Lumma Stealer Malware Campaign - 28/02/2024
 associationokeo.shop
 turkeyunlikelyofw.shop
@@ -35,18 +26,12 @@ lighterepisodeheighte.fun
 technologyenterdo.shop
 syncarpiajanapiom.fun
 #fevereiro/2024 - Credential Capture 28/02/2024
-c8a516d1.e55e6733904fb475d6637658.workers.dev
 nahamclago.com
-bunmmpoer.top
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 connectivity-check.linkpc.net
 #fevereiro/2024 - WAB SMC Threat Intel Share: SocGholish | Compromised Websites
-termly.io
 ebooks.ferrelljoe.com
-sidecardoughnuts.com
-higherthoughtinstitute.com
 #fevereiro/2024 - Credential Capture 29/02/2024
-view.librerialieggi.com
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
 gudintas.at
 pik96.ru
@@ -55,14 +40,10 @@ kingpirate.ru
 connectivity-check.linkpc.net
 #fevereiro/2024 - FIS: Suspicious Domains
 banking-service.xyz
-parix.solutions
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
 time-check-broker.com
-namecheap.com
 #marco/2024 - Guloader/Xloader Malware Campaign - 01/03/2024
-icbmv.ro
 tiambiental.com
-elemental.agency
 kandlprinting.online
 zonenail.info
 lunamymoon.com
@@ -73,13 +54,10 @@ cochevivo.com
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/2024
 basiconlineincome.com
 #marco/2024 - Credential Harvesting | AhaSlides Abuse
-ahaslides.com
 #marco/2024 - Suspicious Domain:  golubcapitall.com
-Golubcapitall.com
 #marco/2024 - Credential Capture 04/03/2024
 thinonthin.life
 #marco/2024 - VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/2024
-asa.com
 aljannatquranteach.com
 bbsupplyandsalon.com
 betsmovepiyango47.com
@@ -90,69 +68,38 @@ grupodistribuidora.com
 zumkoshapsret.com
 jertacco.com
 #marco/2024 - FIS: Suspicious Domain 06/03/2024
-worldpay.work
 #marco/2024 - [Cyberintel] Re: EXTERNAL: Re: Fake Bloomberg Software Downloads - PowerTrash
 thetinytask.net
 #marco/2024 - [Cyberintel] 03-06-2024 - Darkgate Campaigns
-bamautzky.de
 #marco/2024 - ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
-opticare.co.zw
 #marco/2024 - SEO Poisoning: HealthEquity AiTM
-healthequity.sa.com
 #marco/2024 - Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
 xeis.io
 #marco/2024 - Credential Capture 08/03/2024
 docuverseinhub.com
 #marco/2024 - Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
 renovaserv.bio
-quantumservice.tarde
 serviUpdate.bio
-pararaios05fvd.ver
 pisosg8tr.xyz
 #marco/24  ENC: Credential Capture 22/03
-acccountsprivacy0fficeportal.alefkevin.com.br
 #marco/24 VTI: Unknown Malware 21/03
 zcr.ink
-gta5cheats.org
 ztm.ink
 tripadvisor.gift
 #marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 06/08
-aloha-assist.com
-ncrsupport.com
 ursketz.com
-connect-tripadvisor.com
 #marco/24 Rhadamanthys 25/03
 arnaudpairoto.com
 puttyconnect.info
 #marco/24
 valutekcardsolutions.com
 valuteccadrsolutions.com
-valuteccardsolutiions.com
-valuteccardoslutions.com
-valuteccardsoluitons.com
 valuteccards0lutions.com
-valuyeccardsolutions.com
-valutwccardsolutions.com
-valutecxardsolutions.com
-valuteccardsolutoons.com
-valutecacrdsolutions.com
-veluteccardsolutions.com
-valuteccardsoluions.com
-valuteccardsolutionss.com
-valuteccardsolutinos.com
 vaiuteccardsolutions.com
-valuteccardsolutoins.com
 valuteccardsollutions.com
 valuteccardsolutionns.com
-valuteccarrdsolutions.com
-valuteccardsolutiones.com
 #marco/24 [Cyberintel] 03-26-2024 - Darkgate Campaigns
-magazinewp.com
-monsterleadsbiz.com
-cnitedu.com
-deorion.com
 massachusettscomputerservices.com
-oklahomacityehs.com
 wassonite.com
 wpseed.com
 #marco/24 Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware 22/03
@@ -160,52 +107,10 @@ sokingscrosshotel.com
 titnovacrion.top
 grunzalom.fun
 #marco/24 Suspicious Domains 27/03
-valateccardsolutions.com
-valuteccardsloutions.com
-valutevcardsolutions.com
-valuteccsrdsolutions.com
-valuteccardsolutins.com
-valuteccardslutions.com
-valuteccardsulutions.com
 #marco/24 Phishing Campaigns IoCs 27/03
-cnitedu.com
 wassonite.com
 wpseed.com
-smerconish.com
-serjobs.org
-mail.mailchimpapp.com
-mail.govos.com
-mannmortgage.com
-northnewjerseychamber.ccsend.com
-footprintssafaris.co.ug
-saltstrong.com
-visitmysmokies.com
-mail.bossbabe.com
-benworthcapital.com
-divinehealth.com
-linkrestaurantgroup.com
-shared1.ccsend.com
-drakepest.com
-blakely[@]mannmortgage.com
-mannmortgage.com
-triadfastenerlp.com
-exelmed.com
 three-ss.com
-mannmortgage.com
-puredry.com
-jamesltaylor.com
-icontactmail4.com
-mesaonline.org
-greenspans-law.com
-puredry.com
-jessaminechamber.org
-lawofficesres.com
-drakepest.com
-mannmortgage.com
-slochamber[@]slochamber.org
-writersLife.org
-drakepest.com
-cdoiqprogram.ccsend.com
 #marco/24 New Powertrash C2
 cdn30.space
 cdn25.space
@@ -220,37 +125,22 @@ kipluterndern.hopto.org
 foitkdndboptpddsup.ddns.net
 hudukpgdgfytpddswq.ddns.net
 #marco/24 Remcos RAT Malware Campaign - 29/03/2024
-uploaddeimagens.com.br/
 #marco/24 Open-Benefits Enrollment Credential Harvesting
-hajvnoao.buzhantahvieh.com
-hidiugfvbnjh.ghazalehazhdarzadeh.com
 ghazalehazhdarzadeh.com
 #abril/2024 - Malware family Unknown
 akademipraktik.com
 #maio/2024 - Malware family mykings_miner
-*.pc0416.xyz
 #maio/2024 - Malware family Unknown
 teachabletutorials.com
 d1x9q8w2e4.xyz
 #maio/2024 - Malware family PuP.Js
-*.bestresulttostart.com
 #maio/2024 - Malware family Backdoor.Win32.Xyk.Darkkomet
-*.onceokuloncesi.com
 #maio/2024 - Malware family SocGholish
 libidotechnexus.com
 #maio/2024 - Phishing campaign (Web Shell)
-completehealth.net.br
 #maio/2024 - Phishing campaign
 islamkoy.com
-*autopadrao3.cloud
 #maio/2024 - C&C
-bigwimalbr.com.br
-arueoalxbox.org
-topxmaxxx.com
-jdoojsbdi.com
-uyuyahbox.com
-kolamvr.com
-vrmaobox.org
 hyetasbox.org
 zammolpaxfl.com
 juaherya.com.br
@@ -279,13 +169,11 @@ jmich.johndgreat.com
 smtplw-04.com
 *.homeacessoprime.com
 #maio/2024 - Grayware
-lopasmxbo.com.br
 *.quemchegarprimeiro.com.br
 jfu259.com
 bradesclivelsend.com
 moovelog.com
 #maio/2024 - Phishing
-*.mkt15.pro
 *.v6.army
 web3-connectha.gq
 *.pvamz.net
@@ -307,7 +195,6 @@ centersol.com.br
 #maio/2024 - Antivirus Phishing
 lxkzcss.xyz
 #maio/2024 - Malware family Trojan.Downloader.Win32.Banload.Bit.Bdj
-www.pge.ac.gov.br
 #maio/2024 - Malware family chanitor
 insidebox.pt
 #maio/2024 - Malicious domain
@@ -318,7 +205,6 @@ static.s123-cdn.com
 #maio/2024 - Malware family Cmsbrute
 le-herisson.info
 #maio/2024 - Mshta executes JavaScript Scheme Fetch Remote Payload With GetObject
-*.boavistanet.net
 *.siderol.net
 *.saudeencap.store
 *.grupoescrita.com
@@ -336,7 +222,6 @@ le-herisson.info
 *.sisansaude.com
 *.contasapagar.net
 #maio/2024 - Malware family android_coyote
-*.museuparque.com
 *.acaodegraca.com
 britoingresso.com
 *.bestoraculo.com
@@ -347,10 +232,8 @@ britoingresso.com
 *.goldwik.com
 pecaslogro.com
 #maio/2024 - C2
-*.contratodocliente.com
 *.servicosetedecobranca.com
 #maio/2024 - Malware family Win.Astaroth
-cienciadameditacao.com.br
 cervejahballastpoint.cfd
 aquali.com.br
 cervejahcantillon.cfd
@@ -359,7 +242,6 @@ ravseg.com.br
 clubedochute.com.br
 minastandes.com.br
 #maio/2024 - Malware family Socks5Systemz
-marketingmilionarioon.com
 #maio/2024 - Malware family Quakbot
 linkfone.com.br
 #junho/2024 - Malware family Unknown
@@ -369,9 +251,7 @@ espacoetica.com.br
 mdasidy72.lol
 jsincloud.com
 #junho/2024 - command-and-control
-*.oseuenvio.com
 #junho/2024 - Malware family 4c3eft.Malwthreat.Js
-*.webfiledata.com
 #junho/2024 - Malware family Unknown (fake update)
 b9y3b7ner2.xyz
 #junho/2024 - Malware family SocGholish
@@ -388,21 +268,15 @@ bandamazonas.com.br
 funcallback.com
 searchgear.pro
 #junho/2024 - Malware family Spam.Url
-*.ibcbh.com.br
 #junho/2024 - Malware family Balada Injector
-*.rdntocdns.com
 #06/2024 - Malware family Unknown
-*.check-tl-ver-154-2.com
 *.bellatrixmeissa.com
 *.rtb-feed.com
 #06/2024 - Grayware
-*.pshmetrk.com
 *.trknext.com
 #junho/2024 - Phishing campaign
-*.check-tl-ver-154-2.com
 *.bellatrixmeissa.com
 *.rtb-feed.com
-*.pshmetrk.com
 *.trknext.com
 *.js-check.com
 *.ultracdn.top
@@ -437,7 +311,6 @@ broworker9s.com
 #junho/2024 - Malware family JS/Agent.RRO
 agazetarm.com.br
 #junho/2024 - Phishing domain
-*.campus-centre.fr
 typebot.co
 *.check-tl-ver-116-3.com
 #junho/2024 - Malware family Adware.K.Lnkr
@@ -445,14 +318,12 @@ hublosk.com
 #junho/2024 - Malware family Trojan.Mtb.Amb.Malscript.Js
 rlimpermeabilizacao.com
 #junho/2024 - Malware xmr mining related
-*.xmrpool.ru
 kr1s.ru
 *.4i7i.com
 #junho/2024 - Malware related
 polyfill.io
 googie-anaiytics.com
 #julho/2024 - Malware related
-*.asense.in
 *.readytocheckline.com
 downloaddining.com
 murmansk-news.net
@@ -474,7 +345,6 @@ xn----7sbbabydmnabw7adjco1bcucct3a7c5i0d.kyiv.ua
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
-acessdocumentos.autos
 *.notasdigitalmax.com
 *.vultrobjects.com
 documentos-suporteacess.autos
@@ -483,21 +353,16 @@ masrybs.com
 #julho/2024 - Malware family Trojan.Win32.B.Bitrep
 all4phones.de
 #julho/2024 - Malware family Win32.Tr.Sk.Genericrxgu
-*.uokit.com
 #julho/2024 - Malware family Agent.Mrro.Js.Malware
 impconcursos.com.br
 #julho/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
-*.hidoctor.com.br
 #julho/2024 - Malware family 397.Jaik.Variant.Generic
-www.tradergrafico.com.br
 #julho/2024 - Malware family Agent.Riskware.Badjoke
-www.scriptbrasil.com.br
 #julho/2024 - Malware family Trojan.Generickdz.Script
 aanqylta.com
 #julho/2024 - Malware family SocGholish
 www.rivabeachbari.com
 #julho/2024 - Phishing campaign
-*.check-tl-ver-176-1.com
 rastreioencomenda.sa.ngrok.io
 *.vdxru.com
 d8hxy.app.goo.gl
@@ -508,21 +373,16 @@ downloaddining2.com
 #julho/2024 - Malware family Adware.G.Jsrevizer
 autroliner.com
 #julho/2024 - Malware family Virut
-kbkpay.com
 #julho/2024 - Malware family Quakbot
 laticiniosbomjardim.com.br
 #julho/2024 - Malware family Trojan.Ml.B.Wacatac.Script
-www.cbtarco.org.br
 #julho/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 k-analytics.net
 #julho/2024 - Malware family Agent.Mphcm.Js.Malware
-deborahsilvermusic.com
 #julho/2024 - Malware family emotet
 ardos.com.br
 #julho/2024 - Malware family 161143.Strictor.Variant.Generic
-nokstv.ru
 #julho/2024 - Adversary Contact
-19jt0pakbh19.icu
 vekeltaizy.net
 #julho/2024 - IOCs Importados PA, identificação analise legada
 1717.1000uc.com
@@ -672,13 +532,10 @@ ytube2dl.com
 zarrue.com
 cdlto.com.br
 #julho/2024 - Phishing Campaign
-*.orastreio.online
 *.minhasencomendas.store
 liberarentrega.online
 #julho/2024 - Malware family JS/Agent.PXU
-*.greengoplatform.com
 #julho/2024 - Malware family Trojan.Ml.B.Phonzy.Script
-*.specialcraftbox.com
 #agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
 www.mybrowserbar.com
 #agosto/2024 - Malware family Unknown
@@ -707,28 +564,21 @@ clinicalettieri.com.br
 clcr.me
 lllovers.uk
 #agosto/2024 - Malware family HEUR:AdWare.Win32.Alien.gen
-*.tebi.io
 #agosto/2024 - Malware family Win32/Freemake.C
-freemake.net
 #agosto/2024 - Malware family apt_unc788
 monitor-ua.com
 #agosto/2024 -
 astrakhan-news.net
 #agosto/2024 - Malicious domain
-*.marketingvici.com
 #agosto/2024 - Malware family android_ermac
 offers25942.xyz
 #agosto/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 pedraferro.com
 #agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
-intelectools.com.br
 *.extinfran.com.br
 #agosto/2024 - Malware family Win32.Remoteadmin.C.Winvnc.Based
-www.chg.com.br
 #agosto/2024 - Malware family Trojan.Win32.Dropper.Agxq.Scrop
-*.hidoctor.com.br
 #agosto/2024 - Phishing Domain
-*.jiyz.cn
 *.maew.cn
 *.iyla.cn
 *.tpca.cn
@@ -737,7 +587,6 @@ olink.ai
 #agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 k-analytics.net
 #agosto/2024 - Load Malicious Script
-*.novissajoias.com.br
 #agosto/2024 - Malware family Trojan.Genericgba.Java
 phoneky.co.uk
 phoneky.com
@@ -746,22 +595,15 @@ tororomba.com.br
 #agosto/2024 - Malware family Agent.Mrro.Js.Malware
 agereti.com.br
 #agosto/2024 - CobaltStrike
-*.init.cedexis-radar.net
 #agosto/2024 - Malware family 5d0c72d3.S.Phishing.Html.Generic
 static6-jquery.com
 #agosto/2024 - Malware family Win.Astaroth
-cdix.com.br
 elevacultural.com
 #agosto/2024 - Malware family Trojan.Win32.Msr.Phish
-*.cryptednews.space
 #agosto/2024 - Malware family Trojan.Agent.Vqkox.Dldr.Tr
-greentechreviews.ru
 #agosto/2024 - Malware family Trojan.ee8a467a.ge
-tecnologyc.com
 #agosto/2024 - Malware family Agent.Mphcm.Js.Malware
-nds.id
 #setembro/2024 - Malware family Generic.multi
-ari-mama.com
 #setembro/2024 - Malware family Unknown
 cdnjscloudforced.com
 dais7nsa.shop
@@ -771,7 +613,6 @@ correiosliberarpedidos.co.ua
 #setembro/2024 - Malware family peaklight
 downloadstep.com
 #setembro/2024 - Malware family Trojan.Win32.bit.a.skeeyah
-*.100security.com.br
 #setembro/2024 - Malware related
 *.stickloader.info
 vrpirates.wiki
@@ -1470,214 +1311,129 @@ elb.regexsolutions.com.br/
 file-connection-all-ez.com/
 www.contraditor.com/
 www.viagemastral.com/
+a4consult.com.br/
+www.ecopontes.com.br/
+www.oficialsport.com.br/
+teslasolucoes.com.br/
+upload-us.bcbd123.com/
+valedoparaopeba.com.br/
+us.boxif.xyz/
+blog.lojaslinna.com.br/
+upload-sys-pics.bcbd123.com/
+speedtest.internet10.net.br
+www.valesports.com.br/
+app.antiblock.com.br/
+f0yhaqr9okdj.xyz/
+fitaup.com/
+lp.fesn.org.br/
+www.ejetaragua.com/
+oakpeak.com.br/
+www.mercantilmaquinas.com.br/
+spbrindespersonalizados.com.br/
+gamelogo.bcbd123.com/
+faq.blackpilado.com.br/
+www.acassius.com.br/
+skyimagensaereas.com.br/
+pararaiosbh.com/
+grnews.com.br/
+wugroansaghadry.com/
+www.trustedcpmrevenue.com/
+propagandainflavel.com.br/
+agatec.com.br/
+punchpantherwhip.com/
+dexpredict.com/
+dubaisuites.com.br/
+www.antenaafm.com.br/
+pnmais.com/
+accountantflowerrespiration.com/
+partsdiesel.com.br/
+www.lavagnoli.com.br/
+update.9mod.com/
+www.documentoonline.com.br/
+lotusinteligencia.com.br/
+cooltours.s3.sa-east-1.amazonaws.com/
+impervia.com.br/
+www.osbaroesdapisadinha.com.br/
+www.flexclima.com.br/
+www.danielcorp.com.br/
+namaslaycrew.com/
+worldskateamerica.org/
+speedtest.viaondas.com.br:8080/speedtest/latency.txt?x=1744185961982
+arquidioceselondrina.com.br/
+escoladoepoxi.com.br/
+www.melloazevedo.com.br/
+tutoriseguranca.com.br/
+alvimage.alvo.com.br/
+casadocorredor.com.br/
+lnkl.st/
+construtoraplano.com.br/
+promo.maroo.la/
+dpuppers.com/
 #Abril/2025 - Malware related
 regularizarencomendas.com
+coaufu.com
+betao.bet.br
+resurrectionincomplete.com
+www2.setapigames.shop
+57vkb8tz.boats
+saliedash.com
+elimundo.com
+oaskpodaspodkaspodkaspok.xyz
+flirtsnation.com
+mercadoapp.digital
+taboola.cassino.bet.br
+simplificatreinamentos.com.br
+api.replay.com.br
+fj8ndqrhn5.com
+7mythtracker.xyz
+simon-eat.com
+xpcqf9cn.xyz
+storage.ml-cachehost.net
+dl.edge-aicdn.net
+di-res-eu.fj8ndqrhn5.com
+handcoves.org
+aa.quantumshift.sbs
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 #Abril/2025 - Malware family Spam.PDF
 memsports.com.br
+clinicaabrahaoosta.com.br
 #abril/2025 - Malware family android_fakeapp
 mspshopz.shop
 #abril/2025 - Phishing domain
 pay.checkoutsafes.com
-#Abril/2025 - Malware related
-coaufu.com
-#Abril/2025 - Wildfire reported as malware
-a4consult.com.br/
 #Abril/2025 - Phishing domain
 tudosobretodos.se
-#Abril/2025 - Wildfire reported as malware
-www.ecopontes.com.br/
-#Abril/2025 - Malware related
-betao.bet.br
-#Abril/2025 - Malware related
-resurrectionincomplete.com
-#Abril/2025 - Malware related
-www2.setapigames.shop
-#Abril/2025 - Wildfire reported as malware
-www.oficialsport.com.br/
-#Abril/2025 - Wildfire reported as malware
-teslasolucoes.com.br/
-#Abril/2025 - Wildfire reported as malware
-upload-us.bcbd123.com/
-#Abril/2025 - Wildfire reported as malware
-valedoparaopeba.com.br/
-#Abril/2025 - Wildfire reported as malware
-us.boxif.xyz/
-#Abril/2025 - Wildfire reported as malware
-blog.lojaslinna.com.br/
-#Abril/2025 - Wildfire reported as malware
-upload-sys-pics.bcbd123.com/
+emktlw.com.br
+checkout.bestfybr.com.br
 #Abril/2025 - Malware family Lummastealer
 steamverde.net
 #Abril/2025 - Malware family FakeUpdates
 rapiddevapi.com
-#Abril/2025 - Malware related
-57vkb8tz.boats
-#Abril/2025 - Wildfire reported as malware
-speedtest.internet10.net.br
-#Abril/2025 - Wildfire reported as malware
-www.valesports.com.br/
-#Abril/2025 - Wildfire reported as malware
-app.antiblock.com.br/
 #Abril/2025 - Malware family Adware.agent.hk.js
 css.xjsx.lol
-#Abril/2025 - Malware related
-saliedash.com
-#Abril/2025 - Malware related
-elimundo.com
-#Abril/2025 - Wildfire reported as malware
-f0yhaqr9okdj.xyz/
-#Abril/2025 - Wildfire reported as malware
-fitaup.com/
-#Abril/2025 - Wildfire reported as malware
-lp.fesn.org.br/
-#Abril/2025 - Wildfire reported as malware
-www.ejetaragua.com/
 #Abril/2025 - Malware family Win32.ml.c.puwaders.pua
 medworld.com.br
-#Abril/2025 - Malware related
-oaskpodaspodkaspodkaspok.xyz
-#Abril/2025 - Malware related
-flirtsnation.com
-#Abril/2025 - Wildfire reported as malware
-oakpeak.com.br/
-#Abril/2025 - Wildfire reported as malware
-www.mercantilmaquinas.com.br/
-#Abril/2025 - Wildfire reported as malware
-spbrindespersonalizados.com.br/
-#Abril/2025 - Wildfire reported as malware
-gamelogo.bcbd123.com/
-#Abril/2025 - Wildfire reported as malware
-faq.blackpilado.com.br/
-#Abril/2025 - Wildfire reported as malware
-www.acassius.com.br/
-#Abril/2025 - Wildfire reported as malware
-skyimagensaereas.com.br/
-#Abril/2025 - Wildfire reported as malware
-pararaiosbh.com/
 #Abril/2025 - Malware family socgholish
 loopconstruct.com
-#Abril/2025 - Wildfire reported as malware
-grnews.com.br/
-#Abril/2025 - Wildfire reported as malware
-wugroansaghadry.com/
-#Abril/2025 - Malware related
-mercadoapp.digital
-#Abril/2025 - Wildfire reported as malware
-www.trustedcpmrevenue.com/
-#Abril/2025 - Wildfire reported as malware
-propagandainflavel.com.br/
-#Abril/2025 - Wildfire reported as malware
-agatec.com.br/
+publication.garyjobeferguson.com
 #Abril/2025 - Malware family Stg.Trojan.PDF.agent
 files.tryflowdrive.com
-#Abril/2025 - Wildfire reported as malware
-punchpantherwhip.com/
-#Abril/2025 - Wildfire reported as malware
-dexpredict.com/
-#Abril/2025 - Wildfire reported as malware
-dubaisuites.com.br/
-#Abril/2025 - Wildfire reported as malware
-www.antenaafm.com.br/
-#Abril/2025 - Wildfire reported as malware
-pnmais.com/
-#Abril/2025 - Malware family Spam.PDF
-clinicaabrahaoosta.com.br
-#Abril/2025 - Wildfire reported as malware
-accountantflowerrespiration.com/
-#Abril/2025 - Wildfire reported as malware
-partsdiesel.com.br/
-#Abril/2025 - Wildfire reported as malware
-www.lavagnoli.com.br/
-#Abril/2025 - Wildfire reported as malware
-update.9mod.com/
-#Abril/2025 - Wildfire reported as malware
-www.documentoonline.com.br/
-#Abril/2025 - Malware related
-taboola.cassino.bet.br
-#Abril/2025 - Malware related
-simplificatreinamentos.com.br
-#Abril/2025 - Wildfire reported as malware
-lotusinteligencia.com.br/
-#Abril/2025 - Malware related
-api.replay.com.br
-#Abril/2025 - Wildfire reported as malware
-cooltours.s3.sa-east-1.amazonaws.com/
-#Abril/2025 - Wildfire reported as malware
-impervia.com.br/
-#Abril/2025 - Phishing domain
-emktlw.com.br
 #Abril/2025 - Phishing campaign
 seufuturosemdividas.shop
 bomnegocio.ch
-#Abril/2025 - Wildfire reported as malware
-www.osbaroesdapisadinha.com.br/
-#Abril/2025 - Wildfire reported as malware
-www.flexclima.com.br/
-#Abril/2025 - Wildfire reported as malware
-www.danielcorp.com.br/
-#Abril/2025 - Wildfire reported as malware
-namaslaycrew.com/
-#Abril/2025 - Phishing domain
-checkout.bestfybr.com.br
-#Abril/2025 - Wildfire reported as malware
-worldskateamerica.org/
 #Abril/2025 - Malware family Agent.mphcj.jsmalware
 praticandofisio.com
-#Abril/2025 - Malware related
-fj8ndqrhn5.com
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
-#Abril/2025 - Wildfire reported as malware
-speedtest.viaondas.com.br:8080/speedtest/latency.txt?x=1744185961982
-#Abril/2025 - Wildfire reported as malware
-arquidioceselondrina.com.br/
-#Abril/2025 - Wildfire reported as malware
-escoladoepoxi.com.br/
-#Abril/2025 - Wildfire reported as malware
-www.melloazevedo.com.br/
-#Abril/2025 - Wildfire reported as malware
-tutoriseguranca.com.br/
-#Abril/2025 - Malware family socgholish
-publication.garyjobeferguson.com
 #Abril/2025 - Malware family Magecart
 cdn-statistics.com
-#Abril/2025 - Malware related
-7mythtracker.xyz
-#Abril/2025 - Wildfire reported as malware
-alvimage.alvo.com.br/
+redirect-security.digital
 #Abril/2025 - Malware family Malicious.PDF.malware
 curtadoc.tv
 #Abril/2025 - Malware family magentocore
 asd123qwe2.online
-#Abril/2025 - Wildfire reported as malware
-casadocorredor.com.br/
-#Abril/2025 - Wildfire reported as malware
-lnkl.st/
-#Abril/2025 - Wildfire reported as malware
-construtoraplano.com.br/
 #Abril/2025 - Malware family Unknown
 choutsaugroo.com
-#Abril/2025 - Wildfire reported as malware
-promo.maroo.la/
-#Abril/2025 - Malware family Magecart
-redirect-security.digital
-#Abril/2025 - Malware related
-simon-eat.com
-#Abril/2025 - Wildfire reported as malware
-dpuppers.com/
-#Abril/2025 - Malware related
-xpcqf9cn.xyz
-#Abril/2025 - Malware related
-storage.ml-cachehost.net
-#Abril/2025 - Malware related
-dl.edge-aicdn.net
 #Abril/2025 - Malware family Emmenhtal
 novogerenciador.tjma.jus.br
-#Abril/2025 - Malware related
-di-res-eu.fj8ndqrhn5.com
-#Abril/2025 - Malware related
-handcoves.org
-#Abril/2025 - Malware related
-aa.quantumshift.sbs
