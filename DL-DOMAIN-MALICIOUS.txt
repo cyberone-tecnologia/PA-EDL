@@ -1437,3 +1437,14 @@ asd123qwe2.online
 choutsaugroo.com
 #Abril/2025 - Malware family Emmenhtal
 novogerenciador.tjma.jus.br
+<<<<<<< HEAD
+=======
+#Abril/2025 - Malware related
+di-res-eu.fj8ndqrhn5.com
+#Abril/2025 - Malware related
+handcoves.org
+#Abril/2025 - Malware related
+aa.quantumshift.sbs
+#Abril/2025 - Malware related
+sender.proxicoin.org
+>>>>>>> 523be18bc35293e72f2c640310495b7ff10efe32
