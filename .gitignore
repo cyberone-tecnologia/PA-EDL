@@ -1,3 +1,4 @@
 parse git
 QRadarEDLmonitor.sh
 edl_tmp.txt
+.env
