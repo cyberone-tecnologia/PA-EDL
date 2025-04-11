@@ -3,64 +3,39 @@
 #fevereiro/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/2024
 178.23.190.199
 #fevereiro/2024 - O365 Brute Force: O365 Suite UX
-66.56.83.24
-155.94.240.39
 #fevereiro/2024 - MALSPAM: VOLUPTATESW.zip
-148.72.158.61
 #fevereiro/2024 - QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
-168.245.108.75
 #fevereiro/2024 - Teams-themed Microsoft 365 Credential Harvesting | softr.app
-149.72.20.164
 #fevereiro/2024 - Lumma Stealer Malware Campaign - 28/02/2024
-54.240.6.165
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
 23.106.223.5
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
 91.240.118.215
 #marco/2024 - Office365 Brute Force Attempt 01/03/2024
-188.130.136.240
 46.8.222.164
-212.115.49.213
 212.115.49.30
 45.11.20.206
-46.8.192.47
 #marco/2024 - Guloader/Xloader Malware Campaign - 01/03/2024
-136.255.137.30
 #marco/2024 - MALSPAM: Re: lnvoice copy.
-173.203.187.86
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/2024
 213.109.202.161
 #marco/2024 - Credential Harvesting | AhaSlides Abuse
-172.67.150.103
-104.21.71.229
 #marco/2024 - 2/27 - 2/29/2024 Member Account Takeover Attempt
-154.6.89.134
-85.237.194.192
 98.159.33.11
 98.159.33.38
 193.36.224.31
-173.239.204.182
 2.57.168.59
 98.159.33.54
 #marco/2024 - VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/2024
 64.207.185.117
-91.219.150.61
 5.181.156.45
 #marco/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/2024
 5.252.21.207
 #marco/2024 - ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
-129.232.186.102
 #marco/2024 - Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
-172.245.92.221
 #marco/2024 - Multi-Vector DDoS 08/03/2024
 39.108.229.14
-47.116.218.0
 47.106.71.239
-35.199.90.225
-89.58.63.152
-39.108.227.108
-49.74.245.39
-202.136.165.130
 170.239.151.78
 217.16.185.131
 41.147.30.53
