@@ -2,11 +2,6 @@
 60.36.166.28
 #fevereiro/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/2024
 178.23.190.199
-#fevereiro/2024 - O365 Brute Force: O365 Suite UX
-#fevereiro/2024 - MALSPAM: VOLUPTATESW.zip
-#fevereiro/2024 - QRCODE Campaign: <removed>PassKeyReset Ticket - Ref No. 1502419
-#fevereiro/2024 - Teams-themed Microsoft 365 Credential Harvesting | softr.app
-#fevereiro/2024 - Lumma Stealer Malware Campaign - 28/02/2024
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
 23.106.223.5
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
@@ -15,11 +10,8 @@
 46.8.222.164
 212.115.49.30
 45.11.20.206
-#marco/2024 - Guloader/Xloader Malware Campaign - 01/03/2024
-#marco/2024 - MALSPAM: Re: lnvoice copy.
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/2024
 213.109.202.161
-#marco/2024 - Credential Harvesting | AhaSlides Abuse
 #marco/2024 - 2/27 - 2/29/2024 Member Account Takeover Attempt
 98.159.33.11
 98.159.33.38
@@ -31,51 +23,25 @@
 5.181.156.45
 #marco/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/2024
 5.252.21.207
-#marco/2024 - ServiceNow Help Desk Impersonation: Incident Created: INC32535983 - <removed> - 3/6/2024
-#marco/2024 - Pfizer Themed CVE20170199 Malspam: Request for quotation (RFQ)
 #marco/2024 - Multi-Vector DDoS 08/03/2024
-39.108.229.14
-47.106.71.239
-170.239.151.78
-217.16.185.131
-41.147.30.53
-194.163.134.97
 219.243.212.118
-64.187.239.162
 161.97.170.209
-139.87.112.147
-154.127.240.6
-138.2.73.157
-74.115.3.133
-49.81.211.17
 74.115.3.151
-47.104.192.155
-61.147.96.83
-177.70.23.17
 #marco/2024 - VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 03/07/2024
 91.92.242.183
 #marco/2024 - Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
-45.77.71.28
 #marco/2024 - Cibercriminosos exploram falha do Windows SmartScreen para iniciar malware DarkGate
 5.181.159.76
 #marco/2024 - VTI: Carbanak (aka Anunak aka Sekur) Malware & NetSupport Manager RAT Malware - 03/14/2024 - #2
 103.113.70.68
-85.239.53.117
-5.161.223.210
-207.174.30.226
 81.19.138.143
 89.105.198.190
-77.105.162.219
-207.174.30.238
 #marco/2024 - Formbook Malware Campaign - 15/03/2024
-84.252.120.17
 #marco/2024 - AgentTesla Malware Campaign - 15/03/2024
-167.172.19.232
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
 #marco/2024 - VTI: APT38 - SwiftBucket Malware - 03/11/2024
 216.107.136.10
-216.107.135.101
 192.119.64.43
 #marco/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware - 03/07/2024
 95.164.3.171
@@ -83,23 +49,17 @@
 165.22.16.55
 103.124.105.78
 #marco/2024 - Ousaban Stealer Malware Campaign - 21/03/2024
-36.212.109.208
 #marco/2024 - Trojan "Chavecloak"
 64.225.32.24
 #marco/24 VTI: Unknown Malware 21/03
-89.208.104.10
 185.196.10.151
 65.109.237.171
 89.39.107.226
 185.196.8.127
 77.91.97.131
 91.92.248.50
-185.193.125.96
-109.107.190.119
-185.196.11.3
 #marco/24 Attempted UDP Flood 22/03
 81.177.143.31
-199.188.206.21
 217.12.218.95
 83.97.20.176
 #marco/24 Rhadamanthys 25/03
@@ -107,12 +67,8 @@
 #marco/24 [Cyberintel] 03-26-2024 - Darkgate Campaigns
 170.130.55.130
 #marco/24 Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware 22/03
-193.106.174.218
-104.21.95.46
 172.67.143.1
 #marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 25/03
-141.136.43.188
-64.94.85.50
 #marco/24 botnet TheMoon
 188.92.79.116
 195.3.147.73
@@ -142,22 +98,14 @@
 107.172.31.178
 107.175.113.216
 #marco/24 Open-Benefits Enrollment Credential Harvesting
-185.127.16.74
-185.147.162.130
-103.45.246.106
 #marco/24 SolarMarker (aka Jupyter) Malware - 03/22/24
-194.15.216.196
 #maio/2024 - Malware family PuP.Js
-193.163.7.113
 #maio/2024 - Malware family Win.Dcrat
 5.23.50.56
 #maio/2024 - Brute Force Login Attempt
-69.4.234.65
 45.134.140.142
-198.45.114.153
 107.174.252.97
 #maio/2024 - Malware family Js.Fakeupdates
-91.215.153.203
 185.158.251.240
 #maio/2024 - Malicious Port scanning
 154.29.75.236
@@ -168,8 +116,6 @@
 #maio/2024 - Malware family smokeloader
 108.179.193.18
 #junho/2024 - Korplug Command and Control Traffic Detection
-64.225.36.22
-64.227.110.212
 138.197.3.15
 #junho/2024 - Suspicious Probe Events
 194.32.122.12
@@ -178,79 +124,13 @@
 172.206.142.54
 185.242.226.39
 #junho/2024 - Brute Force Login Attemp
-71.38.71.225
-141.155.129.93
-76.166.167.178
-174.100.2.6
-98.35.56.120
-99.98.10.203
-35.148.177.66
-74.88.18.70
-75.187.187.70
 172.58.252.248
 37.19.221.87
-73.139.58.224
-38.172.77.145
-74.108.4.20
-45.21.0.54
-69.254.166.4
-98.170.222.231
-98.7.96.216
-71.72.246.76
-50.82.250.65
-71.80.185.134
-47.154.240.114
-68.34.12.87
-174.109.74.71
-107.146.76.247
-67.48.88.161
-172.249.68.224
-64.209.210.150
-73.59.178.133
-172.72.109.216
-107.13.166.23
-69.138.245.149
-172.119.128.174
-75.69.14.119
-68.198.113.233
-76.36.155.156
-76.33.34.148
-172.8.147.89
-98.19.10.5
-98.97.12.90
-68.193.221.236
-172.58.165.232
-76.32.123.20
-99.177.113.8
-70.109.206.118
-73.223.171.0
-67.210.153.202
-139.60.76.101
-97.101.206.111
-173.255.170.121
-68.81.53.97
-73.203.182.185
-89.239.53.196
-108.197.72.221
 136.144.19.112
-174.110.217.37
-100.12.29.207
-99.77.73.117
-70.120.165.2
-173.195.15.60
-99.175.66.244
-181.214.226.241
-24.151.74.59
-24.238.81.166
-107.145.99.72
-209.107.210.194
 #junho/2024 - Remote Suspicious Probe Events
 84.239.49.16
-198.98.48.107
 104.152.52.213
 185.253.160.155
-51.158.165.193
-172.212.60.107
 104.152.52.153
 185.242.226.5
 104.156.155.5
@@ -271,7 +151,6 @@
 #junho/2024 - Malware family Trojan.Win32.Xnet.Genericml
 3.70.240.163
 #junho/2024 - Malware family Win.Socks5 Systemz
-185.141.63.9
 #junho/2024 - Malware family Unknown
 102.130.119.173
 #junho/2024 - Malware family Js.Fakeupdates
@@ -279,11 +158,6 @@
 #junho/2024 - Malware xmr mining related
 204.188.217.106
 137.175.19.23
-107.173.57.217
-103.204.69.87
-88.119.171.161
-103.75.70.13
-103.207.69.87
 #junho/2024 - Malware family Trojan.Win32.Miner.Generic
 158.247.237.149
 #junho/2024 - Malware family Trojan.Downloader.Win32.V.Wannamine
@@ -299,8 +173,6 @@
 104.152.52.192
 40.117.148.149
 90.151.171.106
-199.204.97.10
-181.191.210.216
 104.152.52.207
 104.152.52.105
 146.70.52.30
@@ -311,9 +183,7 @@
 #julho/2024 - Malware family cobaltstrike-2
 60.28.220.196
 #julho/2024 - Malware family Js.fakeupdates
-188.166.89.89
 #julho/2024 - Ip suspeito Singapura comunicação IRC
-8.222.192.217
 #julho/2024 - Internal Host Communication with Malware Host
 45.140.19.240
 #julho/2024 - IOCs Importados PA, identificação analise legada
@@ -321,77 +191,40 @@
 103.130.216.98
 103.200.23.247
 103.224.212.210
-104.21.54.117
-104.21.68.112
 104.21.70.228
 107.148.94.106
-107.161.26.61
-107.180.25.208
 116.202.0.132
-120.76.107.60
-128.140.85.25
-129.151.177.188
 138.197.235.123
-139.45.197.158
 139.45.197.243
-149.62.37.149
-156.67.72.27
-159.69.186.9
-165.22.196.103
-170.39.226.155
-172.64.110.4
-172.67.138.121
-172.67.140.104
-172.67.140.42
-172.67.195.4
-176.9.31.71
 178.236.246.185
 179.60.149.85
 18.231.93.153
 185.11.145.254
 185.192.111.202
-187.1.137.152
 187.45.195.182
-188.119.66.141
-189.1.174.60
-189.127.165.113
-191.6.208.9
 192.169.82.86
 193.106.174.174
 193.106.175.140
 193.142.146.212
 194.67.71.123
-198.16.70.234
-198.16.70.237
 199.59.243.225
-2.18.127.210
-200.198.28.211
 200.239.128.208
-201.64.115.150
 204.11.56.48
 207.90.244.10
 216.128.141.153
 216.245.197.43
 23.146.184.71
-3.228.97.49
 37.128.207.92
-39.96.153.61
 45.11.27.62
 45.150.67.235
 5.149.248.141
-5.149.248.180
-5.61.46.79
 52.206.209.203
-54.237.150.173
 54.94.248.37
 62.173.142.52
 80.66.79.248
 81.88.52.97
-89.117.169.137
 91.215.85.139
 #julho/2024 - IP Phishing domain
-52.204.28.172
-35.170.167.123
 #julho/2024 - Suspicious Probe Events
 194.32.122.17
 #julho/2024 - Malware family redline
@@ -402,33 +235,21 @@
 144.76.201.253
 206.206.123.249
 185.10.58.180
-101.99.75.138
 #agosto/2024 - Suspicious Probe Events
 104.152.52.226
 90.151.171.109
 #agosto/2024 - Malware family Agentemis
 123.123.123.123
 #agosto/2024 - Malware family Win.Amadey
-91.189.114.25
 #agosto/2024 - Portscan
 104.152.52.122
 #agosto/2024 - Malware family Win.Dcrat
 188.225.40.140
 #agosto/2024 - Malware family android_ermac
-95.215.19.22
 #agosto/2024 - Malware family njRAT
 18.228.115.60
 #agosto/2024 - Malware family Js.Fakeupdates
-168.119.164.111
 #agosto/2024 - IPs bruteforce servidor 172.16.5.200
-177.75.224.127
-201.149.125.220
-187.103.173.34
-186.195.63.15
-177.75.225.190
-177.75.224.139
-177.75.233.114
-177.75.237.207
 #agosto/2024 - Malware family Trojan.Script.Miner.Generic
 202.61.204.169
 #agosto/2024 - IOC scan report ofense 3060
@@ -444,15 +265,11 @@
 #agosto/2024 - Botnet CandC ofense 3144
 66.225.225.225
 #agosto/2024 Network Scan - ofense 3140
-177.36.136.220
 #agosto/2024 Malware family Trojan.GenericFCA.Script.3335
-31.170.163.176
 #agosto/2024 Network Scan - ofense 3122
-34.86.13.18
 #agosto/2024 probe ru,us ofernsa 3155 3168
 90.151.171.106
 104.152.52.208
-101.0.0.222
 #agosto/2024 - Malware family vidar
 65.109.168.175
 #agosto/2024 - Malware family emotet
@@ -464,8 +281,6 @@
 #agosto/2024 - Malware family rhadamanthys
 142.11.215.202
 #agosto/2024 - Malware family ek_clearfake
-104.21.14.60
-172.67.158.27
 #agosto/2024 - Probe india ofensa 3267
 167.71.234.130
 #agosto/2024 - Probe US ofensa 3260
@@ -477,8 +292,6 @@
 #agosto/2024 - Probe IN ofensa 3267
 167.71.234.130
 #agosto/2024 - Wildfire Phishing ofensa 3267
-27.86.106.196
-27.86.106.68
 #agosto/2024 - Malware related
 172.240.108.68
 #setembro/2024 - Malware family Unknown
@@ -488,26 +301,17 @@
 #setembro/2024 - Malware family vidar
 5.75.159.217
 #setembro/2024 - Brute Force Attempt
-85.239.57.51
-167.253.48.104
-167.253.49.155
 194.110.150.20
 193.233.211.54
-193.202.16.169
 #setembro/2024 - "Malware family sinkhole_paloalto"
 72.5.65.111
 #setembro/2024 - "Malware family SocGholish"
-89.169.172.9
 #setembro/2024 - Worm related
 95.153.31.18
 117.20.41.87
 204.11.56.48
-172.226.108.85
 174.138.37.52
 18.143.155.63
-23.54.197.249
-23.55.125.163
-23.56.210.39
 #setembro/2024 - "Malware family ursaloader"
 66.206.13.2
 #setembro/2024 - "Malware family rhadamanthys"
@@ -540,18 +344,14 @@
 5.79.71.205
 85.17.31.122
 #outubro/2024 - IP Phishing domain
-52.204.28.172
-35.170.167.123
 #outubro/2024 - Malware family SocGholish
 91.240.202.172
 185.76.79.50
 #outubro/2024 - Email spoofing
 181.12.6.36
 #novembro/2024 - Brute Force Login Attemp
-176.124.205.197
 #novembro/2024 - Malicious IP
 177.131.113.22
-177.105.112.155
 #novembro/2024 - Brute Force Login Attempt
 38.180.91.132
 #novembro/2024 - Shadowserver
@@ -559,7 +359,6 @@
 #dezembro/2024 - Malware related
 173.255.204.62
 94.156.79.8
-208.109.241.201
 #dezembro/2024 - Brute Force Login Attempt
 154.214.1.48
 104.207.46.41
@@ -567,96 +366,45 @@
 104.207.51.216
 104.207.35.201
 65.111.30.247
-65.111.30.169
 65.111.30.237
-65.111.31.240
-65.111.31.44
 65.111.31.121
 65.111.28.29
 65.111.28.41
 65.111.29.160
-65.111.29.93
 65.111.29.64
-65.111.29.71
 65.111.26.20
 65.111.26.39
 65.111.26.98
 65.111.26.105
 65.111.27.20
-65.111.27.77
-65.111.24.137
-65.111.24.92
 65.111.25.6
-65.111.25.89
-65.111.22.180
 65.111.22.20
-65.111.22.8
-65.111.22.107
 65.111.23.255
-65.111.23.83
 65.111.20.46
 65.111.21.159
-65.111.21.224
 65.111.18.144
-65.111.18.131
-65.111.18.74
 65.111.19.131
 65.111.19.183
 65.111.19.174
 65.111.19.175
 65.111.19.209
 65.111.19.62
-65.111.19.85
-65.111.16.230
-65.111.16.51
-65.111.16.89
-65.111.11.188
 65.111.11.219
-65.111.8.179
 65.111.9.84
-65.111.3.3
 #dezembro/2024 - Potential Cobalt Strike Usage
 44.220.188.49
 #dezembro/2024 - Potential DDoS Against Single Host (TCP)
-45.177.132.0/22
-45.179.48.0/22
-45.190.252.0/22
 #janeiro/2025 - Brute Force Login Attempt
-65.111.1.164
-65.111.10.54
 65.111.14.145
-65.111.14.232
 65.111.15.184
-65.111.12.150
 65.111.13.249
 65.111.10.176
-65.111.10.240
-65.111.10.120
 65.111.8.137
-65.111.8.211
-65.111.9.251
 65.111.6.248
-65.111.6.35
-65.111.7.157
-65.111.7.170
-65.111.7.3
-65.111.4.133
 65.111.5.173
 65.111.5.23
-65.111.5.117
-65.111.3.254
-65.111.3.226
-65.111.3.2
-65.111.1.149
-65.111.11.159
 65.111.6.91
-65.111.14.157
 65.111.14.163
-65.111.14.199
-65.111.14.31
-65.111.14.38
-65.111.14.75
-65.111.15.123
 65.111.15.110
 65.111.13.234
 65.111.13.19
@@ -762,6 +510,17 @@
 130.225.244.90
 136.243.147.91
 85.214.200.184
+45.94.31.22
+185.32.222.237
+150.230.20.28
+92.205.161.164
+185.220.101.198
+193.142.147.204
+146.0.36.87
+185.220.101.192
+57.129.44.38
+134.130.172.229
+185.220.101.138
 # bloqueio temporario 03 04
 10.28.0.40
 #Abril/2025 - Malware related

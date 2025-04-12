@@ -45,7 +45,7 @@ def vtScan(ioc,type, api):
         attributes = data['data']['attributes']
         last_analysis_date = attributes.get('last_analysis_date')
         last_analysis_stats = attributes.get('last_analysis_stats')
-        if last_analysis_date or last_analysis_stats is not None:
+        if last_analysis_date is not None:
             maxdays = 7776000 #90 days in seconds
             # Sum analysis stats /y
             total = sum(last_analysis_stats.values())
