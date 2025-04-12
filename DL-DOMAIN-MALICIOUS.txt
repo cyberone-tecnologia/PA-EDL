@@ -1331,7 +1331,6 @@ www2.setapigames.shop
 saliedash.com
 elimundo.com
 oaskpodaspodkaspodkaspok.xyz
-flirtsnation.com
 mercadoapp.digital
 taboola.cassino.bet.br
 simplificatreinamentos.com.br
@@ -1401,3 +1400,5 @@ sender.proxicoin.org
 static.s123-cdn.com
 #Abril/2025 - Malware family Agent.Mrrl.Js.Malware
 espacobe.com.br
+#Abril/2025 - Malware related
+flirtsnation.com
