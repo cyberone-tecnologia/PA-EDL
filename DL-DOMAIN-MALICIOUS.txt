@@ -1402,3 +1402,5 @@ static.s123-cdn.com
 espacobe.com.br
 #Abril/2025 - Malware related
 flirtsnation.com
+#Abril/2025 - Malware family Formbook
+snxpay.io
