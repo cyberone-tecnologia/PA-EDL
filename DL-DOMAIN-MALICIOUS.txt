@@ -1400,9 +1400,9 @@ sender.proxicoin.org
 static.s123-cdn.com
 #Abril/2025 - Malware family Agent.Mrrl.Js.Malware
 espacobe.com.br
-#Abril/2025 - Malware related
-flirtsnation.com
 #Abril/2025 - Malware family Formbook
 snxpay.io
 #Abril/2025 - Phishing domain
 kyte.bio
+#Abril/2025 - Malware related
+flirtsnation.com
