@@ -1342,7 +1342,6 @@ storage.ml-cachehost.net
 dl.edge-aicdn.net
 di-res-eu.fj8ndqrhn5.com
 handcoves.org
-aa.quantumshift.sbs
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 #Abril/2025 - Malware family Spam.PDF
@@ -1392,8 +1391,6 @@ di-res-eu.fj8ndqrhn5.com
 #Abril/2025 - Malware related
 handcoves.org
 #Abril/2025 - Malware related
-aa.quantumshift.sbs
-#Abril/2025 - Malware related
 sender.proxicoin.org
 #Abril/2025 - Malware family Trojan.6cab.phish.PDF
 static.s123-cdn.com
@@ -1407,3 +1404,5 @@ kyte.bio
 flirtsnation.com
 #Abril/2025 - Malware related
 taboola.cassino.bet.br
+#Abril/2025 - Malware related
+aa.quantumshift.sbs
