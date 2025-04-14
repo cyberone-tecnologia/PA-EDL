@@ -1417,3 +1417,5 @@ r2.e-z.host
 di-res-eu.mvmuyytv2l.com
 #Abril/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
+#Abril/2025 - Malware related
+mvmuyytv2l.com
