@@ -1408,8 +1408,6 @@ aa.quantumshift.sbs
 #Abril/2025 - Malware related
 catequizar.com.br
 #Abril/2025 - Malware related
-di-res-eu.mvmuyytv2l.com
-#Abril/2025 - Malware related
 2mythtracker.xyz
 #Abril/2025 - Phishing domain
 agendarconsulta.link
@@ -1417,3 +1415,5 @@ agendarconsulta.link
 blackshelter.org
 #Abril/2025 - Malware family Trojan.Win64.agent.vho.generic
 r2.e-z.host
+#Abril/2025 - Malware related
+di-res-eu.mvmuyytv2l.com
