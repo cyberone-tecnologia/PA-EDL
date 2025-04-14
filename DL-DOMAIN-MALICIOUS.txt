@@ -1333,7 +1333,6 @@ simplificatreinamentos.com.br
 api.replay.com.br
 fj8ndqrhn5.com
 7mythtracker.xyz
-simon-eat.com
 xpcqf9cn.xyz
 storage.ml-cachehost.net
 dl.edge-aicdn.net
@@ -1419,3 +1418,5 @@ di-res-eu.mvmuyytv2l.com
 famitracker.com
 #Abril/2025 - Malware related
 mvmuyytv2l.com
+#Abril/2025 - Malware related
+simon-eat.com
