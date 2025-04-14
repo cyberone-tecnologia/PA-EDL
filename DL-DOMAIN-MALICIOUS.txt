@@ -1415,3 +1415,5 @@ di-res-eu.mvmuyytv2l.com
 agendarconsulta.link
 #Abril/2025 - Malware family FakeUpdates
 blackshelter.org
+#Abril/2025 - Malware family Trojan.Win64.agent.vho.generic
+r2.e-z.host
