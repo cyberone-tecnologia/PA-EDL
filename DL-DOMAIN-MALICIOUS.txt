@@ -1420,3 +1420,5 @@ famitracker.com
 mvmuyytv2l.com
 #Abril/2025 - Malware related
 simon-eat.com
+#Abril/2025 - Malware family Unknown
+javascripterhub.com
