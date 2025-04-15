@@ -598,3 +598,7 @@ malwarehard.wyx
 154.213.184.70
 #Novembro/2024 - TOR NODE
 103.252.90.236
+#Abril/2025 - IP list api test
+192.145.123.10
+192.145.123.11
+192.145.123.12
