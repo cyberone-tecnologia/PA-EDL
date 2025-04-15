@@ -137,25 +137,12 @@ magazine-luiza.com
 ofertas-magazineluiza.com
 cultuenlace.com
 account3748532.org
-o2outsourcing.com.br
-cracked.gmgadvertising.com
-tonsurtom.com.br
 technokingdigital.com
-supplier.yaarx.com
-tresmail.net
 account58956.com
-hotelgarbos.com.br
 jagaranmf.com
-benishgps.com
-maggitoyota.com.br
-jmich.johndgreat.com
-smtplw-04.com
 *.homeacessoprime.com
 #maio/2024 - Grayware
 *.quemchegarprimeiro.com.br
-jfu259.com
-bradesclivelsend.com
-moovelog.com
 #maio/2024 - Phishing
 *.v6.army
 web3-connectha.gq
@@ -1335,6 +1322,19 @@ storage.ml-cachehost.net
 dl.edge-aicdn.net
 di-res-eu.fj8ndqrhn5.com
 handcoves.org
+di-res-eu.fj8ndqrhn5.com
+handcoves.org
+sender.proxicoin.org
+flirtsnation.com
+taboola.cassino.bet.br
+catequizar.com.br
+2mythtracker.xyz
+di-res-eu.mvmuyytv2l.com
+mvmuyytv2l.com
+simon-eat.com
+aa.quantumshift.sbs
+statistic.scriptsplatform.com
+l.js-assets.cloud
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 #Abril/2025 - Malware family Spam.PDF
@@ -1348,10 +1348,13 @@ pay.checkoutsafes.com
 tudosobretodos.se
 emktlw.com.br
 checkout.bestfybr.com.br
+kyte.bio
+agendarconsulta.link
 #Abril/2025 - Malware family Lummastealer
 steamverde.net
 #Abril/2025 - Malware family FakeUpdates
 rapiddevapi.com
+blackshelter.org
 #Abril/2025 - Malware family Adware.agent.hk.js
 css.xjsx.lol
 #Abril/2025 - Malware family Win32.ml.c.puwaders.pua
@@ -1359,6 +1362,7 @@ medworld.com.br
 #Abril/2025 - Malware family socgholish
 loopconstruct.com
 publication.garyjobeferguson.com
+customer.thewayofmoney.us
 #Abril/2025 - Malware family Stg.Trojan.PDF.agent
 files.tryflowdrive.com
 #Abril/2025 - Phishing campaign
@@ -1377,55 +1381,20 @@ curtadoc.tv
 asd123qwe2.online
 #Abril/2025 - Malware family Unknown
 choutsaugroo.com
+javascripterhub.com
 #Abril/2025 - Malware family Emmenhtal
 novogerenciador.tjma.jus.br
-#Abril/2025 - Malware related
-di-res-eu.fj8ndqrhn5.com
-#Abril/2025 - Malware related
-handcoves.org
-#Abril/2025 - Malware related
-sender.proxicoin.org
 #Abril/2025 - Malware family Trojan.6cab.phish.PDF
 static.s123-cdn.com
 #Abril/2025 - Malware family Agent.Mrrl.Js.Malware
 espacobe.com.br
 #Abril/2025 - Malware family Formbook
 snxpay.io
-#Abril/2025 - Phishing domain
-kyte.bio
-#Abril/2025 - Malware related
-flirtsnation.com
-#Abril/2025 - Malware related
-taboola.cassino.bet.br
-#Abril/2025 - Malware related
-catequizar.com.br
-#Abril/2025 - Malware related
-2mythtracker.xyz
-#Abril/2025 - Phishing domain
-agendarconsulta.link
-#Abril/2025 - Malware family FakeUpdates
-blackshelter.org
 #Abril/2025 - Malware family Trojan.Win64.agent.vho.generic
 r2.e-z.host
-#Abril/2025 - Malware related
-di-res-eu.mvmuyytv2l.com
 #Abril/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
-#Abril/2025 - Malware related
-mvmuyytv2l.com
-#Abril/2025 - Malware related
-simon-eat.com
-#Abril/2025 - Malware family Unknown
-javascripterhub.com
-#Abril/2025 - Malware related
-aa.quantumshift.sbs
 #Abril/2025 - Malware family Adware.Win32.com
 download.webc.co
-#Abril/2025 - Malware family socgholish
-customer.thewayofmoney.us
 #Abril/2025 - Malware related2
 5mythtracker.xyz
-#Abril/2025 - Malware related
-statistic.scriptsplatform.com
-#Abril/2025 - Malware related
-l.js-assets.cloud
