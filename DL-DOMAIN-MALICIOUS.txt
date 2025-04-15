@@ -1157,7 +1157,6 @@ cojughodrabuh.com
 www.deniswarren.com
 #Março/2025 - Malware family socgholish
 majorbrdide.com
-customer.thewayofmoney.us
 #março/2025 - Malware family Unknown
 jeepaunucoast.net
 #março/2025 - Malware related
@@ -1424,3 +1423,5 @@ javascripterhub.com
 aa.quantumshift.sbs
 #Abril/2025 - Malware family Adware.Win32.com
 download.webc.co
+#Abril/2025 - Malware family socgholish
+customer.thewayofmoney.us
