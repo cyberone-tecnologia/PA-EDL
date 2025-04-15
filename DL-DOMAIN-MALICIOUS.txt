@@ -1422,3 +1422,5 @@ simon-eat.com
 javascripterhub.com
 #Abril/2025 - Malware related
 aa.quantumshift.sbs
+#Abril/2025 - Malware family Adware.Win32.com
+download.webc.co
