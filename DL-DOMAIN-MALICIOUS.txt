@@ -1401,8 +1401,6 @@ flirtsnation.com
 #Abril/2025 - Malware related
 taboola.cassino.bet.br
 #Abril/2025 - Malware related
-aa.quantumshift.sbs
-#Abril/2025 - Malware related
 catequizar.com.br
 #Abril/2025 - Malware related
 2mythtracker.xyz
@@ -1422,3 +1420,5 @@ mvmuyytv2l.com
 simon-eat.com
 #Abril/2025 - Malware family Unknown
 javascripterhub.com
+#Abril/2025 - Malware related
+aa.quantumshift.sbs
