@@ -187,7 +187,7 @@ def main():
 
     if args.cleaner:
         for key, (ioc_type, file_path) in arg_map.items():
-            if args.cleaner == key and (key == ('ip' or 'domain')):
+            if args.cleaner == key and key in ('ip','domain'):
                 cleanEDL(file_path, ioc_type, abuseipdb_api, virustotal_api)
                 return
         parser.error("To use --cleaner, specify one of the following: -cl ip or -cl domain to indicate the IOC type to clear.")
