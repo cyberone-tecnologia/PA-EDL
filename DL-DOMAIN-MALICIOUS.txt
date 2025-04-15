@@ -200,7 +200,6 @@ britoingresso.com
 pecaslogro.com
 #maio/2024 - C2
 *.servicosetedecobranca.com
-#maio/2024 - Malware family Win.Astaroth
 #maio/2024 - Malware family Quakbot
 linkfone.com.br
 #junho/2024 - Malware family Unknown
@@ -404,7 +403,6 @@ influenciadormagalu.com.br
 priori.com.br
 ytube2dl.com
 cdlto.com.br
-#julho/2024 - Phishing Campaign
 #agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
 www.mybrowserbar.com
 #agosto/2024 - Malware family Unknown
@@ -435,7 +433,6 @@ astrakhan-news.net
 offers25942.xyz
 #agosto/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 pedraferro.com
-#agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
 #agosto/2024 - Phishing Domain
 *.maew.cn
 *.iyla.cn
@@ -453,7 +450,6 @@ tororomba.com.br
 agereti.com.br
 #agosto/2024 - Malware family 5d0c72d3.S.Phishing.Html.Generic
 static6-jquery.com
-#agosto/2024 - Malware family Win.Astaroth
 #setembro/2024 - Malware family Unknown
 cdnjscloudforced.com
 dais7nsa.shop
@@ -473,10 +469,8 @@ challinksch.com
 *.cncapp1.bet
 *.primeoffertonline.world
 starlinkprimeviva.com
-#setembro/2024 - Malware family Exploit.Bo.Swf
 #setembro/2024 - Malware family Trojan.Mtb.Da.Cryxos.Js
 *.lojagrupoorganica.com.br
-#setembro/2024 - Malware family Win.Astaroth
 #setembro/2024 - Malware family Trojan.Android
 ahd.lat
 allsdy999.org
@@ -495,7 +489,6 @@ mylove777.org
 oktube999.info
 top1114.online
 ytube888.info
-#setembro/2024 - Malware family Android.risktool.aace.dnotua
 #setembro/2024 - trojan.vapsup
 sousehushoa.net
 #setembro/2024 - husuy.com
@@ -509,16 +502,10 @@ husuy.com
 *.nutritionalhealth.best
 #setembro/2024 - Phishing Campaign
 liberacaorastreiocorreios.co.ua
-#setembro/2024 - Malware family Linux.Risktool.B.Bitcoinminer
-#setembro/2024 - Malware family Malicious.PDF.malware.generic
 #setembro/2024 - Malware family Suspicious.malware.generic
 ocs.pr.gov.br
-#setembro/2024 - Malware family [Coinminer]
-#setembro/2024 - "Disposable email host"
 #setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
 verytradesafeapp.com
-#setembro/2024 - Malware family Trojan.GenericKD.69478801
-#setembro/2024 - "Malware family Trojan.genericfca.script.3335"
 #setembro/2024 - "Malicious domain"
 claro-link.brsafe.com.br
 #setembro/2024 - "Phishing domain"
@@ -535,15 +522,6 @@ licenseodqwmqn.shop
 tendencctywop.shop
 tesecuuweqo.shop
 relaxatinownio.shop
-#setembro/2024 - Worm related
-#setembro/2024 - "Malware family Trojan.genericfca.script.3334"
-#setembro/2024 - "Malware family Trojan.ml.b.wacatac.script"
-#setembro/2024 - "Malware family Win.Astaroth"
-#outubro/2024 - "Malware family peaklight"
-#outubro/2024 - Malware family Win.Astaroth
-#outubro/2024 - Phishing Campaign
-#outubro/2024 - "Malware family Riskware.hvtd.scream.SWF"
-#outubro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
 #outubro/2024 - "Malware family Phishing.PDF.a.gen"
 www.pmtech.com.br
 #outubro/2024 - Phishing domain
@@ -1282,3 +1260,5 @@ download.webc.co
 paupsoborofoow.net
 #Abril/2025 - Malware related
 bx.ggseocdn.com
+#Abril/2025 - Malware family FakeUpdates
+digdonger.org
