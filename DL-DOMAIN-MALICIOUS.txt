@@ -1275,3 +1275,5 @@ www.hidoctor.com.br
 athleticclub.com.br
 #Janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
 raspadorareal.com.br
+#Abril/2025 - Malware related2
+5mythtracker.xyz
