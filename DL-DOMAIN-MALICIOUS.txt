@@ -1423,5 +1423,5 @@ aa.quantumshift.sbs
 download.webc.co
 #Abril/2025 - Malware family socgholish
 customer.thewayofmoney.us
-#Abril/2025 - Malware related
+#Abril/2025 - Malware related2
 5mythtracker.xyz
