@@ -1126,9 +1126,7 @@ servermax.shop
 mangalivre.ru
 reginaldolopes.net
 mosteirozen.com.br
-5mythtracker.xyz
 direito2.com.br
-5mythtracker.xyz
 forlindma.online
 digitalcorp.site
 jquery.bond
@@ -1425,3 +1423,5 @@ aa.quantumshift.sbs
 download.webc.co
 #Abril/2025 - Malware family socgholish
 customer.thewayofmoney.us
+#Abril/2025 - Malware related
+5mythtracker.xyz
