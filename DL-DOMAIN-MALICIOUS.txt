@@ -1232,7 +1232,6 @@ praticandofisio.com
 gamebase.app
 #Abril/2025 - Malware family Magecart
 cdn-statistics.com
-redirect-security.digital
 #Abril/2025 - Malware family Malicious.PDF.malware
 curtadoc.tv
 #Abril/2025 - Malware family magentocore
@@ -1262,3 +1261,5 @@ paupsoborofoow.net
 bx.ggseocdn.com
 #Abril/2025 - Malware family FakeUpdates
 digdonger.org
+#Abril/2025 - Malware family Magecart
+redirect-security.digital
