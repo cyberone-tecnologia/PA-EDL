@@ -32,6 +32,7 @@ def vtScan(ioc,type, api):
         url = f'https://www.virustotal.com/api/v3/ip_addresses/{ioc}'
         view_url = f'https://www.virustotal.com/gui/ip-address/{ioc}'
     elif type == 'domain':
+        ioc = ioc.lstrip('*.') #remove wildcard *.example.com
         url = f'https://www.virustotal.com/api/v3/domains/{ioc}'
         view_url = f'https://www.virustotal.com/gui/domain/{ioc}'
     headers = {

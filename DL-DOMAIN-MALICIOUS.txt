@@ -201,18 +201,10 @@ pecaslogro.com
 #maio/2024 - C2
 *.servicosetedecobranca.com
 #maio/2024 - Malware family Win.Astaroth
-cervejahballastpoint.cfd
-aquali.com.br
-cervejahcantillon.cfd
-sintinorp.com.br
-ravseg.com.br
-clubedochute.com.br
-minastandes.com.br
 #maio/2024 - Malware family Quakbot
 linkfone.com.br
 #junho/2024 - Malware family Unknown
 s9l0w7n3y5.xyz
-espacoetica.com.br
 *.parqueitaim.com
 mdasidy72.lol
 jsincloud.com
@@ -247,13 +239,6 @@ chambermaidthree.xyz
 sosr.co.in
 *.junctionspeedforum.co.in
 pshmetrk.com
-*.securesystemzone.com
-*.jdoqocy.com
-*.globalgroupportal.com
-chambermaidthree.xyz/
-*.dotomi.com
-*.emjcd.com
-*.trafficflowdiscovery.com
 *.networkfullchain.co.in
 #junho/2024 - Trojan Android Banker
 chromee-update-it.com
@@ -298,17 +283,13 @@ fix-crowdstrike-apocalypse.com
 fix-crowdstrike-bsod.com
 *.tvuhd4k-magazineluiza.com
 *.mail-redir.com
-oferta-magazine-luiza.com
-*.pontos.co.ua
 clinicanat.com.br
 officialpaper.com.br
 *.stc.srv.br
-xn----7sbbabydmnabw7adjco1bcucct3a7c5i0d.kyiv.ua
 #julho/2024 - Malware family sload
 doggygangers.com
 #julho/2024 - Unknown Malware Campaign
 *.notasdigitalmax.com
-*.vultrobjects.com
 documentos-suporteacess.autos
 #julho/2024 - QakBot
 masrybs.com
@@ -321,7 +302,6 @@ aanqylta.com
 #julho/2024 - Malware family SocGholish
 www.rivabeachbari.com
 #julho/2024 - Phishing campaign
-rastreioencomenda.sa.ngrok.io
 *.vdxru.com
 d8hxy.app.goo.gl
 ibyflpamsx.com
@@ -343,54 +323,34 @@ vekeltaizy.net
 absolutecache.com
 acouguevegano.com.br
 actionelectric.pt
-admin.grupor8.com.br
 aluminioepvcbh.com.br
 analytics-henrique.top
 apicachebot.com
 apifetchmethod.com
-app.assessmentgenerator.com
 app.rdstation.email
 asyncfunctionapi.com
-autocity.com
-beecorp.com.br
 bind.bestresulttostart.com
 cacs.org.br
-canvaessencial.com.br
-kaisergames.de
-cdn.ocmhood.com
-cdnw1.omeuwebsite.com
-celiciosatrip.com
 clicandoeandando.com
-clinicatoque.com.br
-conectiva.com.br
 consent.clarosgvas.mobicare.com.br
 contanely.com
 correagontijo.com.br
 danisallesdesign.com
 debasesingle.life
-decoraktive.com
-descontador.com.br
-detran-mg-ipva.azurewebsites.net
 direitopublico.com.br
 dw.uptodown.net
-ebs.com.br
 eeatgoodx.com
 erdokemiahetolmacs.hu
-escriba.com.br
 esportefitness.com
 facbalancas.com.br
 facebook.lojaseofertas.com
-filosofiaespirita.org
 find.bestresulttostart.com
-fundacaotidesetubal.org.br
 get-my-push.xyz
-getonmyhorse.com
 ghost.blueecho88.com
 googlecloudns.com
 gowsalesvs.live
 gspiceyl.com
 here.selectofmychoices.com
-images.agptek.us
 interjoan.com
 isbncoverdb.com
 jiusnansss.com
@@ -398,60 +358,38 @@ jrltransportes.com.br
 kifortequimica.com.br
 kmrfibras.com.br
 limeerror.org
-livrosnarede.com.br
-mailsuite.com
-maissoja.com.br
-manual.unilab.com.br
 mestredaobra.com
 minergate.com
 multitudewarfare.top
 newmd.com.br
-observatoriodeourofino.com.br
 odontocompany.site
-olybible.com
 oncespyaye.live
 pc.pc0416.xyz
 pedrinhomateriais.com.br
-pixclub.site
 plankjock.com
-pmisp.org.br
 printerservice.com.br
 prodigits.co.uk
-proffelipebarros.com.br
-promais.med.br
-psgermain.com.br
 ptirtika.com
-puxeumacadeira.com.br
-revistaexclusive.com.br
 rpacx.com
 saudeepe.com.br
-sdk.ocmhood.com
 selectofmychoices.com
 sellspafull.live
 shulugoo.net
 sintracomsulminas.com.br
-sistemaathos.com.br
 sleep.stratosbody.com
-ssw.inf.br
 start.apistatexperience.com
 static.s123-cdn-static.com
 system-alert.online720.name
-t.ocmhood.com
-tecrede.com.br
 tempoms.com.br
-terrafm94.com.br
-thishosting.rocks
 tnoodlezy.com
 track.greengoplatform.com
 trackinghub.info
 trackmenow.life
 trademark.iglesiaelarca.com
-trissfibra.com.br
 tsweeqksa.net
 twixar.me
 tx.gl
 uorak.com
-upscri.be
 upsups.click
 vibedroom.org
 vzlx0.ru.com
@@ -460,45 +398,19 @@ willianzingoni.com.br
 wirsilsa.net
 wpemojii.com
 ww25.criarenquete.com
-a-diariooficial.com.br
-alucomposto.com.br
-animaatjes.de
 concretosflorense.com.br
-elianepotiguara.org.br
-extinfran.com.br
 gpaci.org.br
-grupoaruanda.com.br
 influenciadormagalu.com.br
-koloro.com.br
-licijur.com.br
-llconsult.com.br
-maxximus.com.br
-musicacolaborativa.com
-onceokuloncesi.com
-onlinevaluepack.com
 priori.com.br
-scriptbrasil.com.br
-sqlmagazine.com.br
-yogaone.es
-yourbrand-18274.kxcdn.com
-ytbet288.com
 ytube2dl.com
-zarrue.com
 cdlto.com.br
 #julho/2024 - Phishing Campaign
-*.minhasencomendas.store
-liberarentrega.online
 #agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
 www.mybrowserbar.com
 #agosto/2024 - Malware family Unknown
 ndm2398asdlw.shop
 jswebcloud.com
 peskpdfgif.shop
-nitroscripts.com
-*.getnitropack.com
-*.hotjar.io
-*.nitrocdn.com
-webness.com.br
 ajsdiaolke.shop
 cache.cloudswiftcdn.com
 semanariolaprensa.com
@@ -524,7 +436,6 @@ offers25942.xyz
 #agosto/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 pedraferro.com
 #agosto/2024 - Malware family Trojan.GenericFCA.Script.3334
-*.extinfran.com.br
 #agosto/2024 - Phishing Domain
 *.maew.cn
 *.iyla.cn
@@ -543,7 +454,6 @@ agereti.com.br
 #agosto/2024 - Malware family 5d0c72d3.S.Phishing.Html.Generic
 static6-jquery.com
 #agosto/2024 - Malware family Win.Astaroth
-elevacultural.com
 #setembro/2024 - Malware family Unknown
 cdnjscloudforced.com
 dais7nsa.shop
@@ -559,19 +469,14 @@ meucredicard.com
 intermiamicf.co
 human-bot-view.chalnlizt.org
 challinksch.com
-generete-nav-correios.space-to-rent.com
 #setembro/2024 - Phishing domain
 *.cncapp1.bet
-*.dash-cioudflare.com
 *.primeoffertonline.world
 starlinkprimeviva.com
-mainetti.eng.br
 #setembro/2024 - Malware family Exploit.Bo.Swf
-www.gameswf.com
 #setembro/2024 - Malware family Trojan.Mtb.Da.Cryxos.Js
 *.lojagrupoorganica.com.br
 #setembro/2024 - Malware family Win.Astaroth
-bocasanta.com.br
 #setembro/2024 - Malware family Trojan.Android
 ahd.lat
 allsdy999.org
@@ -591,7 +496,6 @@ oktube999.info
 top1114.online
 ytube888.info
 #setembro/2024 - Malware family Android.risktool.aace.dnotua
-*.nefrocalc.net
 #setembro/2024 - trojan.vapsup
 sousehushoa.net
 #setembro/2024 - husuy.com
@@ -606,22 +510,15 @@ husuy.com
 #setembro/2024 - Phishing Campaign
 liberacaorastreiocorreios.co.ua
 #setembro/2024 - Malware family Linux.Risktool.B.Bitcoinminer
-*.adfinis-on-exoscale.ch
 #setembro/2024 - Malware family Malicious.PDF.malware.generic
-daleph.com
 #setembro/2024 - Malware family Suspicious.malware.generic
 ocs.pr.gov.br
 #setembro/2024 - Malware family [Coinminer]
-wrochaconsorcios.com.br
 #setembro/2024 - "Disposable email host"
-tempsky.com
-mytemp.email
 #setembro/2024 - "Malware family Gt.js.passwordStealer.3.b2f30eec"
 verytradesafeapp.com
 #setembro/2024 - Malware family Trojan.GenericKD.69478801
-card.as
 #setembro/2024 - "Malware family Trojan.genericfca.script.3335"
-babyfesta.com.br
 #setembro/2024 - "Malicious domain"
 claro-link.brsafe.com.br
 #setembro/2024 - "Phishing domain"
@@ -638,32 +535,15 @@ licenseodqwmqn.shop
 tendencctywop.shop
 tesecuuweqo.shop
 relaxatinownio.shop
-reggwardssdqw.shop
-tryyudjasudqo.shop
-genedjestytw.shop
 #setembro/2024 - Worm related
-bellsyscdn.com
-urchintelemetry.com
 #setembro/2024 - "Malware family Trojan.genericfca.script.3334"
-consultaragora.com
 #setembro/2024 - "Malware family Trojan.ml.b.wacatac.script"
-abramed.org.br
 #setembro/2024 - "Malware family Win.Astaroth"
-hipershow.com.br
 #outubro/2024 - "Malware family peaklight"
-downloadsbeta.com
 #outubro/2024 - Malware family Win.Astaroth
-biomontes.com.br
-louisvidiam.com
-bradesco.primeofertasonline.work
 #outubro/2024 - Phishing Campaign
-rydrive.xyz
-peg3z.app.goo.gl
-nvidrive.com
 #outubro/2024 - "Malware family Riskware.hvtd.scream.SWF"
-orkutudo.com
 #outubro/2024 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
-www.c123.com.br
 #outubro/2024 - "Malware family Phishing.PDF.a.gen"
 www.pmtech.com.br
 #outubro/2024 - Phishing domain
