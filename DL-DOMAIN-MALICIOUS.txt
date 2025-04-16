@@ -1263,3 +1263,5 @@ bx.ggseocdn.com
 digdonger.org
 #Abril/2025 - Malware family Magecart
 redirect-security.digital
+#Abril/2025 - Malware related
+acessoseguro.documentosoficiais-restritos.online
