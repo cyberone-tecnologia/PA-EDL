@@ -1186,7 +1186,6 @@ sender.proxicoin.org
 flirtsnation.com
 taboola.cassino.bet.br
 catequizar.com.br
-2mythtracker.xyz
 di-res-eu.mvmuyytv2l.com
 mvmuyytv2l.com
 simon-eat.com
@@ -1266,3 +1265,5 @@ redirect-security.digital
 #Abril/2025 - Malware related
 acessoseguro.documentosoficiais-restritos.online
 prefeituramunicipal-documentosoficiais.online
+#Abril/2025 - Malware related
+2mythtracker.xyz
