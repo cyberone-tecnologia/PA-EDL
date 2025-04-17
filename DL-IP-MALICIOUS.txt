@@ -29,15 +29,12 @@
 74.115.3.151
 #marco/2024 - VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 03/07/2024
 91.92.242.183
-#marco/2024 - Bonet Fenix: Uma nova ameaça cibernética visando a América Latina
 #marco/2024 - Cibercriminosos exploram falha do Windows SmartScreen para iniciar malware DarkGate
 5.181.159.76
 #marco/2024 - VTI: Carbanak (aka Anunak aka Sekur) Malware & NetSupport Manager RAT Malware - 03/14/2024 - #2
 103.113.70.68
 81.19.138.143
 89.105.198.190
-#marco/2024 - Formbook Malware Campaign - 15/03/2024
-#marco/2024 - AgentTesla Malware Campaign - 15/03/2024
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
 #marco/2024 - VTI: APT38 - SwiftBucket Malware - 03/11/2024
@@ -48,7 +45,6 @@
 #marco/2024 - VTI: DarkGate Malware - 03/19/2024
 165.22.16.55
 103.124.105.78
-#marco/2024 - Ousaban Stealer Malware Campaign - 21/03/2024
 #marco/2024 - Trojan "Chavecloak"
 64.225.32.24
 #marco/24 VTI: Unknown Malware 21/03
@@ -68,7 +64,6 @@
 170.130.55.130
 #marco/24 Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware 22/03
 172.67.143.1
-#marco/24 EVTI: ScreenConnect (aka ConnectWise Control) Malware 25/03
 #marco/24 botnet TheMoon
 188.92.79.116
 195.3.147.73
@@ -97,9 +92,6 @@
 #marco/24 Remcos RAT Malware Campaign - 29/03/2024
 107.172.31.178
 107.175.113.216
-#marco/24 Open-Benefits Enrollment Credential Harvesting
-#marco/24 SolarMarker (aka Jupyter) Malware - 03/22/24
-#maio/2024 - Malware family PuP.Js
 #maio/2024 - Malware family Win.Dcrat
 5.23.50.56
 #maio/2024 - Brute Force Login Attempt
@@ -150,7 +142,6 @@
 45.9.149.210
 #junho/2024 - Malware family Trojan.Win32.Xnet.Genericml
 3.70.240.163
-#junho/2024 - Malware family Win.Socks5 Systemz
 #junho/2024 - Malware family Unknown
 102.130.119.173
 #junho/2024 - Malware family Js.Fakeupdates
@@ -182,8 +173,6 @@
 211.152.136.71
 #julho/2024 - Malware family cobaltstrike-2
 60.28.220.196
-#julho/2024 - Malware family Js.fakeupdates
-#julho/2024 - Ip suspeito Singapura comunicação IRC
 #julho/2024 - Internal Host Communication with Malware Host
 45.140.19.240
 #julho/2024 - IOCs Importados PA, identificação analise legada
@@ -224,7 +213,6 @@
 80.66.79.248
 81.88.52.97
 91.215.85.139
-#julho/2024 - IP Phishing domain
 #julho/2024 - Suspicious Probe Events
 194.32.122.17
 #julho/2024 - Malware family redline
@@ -240,16 +228,12 @@
 90.151.171.109
 #agosto/2024 - Malware family Agentemis
 123.123.123.123
-#agosto/2024 - Malware family Win.Amadey
 #agosto/2024 - Portscan
 104.152.52.122
 #agosto/2024 - Malware family Win.Dcrat
 188.225.40.140
-#agosto/2024 - Malware family android_ermac
 #agosto/2024 - Malware family njRAT
 18.228.115.60
-#agosto/2024 - Malware family Js.Fakeupdates
-#agosto/2024 - IPs bruteforce servidor 172.16.5.200
 #agosto/2024 - Malware family Trojan.Script.Miner.Generic
 202.61.204.169
 #agosto/2024 - IOC scan report ofense 3060
@@ -264,9 +248,6 @@
 45.92.33.62
 #agosto/2024 - Botnet CandC ofense 3144
 66.225.225.225
-#agosto/2024 Network Scan - ofense 3140
-#agosto/2024 Malware family Trojan.GenericFCA.Script.3335
-#agosto/2024 Network Scan - ofense 3122
 #agosto/2024 probe ru,us ofernsa 3155 3168
 90.151.171.106
 104.152.52.208
@@ -280,7 +261,6 @@
 111.170.24.248
 #agosto/2024 - Malware family rhadamanthys
 142.11.215.202
-#agosto/2024 - Malware family ek_clearfake
 #agosto/2024 - Probe india ofensa 3267
 167.71.234.130
 #agosto/2024 - Probe US ofensa 3260
@@ -291,7 +271,6 @@
 90.151.171.106
 #agosto/2024 - Probe IN ofensa 3267
 167.71.234.130
-#agosto/2024 - Wildfire Phishing ofensa 3267
 #agosto/2024 - Malware related
 172.240.108.68
 #setembro/2024 - Malware family Unknown
@@ -305,7 +284,6 @@
 193.233.211.54
 #setembro/2024 - "Malware family sinkhole_paloalto"
 72.5.65.111
-#setembro/2024 - "Malware family SocGholish"
 #setembro/2024 - Worm related
 95.153.31.18
 117.20.41.87
@@ -343,13 +321,11 @@
 178.162.217.107
 5.79.71.205
 85.17.31.122
-#outubro/2024 - IP Phishing domain
 #outubro/2024 - Malware family SocGholish
 91.240.202.172
 185.76.79.50
 #outubro/2024 - Email spoofing
 181.12.6.36
-#novembro/2024 - Brute Force Login Attemp
 #novembro/2024 - Malicious IP
 177.131.113.22
 #novembro/2024 - Brute Force Login Attempt
@@ -393,7 +369,6 @@
 65.111.9.84
 #dezembro/2024 - Potential Cobalt Strike Usage
 44.220.188.49
-#dezembro/2024 - Potential DDoS Against Single Host (TCP)
 #janeiro/2025 - Brute Force Login Attempt
 65.111.14.145
 65.111.15.184
@@ -633,4 +608,5 @@
 202.112.237.233
 170.64.166.144
 196.251.87.129
-45.156.128.130
+45.156.128.130#Abril/2025 - Malware related
+109.141.52.16
