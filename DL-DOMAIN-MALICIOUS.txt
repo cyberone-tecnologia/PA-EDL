@@ -1220,8 +1220,6 @@ medworld.com.br
 loopconstruct.com
 publication.garyjobeferguson.com
 customer.thewayofmoney.us
-#Abril/2025 - Malware family Stg.Trojan.PDF.agent
-files.tryflowdrive.com
 #Abril/2025 - Phishing campaign
 seufuturosemdividas.shop
 bomnegocio.ch
@@ -1281,3 +1279,5 @@ mvt.carcolormatch.top
 www.kanaldokadu.com.br
 #Abril/2025 - Malware related
 originalcs16.com
+#Abril/2025 - Malware family Stg.Trojan.PDF.agent
+files.tryflowdrive.com
