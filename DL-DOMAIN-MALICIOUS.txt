@@ -1283,3 +1283,5 @@ originalcs16.com
 files.tryflowdrive.com
 #Abril/2025 - Malware related
 catequesecatolica.com.br
+#Abril/2025 - Malware related
+cy.sighterbuffalo.com
