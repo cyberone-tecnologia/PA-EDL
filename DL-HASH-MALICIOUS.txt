@@ -3299,3 +3299,5 @@ b1b7d76e42cf0725ef53b5f07de412c8f27596fc8ed9cdfe947ee3d86e6dd4f7
 2616a0d6c945c4ef73bc74dde9b692cedfe9a3c35465ecf0ddd52d5780482550
 #Abril/2025 - Malware family Stg.Trojan.PDF.agent
 85d5eabc78cd7e09abee3c3761cdeab742054ef341546c76bfb20974fb7c4846
+#Abril/2025 - Malware family Unknown
+941745b5b3bf58ca0dcdb0be76f7eeff22eb50c89d02c9a3109317e7468a2690
