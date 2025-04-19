@@ -1285,3 +1285,5 @@ files.tryflowdrive.com
 catequesecatolica.com.br
 #Abril/2025 - Malware related
 cy.sighterbuffalo.com
+#Abril/2025 - Malware related
+motoadventurebh.com.br
