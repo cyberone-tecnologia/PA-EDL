@@ -1261,7 +1261,6 @@ digdonger.org
 #Abril/2025 - Malware family Magecart
 redirect-security.digital
 #Abril/2025 - Malware related
-acessoseguro.documentosoficiais-restritos.online
 prefeituramunicipal-documentosoficiais.online
 #Abril/2025 - Malware related
 2mythtracker.xyz
@@ -1287,3 +1286,5 @@ cy.sighterbuffalo.com
 motoadventurebh.com.br
 #Abril/2025 - Malware family Stg.Trojan.PDF.agent
 files.tryflowdrive.com
+#Abril/2025 - Malware related
+acessoseguro.documentosoficiais-restritos.online
