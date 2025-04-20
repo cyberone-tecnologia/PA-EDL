@@ -386,7 +386,6 @@ trackinghub.info
 trackmenow.life
 trademark.iglesiaelarca.com
 tsweeqksa.net
-twixar.me
 tx.gl
 uorak.com
 upsups.click
@@ -1288,3 +1287,5 @@ motoadventurebh.com.br
 files.tryflowdrive.com
 #Abril/2025 - Malware related
 acessoseguro.documentosoficiais-restritos.online
+#Abril/2025 - Phishing domain
+twixar.me
