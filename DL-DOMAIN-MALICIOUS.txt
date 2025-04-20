@@ -1271,8 +1271,6 @@ adherencemineralgravely.com
 zefuptohi.com
 #Abril/2025 - Malware related
 souloveptougat.com
-#Abril/2025 - Malware related
-mvt.carcolormatch.top
 #Abril/2025 - Malware family Win32.i.babylon.webtoolbar
 www.kanaldokadu.com.br
 #Abril/2025 - Malware related
@@ -1289,3 +1287,5 @@ files.tryflowdrive.com
 acessoseguro.documentosoficiais-restritos.online
 #Abril/2025 - Phishing domain
 twixar.me
+#Abril/2025 - Malware related
+mvt.carcolormatch.top
