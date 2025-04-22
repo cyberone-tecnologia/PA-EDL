@@ -1292,8 +1292,6 @@ cdn-statistics.com
 redecanais.gs
 #Abril/2025 - Malware related
 inss.cadastro-online.com
-#Abril/2025 - Phishing domain
-sendflow.pro
 #Abril/2025 - Malware hash: 6ef04594dfea3a1d2972e61129c36669e0d07d4d12a13ad814369247bd881308
 arnedtolethi.com
 #Abril/2025 - Malware related
@@ -1306,3 +1304,5 @@ gamebase.app
 feiraodeoferta.com.br
 #Abril/2025 - Malware related
 sw.singsw.com
+#Abril/2025 - Phishing domain
+sendflow.pro
