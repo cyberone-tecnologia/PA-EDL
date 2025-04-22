@@ -1294,3 +1294,5 @@ cdn-statistics.com
 redecanais.gs
 #Abril/2025 - Phishing domain
 sendflow.pro
+#Abril/2025 - Malware related
+inss.cadastro-online.com
