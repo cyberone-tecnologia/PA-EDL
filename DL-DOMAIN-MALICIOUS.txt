@@ -1304,3 +1304,5 @@ barajind.top
 gamebase.app
 #Abril/2025 - Malware related
 feiraodeoferta.com.br
+#Abril/2025 - Malware related
+sw.singsw.com
