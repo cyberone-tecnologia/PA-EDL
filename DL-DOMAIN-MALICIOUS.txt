@@ -1223,8 +1223,6 @@ seufuturosemdividas.shop
 bomnegocio.ch
 #Abril/2025 - Malware family Agent.mphcj.jsmalware
 praticandofisio.com
-#Abril/2025 - Malware family Win32.ml.a.uwasson.program
-gamebase.app
 #Abril/2025 - Malware family Malicious.PDF.malware
 curtadoc.tv
 #Abril/2025 - Malware family magentocore
@@ -1302,3 +1300,5 @@ arnedtolethi.com
 yaguazaderail.shop
 #Abril/2025 - Malware related
 barajind.top
+#Abril/2025 - Malware family Win32.ml.a.uwasson.program
+gamebase.app
