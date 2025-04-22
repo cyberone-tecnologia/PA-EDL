@@ -1009,7 +1009,6 @@ cnss.gov.lb
 www.strictlydigital.co
 www.motelsunrise.com.br
 cdn.yyclub.work
-sendflow.pro
 free-connecting-app.monster
 palestra.brietholdingbrasil.com.br
 embedtv.online
@@ -1293,3 +1292,5 @@ caravanagrupoeditorial.com.br
 cdn-statistics.com
 #Abril/2025 - Malware related
 redecanais.gs
+#Abril/2025 - Phishing domain
+sendflow.pro
