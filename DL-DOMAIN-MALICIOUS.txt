@@ -1302,3 +1302,5 @@ yaguazaderail.shop
 barajind.top
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
+#Abril/2025 - Malware related
+feiraodeoferta.com.br
