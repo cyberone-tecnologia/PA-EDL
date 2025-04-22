@@ -1298,3 +1298,5 @@ inss.cadastro-online.com
 sendflow.pro
 #Abril/2025 - Malware hash: 6ef04594dfea3a1d2972e61129c36669e0d07d4d12a13ad814369247bd881308
 arnedtolethi.com
+#Abril/2025 - Malware related
+yaguazaderail.shop
