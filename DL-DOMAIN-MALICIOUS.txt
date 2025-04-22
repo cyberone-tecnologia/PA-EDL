@@ -1226,8 +1226,6 @@ bomnegocio.ch
 praticandofisio.com
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
-#Abril/2025 - Malware family Magecart
-cdn-statistics.com
 #Abril/2025 - Malware family Malicious.PDF.malware
 curtadoc.tv
 #Abril/2025 - Malware family magentocore
@@ -1291,3 +1289,5 @@ twixar.me
 mvt.carcolormatch.top
 #Abril/2025 - Malware related
 caravanagrupoeditorial.com.br
+#Abril/2025 - Malware family Magecart
+cdn-statistics.com
