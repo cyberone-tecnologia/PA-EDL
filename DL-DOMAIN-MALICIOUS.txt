@@ -1292,7 +1292,7 @@ caravanagrupoeditorial.com.br
 cdn-statistics.com
 #Abril/2025 - Malware related
 redecanais.gs
-#Abril/2025 - Phishing domain
-sendflow.pro
 #Abril/2025 - Malware related
 inss.cadastro-online.com
+#Abril/2025 - Phishing domain
+sendflow.pro
