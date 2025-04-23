@@ -1308,3 +1308,5 @@ sw.singsw.com
 sendflow.pro
 #Abril/2025 - Malware family ta2726
 apiexplorerzone.com
+#Abril/2025 - Malware family lummac2
+tremista.com
