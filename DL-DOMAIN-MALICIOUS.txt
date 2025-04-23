@@ -1289,3 +1289,5 @@ cdn-statistics.com
 consent.clarosgvas.mobicare.com.br
 #Abril/2025 - Malware related
 redtransfer.net
+#Abril/2025 - Malware family Js.agent.rrl
+microlinsmogidascruzes.com.br
