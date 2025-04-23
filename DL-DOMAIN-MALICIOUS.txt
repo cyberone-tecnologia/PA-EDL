@@ -1210,7 +1210,6 @@ yaguazaderail.shop
 barajind.top
 feiraodeoferta.com.br
 sw.singsw.com
-redtransfer.net
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 #Abril/2025 - Malware family Spam.PDF
@@ -1288,3 +1287,5 @@ tremista.com
 cdn-statistics.com
 #Abril/2025 - Phishing domain
 consent.clarosgvas.mobicare.com.br
+#Abril/2025 - Malware related
+redtransfer.net
