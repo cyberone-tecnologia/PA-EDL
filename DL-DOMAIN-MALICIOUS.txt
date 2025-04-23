@@ -1306,3 +1306,5 @@ feiraodeoferta.com.br
 sw.singsw.com
 #Abril/2025 - Phishing domain
 sendflow.pro
+#Abril/2025 - Malware family ta2726
+apiexplorerzone.com
