@@ -1310,3 +1310,5 @@ apiexplorerzone.com
 tremista.com
 #Abril/2025 - Phishing domain
 sendflow.pro
+#Abril/2025 - Malware related
+redtransfer.net
