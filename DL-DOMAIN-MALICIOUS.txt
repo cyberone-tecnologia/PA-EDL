@@ -1304,9 +1304,9 @@ gamebase.app
 feiraodeoferta.com.br
 #Abril/2025 - Malware related
 sw.singsw.com
-#Abril/2025 - Phishing domain
-sendflow.pro
 #Abril/2025 - Malware family ta2726
 apiexplorerzone.com
 #Abril/2025 - Malware family lummac2
 tremista.com
+#Abril/2025 - Phishing domain
+sendflow.pro
