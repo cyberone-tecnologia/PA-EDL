@@ -331,7 +331,6 @@ asyncfunctionapi.com
 bind.bestresulttostart.com
 cacs.org.br
 clicandoeandando.com
-consent.clarosgvas.mobicare.com.br
 contanely.com
 correagontijo.com.br
 danisallesdesign.com
@@ -1287,3 +1286,5 @@ apiexplorerzone.com
 tremista.com
 #abril/2025 - Malware family Magecart
 cdn-statistics.com
+#Abril/2025 - Phishing domain
+consent.clarosgvas.mobicare.com.br
