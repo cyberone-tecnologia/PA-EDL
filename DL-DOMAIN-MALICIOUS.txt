@@ -1187,7 +1187,6 @@ di-res-eu.mvmuyytv2l.com
 mvmuyytv2l.com
 simon-eat.com
 aa.quantumshift.sbs
-statistic.scriptsplatform.com
 l.js-assets.cloud
 paupsoborofoow.net
 bx.ggseocdn.com
@@ -1310,3 +1309,5 @@ iteraima.rr.gov.br
 memsports.com.br
 #Abril/2025 - Malware family Js.agent.rrl
 goldrate.com
+#Abril/2025 - Malware related
+statistic.scriptsplatform.com
