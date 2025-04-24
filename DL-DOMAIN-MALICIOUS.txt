@@ -1308,3 +1308,5 @@ trk.aldfuncountry.com
 iteraima.rr.gov.br
 #Abril/2025 - Malware family Spam.PDF
 memsports.com.br
+#Abril/2025 - Malware family Js.agent.rrl
+goldrate.com
