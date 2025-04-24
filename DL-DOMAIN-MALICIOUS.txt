@@ -1299,3 +1299,5 @@ dl.jalecdn.com
 uk.sneezedavanyu.shop
 #Abril/2025 - Phishing domain
 nlink.at
+#Abril/2025 - Malware related
+lb-duz5i01k-n5a3hpj6y7scvw0k.clb.usw-tencentclb.cloud
