@@ -1213,7 +1213,6 @@ sw.singsw.com
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 #Abril/2025 - Malware family Spam.PDF
-memsports.com.br
 clinicaabrahaoosta.com.br
 #abril/2025 - Malware family android_fakeapp
 mspshopz.shop
@@ -1307,3 +1306,5 @@ coruja.liliatividades.com
 trk.aldfuncountry.com
 #Abril/2025 - Malware family Trojan.script.generic
 iteraima.rr.gov.br
+#Abril/2025 - Malware family Spam.PDF
+memsports.com.br
