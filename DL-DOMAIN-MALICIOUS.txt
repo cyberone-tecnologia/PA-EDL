@@ -1318,7 +1318,7 @@ apiexplorerzone.com
 cdn-statistics.com
 #Abril/2025 - Malware related
 zefuptohi.com
-#Abril/2025 - Malware related
-trk.aldfuncountry.com
 #Abril/2025 - Phishing domain
 triban.co
+#Abril/2025 - Malware related
+trk.aldfuncountry.com
