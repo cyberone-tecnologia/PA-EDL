@@ -1275,8 +1275,6 @@ gamebase.app
 tremista.com
 #Abril/2025 - Phishing domain
 consent.clarosgvas.mobicare.com.br
-#Abril/2025 - Malware related
-redtransfer.net
 #Abril/2025 - Malware family Js.agent.rrl
 microlinsmogidascruzes.com.br
 #Abril/2025 - Malware related
@@ -1323,3 +1321,5 @@ triban.co
 trk.aldfuncountry.com
 #Abril/2025 - Phishing domain
 sendflow.pro
+#Abril/2025 - Malware related
+redtransfer.net
