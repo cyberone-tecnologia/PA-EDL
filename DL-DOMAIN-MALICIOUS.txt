@@ -1275,8 +1275,6 @@ arnedtolethi.com
 gamebase.app
 #Abril/2025 - Malware family lummac2
 tremista.com
-#abril/2025 - Malware family Magecart
-cdn-statistics.com
 #Abril/2025 - Phishing domain
 consent.clarosgvas.mobicare.com.br
 #Abril/2025 - Malware related
@@ -1321,3 +1319,5 @@ blackshelter.org
 triban.co
 #Abril/2025 - Malware family ta2726
 apiexplorerzone.com
+#Abril/2025 - Malware family Magecart
+cdn-statistics.com
