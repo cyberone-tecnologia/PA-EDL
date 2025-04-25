@@ -1317,7 +1317,7 @@ headbrasil.com.br/
 lcbank.com.br/
 #Abril/2025 - Malware family Trojan.script.generic
 blacktargstore.com.br
-#Abril/2025 - Phishing domain
-triban.co
 #Abril/2025 - Malware family FakeUpdates
 blackshelter.org
+#Abril/2025 - Phishing domain
+triban.co
