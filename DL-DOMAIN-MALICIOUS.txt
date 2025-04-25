@@ -1273,8 +1273,6 @@ files.tryflowdrive.com
 arnedtolethi.com
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
 gamebase.app
-#Abril/2025 - Malware family ta2726
-apiexplorerzone.com
 #Abril/2025 - Malware family lummac2
 tremista.com
 #abril/2025 - Malware family Magecart
@@ -1321,3 +1319,5 @@ blacktargstore.com.br
 blackshelter.org
 #Abril/2025 - Phishing domain
 triban.co
+#Abril/2025 - Malware family ta2726
+apiexplorerzone.com
