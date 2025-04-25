@@ -1226,7 +1226,6 @@ sendflow.pro
 steamverde.net
 #Abril/2025 - Malware family FakeUpdates
 rapiddevapi.com
-blackshelter.org
 digdonger.org
 #Abril/2025 - Malware family Adware.agent.hk.js
 css.xjsx.lol
@@ -1320,3 +1319,5 @@ lcbank.com.br/
 blacktargstore.com.br
 #Abril/2025 - Phishing domain
 triban.co
+#Abril/2025 - Malware family FakeUpdates
+blackshelter.org
