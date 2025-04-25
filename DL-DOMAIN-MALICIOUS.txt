@@ -1312,8 +1312,6 @@ lcbank.com.br/
 blacktargstore.com.br
 #Abril/2025 - Malware family FakeUpdates
 blackshelter.org
-#Abril/2025 - Phishing domain
-triban.co
 #Abril/2025 - Malware family ta2726
 apiexplorerzone.com
 #Abril/2025 - Malware family Magecart
@@ -1322,3 +1320,5 @@ cdn-statistics.com
 zefuptohi.com
 #Abril/2025 - Malware related
 trk.aldfuncountry.com
+#Abril/2025 - Phishing domain
+triban.co
