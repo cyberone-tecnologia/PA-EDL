@@ -1049,7 +1049,6 @@ download.gamercdn.top
 #Março/2025 - Phishing domain
 linkr.it
 www.wixsite.com
-triban.co
 onne.link
 1sh.co
 #Março/2025 - Phishing campaign
@@ -1319,3 +1318,5 @@ sdj.simp1emusic.com/
 headbrasil.com.br/
 #Abril/2025 - Wildfire reported as malware
 lcbank.com.br/
+#Abril/2025 - Phishing domain
+triban.co
