@@ -723,8 +723,6 @@ jadov.store
 brandiffy.com
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
-#Novembro/2024 - Malware family Trojan.script.generic
-blacktargstore.com.br
 #dezembro/2024 - Disposable email host
 tmail.com
 #Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
@@ -1320,3 +1318,5 @@ headbrasil.com.br/
 lcbank.com.br/
 #Abril/2025 - Phishing domain
 triban.co
+#Abril/2025 - Malware family Trojan.script.generic
+blacktargstore.com.br
