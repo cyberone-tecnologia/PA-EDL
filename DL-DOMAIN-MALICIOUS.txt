@@ -1076,8 +1076,6 @@ catalogobrasil.net
 r.bestadperf.com
 #Março/2025 - Malware family Trojan.af.cryxos.js
 didigalvao.com.br
-#Março/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
-mais1cafe.com.br
 #Março/2025 - Malware family Trojan.fm2.amfpk0bi.vp2.generic
 ideia2001.com.br
 #Março/2025 - malware
@@ -1323,3 +1321,5 @@ trk.aldfuncountry.com
 zefuptohi.com
 #Abril/2025 - Malware related
 redtransfer.net
+#Abril/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
+mais1cafe.com.br
