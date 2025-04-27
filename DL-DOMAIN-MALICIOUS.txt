@@ -1048,7 +1048,6 @@ download.gamercdn.top
 linkr.it
 www.wixsite.com
 onne.link
-1sh.co
 #Março/2025 - Phishing campaign
 web3-supp.com
 globalcdn32.buzz
@@ -1325,3 +1324,5 @@ redtransfer.net
 mais1cafe.com.br
 #Abril/2025 - Malware related
 superbet.bet.br
+#Abril/2025 - Phishing domain
+1sh.co
