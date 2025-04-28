@@ -1328,3 +1328,5 @@ mais1cafe.com.br
 superbet.bet.br
 #Abril/2025 - Phishing domain
 vm.papepritz.com
+#Abril/2025 - Malware related
+unapel.com.br
