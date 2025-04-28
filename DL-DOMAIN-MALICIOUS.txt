@@ -1326,3 +1326,5 @@ mais1cafe.com.br
 1sh.co
 #Abril/2025 - Malware related
 superbet.bet.br
+#Abril/2025 - Phishing domain
+vm.papepritz.com
