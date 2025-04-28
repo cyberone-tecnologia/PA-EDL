@@ -1322,7 +1322,7 @@ zefuptohi.com
 redtransfer.net
 #Abril/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
 mais1cafe.com.br
-#Abril/2025 - Malware related
-superbet.bet.br
 #Abril/2025 - Phishing domain
 1sh.co
+#Abril/2025 - Malware related
+superbet.bet.br
