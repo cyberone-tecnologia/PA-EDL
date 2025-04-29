@@ -558,8 +558,6 @@
 185.225.71.14
 146.70.222.46
 37.120.183.47
-#abril/2025 - Malware family Unknown (C&C)
-45.138.16.240
 #bloqueio temporario 10 04 2025
 192.168.34.201
 #Abril/2025 - Malicious IP
@@ -693,3 +691,5 @@
 134.130.172.229
 #Abril/2025 - TOR NODE
 62.210.209.208
+#Abril/2025 - Malware family Unknown
+45.138.16.240
