@@ -1315,8 +1315,6 @@ sendflow.pro
 #Abril/2025 - Malware related
 trk.aldfuncountry.com
 #Abril/2025 - Malware related
-zefuptohi.com
-#Abril/2025 - Malware related
 redtransfer.net
 #Abril/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
 mais1cafe.com.br
@@ -1332,3 +1330,5 @@ cdn-statistics.com
 superbet.bet.br
 #Abril/2025 - Malware related
 gdpratlas.com
+#Abril/2025 - Malware related
+zefuptohi.com
