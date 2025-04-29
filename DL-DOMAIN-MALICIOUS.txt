@@ -1326,7 +1326,7 @@ mais1cafe.com.br
 vm.papepritz.com
 #Abril/2025 - Malware related
 unapel.com.br
-#Abril/2025 - Malware related
-superbet.bet.br
 #Abril/2025 - Malware family Magecart
 cdn-statistics.com
+#Abril/2025 - Malware related
+superbet.bet.br
