@@ -1308,8 +1308,6 @@ blacktargstore.com.br
 blackshelter.org
 #Abril/2025 - Malware family ta2726
 apiexplorerzone.com
-#Abril/2025 - Malware family Magecart
-cdn-statistics.com
 #Abril/2025 - Phishing domain
 triban.co
 #Abril/2025 - Phishing domain
@@ -1330,3 +1328,5 @@ vm.papepritz.com
 unapel.com.br
 #Abril/2025 - Malware related
 superbet.bet.br
+#Abril/2025 - Malware family Magecart
+cdn-statistics.com
