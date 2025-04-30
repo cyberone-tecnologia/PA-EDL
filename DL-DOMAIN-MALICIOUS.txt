@@ -1336,3 +1336,5 @@ surl.gd
 get-kmspico.com
 #Abril/2025 - Malware family Trojan.Win64.agent.vho.generic
 r2.e-z.host
+#Abril/2025 - Malware related
+qrcodeveloper.com
