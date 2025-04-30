@@ -1332,3 +1332,5 @@ superbet.bet.br
 gdpratlas.com
 #Abril/2025 - Malware related
 zefuptohi.com
+#Abril/2025 - Phishing domain
+surl.gd
