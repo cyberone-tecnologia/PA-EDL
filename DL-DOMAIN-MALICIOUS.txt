@@ -1338,3 +1338,5 @@ get-kmspico.com
 r2.e-z.host
 #Abril/2025 - Malware related
 qrcodeveloper.com
+#Maio/2025 - Phishing domain
+lihi3.com
