@@ -661,8 +661,6 @@ de-ko-gmbh.com
 jancsoalapitvany.hu
 #novembro/2024 - "Malware family FakeUpdates"
 objmapper.com
-#novembro/2024 - "Malware family Trojan.Ml.H.Wacatac.Script"
-four.startperfectsolutions.com
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
 search.buzzonfeed.com
@@ -1340,3 +1338,5 @@ r2.e-z.host
 qrcodeveloper.com
 #Maio/2025 - Phishing domain
 lihi3.com
+#Maio/2025 - Malware family Trojan.Ml.H.Wacatac.Script
+four.startperfectsolutions.com
