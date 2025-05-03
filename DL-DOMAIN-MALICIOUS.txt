@@ -1417,3 +1417,5 @@ bkno978bknwsnovswift428.online
 bkno981bknwsnovtrust408.online
 #Maio/2025 - Malware related
 ichoutooly.com
+#Maio/2025 - Malware family Trojan.Win32.Ml.Formbook
+777.fun
