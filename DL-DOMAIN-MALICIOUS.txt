@@ -1401,3 +1401,5 @@ ead.institutoprofissaoprospera.com.br
 dasopdoaodoaoaoao.com
 #Maio/2025 - Malware related
 media.fit903.my
+#Maio/2025 - malware related
+arch2.pin673.my
