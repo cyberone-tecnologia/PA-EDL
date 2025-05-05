@@ -165,8 +165,6 @@
 104.152.52.207
 104.152.52.105
 146.70.52.30
-#julho/2024 - Malware family Unknown
-185.161.211.109
 #julho/2024 - Malware family cobaltstrike
 211.152.136.71
 #julho/2024 - Malware family cobaltstrike-2
@@ -669,3 +667,5 @@
 60.36.166.28
 #maio/2025 - Malware family Unknown
 8.222.251.253
+#Maio/2025 - 
+185.161.211.109
