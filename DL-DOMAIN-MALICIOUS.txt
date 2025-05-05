@@ -1230,7 +1230,6 @@ tudosobretodos.se
 emktlw.com.br
 checkout.bestfybr.com.br
 kyte.bio
-agendarconsulta.link
 twixar.me
 consent.clarosgvas.mobicare.com.br
 nlink.at
@@ -1431,3 +1430,5 @@ acesso.privacy.shop
 acesso.verificando.com
 #Maio/2025 - Pix scam
 pessoajuridica-acesso-c-a-i-x-a.shop
+#Maio/2025 - Phishing domain
+agendarconsulta.link
