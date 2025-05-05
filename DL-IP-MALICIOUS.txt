@@ -1,5 +1,3 @@
-#fevereiro/2024 - QR Code Credential Harvesting
-60.36.166.28
 #fevereiro/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/22/2024
 178.23.190.199
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 09/21/23
@@ -669,3 +667,5 @@
 134.130.172.229
 95.141.83.146
 193.142.147.204
+#Maio/2025 - QRCode Credential Harvesting
+60.36.166.28
