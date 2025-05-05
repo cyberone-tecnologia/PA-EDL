@@ -666,3 +666,5 @@
 51.77.90.246
 #abril/2025 - Suspicious IRC Connections
 54.94.53.76
+#maio/2025 - TOR NODE
+107.189.6.124

@@ -1149,6 +1149,9 @@ lnkl.st/
 construtoraplano.com.br/
 promo.maroo.la/
 dpuppers.com/
+sdj.simp1emusic.com/
+headbrasil.com.br/
+lcbank.com.br/
 #Abril/2025 - Malware related
 regularizarencomendas.com
 coaufu.com
@@ -1200,10 +1203,24 @@ yaguazaderail.shop
 barajind.top
 feiraodeoferta.com.br
 sw.singsw.com
+zwww.zerzvqrzzvbme.top
+lb-duz5i01k-n5a3hpj6y7scvw0k.clb.usw-tencentclb.cloud
+coruja.liliatividades.com
+statistic.scriptsplatform.com
+zlyb.zebjlmmqqbwvb.top
+uk.sneezedavanyu.shop
+trk.aldfuncountry.com
+redtransfer.net
+unapel.com.br
+superbet.bet.br
+gdpratlas.com
+zefuptohi.com
+qrcodeveloper.com
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 #Abril/2025 - Malware family Spam.PDF
 clinicaabrahaoosta.com.br
+memsports.com.br
 #abril/2025 - Malware family android_fakeapp
 mspshopz.shop
 #abril/2025 - Phishing domain
@@ -1215,11 +1232,19 @@ checkout.bestfybr.com.br
 kyte.bio
 agendarconsulta.link
 twixar.me
+consent.clarosgvas.mobicare.com.br
+nlink.at
+triban.co
+sendflow.pro
+1sh.co
+vm.papepritz.com
+surl.gd
 #Abril/2025 - Malware family Lummastealer
 steamverde.net
 #Abril/2025 - Malware family FakeUpdates
 rapiddevapi.com
 digdonger.org
+blackshelter.org
 #Abril/2025 - Malware family Adware.agent.hk.js
 css.xjsx.lol
 #Abril/2025 - Malware family Win32.ml.c.puwaders.pua
@@ -1256,6 +1281,7 @@ download.webc.co
 5mythtracker.xyz
 #Abril/2025 - Malware family Magecart
 redirect-security.digital
+cdn-statistics.com
 #Abril/2025 - Malware family Win32.i.babylon.webtoolbar
 www.kanaldokadu.com.br
 #Abril/2025 - Malware family Stg.Trojan.PDF.agent
@@ -1266,76 +1292,22 @@ arnedtolethi.com
 gamebase.app
 #Abril/2025 - Malware family lummac2
 tremista.com
-#Abril/2025 - Phishing domain
-consent.clarosgvas.mobicare.com.br
 #Abril/2025 - Malware family Js.agent.rrl
 microlinsmogidascruzes.com.br
-#Abril/2025 - Malware related
-zwww.zerzvqrzzvbme.top
+goldrate.com
 #Abril/2025 - Malware family Win32.candyopen.pua
 dl.jalecdn.com
-#Abril/2025 - Phishing domain
-nlink.at
-#Abril/2025 - Malware related
-lb-duz5i01k-n5a3hpj6y7scvw0k.clb.usw-tencentclb.cloud
-#Abril/2025 - Malware related
-coruja.liliatividades.com
 #Abril/2025 - Malware family Trojan.script.generic
 iteraima.rr.gov.br
-#Abril/2025 - Malware family Spam.PDF
-memsports.com.br
-#Abril/2025 - Malware family Js.agent.rrl
-goldrate.com
-#Abril/2025 - Malware related
-statistic.scriptsplatform.com
-#Abril/2025 - Malware related
-zlyb.zebjlmmqqbwvb.top
-#Abril/2025 - Malware related
-uk.sneezedavanyu.shop
-#Abril/2025 - Wildfire reported as malware
-sdj.simp1emusic.com/
-#Abril/2025 - Wildfire reported as malware
-headbrasil.com.br/
-#Abril/2025 - Wildfire reported as malware
-lcbank.com.br/
-#Abril/2025 - Malware family Trojan.script.generic
 blacktargstore.com.br
-#Abril/2025 - Malware family FakeUpdates
-blackshelter.org
 #Abril/2025 - Malware family ta2726
 apiexplorerzone.com
-#Abril/2025 - Phishing domain
-triban.co
-#Abril/2025 - Phishing domain
-sendflow.pro
-#Abril/2025 - Malware related
-trk.aldfuncountry.com
-#Abril/2025 - Malware related
-redtransfer.net
 #Abril/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
 mais1cafe.com.br
-#Abril/2025 - Phishing domain
-1sh.co
-#Abril/2025 - Phishing domain
-vm.papepritz.com
-#Abril/2025 - Malware related
-unapel.com.br
-#Abril/2025 - Malware family Magecart
-cdn-statistics.com
-#Abril/2025 - Malware related
-superbet.bet.br
-#Abril/2025 - Malware related
-gdpratlas.com
-#Abril/2025 - Malware related
-zefuptohi.com
-#Abril/2025 - Phishing domain
-surl.gd
 #Abril/2025 - Malware family Hacktool.ai.kmsauto.bat
 get-kmspico.com
 #Abril/2025 - Malware family Trojan.Win64.agent.vho.generic
 r2.e-z.host
-#Abril/2025 - Malware related
-qrcodeveloper.com
 #Maio/2025 - Phishing domain
 lihi3.com
 #Maio/2025 - Malware family Trojan.Ml.H.Wacatac.Script
@@ -1419,3 +1391,5 @@ bkno981bknwsnovtrust408.online
 ichoutooly.com
 #Maio/2025 - Malware family Trojan.Win32.Ml.Formbook
 777.fun
+#maio/2025 - Malware related
+elationsandindee.com
