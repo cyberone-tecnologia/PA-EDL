@@ -667,5 +667,5 @@
 193.142.147.204
 #Maio/2025 - QRCode Credential Harvesting
 60.36.166.28
-#Maio/2025 - 
+#maio/2025 - Malware family Unknown
 8.222.251.253
