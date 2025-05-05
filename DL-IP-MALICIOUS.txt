@@ -271,8 +271,6 @@
 167.71.234.130
 #agosto/2024 - Malware related
 172.240.108.68
-#setembro/2024 - Malware family Unknown
-8.222.251.253
 #setembro/2024 - Malware family tofsee
 81.31.201.152
 #setembro/2024 - Malware family vidar
@@ -669,3 +667,5 @@
 193.142.147.204
 #Maio/2025 - QRCode Credential Harvesting
 60.36.166.28
+#Maio/2025 - 
+8.222.251.253
