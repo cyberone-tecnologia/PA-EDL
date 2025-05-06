@@ -1294,8 +1294,6 @@ dl.jalecdn.com
 #Abril/2025 - Malware family Trojan.script.generic
 iteraima.rr.gov.br
 blacktargstore.com.br
-#Abril/2025 - Malware family ta2726
-apiexplorerzone.com
 #Abril/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
 mais1cafe.com.br
 #Abril/2025 - Malware family Hacktool.ai.kmsauto.bat
@@ -1441,3 +1439,5 @@ copasa2via.net
 sistemasinaionline.com.br
 #Maio/2025 - Malware family FakeUpdates
 blackshelter.org
+#Maio/2025 - Malware family ta2726
+apiexplorerzone.com
