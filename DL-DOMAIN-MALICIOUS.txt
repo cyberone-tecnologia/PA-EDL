@@ -1443,3 +1443,5 @@ apiexplorerzone.com
 blackshelter.org
 #Maio/2025 - [descricao]
 [DOMINIO]
+#Maio/2025 - Malware related
+xwmcup.xyz
