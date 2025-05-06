@@ -1438,3 +1438,5 @@ s1.5playdisk.com
 analaxadulatory.com
 #Maio/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
+#Maio/2025 - Malware related
+copasa2via.net
