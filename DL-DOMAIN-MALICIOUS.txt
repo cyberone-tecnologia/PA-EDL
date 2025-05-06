@@ -1441,8 +1441,6 @@ sistemasinaionline.com.br
 apiexplorerzone.com
 #Maio/2025 - Malware family FakeUpdates
 blackshelter.org
-#Maio/2025 - [descricao]
-[DOMINIO]
 #Maio/2025 - Malware related
 xwmcup.xyz
 #Maio/2025 - Phishing domain
