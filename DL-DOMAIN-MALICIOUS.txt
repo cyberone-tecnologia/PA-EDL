@@ -1432,3 +1432,5 @@ acesso.verificando.com
 pessoajuridica-acesso-c-a-i-x-a.shop
 #Maio/2025 - Phishing domain
 agendarconsulta.link
+#Maio/2025 - Malware related
+universojuris.com.br
