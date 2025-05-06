@@ -1447,3 +1447,5 @@ blackshelter.org
 xwmcup.xyz
 #Maio/2025 - Malware related
 pi437neobh0.click
+#Maio/2025 - Phishing domain
+getheadway.io
