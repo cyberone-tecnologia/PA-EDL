@@ -667,8 +667,6 @@
 80.239.189.84
 #Maio/2025 - TOR NODE
 209.127.119.162
-#Maio/2025 - [descricao]
-[IP]
 #Maio/2025 - TOR NODE
 138.201.57.234
 #Maio/2025 - TOR NODE
