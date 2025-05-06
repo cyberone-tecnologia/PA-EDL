@@ -1241,7 +1241,6 @@ steamverde.net
 #Abril/2025 - Malware family FakeUpdates
 rapiddevapi.com
 digdonger.org
-blackshelter.org
 #Abril/2025 - Malware family Adware.agent.hk.js
 css.xjsx.lol
 #Abril/2025 - Malware family Win32.ml.c.puwaders.pua
@@ -1440,3 +1439,5 @@ famitracker.com
 copasa2via.net
 #Maio/2025 - Malware family fakeapp
 sistemasinaionline.com.br
+#Maio/2025 - Malware family FakeUpdates
+blackshelter.org
