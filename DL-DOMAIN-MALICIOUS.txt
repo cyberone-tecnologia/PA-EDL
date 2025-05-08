@@ -1429,8 +1429,6 @@ agendarconsulta.link
 universojuris.com.br
 #Maio/2025 - Malware related
 s1.5playdisk.com
-#Maio/2025 - Malware related
-analaxadulatory.com
 #Maio/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
 #Maio/2025 - Malware related
@@ -1442,11 +1440,7 @@ apiexplorerzone.com
 #Maio/2025 - Malware family FakeUpdates
 blackshelter.org
 #Maio/2025 - Malware related
-xwmcup.xyz
-#Maio/2025 - Malware related
 pi437neobh0.click
-#Maio/2025 - Malware related
-multicanais.ren
 #Maio/2025 - Phishing domain
 getheadway.io
 #Maio/2025 - Malware related
@@ -1455,3 +1449,13 @@ voeturturismo.com.br
 pixeltracker.me
 #Maio/2025 - Malware related
 rlsyc.com
+#Maio/2025 - Malware related
+xwmcup.xyz
+#Maio/2025 - Malware related
+he1.me
+#Maio/2025 - Malware related
+click.vaidebet.bet.br
+#Maio/2025 - Malware related
+analaxadulatory.com
+#Maio/2025 - Malware related
+multicanais.ren
