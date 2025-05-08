@@ -1461,5 +1461,5 @@ superbet.bet.br
 tmail.com
 #Maio/2025 - Malware family Trojan.mtb.aba.phish
 lippel.com.br
-#Maio/2025 - Malware family Trojan.Win32.dropper.agxq.scrop
+#Maio/2025 - Malware family Trojan.Win32.dropper.agxq.scrop#Maio/2025 - Malware family Trojan.Win32.dropper.agxq.scrop
 hidoctor.com.br
