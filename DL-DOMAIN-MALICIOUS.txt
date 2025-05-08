@@ -721,8 +721,6 @@ jadov.store
 brandiffy.com
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 grandeponto.com.br
-#dezembro/2024 - Disposable email host
-tmail.com
 #Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
@@ -1460,3 +1458,5 @@ multicanais.ren
 analaxadulatory.com
 #Maio/2025 - Malware related
 superbet.bet.br
+#Maio/2025 - Disposable email host
+tmail.com
