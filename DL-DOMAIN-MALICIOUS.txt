@@ -1210,7 +1210,6 @@ uk.sneezedavanyu.shop
 trk.aldfuncountry.com
 redtransfer.net
 unapel.com.br
-superbet.bet.br
 gdpratlas.com
 zefuptohi.com
 qrcodeveloper.com
@@ -1459,3 +1458,5 @@ click.vaidebet.bet.br
 multicanais.ren
 #Maio/2025 - Malware related
 analaxadulatory.com
+#Maio/2025 - Malware related
+superbet.bet.br
