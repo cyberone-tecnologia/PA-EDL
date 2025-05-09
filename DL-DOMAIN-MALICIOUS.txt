@@ -1454,8 +1454,6 @@ click.vaidebet.bet.br
 #Maio/2025 - Malware related
 multicanais.ren
 #Maio/2025 - Malware related
-analaxadulatory.com
-#Maio/2025 - Malware related
 superbet.bet.br
 #Maio/2025 - Disposable email host
 tmail.com
@@ -1469,3 +1467,5 @@ gbwapps.app
 agenciawecan.com.br
 #Maio/2025 - Malware related
 server1.perfeitohost.com.br
+#Maio/2025 - Malware related
+analaxadulatory.com
