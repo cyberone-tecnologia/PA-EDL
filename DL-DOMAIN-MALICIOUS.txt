@@ -1469,3 +1469,5 @@ agenciawecan.com.br
 server1.perfeitohost.com.br
 #Maio/2025 - Malware related
 analaxadulatory.com
+#Maio/2025 - Malware family Magecart
+lererikal.org
