@@ -1467,3 +1467,5 @@ hidoctor.com.br
 gbwapps.app
 #Maio/2025 - Malware related
 agenciawecan.com.br
+#Maio/2025 - Malware related
+server1.perfeitohost.com.br
