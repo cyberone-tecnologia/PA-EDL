@@ -1489,3 +1489,5 @@ rcta-608096400629.southamerica-east1.run.app
 receitaregularizacao.com
 #Maio/2025 - Phishing campaign
 corr310-765775392619.southamerica-east1.run.app
+#Maio/2025 - Phishing campaign
+correios-rastreamentoaduana.com
