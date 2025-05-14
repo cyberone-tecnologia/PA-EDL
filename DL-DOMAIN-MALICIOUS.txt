@@ -1471,8 +1471,6 @@ server1.perfeitohost.com.br
 analaxadulatory.com
 #Maio/2025 - Malware family Magecart
 lererikal.org
-#Maio/2025 - Malware related
-img.live-widgets.com
 #Maio/2025 - 
 cqlyzz.com
 #Maio/2025 - Phishing campaign
@@ -1493,3 +1491,5 @@ corr310-765775392619.southamerica-east1.run.app
 correios-rastreamentoaduana.com
 #Maio/2025 - Phishing campaign
 ww2832315540wawaw.andbuscacep.biz.ua
+#Maio/2025 - Malware related
+img.live-widgets.com
