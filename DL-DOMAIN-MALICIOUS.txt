@@ -1469,8 +1469,6 @@ server1.perfeitohost.com.br
 analaxadulatory.com
 #Maio/2025 - Malware family Magecart
 lererikal.org
-#Maio/2025 - 
-cqlyzz.com
 #Maio/2025 - Phishing campaign
 ww9350879437seedex.henderecobuscarcep.biz.ua
 #Maio/2025 - Phishing campaign
@@ -1495,3 +1493,5 @@ pomodorotimer.online
 copasa2via.net
 #Maio/2025 - Malware related
 img.live-widgets.com
+#Maio/2025 - Malware related
+cqlyzz.com
