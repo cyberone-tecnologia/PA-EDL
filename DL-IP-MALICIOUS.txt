@@ -693,5 +693,3 @@
 149.154.175.55
 #Maio/2025 - Malware related
 149.154.175.52
-#Maio/2025 - Possible Malware Activity
-192.168.18.27
