@@ -1489,8 +1489,6 @@ copasa2via.net
 #Maio/2025 - Malware family Trojan.mtb.rj.obfuse.js
 turismodeminas.com.br
 #Maio/2025 - Malware related
-cqlyzz.com
-#Maio/2025 - Malware related
 saltcomunicacao.com.br
 #Maio/2025 - Malware hash: 8a6969141623434b70322e19938b33ff058104a26c8dc535e7d566c180927d3d
 amigosquedoam.com.br
@@ -1498,3 +1496,5 @@ amigosquedoam.com.br
 img.live-widgets.com
 #Maio/2025 - Malware related
 pomodorotimer.online
+#Maio/2025 - Malware related
+cqlyzz.com
