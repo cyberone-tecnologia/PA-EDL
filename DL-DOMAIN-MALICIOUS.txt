@@ -1424,8 +1424,6 @@ universojuris.com.br
 s1.5playdisk.com
 #Maio/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
-#Maio/2025 - Malware family fakeapp
-sistemasinaionline.com.br
 #Maio/2025 - Malware family ta2726
 apiexplorerzone.com
 #Maio/2025 - Malware family FakeUpdates
@@ -1500,3 +1498,5 @@ receitaregularize.com
 cqlyzz.com
 #Maio/2025 - Malware related
 img.live-widgets.com
+#Maio/2025 - Malware family fakeapp
+sistemasinaionline.com.br
