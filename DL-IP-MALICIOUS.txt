@@ -693,4 +693,5 @@
 #Maio/2025 - Malware related
 149.154.175.55
 #Maio/2025 - IP maliciosa detectada por VirusTotal
-57.129.44.38
+57.129.44.38#Maio/2025 - Malware related
+177.154.191.146
