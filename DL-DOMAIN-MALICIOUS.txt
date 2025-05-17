@@ -1494,8 +1494,6 @@ amigosquedoam.com.br
 pomodorotimer.online
 #Maio/2025 - phishing campaign
 receitaregularize.com
-#Maio/2025 - Malware related
-cqlyzz.com
 #Maio/2025 - Malware family fakeapp
 sistemasinaionline.com.br
 #Maio/2025 - Malware related
@@ -1504,3 +1502,5 @@ hk2.hjkgghjj.com
 islonline.org
 #Maio/2025 - Malware related
 img.live-widgets.com
+#Maio/2025 - Malware related
+cqlyzz.com
