@@ -1506,7 +1506,7 @@ img.live-widgets.com
 hmjardins.com.br
 #Maio/2025 - Phishing domain
 app.fastformat.co
-#Maio/2025 - Malware related
-cqlyzz.com
 #Maio/2025 - Malware family android_joker
 whamyewmw.com
+#Maio/2025 - Malware related
+cqlyzz.com
