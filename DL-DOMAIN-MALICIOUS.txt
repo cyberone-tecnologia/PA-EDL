@@ -1465,3 +1465,5 @@ whamyewmw.com
 pryde-lya.info
 #Maio/2025 - Malware family Trojan.ml.b.phonzy.script
 diagonaluniformes.com.br
+#maio/2025 - Phishing domain
+airform.ai
