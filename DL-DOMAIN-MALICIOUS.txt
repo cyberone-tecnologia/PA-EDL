@@ -1463,5 +1463,5 @@ islonline.org
 whamyewmw.com
 #maio/2025 - Malware family Virus.Win32.Sality.Generic
 pryde-lya.info
-#maio/2025 - Malware family Trojan.ml.b.phonzy.script
+#Maio/2025 - Malware family Trojan.ml.b.phonzy.script
 diagonaluniformes.com.br
