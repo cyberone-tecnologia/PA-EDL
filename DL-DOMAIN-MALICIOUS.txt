@@ -1398,7 +1398,6 @@ pomodorotimer.online
 hk2.hjkgghjj.com
 img.live-widgets.com
 hmjardins.com.br
-cqlyzz.com
 logisticaenvio.shop
 #Maio/2025 - Malware family Trojan.Win32.Ml.Formbook
 777.fun
@@ -1467,3 +1466,5 @@ pryde-lya.info
 diagonaluniformes.com.br
 #maio/2025 - Phishing domain
 airform.ai
+#Maio/2025 - Malware related
+cqlyzz.com
