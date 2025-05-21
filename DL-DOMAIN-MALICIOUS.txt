@@ -1295,6 +1295,9 @@ get-kmspico.com
 r2.e-z.host
 #Maio/2025 - Phishing domain
 lihi3.com
+agendarconsulta.link
+getheadway.io
+app.fastformat.co
 #Maio/2025 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
 #Maio/2025 - Brazil phishing domain
@@ -1374,141 +1377,91 @@ bkno978bknwsnovswift428.online
 bkno981bknwsnovtrust408.online
 #Maio/2025 - Malware related
 ichoutooly.com
+elationsandindee.com
+universojuris.com.br
+s1.5playdisk.com
+pi437neobh0.click
+voeturturismo.com.br
+rlsyc.com
+xwmcup.xyz
+he1.me
+click.vaidebet.bet.br
+multicanais.ren
+superbet.bet.br
+gbwapps.app
+agenciawecan.com.br
+server1.perfeitohost.com.br
+analaxadulatory.com
+copasa2via.net
+saltcomunicacao.com.br
+pomodorotimer.online
+hk2.hjkgghjj.com
+img.live-widgets.com
+hmjardins.com.br
+cqlyzz.com
+logisticaenvio.shop
 #Maio/2025 - Malware family Trojan.Win32.Ml.Formbook
 777.fun
 #Maio/2025 - Malware family Magecart
 cpeciadogfoods.com
-#Maio/2025 - Malware related
-elationsandindee.com
+lererikal.org
 #Maio/2025 - malware related
 media.pin673.my
-#Maio/2025 - malware related
 media.fit903.my
-#Maio/2025 - malware related
 dasopdoaodoaoaoao.com
-#Maio/2025 - malware related
 ead.institutoprofissaoprospera.com.br
-#Maio/2025 - malware related
 arch2.pin673.my
 #Maio/2025 - Pix scam
 pay.pagamento-oficial.com
-#Maio/2025 - Pix scam
 acesso.aoprograma.com
-#Maio/2025 - Pix scam
 acesso.cai-xajuridica.site
-#Maio/2025 - Pix scam
 acesso.corretoramrl.site
-#Maio/2025 - Pix scam
 acesso.estada.top
-#Maio/2025 - Pix scam
 acesso.estada.world
-#Maio/2025 - Pix scam
 acesso.gerenciadorgf.com
-#Maio/2025 - Pix scam
 acesso.homologado.com
-#Maio/2025 - Pix scam
 acesso.nota.online
-#Maio/2025 - Pix scam
 acesso.notas.online
-#Maio/2025 - Pix scam
 acesso.privacy.shop
-#Maio/2025 - Pix scam
 acesso.verificando.com
-#Maio/2025 - Pix scam
 pessoajuridica-acesso-c-a-i-x-a.shop
-#Maio/2025 - Phishing domain
-agendarconsulta.link
-#Maio/2025 - Malware related
-universojuris.com.br
-#Maio/2025 - Malware related
-s1.5playdisk.com
 #Maio/2025 - Malware family Trojan.gen2.zpack.crypt.tr
 famitracker.com
 #Maio/2025 - Malware family ta2726
 apiexplorerzone.com
 #Maio/2025 - Malware family FakeUpdates
 blackshelter.org
-#Maio/2025 - Malware related
-pi437neobh0.click
-#Maio/2025 - Phishing domain
-getheadway.io
-#Maio/2025 - Malware related
-voeturturismo.com.br
 #Maio/2025 - Malware family magentocore
 pixeltracker.me
-#Maio/2025 - Malware related
-rlsyc.com
-#Maio/2025 - Malware related
-xwmcup.xyz
-#Maio/2025 - Malware related
-he1.me
-#Maio/2025 - Malware related
-click.vaidebet.bet.br
-#Maio/2025 - Malware related
-multicanais.ren
-#Maio/2025 - Malware related
-superbet.bet.br
 #Maio/2025 - Disposable email host
 tmail.com
 #Maio/2025 - Malware family Trojan.mtb.aba.phish
 lippel.com.br
 #Maio/2025 - Malware family Trojan.Win32.dropper.agxq.scrop#Maio/2025 - Malware family Trojan.Win32.dropper.agxq.scrop
 hidoctor.com.br
-#Maio/2025 - Malware related
-gbwapps.app
-#Maio/2025 - Malware related
-agenciawecan.com.br
-#Maio/2025 - Malware related
-server1.perfeitohost.com.br
-#Maio/2025 - Malware related
-analaxadulatory.com
-#Maio/2025 - Malware family Magecart
-lererikal.org
 #Maio/2025 - Phishing campaign
 ww9350879437seedex.henderecobuscarcep.biz.ua
-#Maio/2025 - Phishing campaign
 rastreamentoencomendasrapido.buscarbox.co.ua
-#Maio/2025 - Phishing campaign
 function8-877014292356.us-central1.run.app
-#Maio/2025 - Phishing campaign
 alfandegaliberar.org
-#Maio/2025 - Phishing campaign
 rcta-608096400629.southamerica-east1.run.app
-#Maio/2025 - Phishing campaign
 receitaregularizacao.com
-#Maio/2025 - Phishing campaign
 corr310-765775392619.southamerica-east1.run.app
-#Maio/2025 - Phishing campaign
 correios-rastreamentoaduana.com
-#Maio/2025 - Phishing campaign
 ww2832315540wawaw.andbuscacep.biz.ua
-#Maio/2025 - Malware related
-copasa2via.net
 #Maio/2025 - Malware family Trojan.mtb.rj.obfuse.js
 turismodeminas.com.br
-#Maio/2025 - Malware related
-saltcomunicacao.com.br
 #Maio/2025 - Malware hash: 8a6969141623434b70322e19938b33ff058104a26c8dc535e7d566c180927d3d
 amigosquedoam.com.br
-#Maio/2025 - Malware related
-pomodorotimer.online
 #Maio/2025 - phishing campaign
 receitaregularize.com
 #Maio/2025 - Malware family fakeapp
 sistemasinaionline.com.br
-#Maio/2025 - Malware related
-hk2.hjkgghjj.com
 #Maio/2025 - Malware family Netsupportmanager RAT
 islonline.org
-#Maio/2025 - Malware related
-img.live-widgets.com
-#Maio/2025 - Malware related
-hmjardins.com.br
-#Maio/2025 - Phishing domain
-app.fastformat.co
-#Maio/2025 - Malware related
-cqlyzz.com
 #Maio/2025 - Malware family android_joker
 whamyewmw.com
-#Maio/2025 - Malware related
-logisticaenvio.shop
+#maio/2025 - Malware family Virus.Win32.Sality.Generic
+pryde-lya.info
+#maio/2025 - Malware family Trojan.ml.b.phonzy.script
+diagonaluniformes.com.br
