@@ -588,11 +588,9 @@
 185.161.211.109
 #Maio/2025 - Malware related
 149.154.175.52
-#Maio/2025 - Malware related
 149.154.175.55
-#Maio/2025 - Malware related
 57.129.44.38
-#Maio/2025 - Malware related
 177.154.191.146
-#Maio/2025 - Malware related
 177.52.160.32
+#maio/2025 - Port scan
+87.121.84.22
