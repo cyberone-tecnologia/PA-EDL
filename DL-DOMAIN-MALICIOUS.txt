@@ -1471,3 +1471,5 @@ cqlyzz.com
 1sh.co
 #Maio/2025 - Malware family Formbook
 cdn.gilcdn.com
+#Maio/2025 - Phishing domain
+lnk.at
