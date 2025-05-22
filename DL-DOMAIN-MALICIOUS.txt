@@ -1396,7 +1396,6 @@ saltcomunicacao.com.br
 pomodorotimer.online
 hk2.hjkgghjj.com
 img.live-widgets.com
-hmjardins.com.br
 logisticaenvio.shop
 #Maio/2025 - Malware family Trojan.Win32.Ml.Formbook
 777.fun
@@ -1473,3 +1472,5 @@ cdn.gilcdn.com
 lnk.at
 #Maio/2025 - Malware related
 cqlyzz.com
+#Maio/2025 - Malware related
+hmjardins.com.br
