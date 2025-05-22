@@ -1075,8 +1075,6 @@ supportsentparticle.com/
 regularizarencomendas.com/
 www.decusparquet.com/#Abril/2025 - Wildfire reported as malware
 shop.boomaorganic.com.br/
-#Abril/2025 - Malware family Trojan.downloader.kqkkfv.script
-flashlimp.com.br
 #Abril/2025 - Wildfire reported as malware
 orbe.me/
 elb.regexsolutions.com.br/
@@ -1476,3 +1474,5 @@ cqlyzz.com
 hmjardins.com.br
 #Maio/2025 - Malware related
 login.unopar.com
+#Maio/2025 - Malware family Trojan.downloader.kqkkfv.script
+flashlimp.com.br
