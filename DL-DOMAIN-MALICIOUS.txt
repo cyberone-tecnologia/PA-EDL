@@ -870,8 +870,6 @@ mgperfil.com.br
 #janeiro/2025 - Graywere
 iyoutubetomp4.com
 adfpoint.com
-#Janeiro/2025 - Malware family Adware.g.jsrevizer
-shopstorys.com
 #janeiro/2025 - Phishing related
 program-edition.es
 #Janeiro/2025 - Malware family Trojan.Ml.B.Phonzy.Script
@@ -1476,3 +1474,5 @@ login.unopar.com
 flashlimp.com.br
 #Maio/2025 - Malware related
 hmjardins.com.br
+#Maio/2025 - Malware family Adware.g.jsrevizer
+shopstorys.com
