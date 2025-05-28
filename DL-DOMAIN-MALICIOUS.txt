@@ -1454,8 +1454,6 @@ sistemasinaionline.com.br
 islonline.org
 #Maio/2025 - Malware family android_joker
 whamyewmw.com
-#maio/2025 - Malware family Virus.Win32.Sality.Generic
-pryde-lya.info
 #Maio/2025 - Malware family Trojan.ml.b.phonzy.script
 diagonaluniformes.com.br
 #maio/2025 - Phishing domain
@@ -1476,3 +1474,5 @@ hmjardins.com.br
 shopstorys.com
 #Maio/2025 - Malware family Trojan.downloader
 flashlimp.com.br
+#Maio/2025 - Malware family Sality
+pryde-lya.info
