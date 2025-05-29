@@ -1476,3 +1476,5 @@ flashlimp.com.br
 pryde-lya.info
 #Maio/2025 - Malware family Unknown
 islonline.org
+#Maio/2025 - Malware family FakeUpdates
+cp.envisionfonddulac.biz
