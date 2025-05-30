@@ -1466,8 +1466,6 @@ lnk.at
 cqlyzz.com
 #Maio/2025 - Malware related
 login.unopar.com
-#Maio/2025 - Malware related
-hmjardins.com.br
 #Maio/2025 - Malware family Adware.g.jsrevizer
 shopstorys.com
 #Maio/2025 - Malware family Trojan.downloader
@@ -1478,3 +1476,5 @@ pryde-lya.info
 islonline.org
 #Maio/2025 - Malware family FakeUpdates
 cp.envisionfonddulac.biz
+#Maio/2025 - Malware family Malicious.behaviour
+hmjardins.com.br
