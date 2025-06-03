@@ -1482,3 +1482,5 @@ get-gx.com
 islonline.org
 #Junho/2025 - Malware family Lumma stealer
 r.bestadperf.com
+#Junho/2025 - Malware family Deathransom
+abramed.org.br
