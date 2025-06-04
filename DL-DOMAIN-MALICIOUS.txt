@@ -1484,3 +1484,5 @@ islonline.org
 r.bestadperf.com
 #Junho/2025 - Malware family Deathransom
 abramed.org.br
+#Junho/2025 - Malware family Qakbot
+duplicacaobr153sp.com.br
