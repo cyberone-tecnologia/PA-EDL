@@ -1486,3 +1486,5 @@ r.bestadperf.com
 abramed.org.br
 #Junho/2025 - Malware family Qakbot
 duplicacaobr153sp.com.br
+#Junho/2025 - Phishing domain
+pontuaagora.co
