@@ -1488,3 +1488,5 @@ abramed.org.br
 duplicacaobr153sp.com.br
 #Junho/2025 - Phishing domain
 pontuaagora.co
+#Junho/2025 - Malware family Unknown
+translatebonus.net
