@@ -1288,7 +1288,6 @@ get-kmspico.com
 r2.e-z.host
 #Maio/2025 - Phishing domain
 lihi3.com
-agendarconsulta.link
 getheadway.io
 app.fastformat.co
 #Maio/2025 - Malware family Trojan.Ml.H.Wacatac.Script
@@ -1494,3 +1493,5 @@ translatebonus.net
 fallodick87-78.sbs
 #Junho/2025 - Malware family Magecart
 api-chat.live
+#Junho/2025 - Phishing domain
+agendarconsulta.link
