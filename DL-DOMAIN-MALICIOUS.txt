@@ -1497,3 +1497,5 @@ api-chat.live
 agendarconsulta.link
 #Junho/2025 - Malware family Virut
 aptxu.com
+#Junho/2025 - Malware family Unknown
+masteringjscode.com
