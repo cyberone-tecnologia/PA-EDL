@@ -1495,3 +1495,5 @@ fallodick87-78.sbs
 api-chat.live
 #Junho/2025 - Phishing domain
 agendarconsulta.link
+#Junho/2025 - Malware family Virut
+aptxu.com
