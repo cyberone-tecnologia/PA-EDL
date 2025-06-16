@@ -1491,8 +1491,6 @@ pontuaagora.co
 translatebonus.net
 #Junho/2025 - Malware family Magecart
 fallodick87-78.sbs
-#Junho/2025 - Malware family Magecart
-api-chat.live
 #Junho/2025 - Phishing domain
 agendarconsulta.link
 #Junho/2025 - Malware family Virut
@@ -1503,3 +1501,5 @@ masteringjscode.com
 advertipros.com
 #Junho/2025 - 90b57c8d93ca75630ccf3a296d310e762b7ababeb536f563ebb41c13703baf29
 entwithoughtsu.com
+#Junho/2025 - Malware family Magecart
+api-chat.live
