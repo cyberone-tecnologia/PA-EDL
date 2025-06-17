@@ -1479,8 +1479,6 @@ hmjardins.com.br
 get-gx.com
 #Junho/2025 - Malware family Unknown
 islonline.org
-#Junho/2025 - Malware family Lumma stealer
-r.bestadperf.com
 #Junho/2025 - Malware family Deathransom
 abramed.org.br
 #Junho/2025 - Malware family Qakbot
@@ -1503,3 +1501,5 @@ advertipros.com
 entwithoughtsu.com
 #Junho/2025 - Malware family Magecart
 api-chat.live
+#Junho/2025 - Malware family Lumma stealer
+r.bestadperf.com
