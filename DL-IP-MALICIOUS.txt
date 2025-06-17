@@ -705,3 +705,5 @@
 95.216.96.44
 #Junho/2025 - Malware family Unknown
 119.45.29.172
+#Junho/2025 - Malware family interactsh
+161.35.106.182
