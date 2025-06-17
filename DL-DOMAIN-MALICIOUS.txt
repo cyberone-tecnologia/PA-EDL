@@ -1290,6 +1290,8 @@ r2.e-z.host
 lihi3.com
 getheadway.io
 app.fastformat.co
+1sh.co
+lnk.at
 #Maio/2025 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
 #Maio/2025 - Brazil phishing domain
@@ -1390,6 +1392,8 @@ pomodorotimer.online
 hk2.hjkgghjj.com
 img.live-widgets.com
 logisticaenvio.shop
+cqlyzz.com
+login.unopar.com
 #Maio/2025 - Malware family Trojan.Win32.Ml.Formbook
 777.fun
 #Maio/2025 - Malware family Magecart
@@ -1421,6 +1425,7 @@ famitracker.com
 apiexplorerzone.com
 #Maio/2025 - Malware family FakeUpdates
 blackshelter.org
+cp.envisionfonddulac.biz
 #Maio/2025 - Malware family magentocore
 pixeltracker.me
 #Maio/2025 - Disposable email host
@@ -1453,53 +1458,38 @@ whamyewmw.com
 diagonaluniformes.com.br
 #maio/2025 - Phishing domain
 airform.ai
-#Maio/2025 - Phishing domain
-1sh.co
 #Maio/2025 - Malware family Formbook
 cdn.gilcdn.com
-#Maio/2025 - Phishing domain
-lnk.at
-#Maio/2025 - Malware related
-cqlyzz.com
-#Maio/2025 - Malware related
-login.unopar.com
 #Maio/2025 - Malware family Adware.g.jsrevizer
 shopstorys.com
 #Maio/2025 - Malware family Trojan.downloader
 flashlimp.com.br
 #Maio/2025 - Malware family Sality
 pryde-lya.info
-#Maio/2025 - Malware family FakeUpdates
-cp.envisionfonddulac.biz
 #Maio/2025 - Malware family Malicious.behaviour
 hmjardins.com.br
 #Junho/2025 - Malware family Malicious.behaviour
 001win7.cc
-#Junho/2025 - Malware family Malicious.behaviour
 get-gx.com
 #Junho/2025 - Malware family Unknown
 islonline.org
+translatebonus.net
+masteringjscode.com
 #Junho/2025 - Malware family Deathransom
 abramed.org.br
 #Junho/2025 - Malware family Qakbot
 duplicacaobr153sp.com.br
 #Junho/2025 - Phishing domain
 pontuaagora.co
-#Junho/2025 - Malware family Unknown
-translatebonus.net
+agendarconsulta.link
 #Junho/2025 - Malware family Magecart
 fallodick87-78.sbs
-#Junho/2025 - Phishing domain
-agendarconsulta.link
+api-chat.live
 #Junho/2025 - Malware family Virut
 aptxu.com
-#Junho/2025 - Malware family Unknown
-masteringjscode.com
 #Junho/2025 - Unknown Loader
 advertipros.com
 #Junho/2025 - 90b57c8d93ca75630ccf3a296d310e762b7ababeb536f563ebb41c13703baf29
 entwithoughtsu.com
-#Junho/2025 - Malware family Magecart
-api-chat.live
-#Junho/2025 - Malware family Lumma stealer
+#junho/2025 - Malware family Lumma stealer
 r.bestadperf.com
