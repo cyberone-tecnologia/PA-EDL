@@ -703,3 +703,5 @@
 #Junho/2025 - TOR NODE
 2.58.52.163
 95.216.96.44
+#Junho/2025 - Malware family Unknown
+119.45.29.172
