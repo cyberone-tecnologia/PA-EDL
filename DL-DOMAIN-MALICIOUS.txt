@@ -1218,7 +1218,6 @@ kyte.bio
 twixar.me
 consent.clarosgvas.mobicare.com.br
 nlink.at
-triban.co
 sendflow.pro
 vm.papepritz.com
 surl.gd
@@ -1496,3 +1495,5 @@ r.bestadperf.com
 hemnes.win
 #Junho/2025 - Phishing domain
 lnk.at
+#Junho/2025 - Phishing domain
+triban.co
