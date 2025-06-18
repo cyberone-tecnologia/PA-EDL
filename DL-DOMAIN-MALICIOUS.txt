@@ -1291,7 +1291,6 @@ lihi3.com
 getheadway.io
 app.fastformat.co
 1sh.co
-lnk.at
 #Maio/2025 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
 #Maio/2025 - Brazil phishing domain
@@ -1495,3 +1494,5 @@ entwithoughtsu.com
 r.bestadperf.com
 #Junho/2025 - CryptoMining domain
 hemnes.win
+#Junho/2025 - Phishing domain
+lnk.at
