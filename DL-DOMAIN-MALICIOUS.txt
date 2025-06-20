@@ -1497,3 +1497,5 @@ hemnes.win
 lnk.at
 #Junho/2025 - Phishing domain
 triban.co
+#Junho/2025 - Malware family Pup
+arquivos.blogdainformatica.com.br
