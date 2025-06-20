@@ -709,3 +709,5 @@
 87.121.84.34
 #Junho/2025 - Malware family interactsh
 161.35.106.182
+#Junho/2025 - Malicious IP
+167.94.146.45
