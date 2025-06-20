@@ -711,3 +711,5 @@
 161.35.106.182
 #Junho/2025 - Malicious IP
 167.94.146.45
+#Junho/2025 - Malware family Atomic
+83.222.190.214
