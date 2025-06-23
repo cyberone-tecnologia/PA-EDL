@@ -707,8 +707,6 @@
 87.121.84.34
 #Junho/2025 - Malware family interactsh
 161.35.106.182
-#Junho/2025 - Malicious IP
-167.94.146.45
 #Junho/2025 - Malware family Atomic
 83.222.190.214
 #Junho/2025 - TOR NODE
@@ -725,3 +723,5 @@
 185.40.4.92
 164.215.103.126
 45.94.31.92
+#Junho/2025 - Malicious IP
+167.94.146.45
