@@ -604,3 +604,5 @@ malwarehard.wyx
 192.145.123.12
 #Junho/2025 - Malicious IP
 162.216.112.124
+#Junho/2025 - Malicious IP
+167.94.146.45
