@@ -1497,7 +1497,7 @@ lnk.at
 triban.co
 #Junho/2025 - Malware family Pup
 arquivos.blogdainformatica.com.br
-#Junho/2025 - CryptoMining domain
-hemnes.win
 #Junho/2025 - Phishing domain
 abrir.me
+#Junho/2025 - CryptoMining related
+hemnes.win
