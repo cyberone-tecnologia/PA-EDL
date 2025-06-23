@@ -1422,7 +1422,6 @@ famitracker.com
 #Maio/2025 - Malware family ta2726
 apiexplorerzone.com
 #Maio/2025 - Malware family FakeUpdates
-blackshelter.org
 cp.envisionfonddulac.biz
 #Maio/2025 - Malware family magentocore
 pixeltracker.me
@@ -1501,3 +1500,5 @@ arquivos.blogdainformatica.com.br
 abrir.me
 #Junho/2025 - CryptoMining related
 hemnes.win
+#Junho/2025 - Malware family FakeUpdates
+blackshelter.org
