@@ -559,7 +559,6 @@
 45.156.128.130#Abril/2025 - Malware related
 109.141.52.16
 #Abril/2025 - Malware family Unknown
-38.46.218.36
 38.46.218.39
 209.141.52.16
 45.138.16.240
@@ -726,3 +725,5 @@
 167.94.146.45
 #Junho/2025 - Malware family Unknown
 3.146.93.253
+#Junho/2025 - Malware family Unknown
+38.46.218.36
