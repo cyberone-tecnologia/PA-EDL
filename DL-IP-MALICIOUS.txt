@@ -727,3 +727,5 @@
 3.146.93.253
 #Junho/2025 - Malware family Unknown
 38.46.218.36
+#Junho/2025 - Malware family Unknown
+52.14.24.94
