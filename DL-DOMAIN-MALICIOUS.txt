@@ -1502,3 +1502,7 @@ hemnes.win
 blackshelter.org
 #Junho/2025 - Malware family Qakbot
 duplicacaobr153sp.com.br
+#Junho/2025 - Malicious domain
+xurl.ooo
+intelligentopennetworkingawards.com
+wbdiamonds.com
