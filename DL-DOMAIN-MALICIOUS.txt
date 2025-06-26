@@ -520,8 +520,6 @@ licenseodqwmqn.shop
 tendencctywop.shop
 tesecuuweqo.shop
 relaxatinownio.shop
-#outubro/2024 - "Malware family Phishing.PDF.a.gen"
-www.pmtech.com.br
 #outubro/2024 - Phishing domain
 nivelaservicos.com.br
 8libkxg.8270k7.com
@@ -1508,3 +1506,5 @@ wbdiamonds.com
 abrir.me
 #Junho/2025 - Malware family magentocore
 kefersuc.xyz
+#Junho/2025 - Malware family Phishing.artifact.pdf
+www.pmtech.com.br
