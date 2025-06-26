@@ -1506,3 +1506,5 @@ intelligentopennetworkingawards.com
 wbdiamonds.com
 #Junho/2025 - Phishing domain
 abrir.me
+#Junho/2025 - Malware family magentocore
+kefersuc.xyz
