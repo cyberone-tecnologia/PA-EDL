@@ -499,7 +499,6 @@
 195.154.168.209
 185.220.101.138
 37.27.106.25
-# bloqueio temporario 03 04
 #Abril/2025 - Malware related
 190.102.40.205
 #Abril/2025 - Brute force login attempt
@@ -549,7 +548,6 @@
 172.86.72.138
 172.86.72.140
 80.92.205.159
-#bloqueio temporario 10 04 2025
 #Abril/2025 - Malicious IP
 202.112.237.233
 170.64.166.144
@@ -699,7 +697,6 @@
 185.194.143.87
 54.36.205.38
 195.201.59.21
-185.40.4.92
 164.215.103.126
 45.94.31.92
 #Junho/2025 - Malware family Fakeupdates
@@ -713,3 +710,5 @@
 161.35.106.182
 #Junho/2025 - Malware family Atomic
 83.222.190.214
+#Junho/2025 - TOR NODE
+185.40.4.92
