@@ -1508,3 +1508,5 @@ abrir.me
 kefersuc.xyz
 #Junho/2025 - Malware family Phishing.artifact.pdf
 www.pmtech.com.br
+#Junho/2025 - Malware family Android.trojan.generic
+statics.androforeverweb.durban
