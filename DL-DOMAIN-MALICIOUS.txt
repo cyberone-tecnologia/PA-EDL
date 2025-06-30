@@ -1510,3 +1510,5 @@ kefersuc.xyz
 www.pmtech.com.br
 #Junho/2025 - Malware family Android.trojan.generic
 statics.androforeverweb.durban
+#Junho/2025 - Phishing domain
+www.pittur.pitimbu.pb.gov.br
