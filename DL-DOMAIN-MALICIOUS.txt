@@ -1506,9 +1506,9 @@ abrir.me
 kefersuc.xyz
 #Junho/2025 - Malware family Phishing.artifact.pdf
 www.pmtech.com.br
-#Junho/2025 - Phishing domain
-www.pittur.pitimbu.pb.gov.br
 #Junho/2025 - Malware family Android.trojan.generic
 statics.androforeverweb.durban
 #Julho/2025 - Malware family Fakeupdates
 source.scriptsafedata.com
+#Julho/2025 - Phishing domain
+www.pittur.pitimbu.pb.gov.br
