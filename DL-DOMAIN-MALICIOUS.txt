@@ -759,8 +759,6 @@ quipdew.com
 #Dezembro/2024 - Phishing domain
 vulcanobrasil.com.br
 corrector.co
-#Dezembro/2024 - Malware family FakeUpdates
-source.scriptsafedata.com
 #dezembro/2024 - Phishing campaign
 correiosrastreamentoencomenda.com
 rastreamentofiscaliza.com
@@ -1512,3 +1510,5 @@ www.pmtech.com.br
 www.pittur.pitimbu.pb.gov.br
 #Junho/2025 - Malware family Android.trojan.generic
 statics.androforeverweb.durban
+#Julho/2025 - Malware family Fakeupdates
+source.scriptsafedata.com
