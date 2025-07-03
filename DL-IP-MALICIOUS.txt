@@ -672,18 +672,6 @@
 195.201.59.21
 164.215.103.126
 45.94.31.92
-#Junho/2025 - Malware family Fakeupdates
-194.87.74.199
-#Junho/2025 - Malware family Unknown
-119.45.29.172
-3.146.93.253
-38.46.218.36
-52.14.24.94
-#Junho/2025 - Malware family interactsh
-161.35.106.182
-#Junho/2025 - Malware family Atomic
-83.222.190.214
-#Junho/2025 - TOR NODE
 142.202.48.102
 176.9.57.157
 136.243.147.91
@@ -703,6 +691,17 @@
 185.119.117.229
 185.40.4.92
 195.201.241.87
+#Junho/2025 - Malware family Fakeupdates
+194.87.74.199
+#Junho/2025 - Malware family Unknown
+119.45.29.172
+3.146.93.253
+38.46.218.36
+52.14.24.94
+#Junho/2025 - Malware family interactsh
+161.35.106.182
+#Junho/2025 - Malware family Atomic
+83.222.190.214
 #Julho/2025 - TOR NODE
 185.40.4.100
 95.217.112.218
@@ -717,5 +716,6 @@
 193.108.117.103
 185.220.101.195
 176.65.149.57
-#Julho/2025 - TOR NODE
 138.201.57.234
+#julho/2025 - QRadar Offense 8114
+142.250.196.110
