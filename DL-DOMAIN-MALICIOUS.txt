@@ -1511,3 +1511,5 @@ statics.androforeverweb.durban
 repositortempdocsbase.is-a-cubicle-slave.com
 #Julho/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
+#Julho/2025 - Malicious.behaviour
+pvqaibgkxuoeoz.com
