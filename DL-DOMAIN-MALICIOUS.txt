@@ -1473,6 +1473,9 @@ abramed.org.br
 #Junho/2025 - Phishing domain
 pontuaagora.co
 agendarconsulta.link
+lnk.at
+triban.co
+abrir.me
 #Junho/2025 - Malware family Magecart
 fallodick87-78.sbs
 api-chat.live
@@ -1484,10 +1487,6 @@ advertipros.com
 entwithoughtsu.com
 #junho/2025 - Malware family Lumma stealer
 r.bestadperf.com
-#Junho/2025 - Phishing domain
-lnk.at
-#Junho/2025 - Phishing domain
-triban.co
 #Junho/2025 - Malware family Pup
 arquivos.blogdainformatica.com.br
 #Junho/2025 - CryptoMining related
@@ -1500,8 +1499,6 @@ duplicacaobr153sp.com.br
 xurl.ooo
 intelligentopennetworkingawards.com
 wbdiamonds.com
-#Junho/2025 - Phishing domain
-abrir.me
 #Junho/2025 - Malware family magentocore
 kefersuc.xyz
 #Junho/2025 - Malware family Phishing.artifact.pdf
@@ -1512,3 +1509,5 @@ source.scriptsafedata.com
 www.pittur.pitimbu.pb.gov.br
 #Julho/2025 - Malware family Android.trojan.generic
 statics.androforeverweb.durban
+#julho/2025 - Malware dropper
+repositortempdocsbase.is-a-cubicle-slave.com
