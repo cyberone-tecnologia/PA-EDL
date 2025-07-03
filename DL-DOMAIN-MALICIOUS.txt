@@ -1259,8 +1259,6 @@ redirect-security.digital
 cdn-statistics.com
 #Abril/2025 - Malware family Win32.i.babylon.webtoolbar
 www.kanaldokadu.com.br
-#Abril/2025 - Malware family Stg.Trojan.PDF.agent
-files.tryflowdrive.com
 #Abril/2025 - Malware hash: 6ef04594dfea3a1d2972e61129c36669e0d07d4d12a13ad814369247bd881308
 arnedtolethi.com
 #Abril/2025 - Malware family Win32.ml.a.uwasson.program
@@ -1511,3 +1509,5 @@ www.pittur.pitimbu.pb.gov.br
 statics.androforeverweb.durban
 #julho/2025 - Malware dropper
 repositortempdocsbase.is-a-cubicle-slave.com
+#Julho/2025 - Malware family Trojan.generic
+files.tryflowdrive.com
