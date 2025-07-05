@@ -1515,3 +1515,5 @@ pvqaibgkxuoeoz.com
 ead.missaomulher.org.br
 #Julho/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
+#Julho/2025 - Malicious.behaviour
+pedrak.info
