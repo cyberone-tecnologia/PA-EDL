@@ -1283,7 +1283,6 @@ r2.e-z.host
 lihi3.com
 getheadway.io
 app.fastformat.co
-1sh.co
 #Maio/2025 - Malware family Trojan.Ml.H.Wacatac.Script
 four.startperfectsolutions.com
 #Maio/2025 - Brazil phishing domain
@@ -1517,3 +1516,5 @@ ead.missaomulher.org.br
 files.tryflowdrive.com
 #Julho/2025 - Malicious.behaviour
 pedrak.info
+#Julho/2025 - Phishing domain
+1sh.co
