@@ -1211,7 +1211,6 @@ tudosobretodos.se
 emktlw.com.br
 checkout.bestfybr.com.br
 kyte.bio
-twixar.me
 consent.clarosgvas.mobicare.com.br
 nlink.at
 sendflow.pro
@@ -1518,3 +1517,5 @@ files.tryflowdrive.com
 pedrak.info
 #Julho/2025 - Phishing domain
 1sh.co
+#Julho/2025 - Phishing domain
+twixar.me
