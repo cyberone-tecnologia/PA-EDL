@@ -1271,7 +1271,6 @@ goldrate.com
 dl.jalecdn.com
 #Abril/2025 - Malware family Trojan.script.generic
 iteraima.rr.gov.br
-blacktargstore.com.br
 #Abril/2025 - Malware family Trojan.mtb.sfaa.obfuse.js
 mais1cafe.com.br
 #Abril/2025 - Malware family Hacktool.ai.kmsauto.bat
@@ -1521,3 +1520,5 @@ pedrak.info
 twixar.me
 #Julho/2025 - Malicious.behaviour
 paaeeets.net
+#Julho/2025 - Malware family Trojan.generic
+blacktargstore.com.br
