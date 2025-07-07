@@ -719,3 +719,5 @@
 138.201.57.234
 #julho/2025 - QRadar Offense 8114
 142.250.196.110
+#Julho/2025 - Malicious IP
+87.121.84.208
