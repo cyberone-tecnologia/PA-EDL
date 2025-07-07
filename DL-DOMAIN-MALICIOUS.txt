@@ -1519,3 +1519,5 @@ pedrak.info
 1sh.co
 #Julho/2025 - Phishing domain
 twixar.me
+#Julho/2025 - Malicious.behaviour
+paaeeets.net
