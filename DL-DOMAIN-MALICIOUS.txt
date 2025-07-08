@@ -1518,7 +1518,7 @@ pedrak.info
 1sh.co
 #Julho/2025 - Phishing domain
 twixar.me
-#Julho/2025 - Malicious.behaviour
-paaeeets.net
 #Julho/2025 - Malware family Trojan.generic
 blacktargstore.com.br
+#Julho/2025 - Malicious.behaviour
+paaeeets.net
