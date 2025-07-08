@@ -1517,3 +1517,5 @@ files.tryflowdrive.com
 blacktargstore.com.br
 #Julho/2025 - Phishing domain
 o2o.to
+#Julho/2025 - Malicious.behaviour
+scan.page
