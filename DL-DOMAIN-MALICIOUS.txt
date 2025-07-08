@@ -1104,7 +1104,6 @@ propagandainflavel.com.br/
 agatec.com.br/
 punchpantherwhip.com/
 dexpredict.com/
-dubaisuites.com.br/
 www.antenaafm.com.br/
 pnmais.com/
 accountantflowerrespiration.com/
@@ -1502,23 +1501,17 @@ www.pmtech.com.br
 source.scriptsafedata.com
 #Julho/2025 - Phishing domain
 www.pittur.pitimbu.pb.gov.br
+1sh.co
+twixar.me
 #Julho/2025 - Malware family Android.trojan.generic
 statics.androforeverweb.durban
 #julho/2025 - Malware dropper
 repositortempdocsbase.is-a-cubicle-slave.com
 #Julho/2025 - Malicious.behaviour
 pvqaibgkxuoeoz.com
-#Julho/2025 - Malicious.behaviour
 ead.missaomulher.org.br
+pedrak.info
+paaeeets.net
 #Julho/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
-#Julho/2025 - Malicious.behaviour
-pedrak.info
-#Julho/2025 - Phishing domain
-1sh.co
-#Julho/2025 - Phishing domain
-twixar.me
-#Julho/2025 - Malware family Trojan.generic
 blacktargstore.com.br
-#Julho/2025 - Malicious.behaviour
-paaeeets.net
