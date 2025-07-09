@@ -1511,7 +1511,6 @@ repositortempdocsbase.is-a-cubicle-slave.com
 pvqaibgkxuoeoz.com
 ead.missaomulher.org.br
 pedrak.info
-paaeeets.net
 #Julho/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
 blacktargstore.com.br
@@ -1521,3 +1520,5 @@ o2o.to
 scan.page
 #Julho/2025 - Malicious domain
 lutolit.modalidadeforte.com
+#Julho/2025 - Malicious.behaviour
+paaeeets.net
