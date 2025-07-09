@@ -1519,3 +1519,5 @@ blacktargstore.com.br
 o2o.to
 #Julho/2025 - Malicious.behaviour
 scan.page
+#Julho/2025 - Malicious domain
+lutolit.modalidadeforte.com
