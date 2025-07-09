@@ -1052,7 +1052,6 @@ snslyticus.com
 gstatlc.org
 #Março/2025 - Malware family Adware.g.jsrevizer
 programdiag.com
-linkangood.com
 #Março/2025 - Malware family Lokibot
 catalogobrasil.net
 #Março/2025 - Malware family Trojan.af.cryxos.js
@@ -1522,3 +1521,5 @@ scan.page
 lutolit.modalidadeforte.com
 #Julho/2025 - Malicious.behaviour
 paaeeets.net
+#Julho/2025 - Malware family Adware.generic
+linkangood.com
