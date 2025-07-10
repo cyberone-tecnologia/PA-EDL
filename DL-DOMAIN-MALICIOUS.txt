@@ -1516,8 +1516,6 @@ o2o.to
 scan.page
 #Julho/2025 - Malicious domain
 lutolit.modalidadeforte.com
-#Julho/2025 - Malicious.behaviour
-paaeeets.net
 #Julho/2025 - Malware family Adware.generic
 linkangood.com
 #Julho/2025 - Malware family Trojan.generic
@@ -1526,3 +1524,5 @@ www.controlemunicipal.com.br
 files.tryflowdrive.com
 #Julho/2025 - Malicious.behaviour
 harus.ind.br
+#Julho/2025 - Malicious.behaviour
+paaeeets.net
