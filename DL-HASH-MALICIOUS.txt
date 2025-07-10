@@ -3588,8 +3588,6 @@ fbdbaf76121053ca9a1bb4458d76e1cd3167343850c1cb13f2267ddc86130737
 
 #Julho/2025 - Malware family Android.trojan.generic
 732b1da160b35df770cd0f2605648d35465f11233afe14f6d0ad03018b85fe6a
-#Julho/2025 - Malware family Trojan.generic
-85d5eabc78cd7e09abee3c3761cdeab742054ef341546c76bfb20974fb7c4846
 #Julho/2025 - Phishing domain
 add9c9279b93f6311230d7e5dc131ec51bc5b026faaf668d6024c1b66f367354
 14aeddcb2a7bae871f73a10a1e49fd47fc7d30b97aea2d916ca65bbc7d9e28bf
@@ -3663,3 +3661,5 @@ b3344130e380dacf10ba20034e02c42fd44db359cda3f9dd3f6ea562dd64183c
 d7e200bfb46fb00e2b77fae48f3b63e47c74066c9c892ac9b9d5d0854989fe66
 #Julho/2025 - Malware family Trojan.generic
 9ef32e4cb677d1b08864ecea15c007a8ea39dcb05ac9fb415433be495a392887
+#Julho/2025 - Malware family Trojan.generic
+85d5eabc78cd7e09abee3c3761cdeab742054ef341546c76bfb20974fb7c4846
