@@ -1383,7 +1383,6 @@ login.unopar.com
 777.fun
 #Maio/2025 - Malware family Magecart
 cpeciadogfoods.com
-lererikal.org
 #Maio/2025 - malware related
 media.pin673.my
 media.fit903.my
@@ -1526,3 +1525,5 @@ files.tryflowdrive.com
 harus.ind.br
 #Julho/2025 - Malicious.behaviour
 paaeeets.net
+#Julho/2025 - Malware family Magecart
+lererikal.org
