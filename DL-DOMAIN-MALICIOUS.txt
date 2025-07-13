@@ -1529,3 +1529,5 @@ lererikal.org
 click-v4.expmidclk.com
 #Julho/2025 - Malware family Android.trojan.generic
 mspshopz.shop
+#Julho/2025 - Malicious.behaviour
+rampolon.co.in
