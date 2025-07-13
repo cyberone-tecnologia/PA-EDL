@@ -1504,7 +1504,6 @@ repositortempdocsbase.is-a-cubicle-slave.com
 #Julho/2025 - Malicious.behaviour
 pvqaibgkxuoeoz.com
 ead.missaomulher.org.br
-pedrak.info
 #Julho/2025 - Malware family Trojan.generic
 blacktargstore.com.br
 #Julho/2025 - Phishing domain
@@ -1533,3 +1532,5 @@ mspshopz.shop
 rampolon.co.in
 #Julho/2025 - Malicious.behaviour
 northdownload.com
+#Julho/2025 - Malicious.behaviour
+pedrak.info
