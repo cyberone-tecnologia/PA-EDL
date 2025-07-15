@@ -1519,8 +1519,6 @@ www.controlemunicipal.com.br
 #Julho/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
 #Julho/2025 - Malicious.behaviour
-harus.ind.br
-#Julho/2025 - Malicious.behaviour
 paaeeets.net
 #Julho/2025 - Malware family Magecart
 lererikal.org
@@ -1534,3 +1532,5 @@ rampolon.co.in
 northdownload.com
 #Julho/2025 - Malicious.behaviour
 pedrak.info
+#Julho/2025 - Malicious.behaviour
+harus.ind.br
