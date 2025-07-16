@@ -1534,3 +1534,5 @@ harus.ind.br
 files.tryflowdrive.com
 #Julho/2025 - Malicious.behaviour
 paaeeets.net
+#Julho/2025 - Malware family Fakeupdates
+analytiwave.com
