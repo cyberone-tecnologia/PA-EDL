@@ -1516,8 +1516,6 @@ lutolit.modalidadeforte.com
 linkangood.com
 #Julho/2025 - Malware family Trojan.generic
 www.controlemunicipal.com.br
-#Julho/2025 - Malicious.behaviour
-paaeeets.net
 #Julho/2025 - Malware family Magecart
 lererikal.org
 #Julho/2025 - Malicious.behaviour
@@ -1534,3 +1532,5 @@ pedrak.info
 harus.ind.br
 #Julho/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
+#Julho/2025 - Malicious.behaviour
+paaeeets.net
