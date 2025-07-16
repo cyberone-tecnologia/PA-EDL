@@ -1536,3 +1536,5 @@ files.tryflowdrive.com
 paaeeets.net
 #Julho/2025 - Malware family Fakeupdates
 analytiwave.com
+#Julho/2025 - Malicious.behaviour
+stompimp.net
