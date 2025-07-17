@@ -1525,8 +1525,6 @@ mspshopz.shop
 #Julho/2025 - Malicious.behaviour
 rampolon.co.in
 #Julho/2025 - Malicious.behaviour
-northdownload.com
-#Julho/2025 - Malicious.behaviour
 pedrak.info
 #Julho/2025 - Malicious.behaviour
 harus.ind.br
@@ -1542,3 +1540,5 @@ stompimp.net
 preferencenail.com
 #Julho/2025 - Malicious behavior
 lugflomvc.com
+#Julho/2025 - Malware family Unknown
+northdownload.com
