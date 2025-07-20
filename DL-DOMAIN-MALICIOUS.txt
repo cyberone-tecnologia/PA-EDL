@@ -1254,8 +1254,6 @@ cdn-statistics.com
 www.kanaldokadu.com.br
 #Abril/2025 - Malware hash: 6ef04594dfea3a1d2972e61129c36669e0d07d4d12a13ad814369247bd881308
 arnedtolethi.com
-#Abril/2025 - Malware family Win32.ml.a.uwasson.program
-gamebase.app
 #Abril/2025 - Malware family lummac2
 tremista.com
 #Abril/2025 - Malware family Js.agent.rrl
@@ -1555,3 +1553,5 @@ twixar.me
 publyads.jstag.space
 #Julho/2025 - Unknown Loader
 advertipros.com
+#Julho/2025 - Malware family Trojan.generic
+gamebase.app
