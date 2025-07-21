@@ -1555,3 +1555,5 @@ advertipros.com
 publyads.jstag.space
 #Julho/2025 - Malware family Trojan.generic
 gamebase.app
+#Julho/2025 - Malware hash 9a48a3e567e0b4ce2d04a4b2b71477b9c40c99f6887258f0a5c0e89d41d6d646
+security-malware.com
