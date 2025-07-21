@@ -1549,9 +1549,9 @@ replevysquab.top
 191b954237.4a4ac32960.com
 #Julho/2025 - Phishing domain
 twixar.me
-#Julho/2025 - Malicious behavior
-publyads.jstag.space
 #Julho/2025 - Unknown Loader
 advertipros.com
 #Julho/2025 - Malware family Trojan.generic
 gamebase.app
+#Julho/2025 - Malicious behavior
+publyads.jstag.space
