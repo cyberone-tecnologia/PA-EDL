@@ -1209,7 +1209,6 @@ consent.clarosgvas.mobicare.com.br
 nlink.at
 sendflow.pro
 vm.papepritz.com
-surl.gd
 #Abril/2025 - Malware family Lummastealer
 steamverde.net
 #Abril/2025 - Malware family FakeUpdates
@@ -1559,3 +1558,5 @@ gamebase.app
 security-malware.com
 #Julho/2025 - Malicious behavior
 achadinhosoficialbr.com
+#Julho/2025 - Phishing domain
+surl.gd
