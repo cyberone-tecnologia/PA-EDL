@@ -800,3 +800,5 @@
 149.104.32.236
 #Julho/2025 - Malware family Metamorfo
 187.17.111.35
+#Julho/2025 - Malicious IP
+185.233.166.195
