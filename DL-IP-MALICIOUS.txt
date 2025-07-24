@@ -793,8 +793,6 @@
 142.250.196.110
 #Julho/2025 - Malicious IP
 87.121.84.208
-#Julho/2025 - Malware family Unknown
-160.153.178.204
 #julho/2025 - Malicious IP
 196.251.80.132
 149.104.32.236
@@ -805,3 +803,5 @@
 #Julho/2025 - VPN TunnelBear
 107.151.163.21
 98.98.19.211
+#Julho/2025 - Malware family Unknown
+160.153.178.204
