@@ -802,3 +802,5 @@
 187.17.111.35
 #Julho/2025 - Malicious IP
 185.233.166.195
+#Julho/2025 - VPN TunnelBear
+107.151.163.21
