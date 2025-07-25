@@ -805,3 +805,5 @@
 98.98.19.211
 #Julho/2025 - Malware family Unknown
 160.153.178.204
+#Julho/2025 - Malicious IP
+100.29.192.12
