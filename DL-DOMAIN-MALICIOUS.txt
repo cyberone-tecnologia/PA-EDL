@@ -1560,3 +1560,5 @@ security-malware.com
 achadinhosoficialbr.com
 #Julho/2025 - Phishing domain
 surl.gd
+#Julho/2025 - 5d8715b23374be2f62014cbcea147aba7e185de8c6343a546ddd739c37980b1d
+sswalesmentb.com
