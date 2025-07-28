@@ -1522,8 +1522,6 @@ rampolon.co.in
 pedrak.info
 #Julho/2025 - Malicious.behaviour
 harus.ind.br
-#Julho/2025 - Malware family Trojan.generic
-files.tryflowdrive.com
 #Julho/2025 - Malicious.behaviour
 paaeeets.net
 #Julho/2025 - Malware family Fakeupdates
@@ -1562,3 +1560,5 @@ achadinhosoficialbr.com
 surl.gd
 #Julho/2025 - 5d8715b23374be2f62014cbcea147aba7e185de8c6343a546ddd739c37980b1d
 sswalesmentb.com
+#Julho/2025 - Malware family Trojan.generic
+files.tryflowdrive.com
