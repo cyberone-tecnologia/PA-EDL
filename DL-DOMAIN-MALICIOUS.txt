@@ -1206,7 +1206,6 @@ emktlw.com.br
 checkout.bestfybr.com.br
 kyte.bio
 consent.clarosgvas.mobicare.com.br
-nlink.at
 sendflow.pro
 vm.papepritz.com
 #Abril/2025 - Malware family Lummastealer
@@ -1564,3 +1563,5 @@ sswalesmentb.com
 files.tryflowdrive.com
 #Julho/2025 - Malicious behavior
 evitetaxasaltas.online
+#Julho/2025 - Phishing domain
+nlink.at
