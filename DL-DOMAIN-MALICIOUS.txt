@@ -1562,3 +1562,5 @@ surl.gd
 sswalesmentb.com
 #Julho/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
+#Julho/2025 - Malicious behavior
+evitetaxasaltas.online
