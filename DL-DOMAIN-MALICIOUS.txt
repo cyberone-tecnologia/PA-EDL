@@ -1565,3 +1565,5 @@ files.tryflowdrive.com
 evitetaxasaltas.online
 #Julho/2025 - Phishing domain
 nlink.at
+#Julho/2025 - Phishing domain
+newslatampass.com
