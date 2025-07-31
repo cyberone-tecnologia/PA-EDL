@@ -1567,3 +1567,5 @@ evitetaxasaltas.online
 nlink.at
 #Julho/2025 - Phishing domain
 newslatampass.com
+#Julho/2025 - Malware family magentocore
+crafttrendly.com
