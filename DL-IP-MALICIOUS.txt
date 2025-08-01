@@ -814,3 +814,5 @@
 146.70.98.130
 #Julho/2025 - VPN NordVPN
 46.183.108.72
+#Agosto/2025 - VPN Hide My Ass VPN
+191.96.5.95
