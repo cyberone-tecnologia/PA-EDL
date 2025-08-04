@@ -1569,3 +1569,5 @@ newslatampass.com
 crafttrendly.com
 #Julho/2025 - Malware family Trojan.generic
 advertipros.com
+#Agosto/2025 - Phishing domain
+cidaderefugio.com.br
