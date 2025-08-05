@@ -1232,7 +1232,6 @@ curtadoc.tv
 asd123qwe2.online
 #Abril/2025 - Malware family Unknown
 choutsaugroo.com
-javascripterhub.com
 #Abril/2025 - Malware family Emmenhtal
 novogerenciador.tjma.jus.br
 #Abril/2025 - Malware family Trojan.6cab.phish.PDF
@@ -1568,4 +1567,5 @@ newslatampass.com
 #Julho/2025 - Malware family magentocore
 crafttrendly.com
 #Julho/2025 - Malware family Trojan.generic
-advertipros.com
+advertipros.com#Agosto/2025 - Malware family ta2726
+javascripterhub.com
