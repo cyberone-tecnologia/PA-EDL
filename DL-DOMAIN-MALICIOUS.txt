@@ -1567,5 +1567,6 @@ newslatampass.com
 #Julho/2025 - Malware family magentocore
 crafttrendly.com
 #Julho/2025 - Malware family Trojan.generic
-advertipros.com#Agosto/2025 - Malware family ta2726
+advertipros.com
+#Agosto/2025 - Malware family ta2726
 javascripterhub.com
