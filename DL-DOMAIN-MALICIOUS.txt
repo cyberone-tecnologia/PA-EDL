@@ -1570,3 +1570,5 @@ crafttrendly.com
 advertipros.com
 #Agosto/2025 - Malware family ta2726
 javascripterhub.com
+#Agosto/2025 - Malware family Android.trojan.generic
+cfgz1-resource.happytudou.cc
