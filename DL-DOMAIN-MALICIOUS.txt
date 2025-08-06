@@ -1543,5 +1543,10 @@ sswalesmentb.com
 crafttrendly.com
 #Agosto/2025 - Malware family ta2726
 javascripterhub.com
+<<<<<<< HEAD
 #agosto/2025 - Malicious domain
 youtube-site.com
+=======
+#Agosto/2025 - Malware family Android.trojan.generic
+cfgz1-resource.happytudou.cc
+>>>>>>> 31c6417e763abce8a934c1c793f4f1bcccbc533d
