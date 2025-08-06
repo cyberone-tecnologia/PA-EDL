@@ -1547,3 +1547,5 @@ javascripterhub.com
 youtube-site.com
 #Agosto/2025 - Malware family Android.trojan.generic
 cfgz1-resource.happytudou.cc
+#Agosto/2025 - Malicious behavior
+zumbaapp.online
