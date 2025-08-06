@@ -1549,3 +1549,5 @@ youtube-site.com
 cfgz1-resource.happytudou.cc
 #Agosto/2025 - Malicious behavior
 zumbaapp.online
+#Agosto/2025 - Phishing domain
+voe-hoje-descontos.com
