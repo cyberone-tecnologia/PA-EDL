@@ -1486,87 +1486,62 @@ kefersuc.xyz
 www.pmtech.com.br
 #Julho/2025 - Malware family Fakeupdates
 source.scriptsafedata.com
+analytiwave.com
 #Julho/2025 - Phishing domain
 www.pittur.pitimbu.pb.gov.br
 1sh.co
+o2o.to
+twixar.me
+surl.gd
+nlink.at
+newslatampass.com
 #Julho/2025 - Malware family Android.trojan.generic
 statics.androforeverweb.durban
+mspshopz.shop
 #julho/2025 - Malware dropper
 repositortempdocsbase.is-a-cubicle-slave.com
 #Julho/2025 - Malicious.behaviour
 pvqaibgkxuoeoz.com
 ead.missaomulher.org.br
+scan.page
+click-v4.expmidclk.com
+rampolon.co.in
+pedrak.info
+harus.ind.br
+paaeeets.net
+stompimp.net
+preferencenail.com
+replevysquab.top
 #Julho/2025 - Malware family Trojan.generic
 blacktargstore.com.br
-#Julho/2025 - Phishing domain
-o2o.to
-#Julho/2025 - Malicious.behaviour
-scan.page
+www.controlemunicipal.com.br
+gamebase.app
+files.tryflowdrive.com
+advertipros.com
 #Julho/2025 - Malicious domain
 lutolit.modalidadeforte.com
 #Julho/2025 - Malware family Adware.generic
 linkangood.com
-#Julho/2025 - Malware family Trojan.generic
-www.controlemunicipal.com.br
 #Julho/2025 - Malware family Magecart
 lererikal.org
-#Julho/2025 - Malicious.behaviour
-click-v4.expmidclk.com
-#Julho/2025 - Malware family Android.trojan.generic
-mspshopz.shop
-#Julho/2025 - Malicious.behaviour
-rampolon.co.in
-#Julho/2025 - Malicious.behaviour
-pedrak.info
-#Julho/2025 - Malicious.behaviour
-harus.ind.br
-#Julho/2025 - Malicious.behaviour
-paaeeets.net
-#Julho/2025 - Malware family Fakeupdates
-analytiwave.com
-#Julho/2025 - Malicious.behaviour
-stompimp.net
-#Julho/2025 - Malicious.behaviour
-preferencenail.com
 #Julho/2025 - Malicious behavior
 lugflomvc.com
+valjatmticksl.com
+qlro.qbwebebwkevaw.top
+basenjikusha.cfd
+191b954237.4a4ac32960.com
+publyads.jstag.space
+achadinhosoficialbr.com
+evitetaxasaltas.online
 #Julho/2025 - Malware family Unknown
 northdownload.com
-#Julho/2025 - Malicious behavior
-valjatmticksl.com
-#Julho/2025 - Malicious behavior
-qlro.qbwebebwkevaw.top
-#Julho/2025 - Malicious behavior
-basenjikusha.cfd
-#Julho/2025 - Malicious.behaviour
-replevysquab.top
-#Julho/2025 - Malicious behavior
-191b954237.4a4ac32960.com
-#Julho/2025 - Phishing domain
-twixar.me
-#Julho/2025 - Malicious behavior
-publyads.jstag.space
-#Julho/2025 - Malware family Trojan.generic
-gamebase.app
 #Julho/2025 - Malware hash 9a48a3e567e0b4ce2d04a4b2b71477b9c40c99f6887258f0a5c0e89d41d6d646
 security-malware.com
-#Julho/2025 - Malicious behavior
-achadinhosoficialbr.com
-#Julho/2025 - Phishing domain
-surl.gd
 #Julho/2025 - 5d8715b23374be2f62014cbcea147aba7e185de8c6343a546ddd739c37980b1d
 sswalesmentb.com
-#Julho/2025 - Malware family Trojan.generic
-files.tryflowdrive.com
-#Julho/2025 - Malicious behavior
-evitetaxasaltas.online
-#Julho/2025 - Phishing domain
-nlink.at
-#Julho/2025 - Phishing domain
-newslatampass.com
 #Julho/2025 - Malware family magentocore
 crafttrendly.com
-#Julho/2025 - Malware family Trojan.generic
-advertipros.com
 #Agosto/2025 - Malware family ta2726
 javascripterhub.com
+#agosto/2025 - Malicious domain
+youtube-site.com
