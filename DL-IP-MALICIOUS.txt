@@ -816,7 +816,7 @@
 46.183.108.72
 #Agosto/2025 - VPN Hide My Ass VPN
 191.96.5.95
-#Agosto/2025 - Malicious IP
-85.235.205.148
 #Agosto/2025 - VPN Hide My Ass VPN
 191.96.5.127
+#Agosto/2025 - Malware family Fakeupdates
+85.235.205.148
