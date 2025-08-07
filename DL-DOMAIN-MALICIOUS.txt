@@ -1553,3 +1553,5 @@ zumbaapp.online
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
 airform.ai
+#Agosto/2025 - Malicious behavior
+semeandobem.com
