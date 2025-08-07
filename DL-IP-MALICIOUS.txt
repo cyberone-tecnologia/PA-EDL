@@ -820,3 +820,5 @@
 191.96.5.127
 #Agosto/2025 - Malware family Fakeupdates
 85.235.205.148
+#Agosto/2025 - VPN ProtonVPN
+89.39.107.113
