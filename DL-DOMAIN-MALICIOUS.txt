@@ -1432,8 +1432,6 @@ sistemasinaionline.com.br
 whamyewmw.com
 #Maio/2025 - Malware family Trojan.ml.b.phonzy.script
 diagonaluniformes.com.br
-#maio/2025 - Phishing domain
-airform.ai
 #Maio/2025 - Malware family Formbook
 cdn.gilcdn.com
 #Maio/2025 - Malware family Adware.g.jsrevizer
@@ -1551,3 +1549,5 @@ cfgz1-resource.happytudou.cc
 zumbaapp.online
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
+#Agosto/2025 - Phishing domain
+airform.ai
