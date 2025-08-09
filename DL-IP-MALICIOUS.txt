@@ -810,8 +810,6 @@
 98.98.19.211
 #Julho/2025 - Malicious IP
 138.199.50.129
-#Julho/2025 - VPN ProtonVPN
-146.70.98.130
 #Julho/2025 - VPN NordVPN
 46.183.108.72
 #Agosto/2025 - VPN Hide My Ass VPN
@@ -826,6 +824,7 @@
 #Agosto/2025 - Malicious IP
 101.226.28.236
 #Agosto/2025 - VPN ProtonVPN
+146.70.98.130
 146.70.98.98
 146.70.98.162
 188.241.177.226
