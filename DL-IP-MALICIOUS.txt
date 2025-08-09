@@ -825,3 +825,5 @@
 149.34.244.139
 #Agosto/2025 - Malicious IP
 101.226.28.236
+#Agosto/2025 - VPN ProtonVPN
+149.102.251.97
