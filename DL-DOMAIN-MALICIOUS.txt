@@ -886,8 +886,6 @@ wp-cdn.top
 cdn.iconstaff.top
 #Fevereiro/2025 - Malware family SocGholish
 cdn-serveq.net
-#Fevereiro/2025 - Malware family 79bcd70c.obfscred.js.gt
-guitarflash3.com
 #fevereiro/2025 - Malware family Hacktool.Win32.kmsauto.generic
 ghp.ci
 #fevereiro/2025 - Malware family Unknown
@@ -1557,3 +1555,5 @@ airform.ai
 semeandobem.com
 #Agosto/2025 - Malicious behavior
 projeto30diasnow.online
+#Agosto/2025 - Malware family Trojan.generic.js
+guitarflash3.com
