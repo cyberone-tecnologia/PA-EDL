@@ -1552,8 +1552,6 @@ civpemissao2025-site.online
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
 airform.ai
-#Agosto/2025 - Malware family Trojan.generic.js
-guitarflash3.com
 #Agosto/2025 - Malware family fakeapp
 ys52f.com
 #Agosto/2025 - Malware family magentocore
@@ -1562,3 +1560,5 @@ crafttrendly.com
 searchapi.dnnl.live
 #agosto/2025 - Phishing related
 pay.pagamento-civp.site
+#Agosto/2025 - Malware family Trojan.generic.js
+guitarflash3.com
