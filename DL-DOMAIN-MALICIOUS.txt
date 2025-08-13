@@ -1546,18 +1546,17 @@ cheapuggsoutlet.us
 cfgz1-resource.happytudou.cc
 #Agosto/2025 - Malicious behavior
 zumbaapp.online
+semeandobem.com
+projeto30diasnow.online
+civpemissao2025-site.online
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
 airform.ai
-#Agosto/2025 - Malicious behavior
-semeandobem.com
-#Agosto/2025 - Malicious behavior
-projeto30diasnow.online
 #Agosto/2025 - Malware family Trojan.generic.js
 guitarflash3.com
 #Agosto/2025 - Malware family fakeapp
 ys52f.com
 #Agosto/2025 - Malware family magentocore
 crafttrendly.com
-#Agosto/2025 - Malicious behavior
-civpemissao2025-site.online
+#agosto/2025 - Phishing API related
+searchapi.dnnl.live
