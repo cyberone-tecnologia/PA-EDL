@@ -839,3 +839,5 @@
 165.231.178.10
 #Agosto/2025 - Malware family Squirrelwaffle
 108.179.192.18
+#Agosto/2025 - VPN ProtonVPN
+149.102.226.239
