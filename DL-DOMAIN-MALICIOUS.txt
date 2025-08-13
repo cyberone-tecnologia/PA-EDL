@@ -1560,3 +1560,5 @@ ys52f.com
 crafttrendly.com
 #agosto/2025 - Phishing API related
 searchapi.dnnl.live
+#agosto/2025 - Phishing related
+pay.pagamento-civp.site
