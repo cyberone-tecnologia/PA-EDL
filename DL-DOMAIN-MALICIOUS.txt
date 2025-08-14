@@ -1562,3 +1562,5 @@ pay.pagamento-civp.site
 guitarflash3.com
 #Agosto/2025 - Malware family fakeapp
 ys52f.com
+#Agosto/2025 - Malware family Darkcomet
+www.onceokuloncesi.com
