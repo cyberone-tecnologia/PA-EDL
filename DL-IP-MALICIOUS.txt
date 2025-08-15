@@ -683,7 +683,6 @@
 119.45.29.172
 3.146.93.253
 38.46.218.36
-52.14.24.94
 #Junho/2025 - Malware family interactsh
 161.35.106.182
 #Junho/2025 - Malware family Atomic
@@ -843,3 +842,5 @@
 149.102.226.239
 #Agosto/2025 - Malware family Unknown
 3.132.75.97
+#Agosto/2025 - Malware family Unknown
+52.14.24.94
