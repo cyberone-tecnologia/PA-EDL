@@ -841,3 +841,5 @@
 108.179.192.18
 #Agosto/2025 - VPN ProtonVPN
 149.102.226.239
+#Agosto/2025 - Malware family Unknown
+3.132.75.97
