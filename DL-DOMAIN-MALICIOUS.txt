@@ -1203,7 +1203,6 @@ tudosobretodos.se
 emktlw.com.br
 checkout.bestfybr.com.br
 kyte.bio
-consent.clarosgvas.mobicare.com.br
 sendflow.pro
 vm.papepritz.com
 #Abril/2025 - Malware family Lummastealer
@@ -1571,3 +1570,5 @@ www.onceokuloncesi.com
 mmwlogisticsllc.com
 #Agosto/2025 - Malicious behavior
 lgtrk.lol
+#Agosto/2025 - Phishing domain
+consent.clarosgvas.mobicare.com.br
