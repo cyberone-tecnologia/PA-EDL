@@ -847,3 +847,5 @@
 108.179.192.18
 #Agosto/2025 - Malicious IP
 177.124.72.24
+#Agosto/2025 - Malicious IP
+35.161.55.221
