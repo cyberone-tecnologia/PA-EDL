@@ -1574,3 +1574,5 @@ lgtrk.lol
 consent.clarosgvas.mobicare.com.br
 #Agosto/2025 - Malware family magentocore
 anl.is
+#Agosto/2025 - Malware family Deathransom
+mp3saw.cc
