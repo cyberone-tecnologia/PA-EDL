@@ -1576,3 +1576,5 @@ consent.clarosgvas.mobicare.com.br
 anl.is
 #Agosto/2025 - Malware family Deathransom
 mp3saw.cc
+#Agosto/2025 - Malware family Trojan.generic
+download.freemake.net
