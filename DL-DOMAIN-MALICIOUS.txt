@@ -1212,8 +1212,6 @@ rapiddevapi.com
 digdonger.org
 #Abril/2025 - Malware family Adware.agent.hk.js
 css.xjsx.lol
-#Abril/2025 - Malware family Win32.ml.c.puwaders.pua
-medworld.com.br
 #Abril/2025 - Malware family socgholish
 loopconstruct.com
 publication.garyjobeferguson.com
@@ -1582,3 +1580,5 @@ download.freemake.net
 utysolomonaut.com
 #Agosto/2025 - Malware family Remoteadmin
 www.ebs.com.br
+#Agosto/2025 - Malware family Trojan.generic
+medworld.com.br
