@@ -366,7 +366,6 @@ pc.pc0416.xyz
 pedrinhomateriais.com.br
 plankjock.com
 printerservice.com.br
-prodigits.co.uk
 ptirtika.com
 rpacx.com
 saudeepe.com.br
@@ -1582,3 +1581,5 @@ utysolomonaut.com
 www.ebs.com.br
 #Agosto/2025 - Malware family Trojan.generic
 medworld.com.br
+#Agosto/2025 - Malware family Trojan.generic
+prodigits.co.uk
