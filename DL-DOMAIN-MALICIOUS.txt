@@ -1580,3 +1580,5 @@ mp3saw.cc
 download.freemake.net
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
 utysolomonaut.com
+#Agosto/2025 - Malware family Remoteadmin
+www.ebs.com.br
