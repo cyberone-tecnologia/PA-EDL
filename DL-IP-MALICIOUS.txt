@@ -849,3 +849,5 @@
 177.124.72.24
 #Agosto/2025 - Malicious IP
 35.161.55.221
+#Agosto/2025 - VPN Surfshark
+146.70.248.5
