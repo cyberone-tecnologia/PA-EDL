@@ -1033,8 +1033,6 @@ globalcdn32.buzz
 dns.windowsdnsservicereload.icu
 glassesquadrias.com.br
 enerlux.ch
-#março/2025 - Malware family Trojan.downloader.kqkkfv.script
-vidabemvinda.com.br
 #março/2025 - Malware family Agent.Tr.Gjad.Js
 vg4u8rvq65t6.com
 #março/2025 - Malware family Agent.g1.sload.jsmalware
@@ -1582,3 +1580,5 @@ mp3saw.cc
 #agosto/2025 - Phishing domain
 correios-pac-sedex-buscar-rapida.64564hg.co.ua
 rastreamentobuscarapida.rasendereco.co.ua
+#Agosto/2025 - Malware family Trojan.downloader
+vidabemvinda.com.br
