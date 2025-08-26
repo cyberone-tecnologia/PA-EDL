@@ -1571,8 +1571,6 @@ lgtrk.lol
 consent.clarosgvas.mobicare.com.br
 #Agosto/2025 - Malware family magentocore
 anl.is
-#Agosto/2025 - Malware family Deathransom
-mp3saw.cc
 #Agosto/2025 - Malware family Trojan.generic
 download.freemake.net
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
@@ -1583,3 +1581,5 @@ www.ebs.com.br
 medworld.com.br
 #Agosto/2025 - Malware family Trojan.generic
 prodigits.co.uk
+#Agosto/2025 - Malware family Deathransom
+mp3saw.cc
