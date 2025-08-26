@@ -353,7 +353,6 @@ interjoan.com
 isbncoverdb.com
 jiusnansss.com
 jrltransportes.com.br
-kifortequimica.com.br
 kmrfibras.com.br
 limeerror.org
 mestredaobra.com
@@ -1582,3 +1581,5 @@ correios-pac-sedex-buscar-rapida.64564hg.co.ua
 rastreamentobuscarapida.rasendereco.co.ua
 #Agosto/2025 - Malware family Trojan.downloader
 vidabemvinda.com.br
+#Agosto/2025 - Phishing domain
+kifortequimica.com.br
