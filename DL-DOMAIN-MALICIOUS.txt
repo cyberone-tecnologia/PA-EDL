@@ -1547,11 +1547,15 @@ projeto30diasnow.online
 civpemissao2025-site.online
 multicanaisx.com
 raspadinhapaga.online
+lgtrk.lol
+oficial-botapracorrer.online
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
 airform.ai
+consent.clarosgvas.mobicare.com.br
 #Agosto/2025 - Malware family magentocore
 crafttrendly.com
+anl.is
 #agosto/2025 - Phishing API related
 searchapi.dnnl.live
 #agosto/2025 - Phishing related
@@ -1565,23 +1569,16 @@ ys52f.com
 www.onceokuloncesi.com
 #Agosto/2025 - Malicious domain
 mmwlogisticsllc.com
-#Agosto/2025 - Malicious behavior
-lgtrk.lol
-#Agosto/2025 - Phishing domain
-consent.clarosgvas.mobicare.com.br
-#Agosto/2025 - Malware family magentocore
-anl.is
 #Agosto/2025 - Malware family Trojan.generic
 download.freemake.net
+medworld.com.br
+prodigits.co.uk
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
 utysolomonaut.com
 #Agosto/2025 - Malware family Remoteadmin
 www.ebs.com.br
-#Agosto/2025 - Malware family Trojan.generic
-medworld.com.br
-#Agosto/2025 - Malware family Trojan.generic
-prodigits.co.uk
 #Agosto/2025 - Malware family Deathransom
 mp3saw.cc
-#Agosto/2025 - Malicious behavior
-oficial-botapracorrer.online
+#agosto/2025 - Phishing domain
+correios-pac-sedex-buscar-rapida.64564hg.co.ua
+rastreamentobuscarapida.rasendereco.co.ua
