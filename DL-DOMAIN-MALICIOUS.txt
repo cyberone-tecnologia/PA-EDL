@@ -1544,7 +1544,6 @@ projeto30diasnow.online
 civpemissao2025-site.online
 multicanaisx.com
 raspadinhapaga.online
-lgtrk.lol
 oficial-botapracorrer.online
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
@@ -1583,3 +1582,5 @@ rastreamentobuscarapida.rasendereco.co.ua
 vidabemvinda.com.br
 #Agosto/2025 - Phishing domain
 kifortequimica.com.br
+#Agosto/2025 - Malicious behavior
+lgtrk.lol
