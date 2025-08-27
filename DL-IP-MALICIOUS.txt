@@ -795,6 +795,7 @@
 #julho/2025 - Malicious IP
 196.251.80.132
 149.104.32.236
+
 #Julho/2025 - Malware family Metamorfo
 187.17.111.35
 #Julho/2025 - Malicious IP
@@ -857,3 +858,5 @@
 170.238.45.201
 187.18.136.71
 168.227.56.89
+#Ip password spray interno 270825
+10.49.5.111
