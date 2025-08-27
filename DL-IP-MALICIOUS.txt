@@ -841,8 +841,6 @@
 #Agosto/2025 - Malware family Unknown
 3.132.75.97
 52.14.24.94
-#Agosto/2025 - Malware family Squirrelwaffle
-108.179.192.18
 #Agosto/2025 - VPN Surfshark
 146.70.248.5
 #Ip password spray interno 270825
@@ -852,3 +850,5 @@
 #agosto/2025 - Malicious IP
 177.54.156.110
 177.54.156.54
+#Agosto/2025 - Malware family Squirrelwaffle
+108.179.192.18
