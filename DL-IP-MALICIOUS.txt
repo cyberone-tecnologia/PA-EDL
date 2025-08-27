@@ -792,38 +792,30 @@
 142.250.196.110
 #Julho/2025 - Malicious IP
 87.121.84.208
+185.233.166.195
+100.29.192.12
+138.199.50.129
 #julho/2025 - Malicious IP
 196.251.80.132
 149.104.32.236
 
 #Julho/2025 - Malware family Metamorfo
 187.17.111.35
-#Julho/2025 - Malicious IP
-185.233.166.195
 #Julho/2025 - VPN TunnelBear
 107.151.163.21
+98.98.19.211
 #Julho/2025 - Malware family Unknown
 160.153.178.204
-#Julho/2025 - Malicious IP
-100.29.192.12
-#Julho/2025 - VPN TunnelBear
-98.98.19.211
-#Julho/2025 - Malicious IP
-138.199.50.129
 #Julho/2025 - VPN NordVPN
 46.183.108.72
 #Agosto/2025 - VPN Hide My Ass VPN
 191.96.5.95
-#Agosto/2025 - VPN Hide My Ass VPN
 191.96.5.127
 #Agosto/2025 - Malware family Fakeupdates
 85.235.205.148
 #Agosto/2025 - VPN ProtonVPN
 89.39.107.113
 149.34.244.139
-#Agosto/2025 - Malicious IP
-101.226.28.236
-#Agosto/2025 - VPN ProtonVPN
 146.70.245.130
 156.146.55.225
 146.70.98.162
@@ -831,33 +823,29 @@
 45.83.145.79
 138.199.50.103
 149.102.251.97
-#Agosto/2025 - VPN ProtonVPN
 165.231.178.10
-#Agosto/2025 - VPN ProtonVPN
 149.102.226.239
-#Agosto/2025 - Malware family Unknown
-3.132.75.97
-#Agosto/2025 - Malware family Unknown
-52.14.24.94
-#Agosto/2025 - VPN ProtonVPN
 146.70.98.98
 146.70.98.130
 138.199.50.106
 188.241.177.226
-#Agosto/2025 - Malware family Squirrelwaffle
-108.179.192.18
 #Agosto/2025 - Malicious IP
+101.226.28.236
 177.124.72.24
-#Agosto/2025 - Malicious IP
 35.161.55.221
-#Agosto/2025 - VPN Surfshark
-146.70.248.5
-#Agosto/2025 - Malicious IP
 170.238.45.40
 177.85.1.254
 170.238.45.201
 187.18.136.71
 168.227.56.89
+#Agosto/2025 - Malware family Unknown
+3.132.75.97
+52.14.24.94
+#Agosto/2025 - Malware family Squirrelwaffle
+108.179.192.18
+#Agosto/2025 - VPN Surfshark
+146.70.248.5
 #Ip password spray interno 270825
 10.49.5.111
 10.49.5.102
+10.49.5.103
