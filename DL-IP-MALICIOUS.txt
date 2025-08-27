@@ -850,5 +850,6 @@
 #agosto/2025 - Malicious IP
 177.54.156.110
 177.54.156.54
+34.107.243.93
 #Agosto/2025 - Malware family Squirrelwaffle
 108.179.192.18
