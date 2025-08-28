@@ -1583,8 +1583,8 @@ vidabemvinda.com.br
 #Agosto/2025 - Phishing domain
 kifortequimica.com.br
 #Agosto/2025 - Malicious behavior
-lgtrk.lol
-#Agosto/2025 - Malicious behavior
 babaloobabystore.com
 #Agosto/2025 - Malware family Pup
 rmcreative.ru
+#Agosto/2025 - Malicious behavior
+lgtrk.lol
