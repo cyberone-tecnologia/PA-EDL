@@ -838,6 +838,7 @@
 170.238.45.201
 187.18.136.71
 168.227.56.89
+177.54.156.50
 #Agosto/2025 - Malware family Unknown
 3.132.75.97
 52.14.24.94
@@ -856,5 +857,5 @@
 177.54.156.91
 #Agosto/2025 - Malware family Squirrelwaffle
 108.179.192.18
-#Agosto/2025 - Malicious IP
-177.54.156.50
+#agosto/2025 - Zyxel Multiple Products Command Injection Vulnerabilit
+23.139.82.62
