@@ -1588,3 +1588,5 @@ babaloobabystore.com
 rmcreative.ru
 #Agosto/2025 - Malicious behavior
 lgtrk.lol
+#Agosto/2025 - Malware family Trojan.generic
+cdn.pzw.io
