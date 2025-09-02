@@ -1626,3 +1626,5 @@ black-gateway.online
 appsegurocartao.com
 #Setembro/2025 - Phishing domain
 raialivre.com.br
+#Setembro/2025 - Malicious behavior
+agenciameeraky.tech
