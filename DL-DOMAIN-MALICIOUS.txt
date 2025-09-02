@@ -1628,3 +1628,5 @@ appsegurocartao.com
 raialivre.com.br
 #Setembro/2025 - Malicious behavior
 agenciameeraky.tech
+#Setembro/2025 - Phishing domain
+surveymars.com
