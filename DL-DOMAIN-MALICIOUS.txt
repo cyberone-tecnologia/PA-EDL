@@ -1545,10 +1545,13 @@ civpemissao2025-site.online
 multicanaisx.com
 raspadinhapaga.online
 oficial-botapracorrer.online
+babaloobabystore.com
+lgtrk.lol
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
 airform.ai
 consent.clarosgvas.mobicare.com.br
+kifortequimica.com.br
 #Agosto/2025 - Malware family magentocore
 crafttrendly.com
 anl.is
@@ -1569,6 +1572,7 @@ mmwlogisticsllc.com
 download.freemake.net
 medworld.com.br
 prodigits.co.uk
+cdn.pzw.io
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
 utysolomonaut.com
 #Agosto/2025 - Malware family Remoteadmin
@@ -1580,16 +1584,8 @@ correios-pac-sedex-buscar-rapida.64564hg.co.ua
 rastreamentobuscarapida.rasendereco.co.ua
 #Agosto/2025 - Malware family Trojan.downloader
 vidabemvinda.com.br
-#Agosto/2025 - Phishing domain
-kifortequimica.com.br
-#Agosto/2025 - Malicious behavior
-babaloobabystore.com
 #Agosto/2025 - Malware family Pup
 rmcreative.ru
-#Agosto/2025 - Malicious behavior
-lgtrk.lol
-#Agosto/2025 - Malware family Trojan.generic
-cdn.pzw.io
 #Agosto/2025 - Malicious NFC domain
 app.resgateway.cloud
 resgateway.info
@@ -1626,7 +1622,8 @@ black-gateway.online
 appsegurocartao.com
 #Setembro/2025 - Phishing domain
 raialivre.com.br
+surveymars.com
 #Setembro/2025 - Malicious behavior
 agenciameeraky.tech
-#Setembro/2025 - Phishing domain
-surveymars.com
+#setembro/2025 - Malware related
+catholicncesisp.com
