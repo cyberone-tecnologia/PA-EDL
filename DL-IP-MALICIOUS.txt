@@ -857,10 +857,14 @@
 177.54.156.91
 #Agosto/2025 - Malware family Squirrelwaffle
 108.179.192.18
-#agosto/2025 - Zyxel Multiple Products Command Injection Vulnerabilit
-23.139.82.62
 #setembro/2025 - Malicious activity detected
 168.195.24.202
 #setembro/2025 - Malicious IP
 45.235.147.204
 206.123.145.241
+#setembro/2025 - Exploit events
+23.139.82.62
+112.198.133.117
+65.49.1.54
+65.49.1.63
+184.105.139.67
