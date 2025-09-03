@@ -861,3 +861,6 @@
 23.139.82.62
 #setembro/2025 - Malicious activity detected
 168.195.24.202
+#setembro/2025 - Malicious IP
+45.235.147.204
+206.123.145.241
