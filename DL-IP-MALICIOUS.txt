@@ -859,3 +859,5 @@
 108.179.192.18
 #agosto/2025 - Zyxel Multiple Products Command Injection Vulnerabilit
 23.139.82.62
+#setembro/2025 - Malicious activity detected
+168.195.24.202
