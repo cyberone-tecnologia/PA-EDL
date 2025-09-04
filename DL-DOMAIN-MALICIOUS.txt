@@ -1625,7 +1625,7 @@ raialivre.com.br
 surveymars.com
 #Setembro/2025 - Malicious behavior
 agenciameeraky.tech
-#setembro/2025 - Malware related
-catholicncesisp.com
 #Setembro/2025 - Phishing domain
 idolink.com
+#Setembro/2025 - Malware hash: 5215aeec4ce1de19941d6e810b20ab93585786b351df1f7c60293a3bc9fd7cf6
+catholicncesisp.com
