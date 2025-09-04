@@ -871,3 +871,5 @@
 #Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.175
 65.49.1.180
+#Setembro/2025 - Malicious IP
+192.0.78.25
