@@ -868,3 +868,6 @@
 65.49.1.54
 65.49.1.63
 184.105.139.67
+#Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+65.49.1.175
+65.49.1.180
