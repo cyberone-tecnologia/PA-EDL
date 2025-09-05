@@ -1631,3 +1631,5 @@ idolink.com
 catholicncesisp.com
 #Setembro/2025 - Malware family Trojan.generic
 www.animaatjes.de
+#Setembro/2025 - Phishing domain
+www.sertras.com
