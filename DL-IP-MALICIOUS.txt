@@ -882,3 +882,6 @@
 10.49.5.109
 10.49.5.107
 10.49.5.110
+#setembro/2025 - phpunit Remote Code Execution Vulnerability - PAN THREAT DETECT
+144.91.99.235
+
