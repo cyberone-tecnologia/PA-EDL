@@ -885,3 +885,5 @@
 #setembro/2025 - phpunit Remote Code Execution Vulnerability - PAN THREAT DETECT
 144.91.99.235
 
+#Setembro/2025 - Malicious IP
+65.49.1.159
