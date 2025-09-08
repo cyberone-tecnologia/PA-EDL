@@ -1633,3 +1633,5 @@ catholicncesisp.com
 www.animaatjes.de
 #Setembro/2025 - Phishing domain
 www.sertras.com
+#Setembro/2025 - Malware family Fakeupdates
+javascriptbasics.com
