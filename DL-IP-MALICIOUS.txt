@@ -889,3 +889,5 @@
 65.49.1.159
 #Setembro/2025 - Malicious IP
 74.82.47.5
+#Setembro/2025 - Malware family Fakeupdates
+2.59.161.132
