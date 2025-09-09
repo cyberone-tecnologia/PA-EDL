@@ -1572,7 +1572,6 @@ mmwlogisticsllc.com
 download.freemake.net
 medworld.com.br
 prodigits.co.uk
-cdn.pzw.io
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
 utysolomonaut.com
 #Agosto/2025 - Malware family Remoteadmin
@@ -1635,3 +1634,5 @@ www.animaatjes.de
 javascriptbasics.com
 #setembro/2025 - Phishing related
 update-info728206.com
+#Setembro/2025 - Malware family Emotet
+cdn.pzw.io
