@@ -11,8 +11,6 @@
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/2024
 213.109.202.161
 #marco/2024 - 2/27 - 2/29/2024 Member Account Takeover Attempt
-98.159.33.11
-98.159.33.38
 193.36.224.31
 2.57.168.59
 98.159.33.54
@@ -872,6 +870,8 @@
 65.49.1.180
 #Setembro/2025 - Malicious IP
 192.0.78.25
+65.49.1.159
+74.82.47.5
 #setembro/2025 - Brute Force related
 64.62.197.8
 64.62.197.4
@@ -885,9 +885,5 @@
 #setembro/2025 - phpunit Remote Code Execution Vulnerability - PAN THREAT DETECT
 144.91.99.235
 
-#Setembro/2025 - Malicious IP
-65.49.1.159
-#Setembro/2025 - Malicious IP
-74.82.47.5
 #Setembro/2025 - Malware family Fakeupdates
 2.59.161.132
