@@ -884,6 +884,5 @@
 10.49.5.110
 #setembro/2025 - phpunit Remote Code Execution Vulnerability - PAN THREAT DETECT
 144.91.99.235
-
 #Setembro/2025 - Malware family Fakeupdates
 2.59.161.132
