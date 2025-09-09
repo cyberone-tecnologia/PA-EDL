@@ -877,7 +877,6 @@
 64.62.197.4
 #setembro/2025 - Block preventivo
 10.49.5.112
-10.49.5.102
 10.49.5.110
 #setembro/2025 - phpunit Remote Code Execution Vulnerability - PAN THREAT DETECT
 144.91.99.235
