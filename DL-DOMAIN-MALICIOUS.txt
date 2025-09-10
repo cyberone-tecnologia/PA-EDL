@@ -1638,3 +1638,5 @@ update-info728206.com
 cdn.pzw.io
 #Setembro/2025 - Phishing domain
 shm.to
+#Setembro/2025 - Phishing domain
+jmveiculossantaluzia.com.br
