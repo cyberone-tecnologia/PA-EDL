@@ -1640,3 +1640,5 @@ cdn.pzw.io
 shm.to
 #Setembro/2025 - Phishing domain
 jmveiculossantaluzia.com.br
+#Setembro/2025 - Malicious behavior
+drogariauniaofarma.com
