@@ -796,9 +796,6 @@
 #julho/2025 - Malicious IP
 196.251.80.132
 149.104.32.236
-
-#Julho/2025 - Malware family Metamorfo
-187.17.111.35
 #Julho/2025 - VPN TunnelBear
 107.151.163.21
 98.98.19.211
