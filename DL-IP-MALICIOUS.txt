@@ -882,3 +882,5 @@
 2.59.161.132
 #Setembro/2025 - Malware family Squirrelwaffle
 108.179.192.18
+#Setembro/2025 - Vuln scan
+64.62.197.147
