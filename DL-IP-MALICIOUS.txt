@@ -852,8 +852,6 @@
 34.36.137.203
 177.54.156.100
 177.54.156.91
-#Agosto/2025 - Malware family Squirrelwaffle
-108.179.192.18
 #setembro/2025 - Malicious activity detected
 168.195.24.202
 #setembro/2025 - Malicious IP
@@ -882,3 +880,5 @@
 144.91.99.235
 #Setembro/2025 - Malware family Fakeupdates
 2.59.161.132
+#Setembro/2025 - Malware family Squirrelwaffle
+108.179.192.18
