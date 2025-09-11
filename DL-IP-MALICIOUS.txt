@@ -884,6 +884,3 @@
 108.179.192.18
 #Setembro/2025 - Vuln scan
 64.62.197.147
-#Setembro/2025 - Vuln scan
-177.55.228.136
-2804:2488:5080:be0:eccb:4deb:dbe5:7d5f
