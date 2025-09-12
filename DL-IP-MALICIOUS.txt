@@ -872,9 +872,9 @@
 64.62.197.4
 #setembro/2025 - phpunit Remote Code Execution Vulnerability - PAN THREAT DETECT
 144.91.99.235
-#Setembro/2025 - Malware family Fakeupdates
-2.59.161.132
 #Setembro/2025 - Vuln scan
 64.62.197.147
 #Setembro/2025 - Malware family Squirrelwaffle
 108.179.192.18
+#Setembro/2025 - Malware family Fakeupdates
+2.59.161.132
