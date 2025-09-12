@@ -1581,8 +1581,6 @@ mp3saw.cc
 #agosto/2025 - Phishing domain
 correios-pac-sedex-buscar-rapida.64564hg.co.ua
 rastreamentobuscarapida.rasendereco.co.ua
-#Agosto/2025 - Malware family Trojan.downloader
-vidabemvinda.com.br
 #Agosto/2025 - Malware family Pup
 rmcreative.ru
 #Agosto/2025 - Malicious NFC domain
@@ -1642,3 +1640,5 @@ shm.to
 jmveiculossantaluzia.com.br
 #Setembro/2025 - Malicious behavior
 drogariauniaofarma.com
+#Setembro/2025 - Malware family Trojan.downloader
+vidabemvinda.com.br
