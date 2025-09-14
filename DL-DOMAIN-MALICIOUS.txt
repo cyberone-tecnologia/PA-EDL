@@ -1478,7 +1478,6 @@ source.scriptsafedata.com
 analytiwave.com
 #Julho/2025 - Phishing domain
 www.pittur.pitimbu.pb.gov.br
-1sh.co
 o2o.to
 twixar.me
 surl.gd
@@ -1642,3 +1641,5 @@ drogariauniaofarma.com
 vidabemvinda.com.br
 #Setembro/2025 - Malware family Fakeupdates
 javascriptbasics.com
+#Setembro/2025 - Phishing domain
+1sh.co
