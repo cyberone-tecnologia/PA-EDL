@@ -880,3 +880,5 @@
 2.59.161.132
 #Setembro/2025 - VPN MullvadVPN
 89.238.134.58
+#Setembro/2025 - Malicious IP
+65.49.20.66
