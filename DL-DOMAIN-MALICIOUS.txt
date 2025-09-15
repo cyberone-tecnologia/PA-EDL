@@ -1643,3 +1643,5 @@ vidabemvinda.com.br
 javascriptbasics.com
 #Setembro/2025 - Phishing domain
 1sh.co
+#Setembro/2025 - Malicious behavior
+cnroimoveis.com
