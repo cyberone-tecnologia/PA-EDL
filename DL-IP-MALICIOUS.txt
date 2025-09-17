@@ -893,3 +893,5 @@
 74.82.47.2
 #Setembro/2025 - Apache Struts2 Dynamic Method Invocation Remote Code Execution Vulnerability
 172.71.234.191
+#Setembro/2025 - Apache Struts2 OGNL Remote Code Execution Vulnerability
+172.68.14.212,172.68.14.230,172.69.201.139,172.68.14.143,172.68.187.7
