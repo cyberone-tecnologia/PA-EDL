@@ -889,3 +889,5 @@
 #setembro/2025 - Malicious related IP
 64.62.156.36
 64.62.156.32
+#Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+74.82.47.2
