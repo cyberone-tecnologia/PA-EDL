@@ -1370,7 +1370,6 @@ cpeciadogfoods.com
 #Maio/2025 - malware related
 media.pin673.my
 media.fit903.my
-dasopdoaodoaoaoao.com
 ead.institutoprofissaoprospera.com.br
 arch2.pin673.my
 #Maio/2025 - Pix scam
@@ -1657,3 +1656,5 @@ compraarmasdefogo.com
 instantfindresults.com
 #Setembro/2025 - Malware family magentocore
 kof.one
+#Setembro/2025 - Malware family Clearfake
+dasopdoaodoaoaoao.com
