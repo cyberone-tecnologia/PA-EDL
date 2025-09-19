@@ -1651,8 +1651,6 @@ compraarmasdefogo.com
 instantfindresults.com
 #Setembro/2025 - Malware family magentocore
 kof.one
-#Setembro/2025 - Malware family Clearfake
-dasopdoaodoaoaoao.com
 #Setembro/2025 - Malware family magentocore
 kk.land
 #Setembro/2025 - Phishing
@@ -1665,3 +1663,5 @@ mmwlogisticsllc.com
 libreconocimiento.com
 cheapuggsoutlet.us
 brilhodefogo.com
+#Setembro/2025 - Malware family Clearfake
+dasopdoaodoaoaoao.com
