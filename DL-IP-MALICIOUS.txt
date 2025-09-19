@@ -862,6 +862,7 @@
 #Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.175
 65.49.1.180
+74.82.47.2
 #Setembro/2025 - Malicious IP
 192.0.78.25
 65.49.1.159
@@ -889,17 +890,16 @@
 #setembro/2025 - Malicious related IP
 64.62.156.36
 64.62.156.32
-#Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-74.82.47.2
 #Setembro/2025 - Apache Struts2 Dynamic Method Invocation Remote Code Execution Vulnerability
 172.71.234.191
 #Setembro/2025 - Apache Struts2 OGNL Remote Code Execution Vulnerability
 172.68.14.212,172.68.14.230,172.69.201.139,172.68.14.143,172.68.187.7
-#Setembro/2025 - 
+#Setembro/2025 -
 172.69.201.142
-#Setembro/2025 - 
 172.69.201.132
 #Setembro/2025 - Malicious IP Realtek Jungle SDK Remote Code Execution Vulnerability
 192.30.243.7
 #Setembro/2025 - Malicious IP Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 65.49.1.131
+#setembro/2025 - Malicious IP MVPower DVR Shell Unauthenticated Command Execution Vulnerability
+27.109.188.162
