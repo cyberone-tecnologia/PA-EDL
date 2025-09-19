@@ -1530,9 +1530,6 @@ sswalesmentb.com
 javascripterhub.com
 #agosto/2025 - Malicious domain
 youtube-site.com
-libreconocimiento.com
-brilhodefogo.com
-cheapuggsoutlet.us
 #Agosto/2025 - Malware family Android.trojan.generic
 cfgz1-resource.happytudou.cc
 #Agosto/2025 - Malicious behavior
@@ -1564,8 +1561,6 @@ guitarflash3.com
 ys52f.com
 #Agosto/2025 - Malware family Darkcomet
 www.onceokuloncesi.com
-#Agosto/2025 - Malicious domain
-mmwlogisticsllc.com
 #Agosto/2025 - Malware family Trojan.generic
 download.freemake.net
 medworld.com.br
@@ -1664,3 +1659,9 @@ kk.land
 onlinedocuments-sescmg-com.ikremvimnd.live
 #Setembro/2025 - Phishing
 panopdf.com
+#Setembro/2025 - Phishing
+zoho-bigin.com
+mmwlogisticsllc.com
+libreconocimiento.com
+cheapuggsoutlet.us
+brilhodefogo.com
