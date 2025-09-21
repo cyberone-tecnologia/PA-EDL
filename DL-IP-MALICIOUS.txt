@@ -883,8 +883,6 @@
 64.62.197.147
 #Setembro/2025 - Malware family Squirrelwaffle
 108.179.192.18
-#Setembro/2025 - Malware family Fakeupdates
-2.59.161.132
 #Setembro/2025 - VPN MullvadVPN
 89.238.134.58
 #setembro/2025 - Malicious related IP
@@ -903,3 +901,5 @@
 65.49.1.131
 #setembro/2025 - Malicious IP MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 27.109.188.162
+#Setembro/2025 - Malware family Fakeupdates
+2.59.161.132
