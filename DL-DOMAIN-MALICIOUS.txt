@@ -1450,8 +1450,6 @@ abrir.me
 #Junho/2025 - Malware family Magecart
 fallodick87-78.sbs
 api-chat.live
-#Junho/2025 - Malware family Virut
-aptxu.com
 #Junho/2025 - 90b57c8d93ca75630ccf3a296d310e762b7ababeb536f563ebb41c13703baf29
 entwithoughtsu.com
 #junho/2025 - Malware family Lumma stealer
@@ -1667,3 +1665,5 @@ brilhodefogo.com
 dasopdoaodoaoaoao.com
 #Setembro/2025 - Phishing domain
 solicitacredito.digital
+#Setembro/2025 - Malware family Virut
+aptxu.com
