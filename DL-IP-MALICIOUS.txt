@@ -909,3 +909,5 @@
 #Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event 
 65.49.1.130
 65.49.1.130
+#Setembro/2025 - Korplug Command and Control Traffic Detection
+68.183.100.225
