@@ -912,3 +912,5 @@
 #Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event 
 65.49.1.130
 65.49.1.130
+#Setembro/2025 - Apache Struts2 Dynamic Method Invocation Remote Code Execution Vulnerability
+172.69.201.136
