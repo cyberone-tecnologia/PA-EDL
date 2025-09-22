@@ -899,7 +899,10 @@
 192.30.243.7
 #Setembro/2025 - Malicious IP Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 65.49.1.131
-#setembro/2025 - Malicious IP MVPower DVR Shell Unauthenticated Command Execution Vulnerability
-27.109.188.162
 #Setembro/2025 - Malware family Fakeupdates
 2.59.161.132
+#Setembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
+27.109.188.162
+187.62.194.182
+177.101.37.26
+107.152.56.236
