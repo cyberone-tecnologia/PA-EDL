@@ -890,8 +890,6 @@
 64.62.156.32
 #Setembro/2025 - Apache Struts2 Dynamic Method Invocation Remote Code Execution Vulnerability
 172.71.234.191
-#Setembro/2025 - Apache Struts2 OGNL Remote Code Execution Vulnerability
-172.68.14.212,172.68.14.230,172.68.14.143,172.68.187.7
 #Setembro/2025 - Malicious IP Realtek Jungle SDK Remote Code Execution Vulnerability
 192.30.243.7
 #Setembro/2025 - Malicious IP Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
