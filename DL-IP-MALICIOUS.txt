@@ -913,3 +913,5 @@
 68.183.100.225
 #Setembro/2025 - Malicious IP Contact
 124.198.132.121
+#Setembro/2025 - Phishing related
+192.124.249.10
