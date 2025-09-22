@@ -906,3 +906,6 @@
 187.62.194.182
 177.101.37.26
 107.152.56.236
+#Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event preceded by Centos Web Panel 7 Remote Code Execution Vulnerability
+64.62.197.153
+64.62.197.160
