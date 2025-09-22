@@ -911,3 +911,5 @@
 65.49.1.130
 #Setembro/2025 - Korplug Command and Control Traffic Detection
 68.183.100.225
+#Setembro/2025 - Malicious IP Contact
+124.198.132.121
