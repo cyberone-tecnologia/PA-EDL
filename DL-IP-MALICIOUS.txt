@@ -917,3 +917,5 @@
 65.49.1.1/24
 #Setembro/2025 - Malware family Unknown
 64.188.91.133
+#Setembro/2025 - Phishing detectado qradar ofensa 5216
+91.108.127.236
