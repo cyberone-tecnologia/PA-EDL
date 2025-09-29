@@ -922,3 +922,5 @@
 91.108.127.236
 #Setembro/2025 - Multiplos ataques identificados pelo PANW threat license
 158.94.209.120
+#Setembro/2025 - IP utilizado para enumeração de usuário/senha vazado
+208.84.102.196
