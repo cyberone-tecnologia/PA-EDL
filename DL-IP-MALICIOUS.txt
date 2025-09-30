@@ -322,8 +322,6 @@
 177.131.113.22
 #novembro/2024 - Brute Force Login Attempt
 38.180.91.132
-#novembro/2024 - Shadowserver
-64.62.156.52
 #dezembro/2024 - Malware related
 173.255.204.62
 94.156.79.8
@@ -916,6 +914,7 @@
 #Setembro/2025 - Scan Shadowserver 
 65.49.1.1/24
 64.62.156.1/24
+184.105.139.64/26
 #Setembro/2025 - Malware family Unknown
 64.188.91.133
 #Setembro/2025 - Phishing detectado qradar ofensa 5216
@@ -924,3 +923,4 @@
 158.94.209.120
 #Setembro/2025 - IP utilizado para enumeração de usuário/senha vazado
 208.84.102.196
+
