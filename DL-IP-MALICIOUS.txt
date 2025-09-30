@@ -923,4 +923,6 @@
 158.94.209.120
 #Setembro/2025 - IP utilizado para enumeração de usuário/senha vazado
 208.84.102.196
+#Setembro/2025 - Site SCAM - Ofensa 5314
+185.158.133.1
 
