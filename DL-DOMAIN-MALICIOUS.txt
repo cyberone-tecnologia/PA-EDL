@@ -1671,3 +1671,5 @@ aptxu.com
 tenhodireito.shop
 #Setembro/2025 - Phishing report Lumu
 clik.now
+#Setembro/2025 - Malware family Adware.generic - Lumu
+app.malcare.me
