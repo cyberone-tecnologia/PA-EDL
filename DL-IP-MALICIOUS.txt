@@ -926,3 +926,5 @@
 #Setembro/2025 - Site SCAM - Ofensa 5314
 185.158.133.1
 
+#Outubro/2025 - Malicious IP
+144.172.116.144
