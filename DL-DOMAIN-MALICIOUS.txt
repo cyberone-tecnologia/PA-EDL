@@ -1675,3 +1675,5 @@ clik.now
 app.malcare.me
 #Outubro/2025 - Malware family Keitaro
 m.brx.bet.br
+#Outubro/2025 - Phishing domain
+juliamoss.com.br
