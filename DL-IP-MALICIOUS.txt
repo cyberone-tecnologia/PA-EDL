@@ -928,3 +928,5 @@
 
 #Outubro/2025 - Malicious IP
 144.172.116.144
+#Outubro/2025 - Shadowserver
+74.82.47.4
