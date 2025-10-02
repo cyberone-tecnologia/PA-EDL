@@ -1677,3 +1677,5 @@ app.malcare.me
 m.brx.bet.br
 #Outubro/2025 - Phishing domain
 juliamoss.com.br
+#Outubro/2025 - Malicious behavior
+multicanaishd.vip
