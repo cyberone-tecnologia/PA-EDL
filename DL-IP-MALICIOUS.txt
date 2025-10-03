@@ -927,9 +927,5 @@
 #Outubro/2025 - Shadowserver
 74.82.47.4
 #Outubro/2025 - Attack whatssap file execution
-zapgrande.com
-sorvetenopote.com
-expansiveuser.com
-etenopote.com
-
-
+23.227.203.148
+109.176.30.141
