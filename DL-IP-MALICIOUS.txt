@@ -925,8 +925,9 @@
 208.84.102.196
 #Setembro/2025 - Site SCAM - Ofensa 5314
 185.158.133.1
-
 #Outubro/2025 - Malicious IP
 144.172.116.144
 #Outubro/2025 - Shadowserver
 74.82.47.4
+#Outubro/2025 - Attack whatssap file execution
+zapgrande.com
