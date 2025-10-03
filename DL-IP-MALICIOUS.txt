@@ -836,9 +836,6 @@
 52.14.24.94
 #Agosto/2025 - VPN Surfshark
 146.70.248.5
-#Ip password spray interno 270825
-10.49.5.111
-10.49.5.103
 #agosto/2025 - Malicious IP
 177.54.156.110
 177.54.156.54
@@ -932,3 +929,4 @@
 #Outubro/2025 - Attack whatssap file execution
 zapgrande.com
 sorvetenopote.com
+
