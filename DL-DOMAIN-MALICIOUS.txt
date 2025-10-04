@@ -1665,8 +1665,6 @@ brilhodefogo.com
 dasopdoaodoaoaoao.com
 #Setembro/2025 - Phishing domain
 solicitacredito.digital
-#Setembro/2025 - Malware family Virut
-aptxu.com
 #Setembro/2025 - block phishing ofensa 5216
 tenhodireito.shop
 #Setembro/2025 - Phishing report Lumu
@@ -1690,3 +1688,5 @@ expansiveuser.com
 oultimojogo.com
 #Outubro/2025 - Malicious behavior
 vas.pet
+#Outubro/2025 - Malware family Virut
+aptxu.com
