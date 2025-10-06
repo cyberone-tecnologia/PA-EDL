@@ -1671,8 +1671,6 @@ tenhodireito.shop
 clik.now
 #Setembro/2025 - Malware family Adware.generic - Lumu
 app.malcare.me
-#Outubro/2025 - Malware family Keitaro
-m.brx.bet.br
 #Outubro/2025 - Phishing domain
 juliamoss.com.br
 #Outubro/2025 - Malicious behavior
@@ -1690,3 +1688,5 @@ oultimojogo.com
 vas.pet
 #Outubro/2025 - Malware family Virut
 aptxu.com
+#Outubro/2025 - Malware family Keitaro
+m.brx.bet.br
