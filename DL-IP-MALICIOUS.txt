@@ -935,3 +935,5 @@
 181.41.201.184
 #Outubro/2025 - Malicious IP
 144.172.106.140
+#Outubro/2025 - Malicious IP
+216.218.206.66
