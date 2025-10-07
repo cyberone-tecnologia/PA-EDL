@@ -1692,3 +1692,5 @@ aptxu.com
 m.brx.bet.br
 #Outubro/2025 - Malware family Clearfake
 autodemolidorasa.com.br
+#Outubro/2025 - Malware family Unknown
+content-website-analytics.com
