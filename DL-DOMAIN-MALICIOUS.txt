@@ -1694,3 +1694,5 @@ m.brx.bet.br
 autodemolidorasa.com.br
 #Outubro/2025 - Malware family Unknown
 content-website-analytics.com
+#Outubro/2025 - Malicious behavior
+888rioapp.com
