@@ -1696,3 +1696,5 @@ autodemolidorasa.com.br
 content-website-analytics.com
 #Outubro/2025 - Malicious behavior
 888rioapp.com
+#Outubro/2025 - Malware family Unknown
+latam-oab.cd-brasil.com
