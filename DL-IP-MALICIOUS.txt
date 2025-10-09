@@ -932,7 +932,6 @@
 23.227.203.148
 77.111.101.169
 181.41.201.184
-
 #Outubro/2025 - Malicious IP
 144.172.106.140
 #Outubro/2025 - Malicious IP
@@ -943,3 +942,6 @@
 3.132.75.97
 #Outubro 2025 - ofensa 5479 malicious activity
 162.217.85.139
+#Outubro 2025 - Korplug Command and Control Traffic Detection ofense 5537 5542
+165.232.137.211
+164.92.94.143
