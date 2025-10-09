@@ -1667,8 +1667,6 @@ dasopdoaodoaoaoao.com
 solicitacredito.digital
 #Setembro/2025 - block phishing ofensa 5216
 tenhodireito.shop
-#Setembro/2025 - Phishing report Lumu
-clik.now
 #Setembro/2025 - Malware family Adware.generic - Lumu
 app.malcare.me
 #Outubro/2025 - Phishing domain
@@ -1698,3 +1696,5 @@ content-website-analytics.com
 888rioapp.com
 #Outubro/2025 - Malware family Unknown
 latam-oab.cd-brasil.com
+#Outubro/2025 - Phishing domain
+clik.now
