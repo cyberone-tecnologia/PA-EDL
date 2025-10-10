@@ -947,3 +947,5 @@
 164.92.94.143
 #Outubro/2025 - Malicious IP
 107.172.34.27
+#Outubro/2025 - Malicious IP
+65.49.20.68
