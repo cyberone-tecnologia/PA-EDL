@@ -831,8 +831,6 @@
 187.18.136.71
 168.227.56.89
 177.54.156.50
-#Agosto/2025 - Malware family Unknown
-52.14.24.94
 #Agosto/2025 - VPN Surfshark
 146.70.248.5
 #agosto/2025 - Malicious IP
@@ -951,3 +949,5 @@
 65.49.20.68
 #Outubro/2025 - Malware family Tactical RMM
 3.91.68.204
+#Outubro/2025 - Malware family Unknown
+52.14.24.94
