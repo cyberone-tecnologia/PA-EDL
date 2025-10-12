@@ -949,3 +949,5 @@
 107.172.34.27
 #Outubro/2025 - Malicious IP
 65.49.20.68
+#Outubro/2025 - Malware family Tactical RMM
+3.91.68.204
