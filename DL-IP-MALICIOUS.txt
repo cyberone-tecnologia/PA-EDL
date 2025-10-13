@@ -947,8 +947,6 @@
 107.172.34.27
 #Outubro/2025 - Malware family Tactical RMM
 3.91.68.204
-#Outubro/2025 - Malware family Unknown
-52.14.24.94
 #Outubro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.20.68
 #Outubro/2025 - Korplug Command and Control Traffic Detection
@@ -959,3 +957,5 @@
 15.228.125.130
 #Outubro/2025 - Malware family Keitaro
 185.198.165.16
+#Outubro/2025 - Malware family Unknown
+52.14.24.94
