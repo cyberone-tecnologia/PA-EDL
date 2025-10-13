@@ -953,3 +953,5 @@
 65.49.20.68
 #Outubro/2025 - Korplug Command and Control Traffic Detection
 162.243.121.116
+#Outubro/2025 - Korplug Command and Control Traffic Detection
+192.241.244.111
