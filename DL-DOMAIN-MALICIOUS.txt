@@ -857,8 +857,6 @@ tetsted.com
 unifloor.com.br
 #janeiro/2025 - Malware family android_hiddad
 weegraphooph.net
-#janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
-mgperfil.com.br
 #janeiro/2025 - Graywere
 iyoutubetomp4.com
 adfpoint.com
@@ -1698,3 +1696,5 @@ content-website-analytics.com
 latam-oab.cd-brasil.com
 #Outubro/2025 - Phishing domain
 clik.now
+#Outubro/2025 - Malware family Trojan.downloader
+mgperfil.com.br
