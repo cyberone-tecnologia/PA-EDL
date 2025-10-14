@@ -965,3 +965,5 @@
 217.154.126.101
 #Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 144.172.106.75
+#Outubro/2025 - Korplug Command and Control Traffic Detection
+162.243.169.124
