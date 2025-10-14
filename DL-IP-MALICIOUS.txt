@@ -963,3 +963,5 @@
 108.136.162.67
 #Outubro/2025 - phpunit Remote Code Execution Vulnerability
 217.154.126.101
+#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
+144.172.106.75
