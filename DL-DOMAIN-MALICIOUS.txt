@@ -1699,3 +1699,5 @@ clik.now
 mgperfil.com.br
 #Outubro/2025 - Malware family Unknown
 www.paixaocameras.com.br
+#Outubro/2025 - Phishing domain
+app.assessmentgenerator.com
