@@ -961,3 +961,5 @@
 185.198.165.16
 #Outubro/2025 - phpunit Remote Code Execution Vulnerability
 108.136.162.67
+#Outubro/2025 - phpunit Remote Code Execution Vulnerability
+217.154.126.101
