@@ -1703,3 +1703,5 @@ www.paixaocameras.com.br
 app.assessmentgenerator.com
 #Outubro/2025 - Malware family PDF.maliciousmalware
 ijfbacknumber.com
+#Outubro/2025 - Phishing domain
+novofeirao.vercel.app
