@@ -1701,3 +1701,5 @@ mgperfil.com.br
 www.paixaocameras.com.br
 #Outubro/2025 - Phishing domain
 app.assessmentgenerator.com
+#Outubro/2025 - Malware family PDF.maliciousmalware
+ijfbacknumber.com
