@@ -1705,3 +1705,5 @@ app.assessmentgenerator.com
 ijfbacknumber.com
 #Outubro/2025 - Phishing domain
 novofeirao.vercel.app
+#Outubro/2025 - Malware family Keitaro
+mywesternu.com
