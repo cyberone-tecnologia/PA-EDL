@@ -1711,3 +1711,5 @@ mywesternu.com
 jinhongwl.com
 #Outubro/2025 - Malware family Keitaro
 dieunfall.com
+#Outubro/2025 - Phishing related
+detran.regulariza-br.online
