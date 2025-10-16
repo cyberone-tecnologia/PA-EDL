@@ -1626,8 +1626,6 @@ shm.to
 jmveiculossantaluzia.com.br
 #Setembro/2025 - Malicious behavior
 drogariauniaofarma.com
-#Setembro/2025 - Malware family Trojan.downloader
-vidabemvinda.com.br
 #Setembro/2025 - Malware family Fakeupdates
 javascriptbasics.com
 #Setembro/2025 - Phishing domain
@@ -1715,3 +1713,5 @@ dieunfall.com
 detran.regulariza-br.online
 #Outubro/2025 - Phishing related
 http://pocamels.aait-sa.com
+#Outubro/2025 - Malware family Trojan.downloader
+vidabemvinda.com.br
