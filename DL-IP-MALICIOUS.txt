@@ -967,3 +967,6 @@
 144.172.106.75
 #Outubro/2025 - Korplug Command and Control Traffic Detection
 162.243.169.124
+#Outubro/2025 - Multiple PANW Threat Events from the Same Source containing Misc Exploit
+124.198.131.83
+174.138.89.122
