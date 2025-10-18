@@ -1719,3 +1719,5 @@ vidabemvinda.com.br
 www.eventolaracastilho.com.br
 #Outubro/2025 - Phishing domain
 voosagencialatam.com
+#Outubro/2025 - Malicious behavior
+ultrafarmafarmacia.com
