@@ -974,3 +974,5 @@
 146.70.183.34
 #Outubro/2025 - Malware family Keitaro
 216.238.119.203
+#Outubro/2025 - Malware family Unknown
+5.2.79.190
