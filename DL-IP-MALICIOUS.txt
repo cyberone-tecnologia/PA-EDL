@@ -972,3 +972,5 @@
 174.138.89.122
 #Outubro/2025 - VPN MullvadVPN
 146.70.183.34
+#Outubro/2025 - Malware family Keitaro
+216.238.119.203
