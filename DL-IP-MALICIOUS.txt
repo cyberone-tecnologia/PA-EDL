@@ -970,3 +970,5 @@
 #Outubro/2025 - Multiple PANW Threat Events from the Same Source containing Misc Exploit
 124.198.131.83
 174.138.89.122
+#Outubro/2025 - VPN MullvadVPN
+146.70.183.34
