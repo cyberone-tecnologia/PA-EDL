@@ -968,7 +968,6 @@
 #Outubro/2025 - Korplug Command and Control Traffic Detection
 162.243.169.124
 #Outubro/2025 - Multiple PANW Threat Events from the Same Source containing Misc Exploit
-124.198.131.83
 174.138.89.122
 #Outubro/2025 - VPN MullvadVPN
 146.70.183.34
@@ -979,3 +978,5 @@
 #Outubro/2025 - Unrecognized Vulnerability Exploit Threat Event
 64.62.197.131
 64.62.197.136
+#Outubro/2025 - Multiple PANW Threat Events
+124.198.131.83
