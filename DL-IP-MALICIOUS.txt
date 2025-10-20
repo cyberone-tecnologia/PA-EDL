@@ -976,3 +976,6 @@
 216.238.119.203
 #Outubro/2025 - Malware family Unknown
 5.2.79.190
+#Outubro/2025 - Unrecognized Vulnerability Exploit Threat Event
+64.62.197.131
+64.62.197.136
