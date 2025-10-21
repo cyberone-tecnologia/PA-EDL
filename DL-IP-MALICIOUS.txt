@@ -980,3 +980,5 @@
 64.62.197.136
 #Outubro/2025 - Multiple PANW Threat Events
 124.198.131.83
+#Outubro/2025 - Malware family Keitaro
+185.36.147.38
