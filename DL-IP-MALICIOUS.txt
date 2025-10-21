@@ -982,3 +982,5 @@
 124.198.131.83
 #Outubro/2025 - Malware family Keitaro
 185.36.147.38
+#Outubro/2025 - Korplug Command and Control Traffic Detection
+107.170.4.249
