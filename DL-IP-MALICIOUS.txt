@@ -93,7 +93,6 @@
 104.152.52.136
 #maio/2024 - Malware family cobaltstrike-2
 1.62.64.68
-#maio/2024 - Malware family smokeloader
 #junho/2024 - Korplug Command and Control Traffic Detection
 138.197.3.15
 #junho/2024 - Suspicious Probe Events
@@ -117,12 +116,10 @@
 77.222.57.185
 #junho/2024 - Malware family Backdoor.Linux.Ba.Mirai
 93.123.118.215
-#junho/2024 - Malware family redline
 #junho/2024 - Malware family Apk.Spynote
 18.229.146.63
 #junho/2024 - Malware family vidar
 142.132.169.161
-#junho/2024 - Malware family Balada Injector
 #junho/2024 - Malware family Trojan.Win32.Xnet.Genericml
 3.70.240.163
 #junho/2024 - Malware family Unknown
@@ -929,8 +926,6 @@
 #Outubro 2025 - Korplug Command and Control Traffic Detection ofense 5537 5542
 165.232.137.211
 164.92.94.143
-#Outubro/2025 - Malware family Tactical RMM
-3.91.68.204
 #Outubro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.20.68
 64.62.197.131
@@ -956,3 +951,5 @@
 146.70.183.34
 #Outubro/2025 - Multiple PANW Threat Events
 124.198.131.83
+#Outubro/2025 - Malware family Tactical RMM
+3.91.68.204
