@@ -1,7 +1,6 @@
 #fevereiro/2024 - Xloader Malware Campaign - 22/02/2024
 k7ym8xyls.sbs
 hillfinconsult.com
-awllywood.com
 thesleeperandco.com
 #fevereiro/2024 - AgentTesla Malware Campaign - 22/02/2024
 atec.com.tr
@@ -45,7 +44,6 @@ zonenail.info
 lunamymoon.com
 pfannen-scholl.info
 infinityinkpress.com
-flatiron.hair
 cochevivo.com
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/2024
 basiconlineincome.com
@@ -83,12 +81,9 @@ puttyconnect.info
 #marco/24
 valutekcardsolutions.com
 valuteccadrsolutions.com
-valuteccards0lutions.com
 vaiuteccardsolutions.com
-valuteccardsollutions.com
 valuteccardsolutionns.com
 #marco/24 [Cyberintel] 03-26-2024 - Darkgate Campaigns
-massachusettscomputerservices.com
 wassonite.com
 wpseed.com
 #marco/24 Latrodectus (aka BLACKWIDOW aka Lotus aka IceNova) Malware 22/03
@@ -124,14 +119,6 @@ libidotechnexus.com
 #maio/2024 - Phishing campaign
 islamkoy.com
 #maio/2024 - C&C
-hyetasbox.org
-zammolpaxfl.com
-juaherya.com.br
-yuryanxbo.com
-kuamlopc.com
-primeacessobrad.skin
-gaifubw.com
-*.servicodesessetedecobranca.com
 #maio/2024 - Malware
 magazine-luiza.com
 ofertas-magazineluiza.com
@@ -1607,8 +1594,16 @@ raialivre.com.br
 surveymars.com
 idolink.com
 www.sertras.com
+shm.to
+jmveiculossantaluzia.com.br
+1sh.co
+tunnelsnakes.com
+solicitacredito.digital
 #Setembro/2025 - Malicious behavior
 agenciameeraky.tech
+drogariauniaofarma.com
+cnroimoveis.com
+compraarmasdefogo.com
 #Setembro/2025 - Malware hash: 5215aeec4ce1de19941d6e810b20ab93585786b351df1f7c60293a3bc9fd7cf6
 catholicncesisp.com
 #Setembro/2025 - Malware family Trojan.generic
@@ -1617,37 +1612,20 @@ www.animaatjes.de
 update-info728206.com
 #Setembro/2025 - Malware family Emotet
 cdn.pzw.io
-#Setembro/2025 - Phishing domain
-shm.to
-#Setembro/2025 - Phishing domain
-jmveiculossantaluzia.com.br
-#Setembro/2025 - Malicious behavior
-drogariauniaofarma.com
 #Setembro/2025 - Malware family Fakeupdates
 javascriptbasics.com
-#Setembro/2025 - Phishing domain
-1sh.co
-#Setembro/2025 - Malicious behavior
-cnroimoveis.com
 #Setembro/2025 - Malware family Unknown
 eotoatotlasldkd.com
-#Setembro/2025 - Phishing domain
-tunnelsnakes.com
 #Setembro/2025 - Malware hash: f12849d25be445de326e815d6716be3675ee84ffd58029845547488437f2e2e2
 parashparyro.com
-#Setembro/2025 - Malicious behavior
-compraarmasdefogo.com
 #Setembro/2025 - Malware hash: 9436aa2f560c1638b105abcd3b4dd24944b1ce5ece68ceb0d3044a12b55467cd
 instantfindresults.com
 #Setembro/2025 - Malware family magentocore
 kof.one
-#Setembro/2025 - Malware family magentocore
 kk.land
 #Setembro/2025 - Phishing
 onlinedocuments-sescmg-com.ikremvimnd.live
-#Setembro/2025 - Phishing
 panopdf.com
-#Setembro/2025 - Phishing
 zoho-bigin.com
 mmwlogisticsllc.com
 libreconocimiento.com
@@ -1655,16 +1633,23 @@ cheapuggsoutlet.us
 brilhodefogo.com
 #Setembro/2025 - Malware family Clearfake
 dasopdoaodoaoaoao.com
-#Setembro/2025 - Phishing domain
-solicitacredito.digital
 #Setembro/2025 - block phishing ofensa 5216
 tenhodireito.shop
 #Setembro/2025 - Malware family Adware.generic - Lumu
 app.malcare.me
 #Outubro/2025 - Phishing domain
 juliamoss.com.br
+clik.now
+app.assessmentgenerator.com
+novofeirao.vercel.app
+www.eventolaracastilho.com.br
+voosagencialatam.com
 #Outubro/2025 - Malicious behavior
 multicanaishd.vip
+vas.pet
+888rioapp.com
+ultrafarmafarmacia.com
+concreto-express.site
 #Outubro/2025 - Malware family Trojan.generic
 babyfesta.com.br
 #Outubro/2025 - Whatssapp comprovante ataque
@@ -1674,55 +1659,29 @@ casadecampoamazonas.com
 zapgrande.com
 expansiveuser.com
 oultimojogo.com
-#Outubro/2025 - Malicious behavior
-vas.pet
 #Outubro/2025 - Malware family Virut
 aptxu.com
 #Outubro/2025 - Malware family Keitaro
 m.brx.bet.br
+mywesternu.com
+jinhongwl.com
+dieunfall.com
 #Outubro/2025 - Malware family Clearfake
 autodemolidorasa.com.br
 #Outubro/2025 - Malware family Unknown
 content-website-analytics.com
-#Outubro/2025 - Malicious behavior
-888rioapp.com
-#Outubro/2025 - Malware family Unknown
 latam-oab.cd-brasil.com
-#Outubro/2025 - Phishing domain
-clik.now
+www.paixaocameras.com.br
 #Outubro/2025 - Malware family Trojan.downloader
 mgperfil.com.br
-#Outubro/2025 - Malware family Unknown
-www.paixaocameras.com.br
-#Outubro/2025 - Phishing domain
-app.assessmentgenerator.com
+vidabemvinda.com.br
+deniswarren.com
 #Outubro/2025 - Malware family PDF.maliciousmalware
 ijfbacknumber.com
-#Outubro/2025 - Phishing domain
-novofeirao.vercel.app
-#Outubro/2025 - Malware family Keitaro
-mywesternu.com
-#Outubro/2025 - Malware family Keitaro
-jinhongwl.com
-#Outubro/2025 - Malware family Keitaro
-dieunfall.com
 #Outubro/2025 - Phishing related
 detran.regulariza-br.online
-#Outubro/2025 - Phishing related
 http://pocamels.aait-sa.com
-#Outubro/2025 - Malware family Trojan.downloader
-vidabemvinda.com.br
-#Outubro/2025 - Phishing domain
-www.eventolaracastilho.com.br
-#Outubro/2025 - Phishing domain
-voosagencialatam.com
-#Outubro/2025 - Malicious behavior
-ultrafarmafarmacia.com
 #Outubro/2025 - Malware family Fakeupdates
 socketapiupdates.com
-#Outubro/2025 - Malicious behavior
-concreto-express.site
-#Outubro/2025 - Malware family Trojan.downloader
-deniswarren.com
 #Outubro/2025 - Malware family Pup
 download.freemake.net
