@@ -953,3 +953,5 @@
 124.198.131.83
 #Outubro/2025 - Malware family Tactical RMM
 3.91.68.204
+#Outubro/2025 - Malware family Tactical RMM
+177.136.207.16
