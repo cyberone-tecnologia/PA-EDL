@@ -5,7 +5,6 @@
 #fevereiro/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 12/03/23
 91.240.118.215
 #marco/2024 - Office365 Brute Force Attempt 01/03/2024
-46.8.222.164
 212.115.49.30
 45.11.20.206
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 02/29/2024
@@ -13,23 +12,19 @@
 #marco/2024 - 2/27 - 2/29/2024 Member Account Takeover Attempt
 193.36.224.31
 2.57.168.59
-98.159.33.54
 #marco/2024 - VTI: UNC5055 - NetSupport Manager RAT Malware - 03/01/2024
-64.207.185.117
 5.181.156.45
 #marco/2024 - VTI: Latrodectus (aka BLACKWIDOW aka Lotus) Malware - 02/27/2024
 5.252.21.207
 #marco/2024 - Multi-Vector DDoS 08/03/2024
 219.243.212.118
 161.97.170.209
-74.115.3.151
 #marco/2024 - VTI: Nitrogen Campaign - Sliver C2 Framework Malware - 03/07/2024
 91.92.242.183
 #marco/2024 - Cibercriminosos exploram falha do Windows SmartScreen para iniciar malware DarkGate
 5.181.159.76
 #marco/2024 - VTI: Carbanak (aka Anunak aka Sekur) Malware & NetSupport Manager RAT Malware - 03/14/2024 - #2
 103.113.70.68
-81.19.138.143
 89.105.198.190
 #marco/2024 - VTI: Oyster (aka CleanUpLoader aka Broomstick) Malware - 10/27/23
 45.66.248.78
@@ -40,7 +35,6 @@
 95.164.3.171
 #marco/2024 - VTI: DarkGate Malware - 03/19/2024
 165.22.16.55
-103.124.105.78
 #marco/2024 - Trojan "Chavecloak"
 64.225.32.24
 #marco/24 VTI: Unknown Malware 21/03
@@ -78,7 +72,6 @@
 65.108.96.201
 188.92.79.110
 104.200.72.120
-128.140.115.231
 188.92.72.129
 195.3.144.185
 #marco/24 Java RAT: RE:W2 AND 1095 Enclosed
@@ -91,7 +84,6 @@
 #maio/2024 - Malware family Win.Dcrat
 5.23.50.56
 #maio/2024 - Brute Force Login Attempt
-45.134.140.142
 107.174.252.97
 #maio/2024 - Malware family Js.Fakeupdates
 185.158.251.240
@@ -102,17 +94,14 @@
 #maio/2024 - Malware family cobaltstrike-2
 1.62.64.68
 #maio/2024 - Malware family smokeloader
-108.179.193.18
 #junho/2024 - Korplug Command and Control Traffic Detection
 138.197.3.15
 #junho/2024 - Suspicious Probe Events
 194.32.122.12
 104.152.52.214
 104.156.155.12
-172.206.142.54
 185.242.226.39
 #junho/2024 - Brute Force Login Attemp
-172.58.252.248
 37.19.221.87
 136.144.19.112
 #junho/2024 - Remote Suspicious Probe Events
@@ -129,13 +118,11 @@
 #junho/2024 - Malware family Backdoor.Linux.Ba.Mirai
 93.123.118.215
 #junho/2024 - Malware family redline
-52.36.230.137
 #junho/2024 - Malware family Apk.Spynote
 18.229.146.63
 #junho/2024 - Malware family vidar
 142.132.169.161
 #junho/2024 - Malware family Balada Injector
-45.9.149.210
 #junho/2024 - Malware family Trojan.Win32.Xnet.Genericml
 3.70.240.163
 #junho/2024 - Malware family Unknown
@@ -855,6 +842,8 @@
 65.49.1.175
 65.49.1.180
 74.82.47.2
+65.49.1.130
+65.49.1.130
 #Setembro/2025 - Malicious IP
 192.0.78.25
 65.49.1.159
@@ -896,16 +885,13 @@
 #Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event preceded by Centos Web Panel 7 Remote Code Execution Vulnerability
 64.62.197.153
 64.62.197.160
-#Setembro/2025 - Unrecognized Vulnerability Exploit Threat Event 
-65.49.1.130
-65.49.1.130
 #Setembro/2025 - Korplug Command and Control Traffic Detection
 68.183.100.225
 #Setembro/2025 - Malicious IP Contact
 124.198.132.121
 #Setembro/2025 - Phishing related
 192.124.249.10
-#Setembro/2025 - Scan Shadowserver 
+#Setembro/2025 - Scan Shadowserver
 65.49.1.1/24
 64.62.156.1/24
 184.105.139.64/26
@@ -921,6 +907,10 @@
 185.158.133.1
 #Outubro/2025 - Malicious IP
 144.172.116.144
+144.172.106.140
+216.218.206.66
+192.81.213.128
+107.172.34.27
 #Outubro/2025 - Shadowserver
 74.82.47.4
 #Outubro/2025 - Attack whatssap file execution
@@ -930,57 +920,39 @@
 23.227.203.148
 77.111.101.169
 181.41.201.184
-#Outubro/2025 - Malicious IP
-144.172.106.140
-#Outubro/2025 - Malicious IP
-216.218.206.66
-#Outubro/2025 - Malicious IP
-192.81.213.128
 #Outubro/2025 - Malware family Unknown
 3.132.75.97
+52.14.24.94
+5.2.79.190
 #Outubro 2025 - ofensa 5479 malicious activity
 162.217.85.139
 #Outubro 2025 - Korplug Command and Control Traffic Detection ofense 5537 5542
 165.232.137.211
 164.92.94.143
-#Outubro/2025 - Malicious IP
-107.172.34.27
 #Outubro/2025 - Malware family Tactical RMM
 3.91.68.204
 #Outubro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.20.68
+64.62.197.131
+64.62.197.136
 #Outubro/2025 - Korplug Command and Control Traffic Detection
 162.243.121.116
-#Outubro/2025 - Korplug Command and Control Traffic Detection
 192.241.244.111
+162.243.169.124
+107.170.4.249
 #Outubro/2025 - Multiple PANW Threat Events from the Same Source containing Misc Exploit
 15.228.125.130
-#Outubro/2025 - Malware family Unknown
-52.14.24.94
+174.138.89.122
 #Outubro/2025 - Malware family Keitaro
 185.198.165.16
+216.238.119.203
+185.36.147.38
 #Outubro/2025 - phpunit Remote Code Execution Vulnerability
 108.136.162.67
-#Outubro/2025 - phpunit Remote Code Execution Vulnerability
 217.154.126.101
 #Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 144.172.106.75
-#Outubro/2025 - Korplug Command and Control Traffic Detection
-162.243.169.124
-#Outubro/2025 - Multiple PANW Threat Events from the Same Source containing Misc Exploit
-174.138.89.122
 #Outubro/2025 - VPN MullvadVPN
 146.70.183.34
-#Outubro/2025 - Malware family Keitaro
-216.238.119.203
-#Outubro/2025 - Malware family Unknown
-5.2.79.190
-#Outubro/2025 - Unrecognized Vulnerability Exploit Threat Event
-64.62.197.131
-64.62.197.136
 #Outubro/2025 - Multiple PANW Threat Events
 124.198.131.83
-#Outubro/2025 - Malware family Keitaro
-185.36.147.38
-#Outubro/2025 - Korplug Command and Control Traffic Detection
-107.170.4.249
