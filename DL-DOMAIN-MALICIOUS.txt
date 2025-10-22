@@ -1555,7 +1555,6 @@ ys52f.com
 #Agosto/2025 - Malware family Darkcomet
 www.onceokuloncesi.com
 #Agosto/2025 - Malware family Trojan.generic
-download.freemake.net
 medworld.com.br
 prodigits.co.uk
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
@@ -1725,3 +1724,5 @@ socketapiupdates.com
 concreto-express.site
 #Outubro/2025 - Malware family Trojan.downloader
 deniswarren.com
+#Outubro/2025 - Malware family Pup
+download.freemake.net
