@@ -213,7 +213,6 @@
 43.133.220.81
 #agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 91.195.240.12
-#agosto/2024 - Phishing IP
 #agosto/2024 - Malware family autoit
 45.92.33.62
 #agosto/2024 - Botnet CandC ofense 3144
@@ -221,34 +220,27 @@
 #agosto/2024 probe ru,us ofernsa 3155 3168
 90.151.171.106
 104.152.52.208
-#agosto/2024 - Malware family vidar
 #agosto/2024 - Malware family emotet
 45.79.173.200
 #agosto/2024 - CobaltStrike
 36.102.212.117
 122.228.223.248
 111.170.24.248
-#agosto/2024 - Malware family rhadamanthys
-#agosto/2024 - Probe india ofensa 3267
 #agosto/2024 - Probe US ofensa 3260
 185.81.30.50
 #agosto/2024 - Probe NL Ofensa 3268
 194.50.16.7
 #agosto/2024 - Probe RU ofensa 3274
 90.151.171.106
-#agosto/2024 - Probe IN ofensa 3267
 #agosto/2024 - Malware related
 172.240.108.68
 #setembro/2024 - Malware family tofsee
 81.31.201.152
 #setembro/2024 - Malware family vidar
 5.75.159.217
-#setembro/2024 - Brute Force Attempt
-#setembro/2024 - "Malware family sinkhole_paloalto"
 #setembro/2024 - Worm related
 95.153.31.18
 174.138.37.52
-#setembro/2024 - "Malware family ursaloader"
 #setembro/2024 - "Malware family rhadamanthys"
 87.251.67.40
 #setembro/2024 - "Malware family Unknown"
@@ -281,7 +273,6 @@
 #outubro/2024 - Malware family SocGholish
 91.240.202.172
 185.76.79.50
-#outubro/2024 - Email spoofing
 #novembro/2024 - Malicious IP
 177.131.113.22
 #novembro/2024 - Brute Force Login Attempt
@@ -915,4 +906,5 @@
 124.198.131.83
 #Outubro/2025 - Malware family Tactical RMM
 3.91.68.204
-177.136.207.16
+177.136.207.16#Outubro/2025 - Malware family Interactsh
+178.128.212.209
