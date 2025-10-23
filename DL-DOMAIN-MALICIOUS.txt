@@ -118,7 +118,6 @@ d1x9q8w2e4.xyz
 libidotechnexus.com
 #maio/2024 - Phishing campaign
 islamkoy.com
-#maio/2024 - C&C
 #maio/2024 - Malware
 magazine-luiza.com
 ofertas-magazineluiza.com
@@ -1656,7 +1655,6 @@ babyfesta.com.br
 sorvetenopote.com
 imobiliariaricardoparanhos.com
 casadecampoamazonas.com
-zapgrande.com
 expansiveuser.com
 oultimojogo.com
 #Outubro/2025 - Malware family Virut
@@ -1685,3 +1683,5 @@ http://pocamels.aait-sa.com
 socketapiupdates.com
 #Outubro/2025 - Malware family Pup
 download.freemake.net
+#Outubro/2025 - Dominio malicioso identificado em comando PowerShell ofuscado para download de arquivos.
+zapgrande.com
