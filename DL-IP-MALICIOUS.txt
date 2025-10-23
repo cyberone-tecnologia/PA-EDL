@@ -140,7 +140,6 @@
 #julho/2024 - Remote Suspicious Probe Events
 43.135.159.111
 104.152.52.218
-50.116.58.112
 104.152.52.192
 40.117.148.149
 90.151.171.106
@@ -160,11 +159,9 @@
 103.224.212.210
 104.21.70.228
 107.148.94.106
-116.202.0.132
 138.197.235.123
 139.45.197.243
 178.236.246.185
-179.60.149.85
 18.231.93.153
 185.11.145.254
 185.192.111.202
@@ -176,7 +173,6 @@
 194.67.71.123
 199.59.243.225
 200.239.128.208
-204.11.56.48
 207.90.244.10
 216.128.141.153
 216.245.197.43
@@ -185,11 +181,9 @@
 45.11.27.62
 45.150.67.235
 5.149.248.141
-52.206.209.203
 54.94.248.37
 62.173.142.52
 80.66.79.248
-81.88.52.97
 91.215.85.139
 #julho/2024 - Suspicious Probe Events
 194.32.122.17
@@ -200,7 +194,6 @@
 #agosto/2024 - Malware family Unknown
 144.76.201.253
 206.206.123.249
-185.10.58.180
 #agosto/2024 - Suspicious Probe Events
 104.152.52.226
 90.151.171.109
@@ -221,7 +214,6 @@
 #agosto/2024 - Malware family 7a88d1c6.Q.Phishing.Html.Generic
 91.195.240.12
 #agosto/2024 - Phishing IP
-108.167.132.224
 #agosto/2024 - Malware family autoit
 45.92.33.62
 #agosto/2024 - Botnet CandC ofense 3144
@@ -230,7 +222,6 @@
 90.151.171.106
 104.152.52.208
 #agosto/2024 - Malware family vidar
-65.109.168.175
 #agosto/2024 - Malware family emotet
 45.79.173.200
 #agosto/2024 - CobaltStrike
@@ -238,9 +229,7 @@
 122.228.223.248
 111.170.24.248
 #agosto/2024 - Malware family rhadamanthys
-142.11.215.202
 #agosto/2024 - Probe india ofensa 3267
-167.71.234.130
 #agosto/2024 - Probe US ofensa 3260
 185.81.30.50
 #agosto/2024 - Probe NL Ofensa 3268
@@ -248,7 +237,6 @@
 #agosto/2024 - Probe RU ofensa 3274
 90.151.171.106
 #agosto/2024 - Probe IN ofensa 3267
-167.71.234.130
 #agosto/2024 - Malware related
 172.240.108.68
 #setembro/2024 - Malware family tofsee
@@ -256,18 +244,11 @@
 #setembro/2024 - Malware family vidar
 5.75.159.217
 #setembro/2024 - Brute Force Attempt
-194.110.150.20
-193.233.211.54
 #setembro/2024 - "Malware family sinkhole_paloalto"
-72.5.65.111
 #setembro/2024 - Worm related
 95.153.31.18
-117.20.41.87
-204.11.56.48
 174.138.37.52
-18.143.155.63
 #setembro/2024 - "Malware family ursaloader"
-66.206.13.2
 #setembro/2024 - "Malware family rhadamanthys"
 87.251.67.40
 #setembro/2024 - "Malware family Unknown"
@@ -301,7 +282,6 @@
 91.240.202.172
 185.76.79.50
 #outubro/2024 - Email spoofing
-181.12.6.36
 #novembro/2024 - Malicious IP
 177.131.113.22
 #novembro/2024 - Brute Force Login Attempt
@@ -314,39 +294,21 @@
 104.207.46.41
 104.207.53.109
 104.207.51.216
-104.207.35.201
 65.111.30.247
 65.111.30.237
-65.111.31.121
-65.111.28.29
-65.111.28.41
-65.111.29.160
-65.111.29.64
 65.111.26.20
 65.111.26.39
-65.111.26.98
-65.111.26.105
 65.111.27.20
 65.111.25.6
 65.111.22.20
 65.111.23.255
 65.111.20.46
-65.111.21.159
-65.111.18.144
-65.111.19.131
-65.111.19.183
-65.111.19.174
-65.111.19.175
-65.111.19.209
-65.111.19.62
 65.111.11.219
-65.111.9.84
 #dezembro/2024 - Potential Cobalt Strike Usage
 44.220.188.49
 #janeiro/2025 - Brute Force Login Attempt
 65.111.14.145
 65.111.15.184
-65.111.13.249
 65.111.10.176
 65.111.8.137
 65.111.6.248
@@ -953,5 +915,4 @@
 124.198.131.83
 #Outubro/2025 - Malware family Tactical RMM
 3.91.68.204
-#Outubro/2025 - Malware family Tactical RMM
 177.136.207.16
