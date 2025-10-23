@@ -1658,3 +1658,5 @@ download.freemake.net
 zapgrande.com
 #Outubro/2025 - Out-of-Band (OAST) Techniques
 *.oast.pro
+#Outubro/2025 - Out-of-Band (OAST) Techniques
+*.interact.sh
