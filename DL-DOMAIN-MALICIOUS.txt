@@ -127,7 +127,6 @@ technokingdigital.com
 account58956.com
 jagaranmf.com
 *.homeacessoprime.com
-#maio/2024 - Grayware
 #maio/2024 - Phishing
 *.v6.army
 web3-connectha.gq
@@ -147,7 +146,6 @@ geracaoaventura.com
 centersol.com.br
 #maio/2024 - Antivirus Phishing
 lxkzcss.xyz
-#maio/2024 - Malware family chanitor
 #maio/2024 - Malicious domain
 karacacomunicacao.com.br
 tesouraria-me.com
@@ -203,7 +201,6 @@ searchgear.pro
 #06/2024 - Malware family Unknown
 *.bellatrixmeissa.com
 *.rtb-feed.com
-#06/2024 - Grayware
 #junho/2024 - Phishing campaign
 *.bellatrixmeissa.com
 *.rtb-feed.com
@@ -218,7 +215,6 @@ chromee-update-it.com
 v1069-guncelleme-chrome.epizy.com
 #junho/2024 - Malware family gootkit
 myoldcountryhouse.com
-#junho/2024 - Malware family Quakbot
 #junho/2024 - Malware family Trojan.Agent.Uyr.Js
 cdntoswitchspirit.com
 restartyourchoices.com
@@ -234,7 +230,6 @@ typebot.co
 *.check-tl-ver-116-3.com
 #junho/2024 - Malware family Adware.K.Lnkr
 hublosk.com
-#junho/2024 - Malware family Trojan.Mtb.Amb.Malscript.Js
 #junho/2024 - Malware xmr mining related
 kr1s.ru
 *.4i7i.com
@@ -262,7 +257,6 @@ doggygangers.com
 documentos-suporteacess.autos
 #julho/2024 - QakBot
 masrybs.com
-#julho/2024 - Malware family Trojan.Win32.B.Bitrep
 #julho/2024 - Malware family Agent.Mrro.Js.Malware
 impconcursos.com.br
 #julho/2024 - Malware family Trojan.Generickdz.Script
@@ -1662,3 +1656,5 @@ socketapiupdates.com
 download.freemake.net
 #Outubro/2025 - Dominio malicioso identificado em comando PowerShell ofuscado para download de arquivos.
 zapgrande.com
+#Outubro/2025 - Out-of-Band (OAST) Techniques
+*.oast.pro
