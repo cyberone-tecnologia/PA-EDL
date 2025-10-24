@@ -1661,3 +1661,5 @@ zapgrande.com
 *.interact.sh
 #Outubro/2025 - Malware family Trojan.downloader
 vidabemvinda.com.br
+#Outubro/2025 - Malware family magentocore
+analyzrvisual.com
