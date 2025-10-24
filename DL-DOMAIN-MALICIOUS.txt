@@ -1643,7 +1643,6 @@ latam-oab.cd-brasil.com
 www.paixaocameras.com.br
 #Outubro/2025 - Malware family Trojan.downloader
 mgperfil.com.br
-vidabemvinda.com.br
 deniswarren.com
 #Outubro/2025 - Malware family PDF.maliciousmalware
 ijfbacknumber.com
@@ -1660,3 +1659,5 @@ zapgrande.com
 *.oast.pro
 #Outubro/2025 - Out-of-Band (OAST) Techniques
 *.interact.sh
+#Outubro/2025 - Malware family Trojan.downloader
+vidabemvinda.com.br
