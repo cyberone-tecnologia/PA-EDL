@@ -908,3 +908,5 @@
 3.91.68.204
 177.136.207.16#Outubro/2025 - Malware family Interactsh
 178.128.212.209
+#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
+144.172.103.136
