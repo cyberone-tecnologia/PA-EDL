@@ -334,7 +334,6 @@
 190.111.98.121
 #janeiro/2025 - Brute Force Attempt
 172.86.96.80
-#fevereiro/2025 - Malware related
 #março/2025 - Cobalt Strike Server
 191.101.131.226
 #março/2025 - Malicious IP Detected
@@ -416,7 +415,6 @@
 60.36.166.28
 #maio/2025 - Malware family Unknown
 8.222.251.253
-#Maio/2025 - malware related
 #Maio/2025 - Malware related
 149.154.175.52
 177.52.160.32
@@ -827,3 +825,5 @@
 178.128.212.209
 #Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 144.172.103.136
+#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
+94.72.118.193
