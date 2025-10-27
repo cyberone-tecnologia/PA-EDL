@@ -434,9 +434,7 @@
 185.112.147.96
 176.96.137.184
 185.241.208.245
-167.235.177.182
 57.128.220.185
-91.206.169.94
 89.203.249.226
 37.114.50.142
 51.77.90.246
@@ -450,10 +448,7 @@
 176.65.149.209
 176.65.149.207
 192.42.113.101
-146.59.235.195
 87.236.195.203
-89.58.12.210
-95.216.24.23
 147.45.51.11
 185.132.53.78
 178.254.34.109
@@ -480,7 +475,6 @@
 89.58.56.112
 85.215.145.68
 185.241.208.163
-167.71.86.85
 144.76.162.202
 185.103.110.65
 185.229.90.81
@@ -502,7 +496,6 @@
 64.65.62.210
 94.130.133.51
 136.243.174.159
-23.83.37.171
 148.251.10.237
 185.194.143.87
 54.36.205.38
@@ -512,7 +505,6 @@
 142.202.48.102
 176.9.57.157
 136.243.147.91
-37.46.211.32
 92.205.129.7
 185.231.102.51
 172.241.140.249
@@ -546,7 +538,6 @@
 193.108.117.103
 185.220.101.195
 176.65.149.57
-138.201.57.234
 217.160.247.34
 198.50.223.16
 88.151.194.118
@@ -614,7 +605,6 @@
 45.84.107.142
 185.220.101.39
 62.182.84.241
-45.10.100.49
 94.23.172.32
 193.63.58.76
 178.63.41.183
@@ -645,14 +635,11 @@
 196.251.80.132
 149.104.32.236
 #Julho/2025 - VPN TunnelBear
-107.151.163.21
-98.98.19.211
 #Julho/2025 - Malware family Unknown
 160.153.178.204
 #Julho/2025 - VPN NordVPN
 46.183.108.72
 #Agosto/2025 - VPN Hide My Ass VPN
-191.96.5.95
 191.96.5.127
 #Agosto/2025 - Malware family Fakeupdates
 85.235.205.148
@@ -661,16 +648,9 @@
 149.34.244.139
 146.70.245.130
 156.146.55.225
-146.70.98.162
 138.199.50.105
-45.83.145.79
-138.199.50.103
-149.102.251.97
 165.231.178.10
 149.102.226.239
-146.70.98.98
-146.70.98.130
-138.199.50.106
 188.241.177.226
 #Agosto/2025 - Malicious IP
 101.226.28.236
@@ -679,9 +659,7 @@
 170.238.45.40
 177.85.1.254
 170.238.45.201
-187.18.136.71
 168.227.56.89
-177.54.156.50
 #Agosto/2025 - VPN Surfshark
 146.70.248.5
 #agosto/2025 - Malicious IP
@@ -692,7 +670,6 @@
 177.54.156.100
 177.54.156.91
 #setembro/2025 - Malicious activity detected
-168.195.24.202
 #setembro/2025 - Malicious IP
 45.235.147.204
 206.123.145.241
@@ -734,7 +711,6 @@
 64.62.156.36
 64.62.156.32
 #Setembro/2025 - Apache Struts2 Dynamic Method Invocation Remote Code Execution Vulnerability
-172.71.234.191
 #Setembro/2025 - Malicious IP Realtek Jungle SDK Remote Code Execution Vulnerability
 192.30.243.7
 #Setembro/2025 - Malicious IP Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
@@ -756,13 +732,8 @@
 #Setembro/2025 - Phishing related
 192.124.249.10
 #Setembro/2025 - Scan Shadowserver
-65.49.1.1/24
-64.62.156.1/24
-184.105.139.64/26
 #Setembro/2025 - Malware family Unknown
-64.188.91.133
 #Setembro/2025 - Phishing detectado qradar ofensa 5216
-91.108.127.236
 #Setembro/2025 - Multiplos ataques identificados pelo PANW threat license
 158.94.209.120
 #Setembro/2025 - IP utilizado para enumeração de usuário/senha vazado
@@ -779,7 +750,6 @@
 74.82.47.4
 #Outubro/2025 - Attack whatssap file execution
 109.176.30.141
-162.255.119.41
 165.154.254.44
 23.227.203.148
 77.111.101.169
@@ -803,10 +773,8 @@
 162.243.169.124
 107.170.4.249
 #Outubro/2025 - Multiple PANW Threat Events from the Same Source containing Misc Exploit
-15.228.125.130
 174.138.89.122
 #Outubro/2025 - Malware family Keitaro
-185.198.165.16
 216.238.119.203
 185.36.147.38
 #Outubro/2025 - phpunit Remote Code Execution Vulnerability
@@ -814,6 +782,7 @@
 217.154.126.101
 #Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 144.172.106.75
+144.172.103.136
 #Outubro/2025 - VPN MullvadVPN
 146.70.183.34
 #Outubro/2025 - Multiple PANW Threat Events
