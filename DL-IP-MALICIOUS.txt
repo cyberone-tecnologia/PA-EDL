@@ -634,7 +634,6 @@
 #julho/2025 - Malicious IP
 196.251.80.132
 149.104.32.236
-#Julho/2025 - VPN TunnelBear
 #Julho/2025 - Malware family Unknown
 160.153.178.204
 #Julho/2025 - VPN NordVPN
@@ -669,7 +668,6 @@
 34.36.137.203
 177.54.156.100
 177.54.156.91
-#setembro/2025 - Malicious activity detected
 #setembro/2025 - Malicious IP
 45.235.147.204
 206.123.145.241
@@ -710,7 +708,6 @@
 #setembro/2025 - Malicious related IP
 64.62.156.36
 64.62.156.32
-#Setembro/2025 - Apache Struts2 Dynamic Method Invocation Remote Code Execution Vulnerability
 #Setembro/2025 - Malicious IP Realtek Jungle SDK Remote Code Execution Vulnerability
 192.30.243.7
 #Setembro/2025 - Malicious IP Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
@@ -731,9 +728,6 @@
 124.198.132.121
 #Setembro/2025 - Phishing related
 192.124.249.10
-#Setembro/2025 - Scan Shadowserver
-#Setembro/2025 - Malware family Unknown
-#Setembro/2025 - Phishing detectado qradar ofensa 5216
 #Setembro/2025 - Multiplos ataques identificados pelo PANW threat license
 158.94.209.120
 #Setembro/2025 - IP utilizado para enumeração de usuário/senha vazado
