@@ -790,3 +790,5 @@
 144.172.103.136
 #Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 94.72.118.193
+#Outubro/2025 - Ramnit Command and Control Traffic
+103.224.182.213
