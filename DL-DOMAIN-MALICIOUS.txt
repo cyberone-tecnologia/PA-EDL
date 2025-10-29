@@ -1665,11 +1665,11 @@ vidabemvinda.com.br
 varegjopeaks.com
 #Outubro/2025 - Malware family magentocore
 analyzrvisual.com
-#Outubro/2025 - Malicious behavior
-embedtv-5.icu
 #Outubro/2025 - Malware family Unknown
 brbets777.com
 #Outubro/2025 - Phishing related
 pontosbrasil.kyiv.ua
 #Outubro/2025 - Disposable email host
 eoffice.top
+#Outubro/2025 - Malicious behavior
+embedtv-5.icu
