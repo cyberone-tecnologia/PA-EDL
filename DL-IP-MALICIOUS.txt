@@ -797,3 +797,5 @@
 65.49.1.202
 #Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 143.20.185.93
+#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
+209.141.34.113
