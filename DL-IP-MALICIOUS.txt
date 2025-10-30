@@ -801,3 +801,5 @@
 209.141.34.113
 #Outubro/2025 - phpunit Remote Code Execution Vulnerability 
 45.134.79.72
+#Outubro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
+184.105.139.68
