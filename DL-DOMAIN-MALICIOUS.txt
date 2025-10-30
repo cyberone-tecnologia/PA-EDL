@@ -1677,3 +1677,5 @@ embedtv-5.icu
 pirescontabilidade.site
 #Outubro/2025 - Malware family Fakeupdates
 simplecopseholding.com
+#Outubro/2025 - Malware family Kelihos
+erstartirreleas.com
