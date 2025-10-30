@@ -803,3 +803,5 @@
 45.134.79.72
 #Outubro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 184.105.139.68
+#Outubro/2025 - TBK DVR-4104 and DVR-4216 Command Injection Vulnerability
+87.120.191.84
