@@ -805,3 +805,5 @@
 184.105.139.68
 #Outubro/2025 - TBK DVR-4104 and DVR-4216 Command Injection Vulnerability
 87.120.191.84
+#Outubro/2025 - Malware family Unknown
+185.246.188.74
