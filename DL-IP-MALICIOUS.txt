@@ -811,3 +811,5 @@
 192.42.116.217
 #Outubro/2025 - Malware family Unknown
 171.25.193.78
+#Outubro/2025 - block preventivo
+10.31.2.69
