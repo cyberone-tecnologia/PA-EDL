@@ -809,3 +809,5 @@
 185.246.188.74
 #Outubro/2025 - Malware family Unknown
 192.42.116.217
+#Outubro/2025 - Malware family Unknown
+171.25.193.78
