@@ -1672,8 +1672,6 @@ pontosbrasil.kyiv.ua
 #Outubro/2025 - Disposable email host
 eoffice.top
 #Outubro/2025 - Malicious behavior
-embedtv-5.icu
-#Outubro/2025 - Malicious behavior
 pirescontabilidade.site
 #Outubro/2025 - Malware family Fakeupdates
 simplecopseholding.com
@@ -1681,3 +1679,5 @@ simplecopseholding.com
 cdn.myconvertr.com
 #Outubro/2025 - Malware family Kelihos
 erstartirreleas.com
+#Outubro/2025 - Malicious behavior
+embedtv-5.icu
