@@ -1681,3 +1681,5 @@ cdn.myconvertr.com
 erstartirreleas.com
 #Outubro/2025 - Malicious behavior
 embedtv-5.icu
+#Outubro/2025 - Malware family Unknown
+www.bcv.cv
