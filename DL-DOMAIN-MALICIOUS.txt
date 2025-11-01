@@ -1685,3 +1685,5 @@ embedtv-5.icu
 www.bcv.cv
 #Outubro/2025 - Malicious behavior
 localizaon.shop
+#Novembro/2025 - Phishing domain
+www.portalvivoligado.com.br
