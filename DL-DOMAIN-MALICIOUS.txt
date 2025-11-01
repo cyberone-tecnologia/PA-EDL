@@ -1687,3 +1687,5 @@ www.bcv.cv
 localizaon.shop
 #Novembro/2025 - Phishing domain
 www.portalvivoligado.com.br
+#Novembro/2025 - Malware family Unknown
+mdy48tn97.com
