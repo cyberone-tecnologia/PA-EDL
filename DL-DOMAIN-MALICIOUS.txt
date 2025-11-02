@@ -1677,8 +1677,6 @@ pirescontabilidade.site
 simplecopseholding.com
 #Outubro/2025 - Malware family magentocore
 cdn.myconvertr.com
-#Outubro/2025 - Malware family Kelihos
-erstartirreleas.com
 #Outubro/2025 - Malicious behavior
 embedtv-5.icu
 #Outubro/2025 - Malware family Unknown
@@ -1691,3 +1689,5 @@ www.portalvivoligado.com.br
 mdy48tn97.com
 #Novembro/2025 - Malware family Unknown
 pay.sunize.com.br
+#Novembro/2025 - Malware family Kelihos
+erstartirreleas.com
