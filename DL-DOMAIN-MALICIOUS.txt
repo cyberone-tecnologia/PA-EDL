@@ -1689,3 +1689,5 @@ localizaon.shop
 www.portalvivoligado.com.br
 #Novembro/2025 - Malware family Unknown
 mdy48tn97.com
+#Novembro/2025 - Malware family Unknown
+pay.sunize.com.br
