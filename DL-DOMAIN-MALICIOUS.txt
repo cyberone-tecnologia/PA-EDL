@@ -975,7 +975,6 @@ kinoforum.org.br
 #Março/2025 - Malware family Adware.android.agent
 download.gamercdn.top
 #Março/2025 - Phishing domain
-linkr.it
 www.wixsite.com
 onne.link
 #Março/2025 - Phishing campaign
@@ -1693,3 +1692,5 @@ erstartirreleas.com
 cdn.myconvertr.com
 #Novembro/2025 - Malware family Trojan.downloader
 www.clubedainformatica.com.br
+#Novembro/2025 - Phishing domain
+linkr.it
