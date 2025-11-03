@@ -1691,3 +1691,5 @@ pay.sunize.com.br
 erstartirreleas.com
 #Novembro/2025 - Malware family magentocore
 cdn.myconvertr.com
+#Novembro/2025 - Malware family Trojan.downloader
+www.clubedainformatica.com.br
