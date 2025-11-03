@@ -1694,3 +1694,5 @@ cdn.myconvertr.com
 www.clubedainformatica.com.br
 #Novembro/2025 - Phishing domain
 linkr.it
+#Novembro/2025 - Malicious behavior
+gpf12025.com
