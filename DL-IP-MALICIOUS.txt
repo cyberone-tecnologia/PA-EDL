@@ -815,3 +815,5 @@
 10.31.2.69
 #Novembro/2025 - Malware family Keitaro
 140.82.59.59
+#Novembro/2025 - Malicious IP
+196.251.81.21
