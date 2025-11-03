@@ -817,3 +817,5 @@
 140.82.59.59
 #Novembro/2025 - Malicious IP
 196.251.81.21
+#Novembro/2025 - Korplug Command and Control Traffic Detection
+24.199.100.59
