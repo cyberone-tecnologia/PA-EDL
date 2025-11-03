@@ -1675,8 +1675,6 @@ eoffice.top
 pirescontabilidade.site
 #Outubro/2025 - Malware family Fakeupdates
 simplecopseholding.com
-#Outubro/2025 - Malware family magentocore
-cdn.myconvertr.com
 #Outubro/2025 - Malicious behavior
 embedtv-5.icu
 #Outubro/2025 - Malware family Unknown
@@ -1691,3 +1689,5 @@ mdy48tn97.com
 pay.sunize.com.br
 #Novembro/2025 - Malware family Kelihos
 erstartirreleas.com
+#Novembro/2025 - Malware family magentocore
+cdn.myconvertr.com
