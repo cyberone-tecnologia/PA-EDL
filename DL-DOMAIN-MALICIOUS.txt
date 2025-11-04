@@ -1696,3 +1696,5 @@ www.clubedainformatica.com.br
 linkr.it
 #Novembro/2025 - Malicious behavior
 gpf12025.com
+#Novembro/2025 - Malware family Dyre
+commullec.com
