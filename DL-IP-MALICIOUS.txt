@@ -823,3 +823,5 @@
 98.142.247.134
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event 
 65.49.1.186
+#Novembro/2025 - Malware family Keitaro
+5.11.83.138
