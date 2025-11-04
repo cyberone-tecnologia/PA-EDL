@@ -1700,3 +1700,5 @@ gpf12025.com
 commullec.com
 #Novembro/2025 - Phishing related
 esomultaity.com
+#Novembro/2025 - Malware family Unknown
+saudebradescobr.com.br
