@@ -369,7 +369,6 @@ semanariolaprensa.com
 #agosto/2024 - Malware related
 msk-news.net
 stavropol-news.net
-galactic-worship.com
 scaredframe.com
 #agosto/2024 - Malware family Quakbot
 preventivacreditos.com.br
@@ -415,13 +414,11 @@ downloadstep.com
 *.stickloader.info
 vrpirates.wiki
 meucredicard.com
-intermiamicf.co
 human-bot-view.chalnlizt.org
 challinksch.com
 #setembro/2024 - Phishing domain
 *.cncapp1.bet
 *.primeoffertonline.world
-starlinkprimeviva.com
 #setembro/2024 - Malware family Trojan.Mtb.Da.Cryxos.Js
 *.lojagrupoorganica.com.br
 #setembro/2024 - Malware family Trojan.Android
@@ -445,7 +442,6 @@ ytube888.info
 #setembro/2024 - trojan.vapsup
 sousehushoa.net
 #setembro/2024 - husuy.com
-husuy.com
 #setembro/2024 - Spam related
 *.infant.best
 *.themental.best
@@ -479,25 +475,16 @@ relaxatinownio.shop
 nivelaservicos.com.br
 8libkxg.8270k7.com
 tolomeo.com.br
-bradesco.acessoprime.digital
 ibpfnovologin-acessodesco.com
-mariafernandacardoso.com.br
 bradescoprime-vivadigital.com
 clienteprime.digital
-rastreiofiscalizacaoaduaneira.co.ua
-rastreiofiscalizacaoaduaneira.com
-specialpromotiondaily.comeira.com
-taxapagamentocorreios.com
 clientepromotions.com
 ibfprime.com
 primevalidar.solutions
 grupointerno.solutions
 acessojuridico.solutions
-rediseuastaxas.com
-esquentablackfriday2024.com
 xn--rpple-m3a.net
 #outubro/2024 - Malware related
-198.36.109.208.host.secureserver.net
 evaways.com
 #outubro/2024 - Malware family Trojan.Generic.KD
 elrifeno.com
@@ -505,11 +492,7 @@ elrifeno.com
 chhimi.com
 tayakay.com
 #outubro/2024 - "Malware related"
-ycmobliveslb.dhdf851f.click
 bulkconflictpeculiarities.com
-alophasspales.shop
-ikaecaepebe.homes
-maiscupom.com
 #outubro/2024 - "Malware family Trojan.mtb.rj.obfuse.js"
 prohall.com.br
 #outubro/2024 - "Phishing domain"
@@ -519,7 +502,6 @@ www.roblox.com.kg
 daycoval.facildepagar.com.br
 encr.pw
 #outubro/2024 - "Malware family Unknown"
-www.abs-tech.com
 srftjwrty6kew.shop
 #outubro/2024 - Malware family Unknown
 packedbrick.com
@@ -535,15 +517,12 @@ meiboot.com
 #outubro/2024 - "Malware family parrot_tds"
 load.webdatahoster.com
 #outubro/2024 - "Malware family Trojan.script.genericfca"
-www.fabriltelhas.com.br
 #outubro/2024 - "Malware family Trojan.Win32.Eqxecn.Vb"
-www.multiservicos.inf.br
 #outubro/2024 - "Malware family Adware.Win32.aureate"
 multiservicos.inf.br
 #outubro/2024 - "Malware family Riskware.kcdfgx.obfuscated.script"
 search.fenrawrye.live
 #outubro/2024 - Malicious domain
-pedreirao.com.br
 #outubro/2024 - "Malware family SocGholish"
 www.concretosflorense.com.br
 #outubro/2024 - "Malware family smokeloader"
@@ -596,7 +575,6 @@ cobe-ing.it
 #outubro/2024 - "Malware family Exploit.Vyugf.Minerva.Yav.Exp"
 paneldeconso.com
 #outubro/2024 - "Malware family Trojan.Win32.A.Ditertag"
-caribsplash.org
 #outubro/2024 - "Malware family Trojan.8a00.phish.PDF"
 gift-edu.ru
 #outubro/2024 - "Malware family Trojan.PDF.PhishingX.generic"
@@ -607,7 +585,6 @@ asiahealthcaredentalcentre.com
 27061010.com
 #outubro/2024 - "Malware family Spam.PDF"
 dynamicyunnan.com
-www.biogreeno.com
 de-ko-gmbh.com
 jancsoalapitvany.hu
 #novembro/2024 - "Malware family FakeUpdates"
@@ -616,12 +593,7 @@ objmapper.com
 tukofertas.com.br
 search.buzzonfeed.com
 #novembro/2024 - "Malware related"
-g.happydatingworld1.top
-654652.com
-megapainel.online
 #novembro/2024 - Malware family Win.Astaroth
-cloudprimebefore.co.ua
-vps-d8aafc2b.vps.ovh.net
 #novembro/2024 - "Malware family SocGholish"
 apav.pt
 #novembro/2024 - "Malware family magentocore"
@@ -634,7 +606,6 @@ storage.webfiledata.com
 stay.decentralappps.com
 #novembro/2024 - Phishing domain
 acessoriacescritorioonline.com
-acessoriasdigitl.com
 #novembro/2024 - "Malware family Trojan.Win32.rfn.a.skeeyah"
 1.piratebays.to
 #novembro/2024 - "Malware family Trojan.Android.Mtb.V.Sagnt"
@@ -654,23 +625,19 @@ gasuportetech.com.br
 fibregaffe.net
 quickresource.xyz
 #Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
-www.hidoctor.com.br
 #Novembro/2024 - Malware family Agent.Tr.Gjad.Js
 newsadsppush.com
 #Novembro/2024 - Phishing domain
 optiontwentiethhart.com
-qrcc.me
 #novembro/2024 - Malware related
 webexcelsior.org
 lukma.com
 #novembro/2024 - Malware family Worm.Win32.V.Phorpiex
-embrasil.com.br
 #Novembro/2024 - Malware family magentocore
 bokdigit.shop
 jadov.store
 brandiffy.com
 #Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
-grandeponto.com.br
 #Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
@@ -690,50 +657,28 @@ goodjiveet.best
 storystaffrings.com
 bancodobrasil.emktbbts.com.br
 #Dezembro/2024 - Malware family Cmsbrute
-aidaramezani.com
 #dezembro/2024 - Phishing related
-jawacapital.in
-kraken.toll-free-number.com
 ilv.llluvium.website
-hamster-kombat.tempurl.host
-pedidosbusca.advansegurotaxacep.co.ua
-correios.buscaencomenda.kyiv.ua
-pagalfandegarastreamentos.co.ua
-marudharpolymers.co.in
-online.atendimentodigital-cliente.pro
-wiofjieowege.biz.ua
 sistema-client-mic-2097574.fr-1.paas.massivegrid.net
 #Dezembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
-mandala.drus.net
 #dezembro/2024 - Adware related
-*.iobit.com
 #dezembro/2024 - Malware related
 stexoakraimtap.com
-quipdew.com
 #Dezembro/2024 - Phishing domain
 vulcanobrasil.com.br
 corrector.co
 #dezembro/2024 - Phishing campaign
 correiosrastreamentoencomenda.com
-rastreamentofiscaliza.com
 #Dezembro/2024 - Malware family Win.Astaroth
-renapsi.org.br
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
 dnsphire.com
 mktcrafter.com
 #dezembro/2024 - Phishing domain
-pagarasuataxa.com
 pagamentosinfracao.com
 paguesuartaxa.com
-paguerosuataxa.com
-entregasexpressas.mailbuscabox.kyiv.ua
-buscaencomenda.consultarbuscarbr.co.ua
 correios.aduaneirafiscal.com
 pagueaduaneira.co.ua
-pagueasuataxa.com
-pedidocorreios.txbrasilcx.co.ua
-detran-taxaonline.co.ua
 #Dezembro/2024 - Malware hash: b0a4a76cca26c140efe042db8a0ef08d5d295edd04ac7316ea90001f51ecce9c
 municipiodomaio.cv
 #Dezembro/2024 - Malware family Trojan.script.miner.generic
@@ -750,17 +695,14 @@ adflowtube.com
 authmycookie.com
 #Janeiro/2025 - Malware related
 dpuppers.net
-pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev
 s13a.biz
 #Janeiro/2025 - Malware family IFrame.b
 pontiarmada.com
 #janeiro/2025 - Malware family 4c3eft.malwthreat.js
 ping.cachespace.net
 #janeiro/2025 - Malware related
-magpapelaria.com.br
 minutoligado.com.br
 reefastovizash.net
-di-res-eu.2epqdyr789.com
 brehmed.wantidy.sbs
 #janeiro/2025 - Malware family lummac2
 saaadnesss.shop
@@ -771,7 +713,6 @@ dsgnjet.com
 blacksaltys.com
 progressivewebappsdev.com
 #janeiro/2025 - Tinyfluff
-f3f1b7.com
 #Janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
 raspadorareal.com.br
 #Janeiro/2025 - Phishing domain
@@ -804,17 +745,14 @@ freepopnews.skin
 #Janeiro/2025 - Malware family Ransomware.Trojan.Win32.cxdgqd
 www.sitedogta.com.br
 #janeiro/2025 - Grayware related
-y2mate.nu
 #janeiro/2025 - Phishing Campaign
 cnhmultas-govbr.org
 #Janeiro/2025 - Malware family Unknown
 tetsted.com
 #janeiro/2025 - Malware family Js.Trojan.cryxos.12960
-unifloor.com.br
 #janeiro/2025 - Malware family android_hiddad
 weegraphooph.net
 #janeiro/2025 - Graywere
-iyoutubetomp4.com
 adfpoint.com
 #janeiro/2025 - Phishing related
 program-edition.es
@@ -826,10 +764,8 @@ autchopord.net
 kizohilsoa.net
 lupsushuns.com
 #fevereiro/2025 - Malware related
-ordernew.com.br
 groostaupy.net
 tismwcoffee.com
-amg.org.br
 #Fevereiro/2025 - Malware family Unknown
 polytechnix.com
 wordpress-redirect.biz
@@ -845,7 +781,6 @@ neshion.com#Fevereiro/2025 - Malware related
 #Fevereiro/2025 - Malware related
 maissuprimentos.com
 barcely.gallels.fun
-xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--36--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd0eejfg2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b
 #Fevereiro/2025 - Phishing domain
 maxformaacademias.com.br
 jaccs-lampast.vqulg.cn
@@ -854,14 +789,11 @@ akutyforemploej.com
 #fevereiro/2025 - Adware related
 getrunkhomuto.info#Fevereiro/2025 - Malware family Unknown
 #Fevereiro/2025 - Malware family Win32.bundleloader.j
-www.baixesoft.com
 #Fevereiro/2025 - Disposable email host
 gotmail.com
-20minutemail.com
 imailt.com
 #fevereiro/2025 - Phishing campaign
 8a.nextwavxe.ru
-correios-atende.s3.us-east-1.amazonaws.com
 #Fevereiro/2025 - Malware family Riskware.adblock
 dyetui.com
 #Fevereiro/2025 - Malware family Trojan.mtb.rj.obfuse.js
@@ -869,7 +801,6 @@ cliquearquitetura.com.br
 #Fevereiro/2025 - Malware family Trojan.ml.b.wacatac.script
 prideuniformes.com.br
 #Fevereiro/2025 - Malware family Agent.mrro.jsmalware
-eletrojr.com.br
 #Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
 www.100security.com.br
@@ -886,57 +817,40 @@ nnoq.pages.dev
 bestoacmoaltou.net
 jocmiglenedsupi.com
 paulsss.com
-www.alucomposto.com.br
 #Março/2025 - Malware family js.clearfake
 nn11.pages.dev
 #Março/2025 - Malware related
 zackoumpeels.net
 saleshifft.com
 dsgncore.com
-65x6565.com
-casadocolecionador.com.br
-servermax.shop
-mangalivre.ru
 reginaldolopes.net
 mosteirozen.com.br
 direito2.com.br
 forlindma.online
-digitalcorp.site
 jquery.bond
 lvtuucmyfpz.com
 curriculumoutcry.com
-www.ver-dados-atendimento.online
 urquhar.tapest.cfd
 keenram.anariding.site
 cg55.cc
-kjr.com.au
 orbito.online
 semprecuidando.com.br
 moropplinsires.com
 oodruhoufouzair.com
-sosrodizios.com.br
-daniel-ip.com
-linscountryclub.com.br
 buzzflying.shop
 usheebainaut.com
 vaguestcicale.top
 js.targetedtrafficcrew.com
 xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b
 grazingmarrywomanhood.com
-cojughodrabuh.com
 #Março/2025 - Malware family socgholish
 majorbrdide.com
 #março/2025 - Malware family Unknown
 jeepaunucoast.net
 #março/2025 - Malware related
 cmperdiscount.shop
-vupes.com.br
-yrvmey.com
-cnss.gov.lb
-www.strictlydigital.co
 www.motelsunrise.com.br
 cdn.yyclub.work
-free-connecting-app.monster
 palestra.brietholdingbrasil.com.br
 embedtv.online
 reidoscanais.cc
@@ -946,7 +860,6 @@ news-xewaba.com
 eu.boxif.xyz
 luckysong.homes
 ww3.trckmon.com
-12ca68eb71.news-xzovima.cc
 datingfornight.com
 woalipaque.com
 flynewsmedia.info
@@ -1619,6 +1532,9 @@ vas.pet
 888rioapp.com
 ultrafarmafarmacia.com
 concreto-express.site
+pirescontabilidade.site
+embedtv-5.icu
+localizaon.shop
 #Outubro/2025 - Malware family Trojan.generic
 babyfesta.com.br
 #Outubro/2025 - Whatssapp comprovante ataque
@@ -1640,65 +1556,50 @@ autodemolidorasa.com.br
 content-website-analytics.com
 latam-oab.cd-brasil.com
 www.paixaocameras.com.br
+brbets777.com
+www.bcv.cv
 #Outubro/2025 - Malware family Trojan.downloader
 mgperfil.com.br
 deniswarren.com
+vidabemvinda.com.br
 #Outubro/2025 - Malware family PDF.maliciousmalware
 ijfbacknumber.com
 #Outubro/2025 - Phishing related
 detran.regulariza-br.online
 http://pocamels.aait-sa.com
+pontosbrasil.kyiv.ua
 #Outubro/2025 - Malware family Fakeupdates
 socketapiupdates.com
+simplecopseholding.com
 #Outubro/2025 - Malware family Pup
 download.freemake.net
 #Outubro/2025 - Dominio malicioso identificado em comando PowerShell ofuscado para download de arquivos.
 zapgrande.com
 #Outubro/2025 - Out-of-Band (OAST) Techniques
 *.oast.pro
-#Outubro/2025 - Out-of-Band (OAST) Techniques
 *.interact.sh
-#Outubro/2025 - Malware family Trojan.downloader
-vidabemvinda.com.br
 #Outubro/2025 - Malware whatsapp related
 varegjopeaks.com
 #Outubro/2025 - Malware family magentocore
 analyzrvisual.com
-#Outubro/2025 - Malware family Unknown
-brbets777.com
-#Outubro/2025 - Phishing related
-pontosbrasil.kyiv.ua
 #Outubro/2025 - Disposable email host
 eoffice.top
-#Outubro/2025 - Malicious behavior
-pirescontabilidade.site
-#Outubro/2025 - Malware family Fakeupdates
-simplecopseholding.com
-#Outubro/2025 - Malicious behavior
-embedtv-5.icu
-#Outubro/2025 - Malware family Unknown
-www.bcv.cv
-#Outubro/2025 - Malicious behavior
-localizaon.shop
 #Novembro/2025 - Phishing domain
 www.portalvivoligado.com.br
+linkr.it
 #Novembro/2025 - Malware family Unknown
 mdy48tn97.com
-#Novembro/2025 - Malware family Unknown
 pay.sunize.com.br
+saudebradescobr.com.br
 #Novembro/2025 - Malware family Kelihos
 erstartirreleas.com
 #Novembro/2025 - Malware family magentocore
 cdn.myconvertr.com
 #Novembro/2025 - Malware family Trojan.downloader
 www.clubedainformatica.com.br
-#Novembro/2025 - Phishing domain
-linkr.it
 #Novembro/2025 - Malicious behavior
 gpf12025.com
 #Novembro/2025 - Malware family Dyre
 commullec.com
 #Novembro/2025 - Phishing related
 esomultaity.com
-#Novembro/2025 - Malware family Unknown
-saudebradescobr.com.br
