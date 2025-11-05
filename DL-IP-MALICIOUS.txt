@@ -752,6 +752,9 @@
 3.132.75.97
 52.14.24.94
 5.2.79.190
+185.246.188.74
+192.42.116.217
+171.25.193.78
 #Outubro 2025 - ofensa 5479 malicious activity
 162.217.85.139
 #Outubro 2025 - Korplug Command and Control Traffic Detection ofense 5537 5542
@@ -774,9 +777,14 @@
 #Outubro/2025 - phpunit Remote Code Execution Vulnerability
 108.136.162.67
 217.154.126.101
+45.134.79.72
 #Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 144.172.106.75
 144.172.103.136
+144.172.103.136
+94.72.118.193
+143.20.185.93
+209.141.34.113
 #Outubro/2025 - VPN MullvadVPN
 146.70.183.34
 #Outubro/2025 - Multiple PANW Threat Events
@@ -786,42 +794,23 @@
 177.136.207.16
 #Outubro/2025 - Malware family Interactsh
 178.128.212.209
-#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
-144.172.103.136
-#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
-94.72.118.193
 #Outubro/2025 - Ramnit Command and Control Traffic
 103.224.182.213
 #Outubro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 65.49.1.203
 65.49.1.202
-#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
-143.20.185.93
-#Outubro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
-209.141.34.113
-#Outubro/2025 - phpunit Remote Code Execution Vulnerability 
-45.134.79.72
-#Outubro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 184.105.139.68
 #Outubro/2025 - TBK DVR-4104 and DVR-4216 Command Injection Vulnerability
 87.120.191.84
-#Outubro/2025 - Malware family Unknown
-185.246.188.74
-#Outubro/2025 - Malware family Unknown
-192.42.116.217
-#Outubro/2025 - Malware family Unknown
-171.25.193.78
 #Outubro/2025 - block preventivo
-10.31.2.69
 #Novembro/2025 - Malware family Keitaro
 140.82.59.59
+5.11.83.138
 #Novembro/2025 - Malicious IP
 196.251.81.21
 #Novembro/2025 - Korplug Command and Control Traffic Detection
 24.199.100.59
 #Novembro/2025 - phpunit Remote Code Execution Vulnerability
 98.142.247.134
-#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event 
+#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.186
-#Novembro/2025 - Malware family Keitaro
-5.11.83.138
