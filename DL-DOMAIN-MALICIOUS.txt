@@ -441,7 +441,6 @@ top1114.online
 ytube888.info
 #setembro/2024 - trojan.vapsup
 sousehushoa.net
-#setembro/2024 - husuy.com
 #setembro/2024 - Spam related
 *.infant.best
 *.themental.best
@@ -516,13 +515,10 @@ bitemores.com
 meiboot.com
 #outubro/2024 - "Malware family parrot_tds"
 load.webdatahoster.com
-#outubro/2024 - "Malware family Trojan.script.genericfca"
-#outubro/2024 - "Malware family Trojan.Win32.Eqxecn.Vb"
 #outubro/2024 - "Malware family Adware.Win32.aureate"
 multiservicos.inf.br
 #outubro/2024 - "Malware family Riskware.kcdfgx.obfuscated.script"
 search.fenrawrye.live
-#outubro/2024 - Malicious domain
 #outubro/2024 - "Malware family SocGholish"
 www.concretosflorense.com.br
 #outubro/2024 - "Malware family smokeloader"
@@ -574,7 +570,6 @@ jornaloflorense.com.br
 cobe-ing.it
 #outubro/2024 - "Malware family Exploit.Vyugf.Minerva.Yav.Exp"
 paneldeconso.com
-#outubro/2024 - "Malware family Trojan.Win32.A.Ditertag"
 #outubro/2024 - "Malware family Trojan.8a00.phish.PDF"
 gift-edu.ru
 #outubro/2024 - "Malware family Trojan.PDF.PhishingX.generic"
@@ -592,8 +587,6 @@ objmapper.com
 #novembro/2024 - "Phishing domain"
 tukofertas.com.br
 search.buzzonfeed.com
-#novembro/2024 - "Malware related"
-#novembro/2024 - Malware family Win.Astaroth
 #novembro/2024 - "Malware family SocGholish"
 apav.pt
 #novembro/2024 - "Malware family magentocore"
@@ -624,7 +617,6 @@ gasuportetech.com.br
 #Novembro/2024 - Malware related
 fibregaffe.net
 quickresource.xyz
-#Novembro/2024 - Malware family Trojan.Win32.dropper.agxq.scrop
 #Novembro/2024 - Malware family Agent.Tr.Gjad.Js
 newsadsppush.com
 #Novembro/2024 - Phishing domain
@@ -632,12 +624,10 @@ optiontwentiethhart.com
 #novembro/2024 - Malware related
 webexcelsior.org
 lukma.com
-#novembro/2024 - Malware family Worm.Win32.V.Phorpiex
 #Novembro/2024 - Malware family magentocore
 bokdigit.shop
 jadov.store
 brandiffy.com
-#Novembro/2024 - Malware family Trojan.Ml.B.Fl.Sabsik.Script
 #Dezembro/2024 - Malware family Adware.Win32.agent.jnxq
 metalsoft.com.br
 #Dezembro/2024 - Malware family Unknown
@@ -656,12 +646,9 @@ pay.risepay.com.br
 goodjiveet.best
 storystaffrings.com
 bancodobrasil.emktbbts.com.br
-#Dezembro/2024 - Malware family Cmsbrute
 #dezembro/2024 - Phishing related
 ilv.llluvium.website
 sistema-client-mic-2097574.fr-1.paas.massivegrid.net
-#Dezembro/2024 - Malware family Trojan.mtb.sfaa.obfuse.js
-#dezembro/2024 - Adware related
 #dezembro/2024 - Malware related
 stexoakraimtap.com
 #Dezembro/2024 - Phishing domain
@@ -669,7 +656,6 @@ vulcanobrasil.com.br
 corrector.co
 #dezembro/2024 - Phishing campaign
 correiosrastreamentoencomenda.com
-#Dezembro/2024 - Malware family Win.Astaroth
 #Dezembro/2024 - Malware family magentocore
 dsgntag.com
 dnsphire.com
@@ -712,7 +698,6 @@ dsgnjet.com
 #Janeiro/2025 - Malware family ta569
 blacksaltys.com
 progressivewebappsdev.com
-#janeiro/2025 - Tinyfluff
 #Janeiro/2025 - Malware family Trojan.downloader.kqkkfv.script
 raspadorareal.com.br
 #Janeiro/2025 - Phishing domain
@@ -744,12 +729,10 @@ grapseex.com
 freepopnews.skin
 #Janeiro/2025 - Malware family Ransomware.Trojan.Win32.cxdgqd
 www.sitedogta.com.br
-#janeiro/2025 - Grayware related
 #janeiro/2025 - Phishing Campaign
 cnhmultas-govbr.org
 #Janeiro/2025 - Malware family Unknown
 tetsted.com
-#janeiro/2025 - Malware family Js.Trojan.cryxos.12960
 #janeiro/2025 - Malware family android_hiddad
 weegraphooph.net
 #janeiro/2025 - Graywere
@@ -788,7 +771,6 @@ jaccs-lampast.vqulg.cn
 akutyforemploej.com
 #fevereiro/2025 - Adware related
 getrunkhomuto.info#Fevereiro/2025 - Malware family Unknown
-#Fevereiro/2025 - Malware family Win32.bundleloader.j
 #Fevereiro/2025 - Disposable email host
 gotmail.com
 imailt.com
@@ -800,7 +782,6 @@ dyetui.com
 cliquearquitetura.com.br
 #Fevereiro/2025 - Malware family Trojan.ml.b.wacatac.script
 prideuniformes.com.br
-#Fevereiro/2025 - Malware family Agent.mrro.jsmalware
 #Fevereiro/2025 - Malware family Trojan.Win32.bit.a.skeeyah
 100security.com.br
 www.100security.com.br
@@ -1504,7 +1485,6 @@ parashparyro.com
 instantfindresults.com
 #Setembro/2025 - Malware family magentocore
 kof.one
-kk.land
 #Setembro/2025 - Phishing
 onlinedocuments-sescmg-com.ikremvimnd.live
 panopdf.com
@@ -1603,3 +1583,5 @@ gpf12025.com
 commullec.com
 #Novembro/2025 - Phishing related
 esomultaity.com
+#Novembro/2025 - Malware family magentocore
+kk.land
