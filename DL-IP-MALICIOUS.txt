@@ -802,7 +802,6 @@
 184.105.139.68
 #Outubro/2025 - TBK DVR-4104 and DVR-4216 Command Injection Vulnerability
 87.120.191.84
-#Outubro/2025 - block preventivo
 #Novembro/2025 - Malware family Keitaro
 140.82.59.59
 5.11.83.138
@@ -814,3 +813,5 @@
 98.142.247.134
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.186
+#Novembro/2025 - Korplug Command and Control Traffic Detection 
+165.22.170.155
