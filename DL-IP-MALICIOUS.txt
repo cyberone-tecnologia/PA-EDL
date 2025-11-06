@@ -815,3 +815,5 @@
 65.49.1.186
 #Novembro/2025 - Korplug Command and Control Traffic Detection 
 165.22.170.155
+#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event 
+64.62.156.217
