@@ -824,3 +824,5 @@
 64.62.156.79
 64.62.156.77
 64.62.156.147
+#Novembro/2025 - phpunit Remote Code Execution Vulnerability
+220.247.224.162
