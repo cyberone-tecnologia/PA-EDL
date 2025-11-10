@@ -1573,8 +1573,6 @@ pay.sunize.com.br
 saudebradescobr.com.br
 #Novembro/2025 - Malware family Kelihos
 erstartirreleas.com
-#Novembro/2025 - Malware family magentocore
-cdn.myconvertr.com
 #Novembro/2025 - Malware family Trojan.downloader
 www.clubedainformatica.com.br
 #Novembro/2025 - Malicious behavior
@@ -1589,3 +1587,5 @@ kk.land
 cultingwe.com
 #Novembro/2025 - Malicious behavior
 adriano.cafe
+#Novembro/2025 - Malware family magentocore
+cdn.myconvertr.com
