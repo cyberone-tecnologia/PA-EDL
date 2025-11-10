@@ -819,3 +819,8 @@
 64.62.156.217
 #Novembro/2025 - ThinkPHP Remote Code Execution Vulnerability preceded by Drupal Core Remote Code Execution Vulnerability 
 193.26.115.195
+#Novembro/2025 - Exploit Threat Event
+64.62.197.150
+64.62.156.79
+64.62.156.77
+64.62.156.147
