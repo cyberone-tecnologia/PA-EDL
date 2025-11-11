@@ -773,7 +773,6 @@
 174.138.89.122
 #Outubro/2025 - Malware family Keitaro
 216.238.119.203
-185.36.147.38
 #Outubro/2025 - phpunit Remote Code Execution Vulnerability
 108.136.162.67
 217.154.126.101
@@ -826,3 +825,5 @@
 64.62.156.147
 #Novembro/2025 - phpunit Remote Code Execution Vulnerability
 220.247.224.162
+#Novembro/2025 - Malware family Keitaro
+185.36.147.38
