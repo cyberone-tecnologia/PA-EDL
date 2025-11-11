@@ -1589,3 +1589,5 @@ cultingwe.com
 cdn.myconvertr.com
 #Novembro/2025 - Malicious behavior
 adriano.cafe
+#Novembro/2025 - Malware family Unknown
+commonloamprojects.com
