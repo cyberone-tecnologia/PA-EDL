@@ -1600,3 +1600,5 @@ urbanhousebarbearia.com.br
 cfgz1-resource.happytudou.cc
 #Novembro/2025 - Phishing related
 regularizarsuadeclaracao.com
+#Novembro/2025 - Phishing related
+empautlipa.com
