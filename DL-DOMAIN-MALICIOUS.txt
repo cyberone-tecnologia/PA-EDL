@@ -1598,3 +1598,5 @@ anydesck.net
 urbanhousebarbearia.com.br
 #Novembro/2025 - Malware family Android.trojan.generic
 cfgz1-resource.happytudou.cc
+#Novembro/2025 - Phishing related
+regularizarsuadeclaracao.com
