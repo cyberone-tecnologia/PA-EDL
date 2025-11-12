@@ -1556,8 +1556,6 @@ zapgrande.com
 #Outubro/2025 - Out-of-Band (OAST) Techniques
 *.oast.pro
 *.interact.sh
-#Outubro/2025 - Malware whatsapp related
-varegjopeaks.com
 #Outubro/2025 - Malware family magentocore
 analyzrvisual.com
 #Outubro/2025 - Disposable email host
@@ -1602,3 +1600,5 @@ cfgz1-resource.happytudou.cc
 regularizarsuadeclaracao.com
 #Novembro/2025 - Phishing related
 empautlipa.com
+#Novembro/2025 - Phishing related
+varegjopeaks.com
