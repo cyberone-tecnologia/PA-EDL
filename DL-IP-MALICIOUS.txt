@@ -830,3 +830,5 @@
 185.40.4.100
 #Novembro/2025 - Multi-Stage WhatsApp Malware
 178.128.15.208
+#novembro/2025 - Multi-Stage WhatsApp Malware
+177.71.130.31
