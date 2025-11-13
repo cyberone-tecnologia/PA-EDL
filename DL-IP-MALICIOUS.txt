@@ -526,7 +526,6 @@
 #Junho/2025 - Malware family Atomic
 83.222.190.214
 #Julho/2025 - TOR NODE
-185.40.4.100
 95.217.112.218
 144.76.159.218
 137.74.164.213
@@ -835,3 +834,5 @@
 192.42.116.217
 #Novembro/2025 - Malware family Unknown
 45.141.215.200
+#Novembro/2025 - Malware family Unknown
+185.40.4.100
