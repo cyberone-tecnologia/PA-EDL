@@ -1235,8 +1235,6 @@ pessoajuridica-acesso-c-a-i-x-a.shop
 famitracker.com
 #Maio/2025 - Malware family ta2726
 apiexplorerzone.com
-#Maio/2025 - Malware family FakeUpdates
-cp.envisionfonddulac.biz
 #Maio/2025 - Malware family magentocore
 pixeltracker.me
 #Maio/2025 - Disposable email host
@@ -1600,4 +1598,5 @@ manoelimoveiscaioba.com
 013net.com.br
 miportuarios.com
 itrexmssl.com
-glefenfer2.luxoonline.online
+glefenfer2.luxoonline.online#Novembro/2025 - Malware family Fakeupdates
+cp.envisionfonddulac.biz
