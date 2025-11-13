@@ -836,3 +836,5 @@
 45.141.215.200
 #Novembro/2025 - Malware family Unknown
 185.40.4.100
+#Novembro/2025 - Multi-Stage WhatsApp Malware
+178.128.15.208
