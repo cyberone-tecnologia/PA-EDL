@@ -800,41 +800,33 @@
 #Novembro/2025 - Malware family Keitaro
 140.82.59.59
 5.11.83.138
+185.36.147.38
 #Novembro/2025 - Malicious IP
 196.251.81.21
 #Novembro/2025 - Korplug Command and Control Traffic Detection
 24.199.100.59
+165.22.170.155
 #Novembro/2025 - phpunit Remote Code Execution Vulnerability
 98.142.247.134
+220.247.224.162
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.186
-#Novembro/2025 - Korplug Command and Control Traffic Detection 
-165.22.170.155
-#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event 
 64.62.156.217
-#Novembro/2025 - ThinkPHP Remote Code Execution Vulnerability preceded by Drupal Core Remote Code Execution Vulnerability 
+#Novembro/2025 - ThinkPHP Remote Code Execution Vulnerability preceded by Drupal Core Remote Code Execution Vulnerability
 193.26.115.195
 #Novembro/2025 - Exploit Threat Event
 64.62.197.150
 64.62.156.79
 64.62.156.77
 64.62.156.147
-#Novembro/2025 - phpunit Remote Code Execution Vulnerability
-220.247.224.162
-#Novembro/2025 - Malware family Keitaro
-185.36.147.38
 #Novembro/2025 - MastaStealer
 38.134.148.74
 155.117.20.75
 #Novembro/2025 - Malware family Unknown
 185.40.4.101
-#Novembro/2025 - Malware family Unknown
 185.246.188.74
-#Novembro/2025 - Malware family Unknown
 192.42.116.217
-#Novembro/2025 - Malware family Unknown
 45.141.215.200
-#Novembro/2025 - Malware family Unknown
 185.40.4.100
 #Novembro/2025 - Multi-Stage WhatsApp Malware
 178.128.15.208
