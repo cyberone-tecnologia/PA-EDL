@@ -832,3 +832,5 @@
 178.128.15.208
 #novembro/2025 - Multi-Stage WhatsApp Malware
 177.71.130.31
+#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+65.49.1.198
