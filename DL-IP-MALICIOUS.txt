@@ -839,3 +839,4 @@
 #Novembro/2025 - VPN Private Internet Access
 95.181.234.15
 188.241.80.36
+95.181.234.33
