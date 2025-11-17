@@ -837,7 +837,8 @@
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.60
 #Novembro/2025 - VPN Private Internet Access
+95.181.234.33
 95.181.234.15
 188.241.80.36
-95.181.234.33
 146.70.38.56
+181.214.218.36
