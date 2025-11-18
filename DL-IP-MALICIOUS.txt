@@ -730,8 +730,6 @@
 158.94.209.120
 #Setembro/2025 - IP utilizado para enumeração de usuário/senha vazado
 208.84.102.196
-#Setembro/2025 - Site SCAM - Ofensa 5314
-185.158.133.1
 #Outubro/2025 - Malicious IP
 144.172.116.144
 144.172.106.140
@@ -812,6 +810,8 @@
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.186
 64.62.156.217
+65.49.1.198
+65.49.1.60
 #Novembro/2025 - ThinkPHP Remote Code Execution Vulnerability preceded by Drupal Core Remote Code Execution Vulnerability
 193.26.115.195
 #Novembro/2025 - Exploit Threat Event
@@ -832,10 +832,6 @@
 178.128.15.208
 #novembro/2025 - Multi-Stage WhatsApp Malware
 177.71.130.31
-#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-65.49.1.198
-#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-65.49.1.60
 #Novembro/2025 - VPN Private Internet Access
 62.133.47.26
 62.133.47.11
