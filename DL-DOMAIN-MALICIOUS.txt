@@ -1618,3 +1618,5 @@ serverseistemasatu.com
 www.hilgraeve.com
 #Novembro/2025 - Malware family Trojan.generic
 medworld.com.br
+#Novembro/2025 - Malware family Latrodectus
+gameswaka.com
