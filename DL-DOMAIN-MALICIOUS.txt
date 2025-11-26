@@ -1620,3 +1620,5 @@ www.hilgraeve.com
 medworld.com.br
 #Novembro/2025 - Malware family Latrodectus
 gameswaka.com
+#Novembro/2025 - Malware family Magecart
+nmn.is
