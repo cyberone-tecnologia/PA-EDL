@@ -867,3 +867,5 @@
 41.40.51.33
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 64.62.156.148
+#Novembro/2025 - VPN BlackVPN
+91.195.241.232
