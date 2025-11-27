@@ -1622,3 +1622,5 @@ medworld.com.br
 gameswaka.com
 #Novembro/2025 - Malware family Magecart
 nmn.is
+#Novembro/2025 - Phishing domain
+vcard.link
