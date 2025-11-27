@@ -1626,3 +1626,5 @@ nmn.is
 vcard.link
 #Novembro/2025 - Malicious behavior
 alojacasadonatal.com
+#Novembro/2025 - Malware family Trojan.generic
+ieqcosmopolis.com.br
