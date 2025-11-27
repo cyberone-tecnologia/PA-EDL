@@ -1624,3 +1624,5 @@ gameswaka.com
 nmn.is
 #Novembro/2025 - Phishing domain
 vcard.link
+#Novembro/2025 - Malicious behavior
+alojacasadonatal.com
