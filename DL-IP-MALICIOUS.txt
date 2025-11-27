@@ -865,3 +865,5 @@
 #Novembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 197.49.192.107
 41.40.51.33
+#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+64.62.156.148
