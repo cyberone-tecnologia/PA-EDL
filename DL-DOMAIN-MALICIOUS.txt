@@ -1630,3 +1630,5 @@ alojacasadonatal.com
 ieqcosmopolis.com.br
 #Novembro/2025 - VBS Threat Event
 26.182.153.160.host.secureserver.net
+#Novembro/2025 - Malware family Dyre
+enield.com
