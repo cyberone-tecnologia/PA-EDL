@@ -877,3 +877,5 @@
 64.62.197.31
 #Novembro/2025 - GPON Home Routers Remote Code Execution Vulnerability
 95.111.230.149
+#Novembro/2025 - phpunit Remote Code Execution Vulnerability
+178.128.93.214
