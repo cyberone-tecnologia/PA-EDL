@@ -875,3 +875,5 @@
 197.58.235.41
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 64.62.197.31
+#Novembro/2025 - GPON Home Routers Remote Code Execution Vulnerability
+95.111.230.149
