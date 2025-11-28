@@ -1632,3 +1632,5 @@ ieqcosmopolis.com.br
 26.182.153.160.host.secureserver.net
 #Novembro/2025 - Malware family Dyre
 enield.com
+#Novembro/2025 - VBS Threat Event
+crisonsul.angelicamob.sbs
