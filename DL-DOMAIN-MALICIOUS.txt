@@ -1628,3 +1628,5 @@ vcard.link
 alojacasadonatal.com
 #Novembro/2025 - Malware family Trojan.generic
 ieqcosmopolis.com.br
+#Novembro/2025 - VBS Threat Event
+26.182.153.160.host.secureserver.net
