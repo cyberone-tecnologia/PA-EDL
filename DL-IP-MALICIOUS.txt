@@ -879,3 +879,5 @@
 95.111.230.149
 #Novembro/2025 - phpunit Remote Code Execution Vulnerability
 178.128.93.214
+#Novembro/2025 - Phishing domain
+108.167.151.99
