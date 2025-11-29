@@ -881,3 +881,5 @@
 178.128.93.214
 #Novembro/2025 - Phishing domain
 108.167.151.99
+#Novembro/2025 - Malware family stealer
+208.115.225.220
