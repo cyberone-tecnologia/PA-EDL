@@ -883,3 +883,8 @@
 108.167.151.99
 #Novembro/2025 - Malware family stealer
 208.115.225.220
+#Dezembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
+156.212.238.105
+156.214.238.176
+197.246.74.18
+156.203.0.108
