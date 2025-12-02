@@ -1344,7 +1344,6 @@ replevysquab.top
 blacktargstore.com.br
 www.controlemunicipal.com.br
 gamebase.app
-files.tryflowdrive.com
 advertipros.com
 #Julho/2025 - Malicious domain
 lutolit.modalidadeforte.com
@@ -1636,3 +1635,5 @@ crisonsul.angelicamob.sbs
 ultimasemanadofeirao.vercel.app
 #Dezembro/2025 - Malware family Magecart
 nmn.is
+#Dezembro/2025 - Malware family Trojan.generic
+files.tryflowdrive.com
