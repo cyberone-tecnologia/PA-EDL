@@ -893,3 +893,5 @@
 41.37.217.202
 181.1.154.170
 156.204.184.138
+#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+65.49.1.140
