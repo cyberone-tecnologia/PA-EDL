@@ -898,3 +898,5 @@
 #Dezembro/2025 - Brute force related
 173.239.240.104
 173.239.240.106
+#Dezembro/2025 - Malware family Mirai
+158.94.210.88
