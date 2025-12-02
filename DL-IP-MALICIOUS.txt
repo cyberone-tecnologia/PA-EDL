@@ -895,3 +895,6 @@
 156.204.184.138
 #Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.140
+#Dezembro/2025 - Brute force related
+173.239.240.104
+173.239.240.106
