@@ -1620,8 +1620,6 @@ www.hilgraeve.com
 medworld.com.br
 #Novembro/2025 - Malware family Latrodectus
 gameswaka.com
-#Novembro/2025 - Malware family Magecart
-nmn.is
 #Novembro/2025 - Phishing domain
 vcard.link
 #Novembro/2025 - Malicious behavior
@@ -1636,3 +1634,5 @@ enield.com
 crisonsul.angelicamob.sbs
 #Dezembro/2025 - Phishing domain
 ultimasemanadofeirao.vercel.app
+#Dezembro/2025 - Malware family Magecart
+nmn.is
