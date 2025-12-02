@@ -888,3 +888,8 @@
 156.214.238.176
 197.246.74.18
 156.203.0.108
+#Dezembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
+197.52.217.0
+41.37.217.202
+181.1.154.170
+156.204.184.138
