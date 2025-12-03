@@ -903,3 +903,5 @@
 41.43.165.173
 #Dezembro/2025 - Malware family Unknown
 107.150.97.230
+#Dezembro/2025 - Korplug Command and Control Traffic Detection
+170.130.204.74
