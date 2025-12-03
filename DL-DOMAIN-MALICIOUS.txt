@@ -1637,3 +1637,5 @@ nmn.is
 files.tryflowdrive.com
 #Dezembro/2025 - Malware family Adware.generic
 app.malcare.me
+#Dezembro/2025 - Phishing domain
+fullpdfword.org
