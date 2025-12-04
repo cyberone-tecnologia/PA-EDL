@@ -4089,7 +4089,7 @@ b46817aa6fe97221446e7e01624b7cdce026def83eb6892e674b8983e7fa5957
 988a56d897915315eef9ca679b3bc8adfcecf5e227aea99aaa1817620520e97e
 #Novembro/2025 - Malware family Dyre
 95a65f6b262aa594aea500893dd28e923fff7f0c162bbab46452115f08026f5d
-#Dezembro/2025 - Malware family Trojan.generic
-85d5eabc78cd7e09abee3c3761cdeab742054ef341546c76bfb20974fb7c4846
 #Dezembro/2025 - Phishing related
 cc180ad4c8d018a65242391be50abd57502ab115ced07c81ee33b784246b4b34
+#Dezembro/2025 - Malware family Trojan.generic
+85d5eabc78cd7e09abee3c3761cdeab742054ef341546c76bfb20974fb7c4846
