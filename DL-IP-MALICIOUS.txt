@@ -907,3 +907,13 @@
 170.130.204.74
 #Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 184.105.247.194
+#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+173.239.240.65
+136.144.35.43
+136.144.35.99
+136.144.35.57
+173.239.240.63
+136.144.35.76
+173.239.240.76
+136.144.35.59
+136.144.35.101
