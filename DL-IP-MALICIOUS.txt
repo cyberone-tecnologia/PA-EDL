@@ -960,3 +960,5 @@
 136.144.35.83
 #Dezembro/2025 - VPN BlackVPN
 91.195.241.232
+#Dezembro/2025 - phpunit Remote Code Execution Vulnerability
+13.229.91.176
