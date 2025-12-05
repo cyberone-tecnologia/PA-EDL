@@ -1639,3 +1639,6 @@ app.malcare.me
 fullpdfword.org
 #Dezembro/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
+#Dezembro/2025 - Phishing related
+vergclientemrxula1315.hotmart.host
+entrega-digital.dadoscidadao.kyiv.ua
