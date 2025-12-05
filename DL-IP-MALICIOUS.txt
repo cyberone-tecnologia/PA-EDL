@@ -917,3 +917,6 @@
 136.144.35.101
 #Dezembro/2025 - VPN BlackVPN
 91.195.241.232
+#Dezembro/2025 - Brute force related
+136.144.35.83
+136.144.35.95
