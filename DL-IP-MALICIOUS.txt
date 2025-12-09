@@ -962,3 +962,6 @@
 91.195.241.232
 #Dezembro/2025 - phpunit Remote Code Execution Vulnerability
 13.229.91.176
+#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+64.62.156.163
+184.105.247.195
