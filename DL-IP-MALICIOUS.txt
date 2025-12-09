@@ -965,3 +965,5 @@
 #Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 64.62.156.163
 184.105.247.195
+#Dezembro/2025 - Potential Cobalt Strike Usage containing Unknown Application
+165.154.163.10
