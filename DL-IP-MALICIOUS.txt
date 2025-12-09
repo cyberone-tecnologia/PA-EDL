@@ -967,3 +967,5 @@
 184.105.247.195
 #Dezembro/2025 - Potential Cobalt Strike Usage containing Unknown Application
 165.154.163.10
+#Dezembro/2025 - VPN V2Ray
+103.224.212.211
