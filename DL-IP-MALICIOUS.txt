@@ -983,3 +983,5 @@
 173.239.240.67
 173.239.240.64
 173.239.240.81
+#Dezembro/2025 - Brute force related - Authentication Failures
+173.239.240.84
