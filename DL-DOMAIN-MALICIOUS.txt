@@ -1646,3 +1646,5 @@ app.malcare.me
 checkitoutxx.com
 #Dezembro/2025 - Malicious behavior
 buryebilgrill.online
+#Dezembro/2025 - Phishing domain
+realiza-protocolo.vercel.app
