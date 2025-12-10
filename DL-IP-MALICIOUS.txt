@@ -969,3 +969,5 @@
 165.154.163.10
 #Dezembro/2025 - VPN V2Ray
 103.224.212.211
+#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+64.62.197.132
