@@ -988,3 +988,5 @@
 173.239.240.69
 #Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.218
+#Dezembro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
+134.122.28.88
