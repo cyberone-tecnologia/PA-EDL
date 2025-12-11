@@ -1396,8 +1396,6 @@ painel.icorreiosencomendaregular.co.ua
 guitarflash3.com
 #Agosto/2025 - Malware family fakeapp
 ys52f.com
-#Agosto/2025 - Malware family Darkcomet
-www.onceokuloncesi.com
 #Agosto/2025 - Malware family Trojan.generic
 prodigits.co.uk
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
@@ -1652,3 +1650,5 @@ anl.is
 #Dezembro/2025 - Brazil banking Phishing related
 conviteblackexclusivo.com
 clientecenturion.com
+#Dezembro/2025 - Malware family Darkcomet
+www.onceokuloncesi.com
