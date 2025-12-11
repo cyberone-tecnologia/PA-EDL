@@ -967,8 +967,6 @@
 184.105.247.195
 #Dezembro/2025 - Potential Cobalt Strike Usage containing Unknown Application
 165.154.163.10
-#Dezembro/2025 - VPN V2Ray
-103.224.212.211
 #Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 64.62.197.132
 #Dezembro/2025 - Brute force related - Authentication Failures
@@ -992,3 +990,5 @@
 134.122.28.88
 #Dezembro/2025 - phpunit Remote Code Execution Vulnerability
 209.146.60.227
+#Dezembro/2025 - VPN V2Ray
+103.224.212.211
