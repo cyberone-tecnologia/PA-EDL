@@ -986,3 +986,5 @@
 #Dezembro/2025 - Brute force related - Authentication Failures
 173.239.240.64
 173.239.240.69
+#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
+65.49.1.218
