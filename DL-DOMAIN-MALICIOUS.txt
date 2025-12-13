@@ -1575,7 +1575,6 @@ urbanhousebarbearia.com.br
 regularizarsuadeclaracao.com
 #Novembro/2025 - Malware family magentocore
 kk.land
-cdn.myconvertr.com
 #Novembro/2025 - MastaStealer
 cmqsqomiwwksmcsw.xyz
 ykgmqooyusggyyya.xyz
@@ -1654,3 +1653,5 @@ clientecenturion.com
 www.onceokuloncesi.com
 #Dezembro/2025 - Malicious behavior
 emocionaai.com
+#Dezembro/2025 - Malware family magentocore
+cdn.myconvertr.com
