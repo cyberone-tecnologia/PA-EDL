@@ -1344,7 +1344,6 @@ replevysquab.top
 blacktargstore.com.br
 www.controlemunicipal.com.br
 gamebase.app
-files.tryflowdrive.com
 advertipros.com
 #Julho/2025 - Malicious domain
 lutolit.modalidadeforte.com
@@ -1388,7 +1387,6 @@ consent.clarosgvas.mobicare.com.br
 kifortequimica.com.br
 #Agosto/2025 - Malware family magentocore
 crafttrendly.com
-anl.is
 #agosto/2025 - Phishing API related
 searchapi.dnnl.live
 #agosto/2025 - Phishing related
@@ -1398,10 +1396,7 @@ painel.icorreiosencomendaregular.co.ua
 guitarflash3.com
 #Agosto/2025 - Malware family fakeapp
 ys52f.com
-#Agosto/2025 - Malware family Darkcomet
-www.onceokuloncesi.com
 #Agosto/2025 - Malware family Trojan.generic
-medworld.com.br
 prodigits.co.uk
 #Agosto/2025 - Malware hash: add91e97a9591e3a0f188ff63f63a910663522613cd1a972b0c28bf799755664
 utysolomonaut.com
@@ -1493,8 +1488,6 @@ brilhodefogo.com
 dasopdoaodoaoaoao.com
 #Setembro/2025 - block phishing ofensa 5216
 tenhodireito.shop
-#Setembro/2025 - Malware family Adware.generic - Lumu
-app.malcare.me
 #Outubro/2025 - Phishing domain
 juliamoss.com.br
 clik.now
@@ -1582,7 +1575,6 @@ urbanhousebarbearia.com.br
 regularizarsuadeclaracao.com
 #Novembro/2025 - Malware family magentocore
 kk.land
-cdn.myconvertr.com
 #Novembro/2025 - MastaStealer
 cmqsqomiwwksmcsw.xyz
 ykgmqooyusggyyya.xyz
@@ -1595,7 +1587,6 @@ empautlipa.com
 varegjopeaks.com
 manoelimoveiscaioba.com
 013net.com.br
-miportuarios.com
 itrexmssl.com
 centrogauchodabahia123.com
 glefenfer2.luxoonline.online
@@ -1609,3 +1600,60 @@ eavailandpro.com
 #novembro/2025 - Phishing related
 hecalistatleto.com
 oundhertobeconsist.org
+#Novembro/2025 - Multi-Stage WhatsApp Malware
+alentodolcevitad.com
+miportuarios.com
+mazdafinancialsevrices.com
+adilsonralfadvocaciad.com
+domimoveis1.com.br
+serverseistemasatu.com
+#Novembro/2025 - Malware family Remoteadmin
+www.hilgraeve.com
+#Novembro/2025 - Malware family Trojan.generic
+medworld.com.br
+#Novembro/2025 - Malware family Latrodectus
+gameswaka.com
+#Novembro/2025 - Phishing domain
+vcard.link
+#Novembro/2025 - Malicious behavior
+alojacasadonatal.com
+#Novembro/2025 - Malware family Trojan.generic
+ieqcosmopolis.com.br
+#Novembro/2025 - VBS Threat Event
+26.182.153.160.host.secureserver.net
+#Novembro/2025 - Malware family Dyre
+enield.com
+#Novembro/2025 - VBS Threat Event
+crisonsul.angelicamob.sbs
+#Dezembro/2025 - Phishing domain
+ultimasemanadofeirao.vercel.app
+#Dezembro/2025 - Malware family Magecart
+nmn.is
+#Dezembro/2025 - Phishing domain
+fullpdfword.org
+#Dezembro/2025 - Malware family Trojan.generic
+files.tryflowdrive.com
+#Dezembro/2025 - Phishing related
+vergclientemrxula1315.hotmart.host
+entrega-digital.dadoscidadao.kyiv.ua
+#Dezembro/2025 - Malware family Adware.generic
+app.malcare.me
+#Dezembro/2025 - Malware family Adware.generic
+checkitoutxx.com
+#Dezembro/2025 - Malicious behavior
+buryebilgrill.online
+#Dezembro/2025 - Phishing domain
+realiza-protocolo.vercel.app
+#Dezembro/2025 - Malware family Magecart
+anl.is
+#Dezembro/2025 - Brazil banking Phishing related
+conviteblackexclusivo.com
+clientecenturion.com
+#Dezembro/2025 - Malware family Darkcomet
+www.onceokuloncesi.com
+#Dezembro/2025 - Malicious behavior
+emocionaai.com
+#Dezembro/2025 - Malware family magentocore
+cdn.myconvertr.com
+#Dezembro/2025 - Malware family Clearfake
+tdsworkout.com
