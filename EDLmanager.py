@@ -147,18 +147,18 @@ def formatMonth():
     month = calendar.month_name[today.month]
     year = today.year
     month_pt = {
-        'January': 'janeiro',
-        'February': 'fevereiro',
-        'March': 'março',
-        'April': 'abril',
-        'May': 'maio',
-        'June': 'junho',
-        'July': 'julho',
-        'August': 'agosto',
-        'September': 'setembro',
-        'October': 'outubro',
-        'November': 'novembro',
-        'December': 'dezembro'
+        'January': 'Janeiro',
+        'February': 'Fevereiro',
+        'March': 'Março',
+        'April': 'Abril',
+        'May': 'Maio',
+        'June': 'Junho',
+        'July': 'Julho',
+        'August': 'Agosto',
+        'September': 'Setembro',
+        'October': 'Outubro',
+        'November': 'Novembro',
+        'December': 'Dezembro'
     }
     return f'#{month_pt[month]}/{year} - '
 
