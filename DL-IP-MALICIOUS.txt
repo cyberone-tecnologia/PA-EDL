@@ -994,3 +994,7 @@
 103.224.212.211
 #Dezembro/2025 - Malware family Unknown
 103.136.68.61
+#Dezembro/2025 - GlobalProtect Authentitacation Attempt
+173.239.240.243
+173.239.240.238
+2.57.168.4
