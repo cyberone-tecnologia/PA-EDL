@@ -992,3 +992,5 @@
 209.146.60.227
 #Dezembro/2025 - VPN V2Ray
 103.224.212.211
+#Dezembro/2025 - Malware family Unknown
+103.136.68.61
