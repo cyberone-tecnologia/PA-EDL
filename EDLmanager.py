@@ -35,6 +35,9 @@ def vtScan(ioc,type, api):
         ioc = ioc.lstrip('*.') #remove wildcard *.example.com
         url = f'https://www.virustotal.com/api/v3/domains/{ioc}'
         view_url = f'https://www.virustotal.com/gui/domain/{ioc}'
+    elif type == 'hash':
+        url = f'https://www.virustotal.com/api/v3/files/{ioc}'
+        view_url = f'https://www.virustotal.com/gui/file/{ioc}'
     headers = {
         "accept": "application/json",
         "x-apikey": api  # Virustotal API KEY
@@ -68,6 +71,8 @@ def checkIOC(ioc, type, api_abuse, api_vt):
         ab = abuseIPDB(ioc,api_abuse)
     elif type == 'domain':
         vt = vtScan(ioc,'domain',api_vt)
+    elif type == 'hash':
+        vt = vtScan(ioc,'hash',api_vt)
     time.sleep(15) #api limit 4 request per minute
     return vt or ab
 
@@ -188,7 +193,7 @@ def main():
 
     if args.cleaner:
         for key, (ioc_type, file_path) in arg_map.items():
-            if args.cleaner == key and key in ('ip','domain'):
+            if args.cleaner == key and key in ('ip','domain','hash'):
                 cleanEDL(file_path, ioc_type, abuseipdb_api, virustotal_api)
                 return
         parser.error("To use --cleaner, specify one of the following: -cl ip or -cl domain to indicate the IOC type to clear.")
