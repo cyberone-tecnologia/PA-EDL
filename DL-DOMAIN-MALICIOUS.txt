@@ -1666,3 +1666,5 @@ public.gensparkspace.com
 notio.so
 #Dezembro/2025 - Malware family Clearfake
 agenciadelivearte.com.br
+#Dezembro/2025 - Phishing related
+ghost.nestdns.com
