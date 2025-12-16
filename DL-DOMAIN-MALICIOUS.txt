@@ -1662,3 +1662,5 @@ mercadopago-ssl333.txbronline.net
 acesso-dispositivobr.profissional.ws
 #Dezembro/2025 - Phishing domain
 public.gensparkspace.com
+#Dezembro/2025 - Phishing related
+notio.so
