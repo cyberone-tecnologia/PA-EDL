@@ -1016,3 +1016,5 @@
 77.211.142.198
 #Dezembro/2025 - Remote code execution
 54.151.176.0
+#Dezembro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
+184.105.247.252
