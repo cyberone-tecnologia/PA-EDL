@@ -1644,8 +1644,6 @@ checkitoutxx.com
 buryebilgrill.online
 #Dezembro/2025 - Phishing domain
 realiza-protocolo.vercel.app
-#Dezembro/2025 - Malware family Magecart
-anl.is
 #Dezembro/2025 - Brazil banking Phishing related
 conviteblackexclusivo.com
 clientecenturion.com
@@ -1668,3 +1666,5 @@ notio.so
 agenciadelivearte.com.br
 #Dezembro/2025 - Phishing related
 ghost.nestdns.com
+#Dezembro/2025 - Malware family Magecart
+anl.is
