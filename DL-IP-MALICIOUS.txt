@@ -1018,3 +1018,5 @@
 54.151.176.0
 #Dezembro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 184.105.247.252
+#Dezembro/2025 - Korplug Command and Control Traffic Detection
+162.243.206.65
