@@ -1020,3 +1020,5 @@
 184.105.247.252
 #Dezembro/2025 - Korplug Command and Control Traffic Detection
 162.243.206.65
+#Dezembro/2025 - Malware family Clearfake
+68.66.200.212
