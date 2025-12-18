@@ -1024,3 +1024,5 @@
 68.66.200.212
 #Dezembro/2025 - VPN Private Internet Access
 202.125.43.11
+#Dezembro/2025 - React Server Components Remote Code Execution Vulnerability
+189.99.186.73
