@@ -1022,7 +1022,7 @@
 162.243.206.65
 #Dezembro/2025 - Malware family Clearfake
 68.66.200.212
-#Dezembro/2025 - VPN Private Internet Access
-202.125.43.11
 #Dezembro/2025 - React Server Components Remote Code Execution Vulnerability
 189.99.186.73
+#Dezembro/2025 - VPN Private Internet Access
+202.125.43.11
