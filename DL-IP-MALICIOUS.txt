@@ -1026,3 +1026,5 @@
 189.99.186.73
 #Dezembro/2025 - VPN Private Internet Access
 202.125.43.11
+#Dezembro/2025 - Recon
+172.233.21.217
