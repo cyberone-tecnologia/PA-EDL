@@ -1637,8 +1637,6 @@ files.tryflowdrive.com
 vergclientemrxula1315.hotmart.host
 entrega-digital.dadoscidadao.kyiv.ua
 #Dezembro/2025 - Malware family Adware.generic
-app.malcare.me
-#Dezembro/2025 - Malware family Adware.generic
 checkitoutxx.com
 #Dezembro/2025 - Malicious behavior
 buryebilgrill.online
@@ -1668,3 +1666,5 @@ agenciadelivearte.com.br
 ghost.nestdns.com
 #Dezembro/2025 - Malware family Magecart
 anl.is
+#Dezembro/2025 - Malware family Adware.generic
+app.malcare.me
