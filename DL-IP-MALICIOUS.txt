@@ -1098,3 +1098,5 @@
 64.62.197.82
 #Dezembro/2025 - VPN Private Internet Access
 173.239.194.244
+#Dezembro/2025 - VPN Private Internet Access
+31.171.153.29
