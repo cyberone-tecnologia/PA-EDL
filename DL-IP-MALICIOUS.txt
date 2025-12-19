@@ -1093,3 +1093,6 @@
 65.49.1.81
 #Dezembro/2025 - HTTP OPTIONS Method
 172.233.21.217
+#Dezembro/2025 - Non-RFC Compliant MS-RDP Traffic on Port 3389
+64.62.197.86
+64.62.197.82
