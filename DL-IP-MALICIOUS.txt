@@ -1089,3 +1089,5 @@
 146.190.154.220
 #Dezembro/2025 - Non-RFC Compliant TFTP Traffic on Port 69
 47.251.36.190
+#Dezembro/2025 - Suspicious HTTP Evasion Found
+157.245.209.233
