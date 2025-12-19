@@ -1087,3 +1087,5 @@
 137.184.85.135
 177.10.201.11
 146.190.154.220
+#Dezembro/2025 - Non-RFC Compliant TFTP Traffic on Port 69
+47.251.36.190
