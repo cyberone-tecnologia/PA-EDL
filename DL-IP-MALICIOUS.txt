@@ -1082,7 +1082,6 @@
 64.62.156.23
 65.49.1.84
 64.62.156.11
-65.49.1.81
 #Dezembro/2025 - Non-RFC Compliant DNS Traffic on Port 53/5353
 137.184.85.135
 177.10.201.11
@@ -1091,3 +1090,6 @@
 47.251.36.190
 #Dezembro/2025 - Suspicious HTTP Evasion Found
 157.245.209.233
+#Dezembro/2025 - CLDAP Reflection DDoS Attempt
+65.49.1.83
+65.49.1.81
