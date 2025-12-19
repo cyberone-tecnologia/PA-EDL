@@ -1030,3 +1030,5 @@
 172.233.21.217
 #Dezembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 41.45.119.32
+#Dezembro/2025 - Palo Alto Networks GlobalProtect Portal Login Attempt
+173.239.240.235
