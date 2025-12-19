@@ -1028,3 +1028,5 @@
 202.125.43.11
 #Dezembro/2025 - Recon
 172.233.21.217
+#Dezembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
+41.45.119.32
