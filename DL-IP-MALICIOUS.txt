@@ -1078,3 +1078,8 @@
 173.239.240.238
 #Dezembro/2025 - DNS ANY Request
 87.120.191.127
+#Dezembro/2025 - GTPv1 Echo Request Message
+64.62.156.23
+65.49.1.84
+64.62.156.11
+65.49.1.81
