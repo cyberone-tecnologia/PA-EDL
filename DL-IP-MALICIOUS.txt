@@ -1022,8 +1022,6 @@
 189.99.186.73
 #Dezembro/2025 - VPN Private Internet Access
 202.125.43.11
-#Dezembro/2025 - Recon
-172.233.21.217
 #Dezembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 41.45.119.32
 #Dezembro/2025 - Palo Alto Networks GlobalProtect Authentication Attempt
@@ -1093,3 +1091,5 @@
 #Dezembro/2025 - CLDAP Reflection DDoS Attempt
 65.49.1.83
 65.49.1.81
+#Dezembro/2025 - HTTP OPTIONS Method
+172.233.21.217
