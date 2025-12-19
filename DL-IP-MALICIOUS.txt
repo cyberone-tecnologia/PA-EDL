@@ -1032,3 +1032,5 @@
 41.45.119.32
 #Dezembro/2025 - Palo Alto Networks GlobalProtect Portal Login Attempt
 173.239.240.235
+#Dezembro/2025 - Palo Alto Networks GlobalProtect Portal Login Attempt
+173.239.240.239
