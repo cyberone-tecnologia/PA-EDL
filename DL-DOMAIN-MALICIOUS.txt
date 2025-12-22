@@ -1668,3 +1668,5 @@ ghost.nestdns.com
 anl.is
 #Dezembro/2025 - Malware family Adware.generic
 app.malcare.me
+#Dezembro/2025 - Malicious behavior
+drogariapagmenos.com
