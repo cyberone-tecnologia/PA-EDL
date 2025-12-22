@@ -1656,8 +1656,6 @@ tdsworkout.com
 #Dezembro/2025 - ML Phishing
 mercadopago-ssl333.txbronline.net
 acesso-dispositivobr.profissional.ws
-#Dezembro/2025 - Phishing domain
-public.gensparkspace.com
 #Dezembro/2025 - Phishing related
 notio.so
 #Dezembro/2025 - Malware family Clearfake
@@ -1670,3 +1668,5 @@ anl.is
 app.malcare.me
 #Dezembro/2025 - Malicious behavior
 drogariapagmenos.com
+#Dezembro/2025 - Phishing domain
+public.gensparkspace.com
