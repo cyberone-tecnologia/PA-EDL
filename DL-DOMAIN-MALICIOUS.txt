@@ -1647,8 +1647,6 @@ conviteblackexclusivo.com
 clientecenturion.com
 #Dezembro/2025 - Malware family Darkcomet
 www.onceokuloncesi.com
-#Dezembro/2025 - Malicious behavior
-emocionaai.com
 #Dezembro/2025 - Malware family magentocore
 cdn.myconvertr.com
 #Dezembro/2025 - Malware family Clearfake
@@ -1677,3 +1675,5 @@ portalregularizarcpf.com
 convitebradescardcenturion.com
 #Dezembro/2025 - Malware family fakeapp
 nossabh.org.br
+#Dezembro/2025 - Malicious behavior
+emocionaai.com
