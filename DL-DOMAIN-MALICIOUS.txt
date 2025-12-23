@@ -1670,3 +1670,8 @@ app.malcare.me
 drogariapagmenos.com
 #Dezembro/2025 - Phishing domain
 public.gensparkspace.com
+#Dezembro/2025 - Phishing related
+webfaturaprim.com
+7c2d25.analyzemyreceipt.com
+portalregularizarcpf.com
+convitebradescardcenturion.com
