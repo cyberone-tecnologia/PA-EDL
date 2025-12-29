@@ -1652,8 +1652,6 @@ conviteblackexclusivo.com
 clientecenturion.com
 #Dezembro/2025 - Malware family Darkcomet
 www.onceokuloncesi.com
-#Dezembro/2025 - Malware family magentocore
-cdn.myconvertr.com
 #Dezembro/2025 - Malware family Clearfake
 tdsworkout.com
 agenciadelivearte.com.br
@@ -1665,3 +1663,5 @@ torealiukzemydr.org
 #Dezembro/2025 - Malware family fakeapp
 nossabh.org.br
 xyrmiskisxyr.cc
+#Dezembro/2025 - Malware family magentocore
+cdn.myconvertr.com
