@@ -1084,3 +1084,6 @@
 64.62.197.82
 #Dezembro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
 130.12.180.18
+#Dezembro/2025 - XMRig Miner Command and Control Traffic Detection
+104.243.43.115
+104.243.33.118
