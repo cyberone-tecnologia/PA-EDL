@@ -981,6 +981,7 @@
 #Dezembro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 134.122.28.88
 184.105.247.252
+65.49.20.67
 #Dezembro/2025 - VPN V2Ray
 103.224.212.211
 #Dezembro/2025 - TOR NODE
@@ -1004,6 +1005,7 @@
 68.66.200.212
 #Dezembro/2025 - React Server Components Remote Code Execution Vulnerability
 189.99.186.73
+130.12.180.207
 #Dezembro/2025 - VPN Private Internet Access
 202.125.43.11
 173.239.194.244
