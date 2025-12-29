@@ -1011,7 +1011,6 @@
 202.125.43.11
 173.239.194.244
 181.214.199.125
-31.171.153.29
 179.61.228.171
 #Dezembro/2025 - Palo Alto Networks GlobalProtect Authentication Attempt
 173.239.240.234
@@ -1090,3 +1089,5 @@
 #Dezembro/2025 - XMRig Miner Command and Control Traffic Detection
 104.243.43.115
 104.243.33.118
+#Dezembro/2025 - VPN Private Internet Access
+31.171.153.29
