@@ -1528,7 +1528,6 @@ www.paixaocameras.com.br
 brbets777.com
 www.bcv.cv
 #Outubro/2025 - Malware family Trojan.downloader
-mgperfil.com.br
 deniswarren.com
 vidabemvinda.com.br
 #Outubro/2025 - Malware family PDF.maliciousmalware
@@ -1667,3 +1666,5 @@ xyrmiskisxyr.cc
 cdn.myconvertr.com
 #Dezembro/2025 - Malicious behavior
 lojamaisdesejo.com
+#Dezembro/2025 - Malware family Trojan.downloader
+mgperfil.com.br
