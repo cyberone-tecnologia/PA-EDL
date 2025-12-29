@@ -807,11 +807,14 @@
 #Novembro/2025 - phpunit Remote Code Execution Vulnerability
 98.142.247.134
 220.247.224.162
+178.128.93.214
 #Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.186
 64.62.156.217
 65.49.1.198
 65.49.1.60
+64.62.156.148
+64.62.197.31
 #Novembro/2025 - ThinkPHP Remote Code Execution Vulnerability preceded by Drupal Core Remote Code Execution Vulnerability
 193.26.115.195
 #Novembro/2025 - Exploit Threat Event
@@ -860,23 +863,14 @@
 146.70.98.22
 #Novembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 156.223.79.128
-#Novembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 196.188.135.20
-#Novembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 197.49.192.107
 41.40.51.33
-#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-64.62.156.148
-#Novembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 197.60.131.38
 197.56.217.6
 197.58.235.41
-#Novembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-64.62.197.31
 #Novembro/2025 - GPON Home Routers Remote Code Execution Vulnerability
 95.111.230.149
-#Novembro/2025 - phpunit Remote Code Execution Vulnerability
-178.128.93.214
 #Novembro/2025 - Phishing domain
 108.167.151.99
 #Novembro/2025 - Malware family stealer
@@ -886,26 +880,23 @@
 156.214.238.176
 197.246.74.18
 156.203.0.108
-#Dezembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
 197.52.217.0
 41.37.217.202
 181.1.154.170
 156.204.184.138
+41.45.119.32
 #Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
 65.49.1.140
+184.105.247.194
+64.62.156.163
+184.105.247.195
+64.62.197.132
+65.49.1.218
+64.62.156.223
+130.12.180.122
 #Dezembro/2025 - Brute force related
 173.239.240.104
 173.239.240.106
-#Dezembro/2025 - Malware family Mirai
-158.94.210.88
-41.43.165.173
-#Dezembro/2025 - Malware family Unknown
-107.150.97.230
-#Dezembro/2025 - Korplug Command and Control Traffic Detection
-170.130.204.74
-#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-184.105.247.194
-#Dezembro/2025 - Brute force related
 173.239.240.65
 136.144.35.43
 136.144.35.45
@@ -958,17 +949,22 @@
 173.239.240.66
 136.144.35.47
 136.144.35.83
+#Dezembro/2025 - Malware family Mirai
+158.94.210.88
+41.43.165.173
+#Dezembro/2025 - Malware family Unknown
+107.150.97.230
+103.136.68.61
+#Dezembro/2025 - Korplug Command and Control Traffic Detection
+170.130.204.74
+162.243.206.65
 #Dezembro/2025 - VPN BlackVPN
 91.195.241.232
 #Dezembro/2025 - phpunit Remote Code Execution Vulnerability
 13.229.91.176
-#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-64.62.156.163
-184.105.247.195
+209.146.60.227
 #Dezembro/2025 - Potential Cobalt Strike Usage containing Unknown Application
 165.154.163.10
-#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-64.62.197.132
 #Dezembro/2025 - Brute force related - Authentication Failures
 173.239.240.75
 173.239.240.80
@@ -979,24 +975,16 @@
 173.239.240.78
 173.239.240.67
 173.239.240.81
-#Dezembro/2025 - Brute force related - Authentication Failures
 173.239.240.84
-#Dezembro/2025 - Brute force related - Authentication Failures
 173.239.240.64
 173.239.240.69
-#Dezembro/2025 - Unrecognized Vulnerability Exploit Threat Event
-65.49.1.218
 #Dezembro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 134.122.28.88
-#Dezembro/2025 - phpunit Remote Code Execution Vulnerability
-209.146.60.227
+184.105.247.252
 #Dezembro/2025 - VPN V2Ray
 103.224.212.211
-#Dezembro/2025 - Malware family Unknown
-103.136.68.61
 #Dezembro/2025 - TOR NODE
 51.159.211.57
-#Dezembro/2025 - TOR NODE
 124.198.131.29
 #Dezembro/2025 - Password Spray attempt
 179.61.131.144
@@ -1012,18 +1000,16 @@
 77.211.142.198
 #Dezembro/2025 - Remote code execution
 54.151.176.0
-#Dezembro/2025 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
-184.105.247.252
-#Dezembro/2025 - Korplug Command and Control Traffic Detection
-162.243.206.65
 #Dezembro/2025 - Malware family Clearfake
 68.66.200.212
 #Dezembro/2025 - React Server Components Remote Code Execution Vulnerability
 189.99.186.73
 #Dezembro/2025 - VPN Private Internet Access
 202.125.43.11
-#Dezembro/2025 - MVPower DVR Shell Unauthenticated Command Execution Vulnerability
-41.45.119.32
+173.239.194.244
+181.214.199.125
+31.171.153.29
+179.61.228.171
 #Dezembro/2025 - Palo Alto Networks GlobalProtect Authentication Attempt
 173.239.240.234
 136.144.35.166
@@ -1096,11 +1082,5 @@
 #Dezembro/2025 - Non-RFC Compliant MS-RDP Traffic on Port 3389
 64.62.197.86
 64.62.197.82
-#Dezembro/2025 - VPN Private Internet Access
-173.239.194.244
-#Dezembro/2025 - VPN Private Internet Access
-181.214.199.125
-#Dezembro/2025 - VPN Private Internet Access
-31.171.153.29
-#Dezembro/2025 - VPN Private Internet Access
-179.61.228.171
+#Dezembro/2025 - Realtek Jungle SDK Remote Code Execution Vulnerability
+130.12.180.18
