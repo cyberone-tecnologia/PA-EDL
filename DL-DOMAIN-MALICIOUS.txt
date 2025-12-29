@@ -1647,7 +1647,6 @@ buryebilgrill.online
 drogariapagmenos.com
 emocionaai.com
 #Dezembro/2025 - Brazil banking Phishing related
-conviteblackexclusivo.com
 clientecenturion.com
 #Dezembro/2025 - Malware family Darkcomet
 www.onceokuloncesi.com
@@ -1668,3 +1667,5 @@ cdn.myconvertr.com
 lojamaisdesejo.com
 #Dezembro/2025 - Malware family Trojan.downloader
 mgperfil.com.br
+#Dezembro/2025 - Phishing domain
+conviteblackexclusivo.com
