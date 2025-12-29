@@ -1622,7 +1622,6 @@ crisonsul.angelicamob.sbs
 ultimasemanadofeirao.vercel.app
 fullpdfword.org
 realiza-protocolo.vercel.app
-public.gensparkspace.com
 #Dezembro/2025 - Malware family Magecart
 nmn.is
 anl.is
@@ -1669,3 +1668,5 @@ lojamaisdesejo.com
 mgperfil.com.br
 #Dezembro/2025 - Phishing domain
 conviteblackexclusivo.com
+#Dezembro/2025 - Phishing domain
+public.gensparkspace.com
