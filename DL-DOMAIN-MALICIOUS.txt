@@ -1554,6 +1554,7 @@ eoffice.top
 #Novembro/2025 - Phishing domain
 www.portalvivoligado.com.br
 linkr.it
+vcard.link
 #Novembro/2025 - Malware family Unknown
 mdy48tn97.com
 pay.sunize.com.br
@@ -1566,9 +1567,11 @@ www.clubedainformatica.com.br
 #Novembro/2025 - Malicious behavior
 gpf12025.com
 adriano.cafe
+alojacasadonatal.com
 #Novembro/2025 - Malware family Dyre
 commullec.com
 cultingwe.com
+enield.com
 #Novembro/2025 - Phishing related
 esomultaity.com
 urbanhousebarbearia.com.br
@@ -1591,6 +1594,12 @@ itrexmssl.com
 centrogauchodabahia123.com
 glefenfer2.luxoonline.online
 prananlunzol.luxoagora.store
+alentodolcevitad.com
+miportuarios.com
+mazdafinancialsevrices.com
+adilsonralfadvocaciad.com
+domimoveis1.com.br
+serverseistemasatu.com
 #Novembro/2025 - Malware family Fakeupdates
 cp.envisionfonddulac.biz
 #novembro/2025 - Multi-Stage WhatsApp Malware
@@ -1600,48 +1609,43 @@ eavailandpro.com
 #novembro/2025 - Phishing related
 hecalistatleto.com
 oundhertobeconsist.org
-#Novembro/2025 - Multi-Stage WhatsApp Malware
-alentodolcevitad.com
-miportuarios.com
-mazdafinancialsevrices.com
-adilsonralfadvocaciad.com
-domimoveis1.com.br
-serverseistemasatu.com
 #Novembro/2025 - Malware family Remoteadmin
 www.hilgraeve.com
 #Novembro/2025 - Malware family Trojan.generic
 medworld.com.br
+ieqcosmopolis.com.br
 #Novembro/2025 - Malware family Latrodectus
 gameswaka.com
-#Novembro/2025 - Phishing domain
-vcard.link
-#Novembro/2025 - Malicious behavior
-alojacasadonatal.com
-#Novembro/2025 - Malware family Trojan.generic
-ieqcosmopolis.com.br
 #Novembro/2025 - VBS Threat Event
 26.182.153.160.host.secureserver.net
-#Novembro/2025 - Malware family Dyre
-enield.com
-#Novembro/2025 - VBS Threat Event
 crisonsul.angelicamob.sbs
 #Dezembro/2025 - Phishing domain
 ultimasemanadofeirao.vercel.app
+fullpdfword.org
+realiza-protocolo.vercel.app
+public.gensparkspace.com
 #Dezembro/2025 - Malware family Magecart
 nmn.is
-#Dezembro/2025 - Phishing domain
-fullpdfword.org
+anl.is
 #Dezembro/2025 - Malware family Trojan.generic
 files.tryflowdrive.com
 #Dezembro/2025 - Phishing related
 vergclientemrxula1315.hotmart.host
 entrega-digital.dadoscidadao.kyiv.ua
+notio.so
+ghost.nestdns.com
+webfaturaprim.com
+7c2d25.analyzemyreceipt.com
+portalregularizarcpf.com
+convitebradescardcenturion.com
+convitecenturionexclusive.com
 #Dezembro/2025 - Malware family Adware.generic
 checkitoutxx.com
+app.malcare.me
 #Dezembro/2025 - Malicious behavior
 buryebilgrill.online
-#Dezembro/2025 - Phishing domain
-realiza-protocolo.vercel.app
+drogariapagmenos.com
+emocionaai.com
 #Dezembro/2025 - Brazil banking Phishing related
 conviteblackexclusivo.com
 clientecenturion.com
@@ -1651,29 +1655,9 @@ www.onceokuloncesi.com
 cdn.myconvertr.com
 #Dezembro/2025 - Malware family Clearfake
 tdsworkout.com
+agenciadelivearte.com.br
 #Dezembro/2025 - ML Phishing
 mercadopago-ssl333.txbronline.net
 acesso-dispositivobr.profissional.ws
-#Dezembro/2025 - Phishing related
-notio.so
-#Dezembro/2025 - Malware family Clearfake
-agenciadelivearte.com.br
-#Dezembro/2025 - Phishing related
-ghost.nestdns.com
-#Dezembro/2025 - Malware family Magecart
-anl.is
-#Dezembro/2025 - Malware family Adware.generic
-app.malcare.me
-#Dezembro/2025 - Malicious behavior
-drogariapagmenos.com
-#Dezembro/2025 - Phishing domain
-public.gensparkspace.com
-#Dezembro/2025 - Phishing related
-webfaturaprim.com
-7c2d25.analyzemyreceipt.com
-portalregularizarcpf.com
-convitebradescardcenturion.com
 #Dezembro/2025 - Malware family fakeapp
 nossabh.org.br
-#Dezembro/2025 - Malicious behavior
-emocionaai.com
