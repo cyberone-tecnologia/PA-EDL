@@ -1670,3 +1670,5 @@ mgperfil.com.br
 conviteblackexclusivo.com
 #Dezembro/2025 - Phishing domain
 public.gensparkspace.com
+#Dezembro/2025 - Malware family Unknown
+aux6.ru
