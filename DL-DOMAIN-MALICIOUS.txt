@@ -1660,8 +1660,6 @@ torealiukzemydr.org
 #Dezembro/2025 - Malware family fakeapp
 nossabh.org.br
 xyrmiskisxyr.cc
-#Dezembro/2025 - Malware family magentocore
-cdn.myconvertr.com
 #Dezembro/2025 - Malicious behavior
 lojamaisdesejo.com
 #Dezembro/2025 - Malware family Trojan.downloader
@@ -1672,3 +1670,5 @@ conviteblackexclusivo.com
 public.gensparkspace.com
 #Dezembro/2025 - Malware family Unknown
 aux6.ru
+#Dezembro/2025 - Malware family magentocore
+cdn.myconvertr.com
