@@ -1672,3 +1672,5 @@ public.gensparkspace.com
 aux6.ru
 #Dezembro/2025 - Malware family magentocore
 cdn.myconvertr.com
+#Dezembro/2025 - Phishing domain
+mega-caixa.org
