@@ -1387,8 +1387,6 @@ consent.clarosgvas.mobicare.com.br
 kifortequimica.com.br
 #Agosto/2025 - Malware family magentocore
 crafttrendly.com
-#agosto/2025 - Phishing API related
-searchapi.dnnl.live
 #agosto/2025 - Phishing related
 pay.pagamento-civp.site
 painel.icorreiosencomendaregular.co.ua
@@ -1674,3 +1672,5 @@ aux6.ru
 cdn.myconvertr.com
 #Dezembro/2025 - Phishing domain
 mega-caixa.org
+#Dezembro/2025 - Brazil PII Leak endpoint
+searchapi.dnnl.live
