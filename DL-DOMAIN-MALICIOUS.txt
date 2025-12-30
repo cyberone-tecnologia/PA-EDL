@@ -1674,3 +1674,5 @@ mega-caixa.org
 searchapi.dnnl.live
 #Dezembro/2025 - Malware family Unknown
 aux6.ru
+#Dezembro/2025 - Phishing domain
+mei-dezembro.com
