@@ -1666,11 +1666,11 @@ mgperfil.com.br
 conviteblackexclusivo.com
 #Dezembro/2025 - Phishing domain
 public.gensparkspace.com
-#Dezembro/2025 - Malware family Unknown
-aux6.ru
 #Dezembro/2025 - Malware family magentocore
 cdn.myconvertr.com
 #Dezembro/2025 - Phishing domain
 mega-caixa.org
 #Dezembro/2025 - Brazil PII Leak endpoint
 searchapi.dnnl.live
+#Dezembro/2025 - Malware family Unknown
+aux6.ru
