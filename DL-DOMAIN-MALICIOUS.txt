@@ -1658,8 +1658,6 @@ torealiukzemydr.org
 #Dezembro/2025 - Malware family fakeapp
 nossabh.org.br
 xyrmiskisxyr.cc
-#Dezembro/2025 - Malicious behavior
-lojamaisdesejo.com
 #Dezembro/2025 - Malware family Trojan.downloader
 mgperfil.com.br
 #Dezembro/2025 - Phishing domain
@@ -1676,3 +1674,5 @@ searchapi.dnnl.live
 aux6.ru
 #Dezembro/2025 - Phishing domain
 mei-dezembro.com
+#Dezembro/2025 - Malicious behavior
+lojamaisdesejo.com
