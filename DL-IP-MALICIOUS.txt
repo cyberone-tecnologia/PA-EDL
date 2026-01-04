@@ -1091,3 +1091,5 @@
 104.243.33.118
 #Dezembro/2025 - VPN Private Internet Access
 31.171.153.29
+#Janeiro/2026 - Nessus VA
+52.21.173.161
