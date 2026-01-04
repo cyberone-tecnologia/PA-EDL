@@ -1682,3 +1682,5 @@ selecaocarreiraprisional.site
 ambienteseguro.org.ua
 #Janeiro/2026 - Malware family Unknown
 store-pink.com
+#Janeiro/2026 - Malicious behavior
+altardivino.com
