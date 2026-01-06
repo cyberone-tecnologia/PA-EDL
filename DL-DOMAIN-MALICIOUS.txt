@@ -1681,8 +1681,6 @@ ambienteseguro.org.ua
 #Janeiro/2026 - Malware family Unknown
 store-pink.com
 #Janeiro/2026 - Malicious behavior
-altardivino.com
-#Janeiro/2026 - Malicious behavior
 vempagarsuaguia.com
 #Janeiro/2026 - Malware family Unknown
 meumeidigital.com.br
@@ -1694,3 +1692,5 @@ kanekoyozo.jp
 hotm.io
 #Janeiro/2026 - Malware family Trojan.generic
 1.piratebays.to
+#Janeiro/2026 - Malicious behavior
+altardivino.com
