@@ -1705,3 +1705,5 @@ abrir-janeiroinfo.online
 abrir-janeiroportal.online
 abrir-janeirovirtual.online
 abrir-janeiroweb.online
+#Janeiro/2026 - Brazil PII Leak endpoint
+bk.elaidisparos.tech
