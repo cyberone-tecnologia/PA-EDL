@@ -599,8 +599,6 @@ storage.webfiledata.com
 stay.decentralappps.com
 #novembro/2024 - Phishing domain
 acessoriacescritorioonline.com
-#novembro/2024 - "Malware family Trojan.Win32.rfn.a.skeeyah"
-1.piratebays.to
 #novembro/2024 - "Malware family Trojan.Android.Mtb.V.Sagnt"
 upy.happymod.cool
 #novembro/2024 - "Malware family Trojan.script.generic"
@@ -1694,3 +1692,5 @@ recelta-fazenda-one-br.squarespace.com
 kanekoyozo.jp
 #Janeiro/2026 - Malware family Unknown
 hotm.io
+#Janeiro/2026 - Malware family Trojan.generic
+1.piratebays.to
