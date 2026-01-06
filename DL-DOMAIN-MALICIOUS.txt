@@ -1694,7 +1694,7 @@ hotm.io
 1.piratebays.to
 #Janeiro/2026 - Malicious behavior
 altardivino.com
-#Janeiro/2026 - hishing related
+#Janeiro/2026 - Phishing related
 abrir-janeiro.online
 abrir-janeiroacesso.online
 abrir-janeirocentral.online
