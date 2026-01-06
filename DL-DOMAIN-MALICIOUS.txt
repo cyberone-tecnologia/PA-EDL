@@ -1682,8 +1682,6 @@ ambienteseguro.org.ua
 store-pink.com
 #Janeiro/2026 - Malicious behavior
 vempagarsuaguia.com
-#Janeiro/2026 - Malware family Unknown
-meumeidigital.com.br
 #Janeiro/2026 - Phishing related
 recelta-fazenda-one-br.squarespace.com
 #Janeiro/2026 - Malware family Unknown
@@ -1707,3 +1705,5 @@ abrir-janeirovirtual.online
 abrir-janeiroweb.online
 #Janeiro/2026 - Brazil PII Leak endpoint
 bk.elaidisparos.tech
+#Janeiro/2026 - Malware family Unknown
+meumeidigital.com.br
