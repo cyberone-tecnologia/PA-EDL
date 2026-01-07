@@ -1636,7 +1636,6 @@ convitecenturionexclusive.com
 wwbuscacepja.biz.ua
 #Dezembro/2025 - Malware family Adware.generic
 checkitoutxx.com
-app.malcare.me
 #Dezembro/2025 - Malicious behavior
 buryebilgrill.online
 drogariapagmenos.com
@@ -1707,3 +1706,5 @@ abrir-janeiroweb.online
 bk.elaidisparos.tech
 #Janeiro/2026 - Malware family Unknown
 meumeidigital.com.br
+#Janeiro/2026 - Malware family Adware.generic
+app.malcare.me
