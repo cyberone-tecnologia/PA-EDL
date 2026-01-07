@@ -1677,8 +1677,6 @@ lojamaisdesejo.com
 selecaocarreiraprisional.site
 #Janeiro/2026 - Malware family Unknown
 ambienteseguro.org.ua
-#Janeiro/2026 - Malware family Unknown
-store-pink.com
 #Janeiro/2026 - Malicious behavior
 vempagarsuaguia.com
 #Janeiro/2026 - Phishing related
@@ -1708,3 +1706,5 @@ bk.elaidisparos.tech
 meumeidigital.com.br
 #Janeiro/2026 - Malware family Adware.generic
 app.malcare.me
+#Janeiro/2026 - Malware family Unknown
+store-pink.com
