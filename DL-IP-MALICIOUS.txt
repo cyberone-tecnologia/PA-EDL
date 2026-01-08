@@ -1108,3 +1108,5 @@
 140.233.190.96
 #Janeiro/2026 - Unrecognized Vulnerability Exploit Threat Event
 64.62.197.188
+#Janeiro/2026 - Tentativas de exploração em webserver
+130.12.180.177
