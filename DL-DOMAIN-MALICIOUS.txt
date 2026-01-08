@@ -1708,3 +1708,5 @@ meumeidigital.com.br
 app.malcare.me
 #Janeiro/2026 - Malware family Unknown
 store-pink.com
+#Janeiro/2026 - Malware hash: 80377aafd7f74f197d294135e6c511267be83d1ba53c48bfa73d335cf97c87f3
+tsiwoulukdlike.org
