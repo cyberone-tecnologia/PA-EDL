@@ -1712,3 +1712,5 @@ store-pink.com
 tsiwoulukdlike.org
 #Janeiro/2026 - Phishing domain
 qrto.org
+#Janeiro/2026 - Malware family Simda
+astralune.net
