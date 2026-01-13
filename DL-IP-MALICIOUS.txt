@@ -1111,3 +1111,5 @@
 #Janeiro/2026 - Tentativas de exploração em webserver
 130.12.180.177
 63.141.240.122
+#Janeiro/16 - Tentativas de RCE NL
+178.16.55.224
