@@ -1713,8 +1713,6 @@ qrto.org
 #Janeiro/2026 - Malware family Simda
 astralune.net
 #Janeiro/2026 - Malware family Unknown
-bienedesign.com.br
-#Janeiro/2026 - Malware family Unknown
 likeceosk.click
 #Janeiro/2026 - Brazil Bank Phishing
 bb.atendimentoprivate.com
