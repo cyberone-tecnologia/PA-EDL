@@ -1714,3 +1714,5 @@ astralune.net
 likeceosk.click
 #Janeiro/2026 - Brazil Bank Phishing
 bb.atendimentoprivate.com
+#Janeiro/2026 - Malware family Trojan.msil
+vevcn.com
