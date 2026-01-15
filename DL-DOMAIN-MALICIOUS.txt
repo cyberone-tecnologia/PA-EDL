@@ -1716,3 +1716,5 @@ likeceosk.click
 bb.atendimentoprivate.com
 #Janeiro/2026 - Malware family Trojan.msil
 vevcn.com
+#Janeiro/2026 - Malware family Unknown
+record.ktoaffiliatesbr.com
