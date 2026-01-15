@@ -1702,8 +1702,6 @@ abrir-janeirovirtual.online
 abrir-janeiroweb.online
 #Janeiro/2026 - Brazil PII Leak endpoint
 bk.elaidisparos.tech
-#Janeiro/2026 - Malware family Unknown
-meumeidigital.com.br
 #Janeiro/2026 - Malware family Adware.generic
 app.malcare.me
 #Janeiro/2026 - Malware family Unknown
