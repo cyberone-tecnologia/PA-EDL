@@ -1718,3 +1718,5 @@ astralune.net
 bienedesign.com.br
 #Janeiro/2026 - Malware family Unknown
 likeceosk.click
+#Janeiro/2026 - Brazil Bank Phishing
+bb.atendimentoprivate.com
