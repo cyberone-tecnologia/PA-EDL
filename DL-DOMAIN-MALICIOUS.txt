@@ -1706,8 +1706,6 @@ bk.elaidisparos.tech
 app.malcare.me
 #Janeiro/2026 - Malware family Unknown
 store-pink.com
-#Janeiro/2026 - Malware hash: 80377aafd7f74f197d294135e6c511267be83d1ba53c48bfa73d335cf97c87f3
-tsiwoulukdlike.org
 #Janeiro/2026 - Malware family Simda
 astralune.net
 #Janeiro/2026 - Brazil Bank Phishing
@@ -1720,3 +1718,5 @@ record.ktoaffiliatesbr.com
 likeceosk.click
 #Janeiro/2026 - Malware family Unknown
 qrlogo.io
+#Janeiro/2026 - Malware hash: ea29b5ad12caeb2da0f0a1e153679bd1c123170a6f1920138f89dc58fba83aec
+tsiwoulukdlike.org
