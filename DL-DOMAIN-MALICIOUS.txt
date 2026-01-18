@@ -1720,3 +1720,5 @@ likeceosk.click
 qrlogo.io
 #Janeiro/2026 - Malware hash: ea29b5ad12caeb2da0f0a1e153679bd1c123170a6f1920138f89dc58fba83aec
 tsiwoulukdlike.org
+#Janeiro/2026 - Malware family Unknown
+sndflw.com
