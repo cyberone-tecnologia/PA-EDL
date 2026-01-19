@@ -1122,3 +1122,5 @@
 216.218.206.68
 #Janeiro/2026 - Spring Cloud Gateway Code Injection Vulnerability
 165.227.86.165
+#Janeiro/2026 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
+172.86.73.140
