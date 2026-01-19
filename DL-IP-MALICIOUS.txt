@@ -1116,3 +1116,5 @@
 #Janeiro/2026 - Port scan
 216.180.246.151
 64.62.197.143
+#Janeiro/2026 - Unrecognized Vulnerability Exploit Threat Event 
+64.82.206.194
