@@ -1722,3 +1722,5 @@ qrlogo.io
 tsiwoulukdlike.org
 #Janeiro/2026 - Malware family Unknown
 sndflw.com
+#Janeiro/2026 - Malware family Unknown
+bradesco.planejarconsorcio.com.br
