@@ -1724,3 +1724,5 @@ tsiwoulukdlike.org
 sndflw.com
 #Janeiro/2026 - Malware family Unknown
 bradesco.planejarconsorcio.com.br
+#Janeiro/2026 - Malicious behavior
+ultrafarmadesaopaulo.com
