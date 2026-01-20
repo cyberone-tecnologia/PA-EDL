@@ -1726,3 +1726,5 @@ sndflw.com
 bradesco.planejarconsorcio.com.br
 #Janeiro/2026 - Malicious behavior
 ultrafarmadesaopaulo.com
+#Janeiro/2026 - Malware family Unknown
+koyso.com
