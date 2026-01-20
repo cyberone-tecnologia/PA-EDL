@@ -1547,7 +1547,6 @@ analyzrvisual.com
 #Outubro/2025 - Disposable email host
 eoffice.top
 #Novembro/2025 - Phishing domain
-www.portalvivoligado.com.br
 linkr.it
 vcard.link
 #Novembro/2025 - Malware family Unknown
@@ -1728,3 +1727,5 @@ bradesco.planejarconsorcio.com.br
 ultrafarmadesaopaulo.com
 #Janeiro/2026 - Malware family Unknown
 koyso.com
+#Janeiro/2026 - Phishing domain
+www.portalvivoligado.com.br
