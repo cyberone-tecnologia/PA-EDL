@@ -1733,3 +1733,5 @@ www.portalvivoligado.com.br
 correiodeminas.com.br
 #Janeiro/2026 - Malware family Unknown
 areadoclientettk.com
+#Janeiro/2026 - Malware family Unknown
+realguindastes.com
