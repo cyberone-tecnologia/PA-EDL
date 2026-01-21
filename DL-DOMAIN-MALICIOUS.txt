@@ -1731,3 +1731,5 @@ koyso.com
 www.portalvivoligado.com.br
 #Janeiro/2026 - Malware family Unknown
 correiodeminas.com.br
+#Janeiro/2026 - Malware family Unknown
+areadoclientettk.com
