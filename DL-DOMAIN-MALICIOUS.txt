@@ -1729,3 +1729,5 @@ ultrafarmadesaopaulo.com
 koyso.com
 #Janeiro/2026 - Phishing domain
 www.portalvivoligado.com.br
+#Janeiro/2026 - Malware family Unknown
+correiodeminas.com.br
