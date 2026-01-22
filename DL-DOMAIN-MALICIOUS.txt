@@ -1736,3 +1736,5 @@ areadoclientettk.com
 #Janeiro/2026 - Malware family Unknown
 realguindastes.com
 senaccurso.com
+#Janeiro/2026 - Malware family Simda
+quantumix.net
