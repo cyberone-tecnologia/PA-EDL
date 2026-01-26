@@ -1113,6 +1113,7 @@
 63.141.240.122
 #Janeiro/16 - Tentativas de RCE NL
 178.16.55.224
+
 #Janeiro/2026 - Port scan
 216.180.246.151
 64.62.197.143
@@ -1124,3 +1125,4 @@
 165.227.86.165
 #Janeiro/2026 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 172.86.73.140
+143.110.150.45
