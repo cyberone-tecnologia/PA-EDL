@@ -1758,3 +1758,5 @@ btsworldtourofficial.com
 cur.to
 #Janeiro/2026 - Malware family Trojan.generic
 osgeraldos.com.br
+#Janeiro/2026 - Malware family Unknown
+ycout.yxponte.com
