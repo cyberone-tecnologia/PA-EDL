@@ -1126,4 +1126,12 @@
 #Janeiro/2026 - Palo Alto Networks GlobalProtect OS Command Injection Vulnerability
 172.86.73.140
 143.110.150.45
-
+#Janeiro/2026 - Malware family Simda ref https://maltiverse.com/intelligence/hostname/quantumix.net
+178.63.248.50
+157.90.33.79
+178.63.248.49
+178.63.248.55
+178.63.248.48
+178.63.248.54
+157.90.33.78
+178.63.248.53
