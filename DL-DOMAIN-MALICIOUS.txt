@@ -1760,3 +1760,5 @@ cur.to
 osgeraldos.com.br
 #Janeiro/2026 - Malware family Unknown
 ycout.yxponte.com
+#Janeiro/2026 - Malicious behavior
+myvipbr.com
