@@ -1766,3 +1766,5 @@ myvipbr.com
 consulta.regularizaagora.ch
 #Janeiro/2026 - Malware family Unknown
 generalinteresttopics.com
+#Janeiro/2026 - Malware family Trojan.generic
+setfrio.com.br
