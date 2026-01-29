@@ -1137,3 +1137,5 @@
 178.63.248.53
 #Janeiro/2026 - Malware family Unknown
 45.133.180.154
+#Janeiro/2026 - Unrecognized Vulnerability Exploit Threat Event 
+162.243.51.145
