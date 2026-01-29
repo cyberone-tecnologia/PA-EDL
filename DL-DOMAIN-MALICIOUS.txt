@@ -1718,11 +1718,7 @@ likeceosk.click
 #Janeiro/2026 - Malware hash: ea29b5ad12caeb2da0f0a1e153679bd1c123170a6f1920138f89dc58fba83aec
 tsiwoulukdlike.org
 #Janeiro/2026 - Malware family Unknown
-sndflw.com
-#Janeiro/2026 - Malware family Unknown
 bradesco.planejarconsorcio.com.br
-#Janeiro/2026 - Malicious behavior
-ultrafarmadesaopaulo.com
 #Janeiro/2026 - Malware family Unknown
 koyso.com
 #Janeiro/2026 - Phishing domain
