@@ -1746,8 +1746,6 @@ goodmitzab.click
 pixulovesk.click
 #Janeiro/2026 - Malware family Trojan.generic
 osgeraldos.com.br
-#Janeiro/2026 - Malware family Unknown
-ycout.yxponte.com
 #Janeiro/2026 - Malicious behavior
 myvipbr.com
 #Janeiro/2026 - Malware family Unknown
@@ -1761,3 +1759,5 @@ cpmecs.cc
 llzwaj.dollcedating.com
 #Janeiro/2026 - Malware family Unknown
 midnightamora.com
+#Janeiro/2026 - Malware family Unknown
+ycout.yxponte.com
