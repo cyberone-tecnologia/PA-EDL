@@ -1751,8 +1751,6 @@ myvipbr.com
 #Janeiro/2026 - Malware family Unknown
 consulta.regularizaagora.ch
 #Janeiro/2026 - Malware family Unknown
-generalinteresttopics.com
-#Janeiro/2026 - Malware family Unknown
 mediamarketfx.com
 #Janeiro/2026 - Malware family Unknown
 cpmecs.cc
@@ -1761,3 +1759,5 @@ llzwaj.dollcedating.com
 midnightamora.com
 #Janeiro/2026 - Malware family Unknown
 ycout.yxponte.com
+#Janeiro/2026 - Malware family Unknown
+generalinteresttopics.com
