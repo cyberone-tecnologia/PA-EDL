@@ -1764,3 +1764,5 @@ midnightamora.com
 ycout.yxponte.com
 #Janeiro/2026 - Malware family Unknown
 acess.atualfaturas.com
+#Janeiro/2026 - Malware family Backdoor.win32.generic
+modulowinapp.com
