@@ -1139,3 +1139,5 @@
 45.133.180.154
 #Janeiro/2026 - Unrecognized Vulnerability Exploit Threat Event 
 162.243.51.145
+#Janeiro/2026 - Failed User Login Attempt
+128.201.103.110
