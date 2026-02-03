@@ -4110,3 +4110,5 @@ d66382d16aa86ca3d52e172bfbc9c0424a447bd7efe1ca8f49be64ffbb5954e9
 8ea8b83645fba6e23d48075a0d3fc73ad2ba515b4536710cda4f1f232718f53e
 #Fevereiro/2026 - Notepad plus plus BluetoothService shellcode
 77bfea78def679aa1117f569a35e8fd1542df21f7e00e27f192c907e61d63a2e
+#Fevereiro/2026 - Notepad plus plus Malicious DLL sideloaded by BluetoothService.exe
+3bdc4c0637591533f1d4198a72a33426c01f69bd2e15ceee547866f65e26b7ad
