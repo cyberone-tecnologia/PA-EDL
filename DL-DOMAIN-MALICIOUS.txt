@@ -1771,3 +1771,5 @@ qrlogo.io
 #Fevereiro/2026 - Notepad plus plus IOCs
 wiresguard.com
 skycloudcenter.com
+#Fevereiro/2026 - Malware family Unknown
+www.yulefeifan.com
