@@ -1768,3 +1768,6 @@ modulowinapp.com
 velocitix.net
 #Fevereiro/2026 - Malware family Unknown
 qrlogo.io
+#Fevereiro/2026 - Notepad plus plus IOCs
+wiresguard.com
+skycloudcenter.com
