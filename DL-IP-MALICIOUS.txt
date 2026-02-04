@@ -1141,3 +1141,12 @@
 162.243.51.145
 #Janeiro/2026 - Failed User Login Attempt
 128.201.103.110
+#Fevereiro/2026 - Korplug Command and Control Traffic Detection
+170.130.204.106
+#Fevereiro/2026 - Notepad plus plus IOCs
+95.179.213.0
+61.4.102.97
+59.110.7.32
+124.222.137.114
+#Fevereiro/2026 - Korplug Command and Control Traffic Detection
+104.140.148.110
