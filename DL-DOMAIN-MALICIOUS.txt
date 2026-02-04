@@ -1775,3 +1775,5 @@ www.yulefeifan.com
 solsticea.net
 #Fevereiro/2026 - Malware family Unknown
 ycout.yxponte.com
+#Fevereiro/2026 - Phishing related
+cnnbrasil.money
