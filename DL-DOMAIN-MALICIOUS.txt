@@ -1773,3 +1773,5 @@ wiresguard.com
 skycloudcenter.com
 #Fevereiro/2026 - Malware family Unknown
 www.yulefeifan.com
+#Fevereiro/2026 - Malware family Simda
+solsticea.net
