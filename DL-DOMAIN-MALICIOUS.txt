@@ -1777,3 +1777,5 @@ solsticea.net
 ycout.yxponte.com
 #Fevereiro/2026 - Phishing related
 cnnbrasil.money
+#Fevereiro/2026 - Malware C2
+ycxrl.com
