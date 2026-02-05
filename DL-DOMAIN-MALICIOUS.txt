@@ -1771,11 +1771,11 @@ wiresguard.com
 skycloudcenter.com
 #Fevereiro/2026 - Malware family Unknown
 www.yulefeifan.com
-#Fevereiro/2026 - Malware family Simda
-solsticea.net
 #Fevereiro/2026 - Malware family Unknown
 ycout.yxponte.com
 #Fevereiro/2026 - Phishing related
 cnnbrasil.money
 #Fevereiro/2026 - Malware C2
 ycxrl.com
+#Fevereiro/2026 - Malware family Backdoor.generic
+solsticea.net
