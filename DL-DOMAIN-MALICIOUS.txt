@@ -1734,8 +1734,6 @@ velourdream.com
 gyxevithivellum.com
 #Janeiro/2026 - Malicious behavior
 wyfrodanesqulix.shop
-#Janeiro/2026 - offloader
-multiatend.com.br
 #Janeiro/2026 - Malware family Unknown
 jmdsalesov.click
 #Janeiro/2026 - Malware family Unknown
@@ -1792,3 +1790,5 @@ zamstats.me
 zrheblirsy.me
 #Fevereiro/2026 - Malware family Unknown
 qrlogo.io
+#Fevereiro/2026 - offloader
+multiatend.com.br
