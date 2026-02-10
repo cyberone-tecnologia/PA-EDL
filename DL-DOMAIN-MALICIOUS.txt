@@ -1773,8 +1773,6 @@ ycout.yxponte.com
 cnnbrasil.money
 #Fevereiro/2026 - Malware C2
 ycxrl.com
-#Fevereiro/2026 - Malware family Backdoor.generic
-solsticea.net
 #Fevereiro/2026 - Shadow Campaigns
 abwxjp5.me
 brackusi0n.live
@@ -1794,3 +1792,5 @@ qrlogo.io
 multiatend.com.br
 #Fevereiro/2026 - Malware family Unknown
 www.agendatellme.com.br
+#Fevereiro/2026 - Malware family Simda
+solsticea.net
