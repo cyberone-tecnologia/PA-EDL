@@ -1800,3 +1800,5 @@ promo.onlyxnude.com
 ak.deghooda.net
 #Fevereiro/2026 - Malware family Unknown
 reconhecimento-oab.site
+#Fevereiro/2026 - Malware hash: 783f9c9568ea7e0180b0af4ebd225ca832b393e06d70b5841d23c9928e7c7c2a
+sa-landing.com
