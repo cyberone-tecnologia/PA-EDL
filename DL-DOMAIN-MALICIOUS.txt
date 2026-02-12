@@ -1074,8 +1074,6 @@ static.s123-cdn.com
 espacobe.com.br
 #Abril/2025 - Malware family Formbook
 snxpay.io
-#Abril/2025 - Malware family Adware.Win32.com
-download.webc.co
 #Abril/2025 - Malware related2
 5mythtracker.xyz
 #Abril/2025 - Malware family Magecart
@@ -1802,3 +1800,5 @@ ak.deghooda.net
 reconhecimento-oab.site
 #Fevereiro/2026 - Malware hash: 783f9c9568ea7e0180b0af4ebd225ca832b393e06d70b5841d23c9928e7c7c2a
 sa-landing.com
+#Fevereiro/2026 - Malware family Unknown
+download.webc.co
