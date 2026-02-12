@@ -1802,3 +1802,5 @@ reconhecimento-oab.site
 sa-landing.com
 #Fevereiro/2026 - Malware family Unknown
 download.webc.co
+#Fevereiro/2026 - Malware family Unknown
+m1xdrop.com
