@@ -1808,3 +1808,5 @@ m1xdrop.com
 cinlink.cingo.com.br
 #Fevereiro/2026 - Malware hash: 5e2802c8bbd964ad9faa05ec3647430430a912c364b3ee267cb8dd242943f19e
 uisiaculturerpar.org
+#Fevereiro/2026 - Malware family Unknown
+www.boys-reserva-o-portal-mais.com
