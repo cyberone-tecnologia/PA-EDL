@@ -1150,5 +1150,3 @@
 124.222.137.114
 #Fevereiro/2026 - Korplug Command and Control Traffic Detection
 104.140.148.110
-#Fevereiro/2026 - Malware family Unknown
-148.113.190.78
