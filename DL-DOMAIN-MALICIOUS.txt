@@ -1806,3 +1806,10 @@ download.webc.co
 m1xdrop.com
 #Fevereiro/2026 - Malware hash: 5e2802c8bbd964ad9faa05ec3647430430a912c364b3ee267cb8dd242943f19e
 uisiaculturerpar.org
+#Fevereiro/2026 - Phishing related
+aaernco.com
+rastreameentos.com
+centurionamerican.express
+sucessovem.biz.ua
+vipblackcenturionconvite.com
+wabw.com.ua
