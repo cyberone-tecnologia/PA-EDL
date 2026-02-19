@@ -1154,10 +1154,3 @@
 31.40.195.248
 91.132.125.238
 104.245.241.169
-#Fevereiro/2026 - Phishing related
-aaernco.com
-rastreameentos.com
-centurionamerican.express
-sucessovem.biz.ua
-vipblackcenturionconvite.com
-wabw.com.ua
