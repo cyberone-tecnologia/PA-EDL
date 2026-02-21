@@ -1823,3 +1823,5 @@ central-benef-br.com
 exploreresultshub.com
 #Fevereiro/2026 - Malware family Unknown
 cizuhy.com
+#Fevereiro/2026 - Phishing domain
+rodoviasflowdigital.com
