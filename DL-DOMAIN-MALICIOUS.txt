@@ -1821,3 +1821,5 @@ gosite.cc
 central-benef-br.com
 #Fevereiro/2026 - Malware family Unknown
 exploreresultshub.com
+#Fevereiro/2026 - Malware family Unknown
+cizuhy.com
