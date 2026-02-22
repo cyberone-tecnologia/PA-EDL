@@ -1825,3 +1825,5 @@ exploreresultshub.com
 cizuhy.com
 #Fevereiro/2026 - Phishing domain
 rodoviasflowdigital.com
+#Fevereiro/2026 - Malicious behavior
+lanaalvarenga.com.br
