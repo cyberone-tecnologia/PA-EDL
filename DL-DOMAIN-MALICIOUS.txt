@@ -1833,3 +1833,5 @@ cdn.topmongo.com
 download.cdn-televzr.com
 #Fevereiro/2026 - Malware family Unknown
 vendasbradescosaude.com.br
+#Fevereiro/2026 - Malware family Trojan.generic
+campusinformatica.com.br
