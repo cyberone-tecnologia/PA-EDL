@@ -1819,8 +1819,6 @@ gosite.cc
 central-benef-br.com
 #Fevereiro/2026 - Malware family Unknown
 exploreresultshub.com
-#Fevereiro/2026 - Malware family Unknown
-cizuhy.com
 #Fevereiro/2026 - Phishing domain
 rodoviasflowdigital.com
 #Fevereiro/2026 - Malicious behavior
@@ -1833,3 +1831,5 @@ download.cdn-televzr.com
 campusinformatica.com.br
 #Fevereiro/2026 - Malware family Adware.generic
 app.malcare.me
+#Fevereiro/2026 - Malware family Unknown
+cizuhy.com
