@@ -1829,3 +1829,5 @@ rodoviasflowdigital.com
 lanaalvarenga.com.br
 #Fevereiro/2026 - Malware family Unknown
 cdn.topmongo.com
+#Fevereiro/2026 - Phishing related
+www.pedagiodigital.com
