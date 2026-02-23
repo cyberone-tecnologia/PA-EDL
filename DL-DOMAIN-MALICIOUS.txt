@@ -1699,8 +1699,6 @@ abrir-janeirovirtual.online
 abrir-janeiroweb.online
 #Janeiro/2026 - Brazil PII Leak endpoint
 bk.elaidisparos.tech
-#Janeiro/2026 - Malware family Adware.generic
-app.malcare.me
 #Janeiro/2026 - Malware family Unknown
 store-pink.com
 #Janeiro/2026 - Malware family Simda
@@ -1833,3 +1831,5 @@ cdn.topmongo.com
 download.cdn-televzr.com
 #Fevereiro/2026 - Malware family Trojan.generic
 campusinformatica.com.br
+#Fevereiro/2026 - Malware family Adware.generic
+app.malcare.me
