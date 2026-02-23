@@ -1831,3 +1831,5 @@ lanaalvarenga.com.br
 cdn.topmongo.com
 #Fevereiro/2026 - Malware family Nemesis
 download.cdn-televzr.com
+#Fevereiro/2026 - Malware family Unknown
+vendasbradescosaude.com.br
