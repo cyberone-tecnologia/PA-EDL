@@ -1146,3 +1146,5 @@
 192.42.116.217
 #Fevereiro/2026 - Malware family Unknown
 185.40.4.101
+#Fevereiro/2026 - TOR NODE
+124.198.132.13
