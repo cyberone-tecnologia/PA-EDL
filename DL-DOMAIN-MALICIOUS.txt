@@ -1833,3 +1833,5 @@ campusinformatica.com.br
 app.malcare.me
 #Fevereiro/2026 - Malware family Unknown
 cizuhy.com
+#Fevereiro/2026 - Malware related
+atualfaturas.com
