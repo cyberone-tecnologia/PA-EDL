@@ -1850,3 +1850,5 @@ ukentaspectsofc.org
 rodoviasflowdigital.com
 #Fevereiro/2026 - Malware family Unknown
 nsofthub.info
+#Março/2026 - Malware family fakeapp
+click.tmatrack.online
