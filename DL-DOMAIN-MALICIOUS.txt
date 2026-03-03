@@ -1827,8 +1827,6 @@ cdn.topmongo.com
 download.cdn-televzr.com
 #Fevereiro/2026 - Malware family Trojan.generic
 campusinformatica.com.br
-#Fevereiro/2026 - Malware family Adware.generic
-app.malcare.me
 #Fevereiro/2026 - Malware family Unknown
 cizuhy.com
 #Fevereiro/2026 - Malware related
@@ -1855,3 +1853,5 @@ click.tmatrack.online
 #Março/2026 - Malware related
 everythingatendimento.com
 centroempresarialmontblanc.it.com
+#Março/2026 - Malware family Adware.generic
+app.malcare.me
