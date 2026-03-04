@@ -1859,3 +1859,5 @@ app.malcare.me
 colnsdital.com
 #Março/2026 - Malware family Unknown
 unitvappbrasil.net
+#Março/2026 - Malware family Unknown
+softcentral.store
