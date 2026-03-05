@@ -1615,6 +1615,10 @@ crisonsul.angelicamob.sbs
 ultimasemanadofeirao.vercel.app
 fullpdfword.org
 realiza-protocolo.vercel.app
+conviteblackexclusivo.com
+public.gensparkspace.com
+mega-caixa.org
+mei-dezembro.com
 #Dezembro/2025 - Malware family Magecart
 nmn.is
 anl.is
@@ -1637,6 +1641,7 @@ checkitoutxx.com
 buryebilgrill.online
 drogariapagmenos.com
 emocionaai.com
+lojamaisdesejo.com
 #Dezembro/2025 - Brazil banking Phishing related
 clientecenturion.com
 #Dezembro/2025 - Malware family Darkcomet
@@ -1654,39 +1659,42 @@ nossabh.org.br
 xyrmiskisxyr.cc
 #Dezembro/2025 - Malware family Trojan.downloader
 mgperfil.com.br
-#Dezembro/2025 - Phishing domain
-conviteblackexclusivo.com
-#Dezembro/2025 - Phishing domain
-public.gensparkspace.com
 #Dezembro/2025 - Malware family magentocore
 cdn.myconvertr.com
-#Dezembro/2025 - Phishing domain
-mega-caixa.org
 #Dezembro/2025 - Brazil PII Leak endpoint
 searchapi.dnnl.live
 #Dezembro/2025 - Malware family Unknown
 aux6.ru
-#Dezembro/2025 - Phishing domain
-mei-dezembro.com
-#Dezembro/2025 - Malicious behavior
-lojamaisdesejo.com
 #Janeiro/2026 - Malicious behavior
 selecaocarreiraprisional.site
+vempagarsuaguia.com
+altardivino.com
+wyfrodanesqulix.shop
+myvipbr.com
 #Janeiro/2026 - Malware family Unknown
 ambienteseguro.org.ua
-#Janeiro/2026 - Malicious behavior
-vempagarsuaguia.com
+kanekoyozo.jp
+hotm.io
+store-pink.com
+record.ktoaffiliatesbr.com
+likeceosk.click
+bradesco.planejarconsorcio.com.br
+koyso.com
+areadoclientettk.com
+senaccurso.com
+velourdream.com
+jmdsalesov.click
+goodmitzab.click
+pixulovesk.click
+consulta.regularizaagora.ch
+mediamarketfx.com
+cpmecs.cc
+generalinteresttopics.com
+llzwaj.dollcedating.com
+midnightamora.com
+acess.atualfaturas.com
 #Janeiro/2026 - Phishing related
 recelta-fazenda-one-br.squarespace.com
-#Janeiro/2026 - Malware family Unknown
-kanekoyozo.jp
-#Janeiro/2026 - Malware family Unknown
-hotm.io
-#Janeiro/2026 - Malware family Trojan.generic
-1.piratebays.to
-#Janeiro/2026 - Malicious behavior
-altardivino.com
-#Janeiro/2026 - Phishing related
 abrir-janeiro.online
 abrir-janeiroacesso.online
 abrir-janeirocentral.online
@@ -1697,63 +1705,24 @@ abrir-janeiroinfo.online
 abrir-janeiroportal.online
 abrir-janeirovirtual.online
 abrir-janeiroweb.online
+#Janeiro/2026 - Malware family Trojan.generic
+1.piratebays.to
+osgeraldos.com.br
 #Janeiro/2026 - Brazil PII Leak endpoint
 bk.elaidisparos.tech
-#Janeiro/2026 - Malware family Unknown
-store-pink.com
 #Janeiro/2026 - Malware family Simda
 astralune.net
+quantumix.net
 #Janeiro/2026 - Brazil Bank Phishing
 bb.atendimentoprivate.com
 #Janeiro/2026 - Malware family Trojan.msil
 vevcn.com
-#Janeiro/2026 - Malware family Unknown
-record.ktoaffiliatesbr.com
-#Janeiro/2026 - Malware family Unknown
-likeceosk.click
 #Janeiro/2026 - Malware hash: ea29b5ad12caeb2da0f0a1e153679bd1c123170a6f1920138f89dc58fba83aec
 tsiwoulukdlike.org
-#Janeiro/2026 - Malware family Unknown
-bradesco.planejarconsorcio.com.br
-#Janeiro/2026 - Malware family Unknown
-koyso.com
 #Janeiro/2026 - Phishing domain
 www.portalvivoligado.com.br
-#Janeiro/2026 - Malware family Unknown
-areadoclientettk.com
-senaccurso.com
-#Janeiro/2026 - Malware family Simda
-quantumix.net
-#Janeiro/2026 - Malware family Unknown
-velourdream.com
 #Janeiro/2026 - Malware family Interlock
 gyxevithivellum.com
-#Janeiro/2026 - Malicious behavior
-wyfrodanesqulix.shop
-#Janeiro/2026 - Malware family Unknown
-jmdsalesov.click
-#Janeiro/2026 - Malware family Unknown
-goodmitzab.click
-#Janeiro/2026 - Malware family Unknown
-pixulovesk.click
-#Janeiro/2026 - Malware family Trojan.generic
-osgeraldos.com.br
-#Janeiro/2026 - Malicious behavior
-myvipbr.com
-#Janeiro/2026 - Malware family Unknown
-consulta.regularizaagora.ch
-#Janeiro/2026 - Malware family Unknown
-mediamarketfx.com
-#Janeiro/2026 - Malware family Unknown
-cpmecs.cc
-#Janeiro/2026 - Malware family Unknown
-generalinteresttopics.com
-#Janeiro/2026 - Malware family Unknown
-llzwaj.dollcedating.com
-#Janeiro/2026 - Malware family Unknown
-midnightamora.com
-#Janeiro/2026 - Malware family Unknown
-acess.atualfaturas.com
 #Janeiro/2026 - Malware family Backdoor.win32.generic
 modulowinapp.com
 #Janeiro/2026 - Malware family Backdoor.generic
@@ -1763,10 +1732,34 @@ wiresguard.com
 skycloudcenter.com
 #Fevereiro/2026 - Malware family Unknown
 www.yulefeifan.com
-#Fevereiro/2026 - Malware family Unknown
 ycout.yxponte.com
+qrlogo.io
+www.agendatellme.com.br
+promo.onlyxnude.com
+ak.deghooda.net
+reconhecimento-oab.site
+download.webc.co
+m1xdrop.com
+gosite.cc
+central-benef-br.com
+exploreresultshub.com
+cdn.topmongo.com
+cizuhy.com
+nsofthub.info
 #Fevereiro/2026 - Phishing related
 cnnbrasil.money
+aaernco.com
+rastreameentos.com
+centurionamerican.express
+sucessovem.biz.ua
+vipblackcenturionconvite.com
+wabw.com.ua
+vembuscarbox.biz.ua
+rastreaamentos.com
+conviteamexvip.com
+clienteamexcenturion.com
+regularizardeclaracao.com
+convidamexblackviponline.com
 #Fevereiro/2026 - Malware C2
 ycxrl.com
 #Fevereiro/2026 - Shadow Campaigns
@@ -1782,72 +1775,29 @@ q74vn.live
 servgate.me
 zamstats.me
 zrheblirsy.me
-#Fevereiro/2026 - Malware family Unknown
-qrlogo.io
 #Fevereiro/2026 - offloader
 multiatend.com.br
-#Fevereiro/2026 - Malware family Unknown
-www.agendatellme.com.br
 #Fevereiro/2026 - Malware family Simda
 solsticea.net
-#Fevereiro/2026 - Malware family Unknown
-promo.onlyxnude.com
-#Fevereiro/2026 - Malware family Unknown
-ak.deghooda.net
-#Fevereiro/2026 - Malware family Unknown
-reconhecimento-oab.site
 #Fevereiro/2026 - Malware hash: 783f9c9568ea7e0180b0af4ebd225ca832b393e06d70b5841d23c9928e7c7c2a
 sa-landing.com
-#Fevereiro/2026 - Malware family Unknown
-download.webc.co
-#Fevereiro/2026 - Malware family Unknown
-m1xdrop.com
 #Fevereiro/2026 - Malware hash: 5e2802c8bbd964ad9faa05ec3647430430a912c364b3ee267cb8dd242943f19e
 uisiaculturerpar.org
-#Fevereiro/2026 - Phishing related
-aaernco.com
-rastreameentos.com
-centurionamerican.express
-sucessovem.biz.ua
-vipblackcenturionconvite.com
-wabw.com.ua
 #Fevereiro/2026 - Malicious behavior
 p1189.vip
-#Fevereiro/2026 - Malware family Unknown
-gosite.cc
-#Fevereiro/2026 - Malware family Unknown
-central-benef-br.com
-#Fevereiro/2026 - Malware family Unknown
-exploreresultshub.com
-#Fevereiro/2026 - Malicious behavior
 lanaalvarenga.com.br
-#Fevereiro/2026 - Malware family Unknown
-cdn.topmongo.com
 #Fevereiro/2026 - Malware family Nemesis
 download.cdn-televzr.com
 #Fevereiro/2026 - Malware family Trojan.generic
 campusinformatica.com.br
-#Fevereiro/2026 - Malware family Unknown
-cizuhy.com
 #Fevereiro/2026 - Malware related
 atualfaturas.com
 #Fevereiro/2026 - Tactical RMM
 mesh.wlm.com.br
-#Fevereiro/2026 - Phishing related
-vembuscarbox.biz.ua
-#Fevereiro/2026 - Phishing related
-rastreaamentos.com
-conviteamexvip.com
-#Fevereiro/2026 - Phishing related
-clienteamexcenturion.com
-regularizardeclaracao.com
-convidamexblackviponline.com
 #Fevereiro/2026 - Malware hash: 2738bdff6ac5f6611e5b2ce5aee3b68b791fd0f2fd823486342e60a1416bd954
 ukentaspectsofc.org
 #Fevereiro/2026 - Phishing domain
 rodoviasflowdigital.com
-#Fevereiro/2026 - Malware family Unknown
-nsofthub.info
 #Março/2026 - Malware family fakeapp
 click.tmatrack.online
 #Março/2026 - Malware related
@@ -1859,5 +1809,8 @@ app.malcare.me
 colnsdital.com
 #Março/2026 - Malware family Unknown
 unitvappbrasil.net
-#Março/2026 - Malware family Unknown
 softcentral.store
+#Março/2026 - Malware family Trojan.js.generic
+cronicasdelcentro.com
+verifi-cation.com
+gatepass-corp.com
