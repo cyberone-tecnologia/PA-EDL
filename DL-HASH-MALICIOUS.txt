@@ -4517,5 +4517,3 @@ efc389b27a611c93c490bb1d7eec35be833726c346ce976b3ffaa93c4d4be453
 9a3d82e26b0a6ec4c8ba8e5fdd496d3a1c146276bb7b33f57cf123a4093589c7
 #Março/2026 - Malware family Trojan.js.generic
 4082d16ca126860875e13839f12b069068c3db6d841a14c1edb30d22ac8cdcef
-#Março/2026 - Malware family Lumma stealer
-demhjmr.cyou
