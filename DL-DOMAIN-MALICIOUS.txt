@@ -1820,3 +1820,5 @@ prayebrasil.com.br
 undaymidydles.org
 #Março/2026 - Malware family Lumma stealer
 demhjmr.cyou
+#Março/2026 - Malicious behavior
+noma-abuse.com
