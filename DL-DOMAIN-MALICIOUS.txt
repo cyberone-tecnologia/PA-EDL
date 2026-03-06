@@ -1833,3 +1833,5 @@ ledger-seed-verify.im
 clientevipexclusivo.com
 #Março/2026 - Malware family Unknown
 shorteverydaynnn.com
+#Março/2026 - Malware family Pup
+audiochannel.net
