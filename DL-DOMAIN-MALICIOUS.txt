@@ -1748,7 +1748,6 @@ cizuhy.com
 nsofthub.info
 #Fevereiro/2026 - Phishing related
 cnnbrasil.money
-aaernco.com
 rastreameentos.com
 centurionamerican.express
 sucessovem.biz.ua
@@ -1822,3 +1821,13 @@ undaymidydles.org
 demhjmr.cyou
 #Março/2026 - Malicious behavior
 noma-abuse.com
+#Março/2026 - Phishing related domains
+aaernco.com
+correios.rastreaamentos.com
+www.elegantcls.com
+aceitarconvitevip.com
+cobranca.paymentbilling-video.com
+eldope.luizesperanca.com.br
+amexcenturionconvites.com
+ledger-seed-verify.im
+clientevipexclusivo.com
