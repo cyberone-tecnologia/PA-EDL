@@ -1807,7 +1807,6 @@ app.malcare.me
 #Março/2026 - Malware family Simda
 colnsdital.com
 #Março/2026 - Malware family Unknown
-unitvappbrasil.net
 softcentral.store
 #Março/2026 - Malware family Trojan.js.generic
 cronicasdelcentro.com
@@ -1836,3 +1835,5 @@ shorteverydaynnn.com
 audiochannel.net
 #Março/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
+#Março/2026 - Malware family Unknown
+unitvappbrasil.net
