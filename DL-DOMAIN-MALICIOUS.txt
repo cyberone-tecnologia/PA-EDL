@@ -1812,7 +1812,6 @@ softcentral.store
 #Março/2026 - Malware family Trojan.js.generic
 cronicasdelcentro.com
 verifi-cation.com
-gatepass-corp.com
 #Março/2026 - Malicious behavior
 prayebrasil.com.br
 #Março/2026 - Malware family Kelihos
@@ -1835,3 +1834,5 @@ clientevipexclusivo.com
 shorteverydaynnn.com
 #Março/2026 - Malware family Pup
 audiochannel.net
+#Março/2026 - Malware family Trojan.js.generic
+gatepass-corp.com
