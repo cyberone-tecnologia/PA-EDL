@@ -1674,7 +1674,6 @@ myvipbr.com
 #Janeiro/2026 - Malware family Unknown
 ambienteseguro.org.ua
 kanekoyozo.jp
-hotm.io
 store-pink.com
 record.ktoaffiliatesbr.com
 likeceosk.click
@@ -1849,3 +1848,5 @@ info-atualdocumento.blog
 portal-habilitacao2026.site
 #Março/2026 - Malware family Unknown
 gocomper.com
+#Março/2026 - Malware family Unknown
+hotm.io
