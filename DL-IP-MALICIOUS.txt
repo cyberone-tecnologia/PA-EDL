@@ -1155,8 +1155,6 @@
 #Fevereiro/2026 - Tactical RMM
 20.226.33.28
 #Março/2026 - TOR NODE
-45.141.215.200
-#Março/2026 - TOR NODE
 171.25.193.35
 #Março/2026 - Brute force related
 178.16.55.239
@@ -1166,3 +1164,5 @@
 162.142.125.250
 #Março/2026 - Potential Cobalt Strike Usage
 165.154.162.75
+#Março/2026 - TOR NODE
+45.141.215.200
