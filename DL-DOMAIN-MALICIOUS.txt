@@ -1852,3 +1852,5 @@ gocomper.com
 hotm.io
 #Março/2026 - Gophish
 portaldocomercio.org
+#Março/2026 - Malicious behavior
+novidade-areadeasistemas.shop
