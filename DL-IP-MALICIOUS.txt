@@ -1166,3 +1166,5 @@
 165.154.162.75
 #Março/2026 - TOR NODE
 45.141.215.200
+#Março/2026 - D-Link Routers NCC Service Remote Command Execution Vulnerability
+104.192.0.106
