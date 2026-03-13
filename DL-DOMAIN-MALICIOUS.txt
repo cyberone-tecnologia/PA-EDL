@@ -1854,3 +1854,5 @@ hotm.io
 portaldocomercio.org
 #Março/2026 - Malicious behavior
 novidade-areadeasistemas.shop
+#Março/2026 - Malware family Unknown
+gtly.ink
