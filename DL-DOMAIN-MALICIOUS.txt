@@ -1860,3 +1860,5 @@ gtly.ink
 www.audiochannel.net
 #Março/2026 - Malware family Trojan.downloader
 reforestacion.ambiente.gob.sv
+#Março/2026 - Malicious behavior
+iaenf.com
