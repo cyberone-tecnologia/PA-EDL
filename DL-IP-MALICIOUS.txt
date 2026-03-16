@@ -1168,3 +1168,5 @@
 45.141.215.200
 #Março/2026 - D-Link Routers NCC Service Remote Command Execution Vulnerability
 104.192.0.106
+#Março/2026 - Malicious behavior
+170.39.194.162
