@@ -1866,3 +1866,5 @@ iaenf.com
 fndkb.com
 #Março/2026 - Malicious behavior
 seja-clienteprincipal.com
+#Março/2026 - Phishing domain
+nomeregular.com
