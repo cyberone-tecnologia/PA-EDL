@@ -1864,3 +1864,5 @@ reforestacion.ambiente.gob.sv
 iaenf.com
 #Março/2026 - Malicious behavior
 fndkb.com
+#Março/2026 - Malicious behavior
+seja-clienteprincipal.com
