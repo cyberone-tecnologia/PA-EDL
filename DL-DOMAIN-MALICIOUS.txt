@@ -1866,7 +1866,7 @@ seja-clienteprincipal.com
 nomeregular.com
 #Março/2026 - Malware family Unknown
 hotm.io
-#Março/2026 - Malware family Adware.generic
-app.malcare.me
 #Março/2026 - Phishing related
 pedagiodigital-automatico.com
+#Março/2026 - Malware family Adware.generic
+app.malcare.me
