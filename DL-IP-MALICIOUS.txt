@@ -1170,3 +1170,5 @@
 104.192.0.106
 #Março/2026 - Malicious behavior
 170.39.194.162
+#Março/2026 - Malware campaign 2026
+79.110.49.32
