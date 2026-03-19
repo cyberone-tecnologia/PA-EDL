@@ -1872,3 +1872,5 @@ hotm.io
 kak.is
 #Março/2026 - Malware family Simda
 colnsdital.com
+#Março/2026 - Malware family Unknown
+cptoptious.com
