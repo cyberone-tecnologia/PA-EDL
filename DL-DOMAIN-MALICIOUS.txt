@@ -1801,8 +1801,6 @@ click.tmatrack.online
 #Março/2026 - Malware related
 everythingatendimento.com
 centroempresarialmontblanc.it.com
-#Março/2026 - Malware family Simda
-colnsdital.com
 #Março/2026 - Malware family Unknown
 softcentral.store
 #Março/2026 - Malware family Trojan.js.generic
@@ -1872,3 +1870,5 @@ app.malcare.me
 hotm.io
 #Março/2026 - phishing campaign
 kak.is
+#Março/2026 - Malware family Simda
+colnsdital.com
