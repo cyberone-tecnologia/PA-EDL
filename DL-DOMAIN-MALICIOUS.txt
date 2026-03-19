@@ -1870,3 +1870,5 @@ pedagiodigital-automatico.com
 app.malcare.me
 #Março/2026 - Malware family Unknown
 hotm.io
+#Março/2026 - phishing campaign
+kak.is
