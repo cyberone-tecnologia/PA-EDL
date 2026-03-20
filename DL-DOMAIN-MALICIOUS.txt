@@ -1850,8 +1850,6 @@ portaldocomercio.org
 novidade-areadeasistemas.shop
 #Março/2026 - Malware family Unknown
 gtly.ink
-#Março/2026 - Malware family Pup
-www.audiochannel.net
 #Março/2026 - Malware family Trojan.downloader
 reforestacion.ambiente.gob.sv
 #Março/2026 - Malicious behavior
@@ -1880,3 +1878,5 @@ captioto.com
 gov-br.regularizar-declaracao.com
 #Março/2026 - phishing related
 surexbox9.com
+#Março/2026 - Malware family Pup
+www.audiochannel.net
