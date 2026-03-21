@@ -1824,8 +1824,6 @@ ledger-seed-verify.im
 clientevipexclusivo.com
 #Março/2026 - Malware family Unknown
 shorteverydaynnn.com
-#Março/2026 - Malware family Pup
-audiochannel.net
 #Março/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
 #Março/2026 - Malware family Unknown
@@ -1880,3 +1878,5 @@ gov-br.regularizar-declaracao.com
 surexbox9.com
 #Março/2026 - Malware family Pup
 www.audiochannel.net
+#Março/2026 - Malware family Pup
+audiochannel.net
