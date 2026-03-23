@@ -1880,3 +1880,5 @@ surexbox9.com
 www.audiochannel.net
 #Março/2026 - Malware family Pup
 audiochannel.net
+#Março/2026 - Phishing domain
+form.platoforms.com
