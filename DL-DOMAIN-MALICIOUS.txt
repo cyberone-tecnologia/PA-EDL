@@ -1882,3 +1882,5 @@ www.audiochannel.net
 audiochannel.net
 #Março/2026 - Phishing domain
 form.platoforms.com
+#Março/2026 - Malware family Lnkr
+c1.smartclick.net
