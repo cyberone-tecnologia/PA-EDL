@@ -1884,3 +1884,5 @@ audiochannel.net
 form.platoforms.com
 #Março/2026 - Malware family Lnkr
 c1.smartclick.net
+#Março/2026 - Phishing domain
+vipconvitecenturion.com
