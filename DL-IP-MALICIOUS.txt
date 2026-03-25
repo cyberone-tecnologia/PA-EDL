@@ -782,7 +782,6 @@
 #Outubro/2025 - Multiple PANW Threat Events
 124.198.131.83
 #Outubro/2025 - Malware family Tactical RMM
-3.91.68.204
 177.136.207.16
 #Outubro/2025 - Malware family Interactsh
 178.128.212.209
@@ -1177,3 +1176,5 @@
 80.94.92.99
 #Março/2026 - TOR NODE
 92.205.161.164
+#Março/2026 - Tactical RMM
+3.91.68.204
