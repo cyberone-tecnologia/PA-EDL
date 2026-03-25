@@ -1866,8 +1866,6 @@ app.malcare.me
 hotm.io
 #Março/2026 - phishing campaign
 kak.is
-#Março/2026 - Malware family Simda
-colnsdital.com
 #Março/2026 - Malware family Unknown
 cptoptious.com
 #Março/2026 - Malware family Unknown
@@ -1886,3 +1884,5 @@ form.platoforms.com
 c1.smartclick.net
 #Março/2026 - Phishing domain
 vipconvitecenturion.com
+#Março/2026 - Malware family Simda
+colnsdital.com
