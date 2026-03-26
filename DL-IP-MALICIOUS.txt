@@ -1178,3 +1178,5 @@
 3.91.68.204
 #Março/2026 - TOR NODE
 80.94.92.99
+#Março/2026 - VPN PublicVpnConfigs
+38.91.100.199
