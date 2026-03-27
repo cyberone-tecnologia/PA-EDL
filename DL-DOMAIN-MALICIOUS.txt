@@ -1891,3 +1891,7 @@ maisaudeonline.com
 #Março/2026 - TeamPCP Hijacks LiteLLM
 litellm.cloud
 checkmarkr.zone
+#Março/2026 - Phishing campaign
+assscom.com
+documentosreservados.com
+consultareceitafederal.com
