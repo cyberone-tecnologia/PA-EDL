@@ -1896,3 +1896,5 @@ documentosreservados.com
 consultareceitafederal.com
 #Março/2026 - Malware family Trojan.generic
 gamebase.app
+#Março/2026 - Malware family Unknown
+download2388.mediafire.com
