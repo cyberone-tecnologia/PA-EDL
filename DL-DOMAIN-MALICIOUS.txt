@@ -1339,7 +1339,6 @@ replevysquab.top
 #Julho/2025 - Malware family Trojan.generic
 blacktargstore.com.br
 www.controlemunicipal.com.br
-gamebase.app
 advertipros.com
 #Julho/2025 - Malicious domain
 lutolit.modalidadeforte.com
@@ -1895,3 +1894,5 @@ checkmarkr.zone
 assscom.com
 documentosreservados.com
 consultareceitafederal.com
+#Março/2026 - Malware family Trojan.generic
+gamebase.app
