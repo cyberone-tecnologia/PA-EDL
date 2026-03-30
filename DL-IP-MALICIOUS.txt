@@ -1172,8 +1172,6 @@
 79.110.49.32
 #Março/2026 - Malware family Unknown
 80.67.172.162
-#Março/2026 - TOR NODE
-92.205.161.164
 #Março/2026 - Tactical RMM
 3.91.68.204
 #Março/2026 - VPN PublicVpnConfigs
@@ -1182,3 +1180,5 @@
 46.151.182.203
 #Março/2026 - TOR NODE
 80.94.92.99
+#Março/2026 - TOR NODE
+92.205.161.164
