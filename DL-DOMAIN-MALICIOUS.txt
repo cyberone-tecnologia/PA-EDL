@@ -1890,7 +1890,6 @@ maisaudeonline.com
 litellm.cloud
 checkmarkr.zone
 #Março/2026 - Phishing campaign
-assscom.com
 documentosreservados.com
 consultareceitafederal.com
 #Março/2026 - Malware family Unknown
@@ -1905,3 +1904,4 @@ gamebase.app
 pedagiodigitalonlaine.org
 regularizardeclaracao.com
 acessocenturion.com
+assscom.com
