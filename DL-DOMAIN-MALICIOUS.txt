@@ -1755,7 +1755,6 @@ vembuscarbox.biz.ua
 rastreaamentos.com
 conviteamexvip.com
 clienteamexcenturion.com
-regularizardeclaracao.com
 convidamexblackviponline.com
 #Fevereiro/2026 - Malware C2
 ycxrl.com
@@ -1902,3 +1901,7 @@ clienteupgradeprincipal.com
 jfunlock.com
 #Março/2026 - Malware family Trojan.generic
 gamebase.app
+#Março/2026 - Phishing campaign
+pedagiodigitalonlaine.org
+regularizardeclaracao.com
+acessocenturion.com
