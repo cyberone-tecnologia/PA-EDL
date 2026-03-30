@@ -1900,3 +1900,5 @@ gamebase.app
 download2388.mediafire.com
 #Março/2026 - Malicious behavior
 clienteupgradeprincipal.com
+#Março/2026 - Malware family Android.trojan.generic
+jfunlock.com
