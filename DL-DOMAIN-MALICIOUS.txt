@@ -1905,3 +1905,5 @@ assscom.com
 colnsdital.com
 #Março/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
+#Março/2026 - axios supply chain
+sfrclak.com
