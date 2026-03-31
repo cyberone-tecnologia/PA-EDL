@@ -1752,7 +1752,6 @@ sucessovem.biz.ua
 vipblackcenturionconvite.com
 wabw.com.ua
 vembuscarbox.biz.ua
-rastreaamentos.com
 conviteamexvip.com
 clienteamexcenturion.com
 convidamexblackviponline.com
@@ -1811,7 +1810,6 @@ demhjmr.cyou
 #Março/2026 - Malicious behavior
 noma-abuse.com
 #Março/2026 - Phishing related domains
-aaernco.com
 correios.rastreaamentos.com
 www.elegantcls.com
 aceitarconvitevip.com
@@ -1828,7 +1826,6 @@ unitvappbrasil.net
 undaymidydles.org
 #Março/2026 - camapanha phishing visa
 visa-promocoes.caixaboxnew.biz.ua
-aaernco.com
 xipii.cn
 #Março/2026 - Malicious behavior
 simuladordevotoperu.com
@@ -1907,3 +1904,6 @@ colnsdital.com
 gatepass-corp.com
 #Março/2026 - axios supply chain
 sfrclak.com
+#Março/2026 - Phishing campaign
+aaernco.com
+rastreaamentos.com
