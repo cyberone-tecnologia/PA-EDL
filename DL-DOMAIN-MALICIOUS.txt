@@ -1895,7 +1895,6 @@ jfunlock.com
 pedagiodigitalonlaine.org
 regularizardeclaracao.com
 acessocenturion.com
-assscom.com
 #Março/2026 - Malware family Simda
 colnsdital.com
 #Março/2026 - Malware family Trojan.js.generic
@@ -1907,3 +1906,6 @@ aaernco.com
 rastreaamentos.com
 #Abril/2026 - Malware family Trojan.generic
 gamebase.app
+#Abril/2026 - Phishing campaign
+pedagiodigitalpro.com
+assscom.com
