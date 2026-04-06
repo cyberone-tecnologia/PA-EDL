@@ -823,8 +823,6 @@
 #Novembro/2025 - MastaStealer
 38.134.148.74
 155.117.20.75
-#Novembro/2025 - Malware family Unknown
-185.246.188.74
 #Novembro/2025 - Multi-Stage WhatsApp Malware
 178.128.15.208
 #novembro/2025 - Multi-Stage WhatsApp Malware
@@ -1184,3 +1182,5 @@
 80.94.92.99
 #Março/2026 - axios supply chain
 142.11.206.73
+#Abril/2026 - Malware family Unknown
+185.246.188.74
