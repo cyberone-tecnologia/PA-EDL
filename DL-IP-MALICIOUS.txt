@@ -1182,10 +1182,10 @@
 80.94.92.99
 #Março/2026 - axios supply chain
 142.11.206.73
-#Abril/2026 - Malware family Unknown
-171.25.193.79
 #Abril/2026 - Malicious IP contact
 16.58.56.214
 185.198.27.111
 #Abril/2026 - TOR NODE
 185.246.188.74
+#Abril/2026 - TOR NODE
+171.25.193.79
