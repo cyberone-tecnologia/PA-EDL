@@ -1378,7 +1378,6 @@ lgtrk.lol
 #Agosto/2025 - Phishing domain
 voe-hoje-descontos.com
 airform.ai
-consent.clarosgvas.mobicare.com.br
 kifortequimica.com.br
 #Agosto/2025 - Malware family magentocore
 crafttrendly.com
@@ -1919,3 +1918,5 @@ tapeteedebandejapremium3d.site
 biducaconfeitos.com.br
 #Abril/2026 - Malicious behavior
 986983.com
+#Abril/2026 - Phishing domain
+consent.clarosgvas.mobicare.com.br
