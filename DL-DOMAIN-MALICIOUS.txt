@@ -1920,3 +1920,5 @@ biducaconfeitos.com.br
 986983.com
 #Abril/2026 - Phishing domain
 consent.clarosgvas.mobicare.com.br
+#Abril/2026 - Malicious behavior
+tapetepremium3d.site
