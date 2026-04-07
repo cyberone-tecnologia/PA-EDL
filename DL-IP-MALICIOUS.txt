@@ -1186,3 +1186,6 @@
 185.246.188.74
 #Abril/2026 - Malware family Unknown
 171.25.193.79
+#Abril/2026 - Malicious IP contact
+16.58.56.214
+185.198.27.111
