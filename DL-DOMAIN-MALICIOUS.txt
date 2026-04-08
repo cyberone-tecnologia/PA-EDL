@@ -1930,3 +1930,5 @@ oburgues.delivery
 lojafitwear.shop
 #Abril/2026 - Malicious behavior
 simfut.com
+#Abril/2026 - Malicious behavior
+seupedidohoje.shop
