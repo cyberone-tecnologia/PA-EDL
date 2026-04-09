@@ -1948,3 +1948,5 @@ ntdnewtds.shop
 dnsnewtds.shop
 #Abril/2026 - Malware family Unknown
 sdntds.shop
+#Abril/2026 - Phishing domain
+lihi2.me
