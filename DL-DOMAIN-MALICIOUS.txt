@@ -1944,3 +1944,5 @@ cuponshome.online
 lojalavrinixbr.online
 #Abril/2026 - Malware family Unknown
 ntdnewtds.shop
+#Abril/2026 - Malware family Unknown
+dnsnewtds.shop
