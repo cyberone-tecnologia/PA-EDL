@@ -1946,3 +1946,5 @@ lojalavrinixbr.online
 ntdnewtds.shop
 #Abril/2026 - Malware family Unknown
 dnsnewtds.shop
+#Abril/2026 - Malware family Unknown
+sdntds.shop
