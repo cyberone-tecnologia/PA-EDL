@@ -1912,8 +1912,6 @@ assscom.com
 kolutorusdaf.com
 #Abril/2026 - Malicious behavior
 tapeteedebandejapremium3d.site
-#Abril/2026 - Malware family Quasar rat
-0uyy41.com
 #Abril/2026 - Malware family fakeapp
 biducaconfeitos.com.br
 #Abril/2026 - Malicious behavior
@@ -1950,3 +1948,5 @@ dnsnewtds.shop
 sdntds.shop
 #Abril/2026 - Phishing domain
 lihi2.me
+#Abril/2026 - Malware family Quasar rat
+0uyy41.com
