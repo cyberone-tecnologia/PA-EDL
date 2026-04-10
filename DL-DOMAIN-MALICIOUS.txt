@@ -1956,3 +1956,4 @@ lojalavrinixbr.online
 formuladobem.com.br
 #Abril/2026 - supply chain attack
 supp0v3.com
+pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
