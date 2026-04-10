@@ -1959,3 +1959,13 @@ supp0v3.com
 pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
 #Abril/2026 - Phishing campaign
 menupagamentopedagio.com
+#Abril/2026 - Phishing campaign NFC relay attack
+protegidocard.com
+cardprotecao.com
+wh1523323.ispot.cc
+wh1503597.ispot.cc
+wh1519542.ispot.cc
+wh1513985.ispot.cc
+app-protecao.digital
+wh1507789.ispot.cc
+wh1513991.ispot.cc
