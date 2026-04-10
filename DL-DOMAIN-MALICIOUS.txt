@@ -1946,8 +1946,6 @@ dnsnewtds.shop
 sdntds.shop
 #Abril/2026 - Phishing domain
 lihi2.me
-#Abril/2026 - Malware family Quasar rat
-0uyy41.com
 #Abril/2026 - Malicious behavior
 aynthor.online
 #Abril/2026 - Malicious behavior
@@ -1969,3 +1967,5 @@ wh1513985.ispot.cc
 app-protecao.digital
 wh1507789.ispot.cc
 wh1513991.ispot.cc
+#Abril/2026 - Malware family Quasar rat
+0uyy41.com
