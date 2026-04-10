@@ -1971,3 +1971,5 @@ wh1513991.ispot.cc
 pascoapg.fun
 #Abril/2026 - Phishing domain
 lihi2.me
+#Abril/2026 - Malware family Trojan.generic.js
+cpajoliette.com
