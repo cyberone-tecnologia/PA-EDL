@@ -1944,8 +1944,6 @@ ntdnewtds.shop
 dnsnewtds.shop
 #Abril/2026 - Malware family Unknown
 sdntds.shop
-#Abril/2026 - Phishing domain
-lihi2.me
 #Abril/2026 - Malicious behavior
 aynthor.online
 #Abril/2026 - Malicious behavior
@@ -1971,3 +1969,5 @@ wh1513991.ispot.cc
 0uyy41.com
 #Abril/2026 - Malicious behavior
 pascoapg.fun
+#Abril/2026 - Phishing domain
+lihi2.me
