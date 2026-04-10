@@ -1954,3 +1954,5 @@ aynthor.online
 lojalavrinixbr.online
 #Abril/2026 - Malicious behavior
 formuladobem.com.br
+#Abril/2026 - supply chain attack
+supp0v3.com
