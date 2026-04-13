@@ -1984,3 +1984,5 @@ vipcenturionconvite.com
 principalclientevip.com
 #Abril/2026 - Malware family Trojan.generic
 www.rksoft.com.br
+#Abril/2026 - Tactical RMM
+rmm-mesh.aliare.co
