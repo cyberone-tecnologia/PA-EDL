@@ -1973,3 +1973,5 @@ pascoapg.fun
 lihi2.me
 #Abril/2026 - Malware family Trojan.generic.js
 cpajoliette.com
+#Abril/2026 - Malicious behavior
+multicanaishd.agency
