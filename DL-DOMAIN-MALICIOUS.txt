@@ -1964,8 +1964,6 @@ wh1513985.ispot.cc
 app-protecao.digital
 wh1507789.ispot.cc
 wh1513991.ispot.cc
-#Abril/2026 - Malware family Quasar rat
-0uyy41.com
 #Abril/2026 - Malicious behavior
 pascoapg.fun
 #Abril/2026 - Phishing domain
@@ -1989,3 +1987,5 @@ rmm-mesh.aliare.co
 clinicaabrahaoosta.com.br
 #Abril/2026 - Malware family fakeapp
 onlineapp.pro
+#Abril/2026 - Malware family Quasar rat
+0uyy41.com
