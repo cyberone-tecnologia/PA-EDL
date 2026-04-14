@@ -1033,7 +1033,6 @@ qrcodeveloper.com
 #abril/2025 - Malware related
 b8t.watchcollision.xyz
 #Abril/2025 - Malware family Spam.PDF
-clinicaabrahaoosta.com.br
 memsports.com.br
 #abril/2025 - Phishing domain
 pay.checkoutsafes.com
@@ -1986,3 +1985,5 @@ principalclientevip.com
 www.rksoft.com.br
 #Abril/2026 - Tactical RMM
 rmm-mesh.aliare.co
+#Abril/2026 - Malware family Pdf.spam
+clinicaabrahaoosta.com.br
