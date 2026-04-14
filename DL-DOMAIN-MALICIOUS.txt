@@ -1971,8 +1971,6 @@ lihi2.me
 #Abril/2026 - Malware family Trojan.generic.js
 cpajoliette.com
 #Abril/2026 - Malicious behavior
-multicanaishd.agency
-#Abril/2026 - Malicious behavior
 qbp0x2ub.com
 #Abril/2026 - Phishing related
 acesssar.com
@@ -1989,3 +1987,5 @@ clinicaabrahaoosta.com.br
 onlineapp.pro
 #Abril/2026 - Malware family Quasar rat
 0uyy41.com
+#Abril/2026 - Malicious behavior
+multicanaishd.agency
