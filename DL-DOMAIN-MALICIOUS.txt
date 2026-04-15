@@ -1973,7 +1973,6 @@ cpajoliette.com
 #Abril/2026 - Malicious behavior
 qbp0x2ub.com
 #Abril/2026 - Phishing related
-acesssar.com
 autosb1.com
 vipcenturionconvite.com
 principalclientevip.com
@@ -1995,3 +1994,12 @@ w62ff.com
 subwaygame.io
 #Abril/2026 - Malware family Trojan.stealer
 download1507.mediafire.com
+#Abril/2026 - Phishing related
+metanmask.com
+enabletwofactor.shop
+bradescocliente-principal.com
+visa-promocoes.verificacao-de-app.co.ua
+netflixpagamento.autosb1.com
+acesssar.com
+correios.acesssar.com
+pedagiodigital-br.com
