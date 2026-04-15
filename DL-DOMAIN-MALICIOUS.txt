@@ -1989,3 +1989,5 @@ onlineapp.pro
 multicanaishd.agency
 #Abril/2026 - Malware family Quasar rat
 0uyy41.com
+#Abril/2026 - Malicious behavior
+w62ff.com
