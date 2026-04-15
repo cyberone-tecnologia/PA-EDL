@@ -2004,6 +2004,4 @@ acesssar.com
 correios.acesssar.com
 pedagiodigital-br.com
 #Abril/2026 - Malware related
-paymentsv2-mysynology-net
-#Abril/2026 - Malware related
 paymentsv2.mysynology.net
