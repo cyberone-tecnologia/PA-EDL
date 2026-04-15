@@ -1993,3 +1993,5 @@ multicanaishd.agency
 w62ff.com
 #Abril/2026 - Malicious behavior
 subwaygame.io
+#Abril/2026 - Malware family Trojan.stealer
+download1507.mediafire.com
