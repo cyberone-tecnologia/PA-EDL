@@ -2003,8 +2003,6 @@ u5kqqzj.com
 trackandhealth.com.br
 #Abril/2026 - Malware family Trojan.generic.js
 jusmilitaris.com.br
-#Abril/2026 - Malware family Webtoolbar.browser.modifier
-www.mybrowserbar.com
 #Abril/2026 - Malicious behavior
 gmer.shop
 #Abril/2026 - Phishing domain
@@ -2017,3 +2015,5 @@ gatepass-corp.com
 multicanaishd.agency
 #Abril/2026 - Malware family Snojan
 nohope.eu
+#Abril/2026 - Malware family Webtoolbar.browser.modifier
+www.mybrowserbar.com
