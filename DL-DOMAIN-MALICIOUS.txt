@@ -356,8 +356,6 @@ gpaci.org.br
 influenciadormagalu.com.br
 priori.com.br
 ytube2dl.com
-#agosto/2024 - Malware family Win32.Ar.Widgi.Webtoolbar
-www.mybrowserbar.com
 #agosto/2024 - Malware family Unknown
 ndm2398asdlw.shop
 jswebcloud.com
@@ -2011,3 +2009,5 @@ multicanaishd.agency
 trackandhealth.com.br
 #Abril/2026 - Malware family Trojan.generic.js
 jusmilitaris.com.br
+#Abril/2026 - Malware family Webtoolbar.browser.modifier
+www.mybrowserbar.com
