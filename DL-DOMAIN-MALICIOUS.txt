@@ -2013,3 +2013,5 @@ jusmilitaris.com.br
 www.mybrowserbar.com
 #Abril/2026 - Malicious behavior
 gmer.shop
+#Abril/2026 - Phishing domain
+takipcigir.com
