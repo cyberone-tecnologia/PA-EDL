@@ -1988,8 +1988,6 @@ onlineapp.pro
 w62ff.com
 #Abril/2026 - Malicious behavior
 subwaygame.io
-#Abril/2026 - Malware family Trojan.stealer
-download1507.mediafire.com
 #Abril/2026 - Phishing related
 metanmask.com
 enabletwofactor.shop
@@ -2015,3 +2013,5 @@ www.mybrowserbar.com
 gmer.shop
 #Abril/2026 - Phishing domain
 takipcigir.com
+#Abril/2026 - Malware family Trojan.stealer
+download1507.mediafire.com
