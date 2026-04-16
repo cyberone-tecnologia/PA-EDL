@@ -2015,3 +2015,5 @@ download1507.mediafire.com
 gatepass-corp.com
 #Abril/2026 - Malicious behavior
 multicanaishd.agency
+#Abril/2026 - Malware family Snojan
+nohope.eu
