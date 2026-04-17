@@ -2005,8 +2005,6 @@ jusmilitaris.com.br
 gmer.shop
 #Abril/2026 - Phishing domain
 takipcigir.com
-#Abril/2026 - Malware family Trojan.stealer
-download1507.mediafire.com
 #Abril/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
 #Abril/2026 - Malicious behavior
@@ -2019,3 +2017,5 @@ www.mybrowserbar.com
 tuamaeaquelaursa.com
 #Abril/2026 - Malware family Quasar rat
 0uyy41.com
+#Abril/2026 - Malware family Trojan.stealer
+download1507.mediafire.com
