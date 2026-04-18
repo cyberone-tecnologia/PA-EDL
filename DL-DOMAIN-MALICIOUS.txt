@@ -2007,8 +2007,6 @@ gmer.shop
 takipcigir.com
 #Abril/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
-#Abril/2026 - Malicious behavior
-multicanaishd.agency
 #Abril/2026 - Malware family Snojan
 nohope.eu
 #Abril/2026 - Malware family Webtoolbar.browser.modifier
@@ -2026,3 +2024,5 @@ fiscal-pro.online
 profesa.net
 #Abril/2026 - Crypto Scam related
 kkkhhhnnn.com
+#Abril/2026 - Malicious behavior
+multicanaishd.agency
