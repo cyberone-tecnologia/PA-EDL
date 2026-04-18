@@ -2013,8 +2013,6 @@ nohope.eu
 www.mybrowserbar.com
 #Abril/2026 - Disposable email host
 tuamaeaquelaursa.com
-#Abril/2026 - Malware family Quasar rat
-0uyy41.com
 #Abril/2026 - Malware family Trojan.stealer
 download1507.mediafire.com
 #Abril/2026 - Malware related
@@ -2026,3 +2024,5 @@ profesa.net
 kkkhhhnnn.com
 #Abril/2026 - Malicious behavior
 multicanaishd.agency
+#Abril/2026 - Malware family Quasar rat
+0uyy41.com
