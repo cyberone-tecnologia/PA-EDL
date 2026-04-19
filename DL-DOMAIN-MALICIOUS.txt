@@ -2032,3 +2032,5 @@ soroja.com.br
 nayfitness.shop
 #Abril/2026 - Phishing domain
 cutt.cx
+#Abril/2026 - Malicious behavior
+ative4p.com
