@@ -2030,3 +2030,5 @@ multicanaishd.agency
 soroja.com.br
 #Abril/2026 - Malicious behavior
 nayfitness.shop
+#Abril/2026 - Phishing domain
+cutt.cx
