@@ -2041,3 +2041,5 @@ netflixpagamento.acesssar.com
 correios.acesssar.com
 #Abril/2026 - Phishing related
 mercadobrprotectionnbr.wwbuscacepja.xyz
+#Abril/2026 - Phishing related
+pagamentopegadiodigital.com
