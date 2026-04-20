@@ -1903,7 +1903,6 @@ subwaygame.io
 u5kqqzj.com
 gmer.shop
 multicanaishd.agency
-soroja.com.br
 nayfitness.shop
 ative4p.com
 #Abril/2026 - Malware family fakeapp
@@ -1988,3 +1987,5 @@ regularizacaodebito.com
 pedagiodigitalonlaine.org
 #Abril/2026 - Malicious behavior
 trackandhealth.com.br
+#Abril/2026 - Malicious behavior
+soroja.com.br
