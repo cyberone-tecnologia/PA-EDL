@@ -1853,7 +1853,6 @@ kak.is
 gov-br.regularizar-declaracao.com
 documentosreservados.com
 consultareceitafederal.com
-pedagiodigitalonlaine.org
 regularizardeclaracao.com
 acessocenturion.com
 aaernco.com
@@ -1986,3 +1985,5 @@ acessarportal.com
 uol.acessarportal.com
 #Abril/2026 - Phishing related
 regularizacaodebito.com
+#Abril/2026 - Phishing related
+pedagiodigitalonlaine.org
