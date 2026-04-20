@@ -1901,7 +1901,6 @@ qbp0x2ub.com
 w62ff.com
 subwaygame.io
 u5kqqzj.com
-trackandhealth.com.br
 gmer.shop
 multicanaishd.agency
 soroja.com.br
@@ -1987,3 +1986,5 @@ uol.acessarportal.com
 regularizacaodebito.com
 #Abril/2026 - Phishing related
 pedagiodigitalonlaine.org
+#Abril/2026 - Malicious behavior
+trackandhealth.com.br
