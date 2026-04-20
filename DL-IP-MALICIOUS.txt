@@ -1128,40 +1128,31 @@
 104.245.241.169
 #Fevereiro/2026 - TOR NODE
 192.42.116.208
-#Fevereiro/2026 - TOR NODE
 192.42.116.219
-#Fevereiro/2026 - TOR NODE
 185.220.101.34
-#Fevereiro/2026 - TOR NODE
 171.25.193.37
+124.198.132.13
+94.102.51.15
 #Fevereiro/2026 - Malware family Unknown
 45.141.215.63
-#Fevereiro/2026 - Malware family Unknown
 192.42.116.217
-#Fevereiro/2026 - Malware family Unknown
 185.40.4.101
-#Fevereiro/2026 - TOR NODE
-124.198.132.13
-#Fevereiro/2026 - Malware family Unknown
 179.43.159.200
-#Fevereiro/2026 - Malware family Unknown
 185.40.4.100
-#Fevereiro/2026 - TOR NODE
-94.102.51.15
 #Fevereiro/2026 - Tactical RMM
 20.226.33.28
 #Março/2026 - TOR NODE
 171.25.193.35
+185.220.101.47
+45.141.215.200
+92.205.161.164
+80.94.92.99
 #Março/2026 - Brute force related
 178.16.55.239
-#Março/2026 - TOR NODE
-185.220.101.47
 #Março/2026 - Scanner
 162.142.125.250
 #Março/2026 - Potential Cobalt Strike Usage
 165.154.162.75
-#Março/2026 - TOR NODE
-45.141.215.200
 #Março/2026 - D-Link Routers NCC Service Remote Command Execution Vulnerability
 104.192.0.106
 #Março/2026 - Malicious behavior
@@ -1176,10 +1167,6 @@
 38.91.100.199
 #Março/2026 - TeamPCP Hijacks LiteLLM
 46.151.182.203
-#Março/2026 - TOR NODE
-92.205.161.164
-#Março/2026 - TOR NODE
-80.94.92.99
 #Março/2026 - axios supply chain
 142.11.206.73
 #Abril/2026 - Malicious IP contact
@@ -1187,9 +1174,7 @@
 185.198.27.111
 #Abril/2026 - TOR NODE
 185.246.188.74
-#Abril/2026 - TOR NODE
 171.25.193.79
-#Abril/2026 - TOR NODE
 124.198.131.223
 #Abril/2026 - VPN PublicOvpnConfigs
 219.100.37.82
