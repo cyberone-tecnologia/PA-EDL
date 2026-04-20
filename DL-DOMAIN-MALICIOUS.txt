@@ -1796,15 +1796,31 @@ everythingatendimento.com
 centroempresarialmontblanc.it.com
 #Março/2026 - Malware family Unknown
 softcentral.store
+shorteverydaynnn.com
+unitvappbrasil.net
+gocomper.com
+gtly.ink
+hotm.io
+cptoptious.com
+captioto.com
+download2388.mediafire.com
 #Março/2026 - Malware family Trojan.js.generic
 cronicasdelcentro.com
 verifi-cation.com
 #Março/2026 - Malicious behavior
 prayebrasil.com.br
+noma-abuse.com
+simuladordevotoperu.com
+info-atualdocumento.blog
+portal-habilitacao2026.site
+novidade-areadeasistemas.shop
+iaenf.com
+fndkb.com
+seja-clienteprincipal.com
+maisaudeonline.com
+clienteupgradeprincipal.com
 #Março/2026 - Malware family Lumma stealer
 demhjmr.cyou
-#Março/2026 - Malicious behavior
-noma-abuse.com
 #Março/2026 - Phishing related domains
 correios.rastreaamentos.com
 www.elegantcls.com
@@ -1814,142 +1830,101 @@ eldope.luizesperanca.com.br
 amexcenturionconvites.com
 ledger-seed-verify.im
 clientevipexclusivo.com
-#Março/2026 - Malware family Unknown
-shorteverydaynnn.com
-#Março/2026 - Malware family Unknown
-unitvappbrasil.net
 #Março/2026 - Malware family Kelihos
 undaymidydles.org
 #Março/2026 - camapanha phishing visa
 visa-promocoes.caixaboxnew.biz.ua
 xipii.cn
-#Março/2026 - Malicious behavior
-simuladordevotoperu.com
-#Março/2026 - Malicious behavior
-info-atualdocumento.blog
-#Março/2026 - Malicious behavior
-portal-habilitacao2026.site
-#Março/2026 - Malware family Unknown
-gocomper.com
 #Março/2026 - Gophish
 portaldocomercio.org
-#Março/2026 - Malicious behavior
-novidade-areadeasistemas.shop
-#Março/2026 - Malware family Unknown
-gtly.ink
 #Março/2026 - Malware family Trojan.downloader
 reforestacion.ambiente.gob.sv
-#Março/2026 - Malicious behavior
-iaenf.com
-#Março/2026 - Malicious behavior
-fndkb.com
-#Março/2026 - Malicious behavior
-seja-clienteprincipal.com
 #Março/2026 - Phishing domain
 nomeregular.com
+form.platoforms.com
+vipconvitecenturion.com
 #Março/2026 - Phishing related
 pedagiodigital-automatico.com
 #Março/2026 - Malware family Adware.generic
 app.malcare.me
-#Março/2026 - Malware family Unknown
-hotm.io
 #Março/2026 - phishing campaign
 kak.is
-#Março/2026 - Malware family Unknown
-cptoptious.com
-#Março/2026 - Malware family Unknown
-captioto.com
 #Março/2026 - Phishing campaign
 gov-br.regularizar-declaracao.com
+documentosreservados.com
+consultareceitafederal.com
+pedagiodigitalonlaine.org
+regularizardeclaracao.com
+acessocenturion.com
+aaernco.com
+rastreaamentos.com
 #Março/2026 - phishing related
 surexbox9.com
 #Março/2026 - Malware family Pup
 www.audiochannel.net
-#Março/2026 - Malware family Pup
 audiochannel.net
-#Março/2026 - Phishing domain
-form.platoforms.com
 #Março/2026 - Malware family Lnkr
 c1.smartclick.net
-#Março/2026 - Phishing domain
-vipconvitecenturion.com
-#Março/2026 - Malicious behavior
-maisaudeonline.com
 #Março/2026 - TeamPCP Hijacks LiteLLM
 litellm.cloud
 checkmarkr.zone
-#Março/2026 - Phishing campaign
-documentosreservados.com
-consultareceitafederal.com
-#Março/2026 - Malware family Unknown
-download2388.mediafire.com
-#Março/2026 - Malicious behavior
-clienteupgradeprincipal.com
 #Março/2026 - Malware family Android.trojan.generic
 jfunlock.com
-#Março/2026 - Phishing campaign
-pedagiodigitalonlaine.org
-regularizardeclaracao.com
-acessocenturion.com
 #Março/2026 - Malware family Simda
 colnsdital.com
 #Março/2026 - axios supply chain
 sfrclak.com
-#Março/2026 - Phishing campaign
-aaernco.com
-rastreaamentos.com
 #Abril/2026 - Malware family Trojan.generic
 gamebase.app
+www.rksoft.com.br
 #Abril/2026 - Phishing campaign
 pedagiodigitalpro.com
 assscom.com
+menupagamentopedagio.com
 #Abril/2026 - Malicious behavior
 kolutorusdaf.com
-#Abril/2026 - Malicious behavior
 tapeteedebandejapremium3d.site
+986983.com
+tapetepremium3d.site
+777full1.vip
+oburgues.delivery
+lojafitwear.shop
+simfut.com
+seupedidohoje.shop
+556499.com
+w2v8pw28.com
+cuponshome.online
+aynthor.online
+lojalavrinixbr.online
+formuladobem.com.br
+pascoapg.fun
+qbp0x2ub.com
+w62ff.com
+subwaygame.io
+u5kqqzj.com
+trackandhealth.com.br
+gmer.shop
+multicanaishd.agency
+soroja.com.br
+nayfitness.shop
+ative4p.com
 #Abril/2026 - Malware family fakeapp
 biducaconfeitos.com.br
-#Abril/2026 - Malicious behavior
-986983.com
+onlineapp.pro
 #Abril/2026 - Phishing domain
 consent.clarosgvas.mobicare.com.br
-#Abril/2026 - Malicious behavior
-tapetepremium3d.site
-#Abril/2026 - Malicious behavior
-777full1.vip
-#Abril/2026 - Malicious behavior
-oburgues.delivery
-#Abril/2026 - Malicious behavior
-lojafitwear.shop
-#Abril/2026 - Malicious behavior
-simfut.com
-#Abril/2026 - Malicious behavior
-seupedidohoje.shop
-#Abril/2026 - Malicious behavior
-556499.com
-#Abril/2026 - Malicious behavior
-w2v8pw28.com
+lihi2.me
+takipcigir.com
+cutt.cx
 #Abril/2026 - Malware family Xworm
 download2288.mediafire.com
-#Abril/2026 - Malicious behavior
-cuponshome.online
 #Abril/2026 - Malware family Unknown
 ntdnewtds.shop
-#Abril/2026 - Malware family Unknown
 dnsnewtds.shop
-#Abril/2026 - Malware family Unknown
 sdntds.shop
-#Abril/2026 - Malicious behavior
-aynthor.online
-#Abril/2026 - Malicious behavior
-lojalavrinixbr.online
-#Abril/2026 - Malicious behavior
-formuladobem.com.br
 #Abril/2026 - supply chain attack
 supp0v3.com
 pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
-#Abril/2026 - Phishing campaign
-menupagamentopedagio.com
 #Abril/2026 - Phishing campaign NFC relay attack
 protegidocard.com
 cardprotecao.com
@@ -1960,31 +1935,13 @@ wh1513985.ispot.cc
 app-protecao.digital
 wh1507789.ispot.cc
 wh1513991.ispot.cc
-#Abril/2026 - Malicious behavior
-pascoapg.fun
-#Abril/2026 - Phishing domain
-lihi2.me
 #Abril/2026 - Malware family Trojan.generic.js
 cpajoliette.com
-#Abril/2026 - Malicious behavior
-qbp0x2ub.com
+jusmilitaris.com.br
 #Abril/2026 - Phishing related
 autosb1.com
 vipcenturionconvite.com
 principalclientevip.com
-#Abril/2026 - Malware family Trojan.generic
-www.rksoft.com.br
-#Abril/2026 - Tactical RMM
-rmm-mesh.aliare.co
-#Abril/2026 - Malware family Pdf.spam
-clinicaabrahaoosta.com.br
-#Abril/2026 - Malware family fakeapp
-onlineapp.pro
-#Abril/2026 - Malicious behavior
-w62ff.com
-#Abril/2026 - Malicious behavior
-subwaygame.io
-#Abril/2026 - Phishing related
 metanmask.com
 enabletwofactor.shop
 bradescocliente-principal.com
@@ -1992,18 +1949,21 @@ visa-promocoes.verificacao-de-app.co.ua
 netflixpagamento.autosb1.com
 acesssar.com
 pedagiodigital-br.com
+netflixpagamento.acesssar.com
+correios.acesssar.com
+mercadobrprotectionnbr.wwbuscacepja.xyz
+pagamentopegadiodigital.com
+app-pedagiodigital.com
+bannerhealth.com
+#Abril/2026 - Tactical RMM
+rmm-mesh.aliare.co
+#Abril/2026 - Malware family Pdf.spam
+clinicaabrahaoosta.com.br
 #Abril/2026 - Malware related
 paymentsv2.mysynology.net
-#Abril/2026 - Malicious behavior
-u5kqqzj.com
-#Abril/2026 - Malicious behavior
-trackandhealth.com.br
-#Abril/2026 - Malware family Trojan.generic.js
-jusmilitaris.com.br
-#Abril/2026 - Malicious behavior
-gmer.shop
-#Abril/2026 - Phishing domain
-takipcigir.com
+irpf2026multa.com
+fiscal-pro.online
+unscart.in
 #Abril/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
 #Abril/2026 - Malware family Snojan
@@ -2014,36 +1974,9 @@ www.mybrowserbar.com
 tuamaeaquelaursa.com
 #Abril/2026 - Malware family Trojan.stealer
 download1507.mediafire.com
-#Abril/2026 - Malware related
-irpf2026multa.com
-fiscal-pro.online
 #Abril/2026 - Malware family Phishing.artifact
 profesa.net
 #Abril/2026 - Crypto Scam related
 kkkhhhnnn.com
-#Abril/2026 - Malicious behavior
-multicanaishd.agency
 #Abril/2026 - Malware family Quasar rat
 0uyy41.com
-#Abril/2026 - Malicious behavior
-soroja.com.br
-#Abril/2026 - Malicious behavior
-nayfitness.shop
-#Abril/2026 - Phishing domain
-cutt.cx
-#Abril/2026 - Malicious behavior
-ative4p.com
-#Abril/2026 - Malware related
-unscart.in
-#Abril/2026 - Phishing related
-netflixpagamento.acesssar.com
-#Abril/2026 - Phishing related
-correios.acesssar.com
-#Abril/2026 - Phishing related
-mercadobrprotectionnbr.wwbuscacepja.xyz
-#Abril/2026 - Phishing related
-pagamentopegadiodigital.com
-#Abril/2026 - Phishing related
-app-pedagiodigital.com
-#Abril/2026 - Phishing related
-bannerhealth.com
