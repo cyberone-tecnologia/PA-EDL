@@ -1991,7 +1991,6 @@ bradescocliente-principal.com
 visa-promocoes.verificacao-de-app.co.ua
 netflixpagamento.autosb1.com
 acesssar.com
-correios.acesssar.com
 pedagiodigital-br.com
 #Abril/2026 - Malware related
 paymentsv2.mysynology.net
@@ -2038,3 +2037,5 @@ ative4p.com
 unscart.in
 #Abril/2026 - Phishing related
 netflixpagamento.acesssar.com
+#Abril/2026 - Phishing related
+correios.acesssar.com
