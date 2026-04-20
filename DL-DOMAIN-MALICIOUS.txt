@@ -2045,3 +2045,5 @@ mercadobrprotectionnbr.wwbuscacepja.xyz
 pagamentopegadiodigital.com
 #Abril/2026 - Phishing related
 app-pedagiodigital.com
+#Abril/2026 - Phishing related
+bannerhealth.com
