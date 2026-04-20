@@ -2043,3 +2043,5 @@ correios.acesssar.com
 mercadobrprotectionnbr.wwbuscacepja.xyz
 #Abril/2026 - Phishing related
 pagamentopegadiodigital.com
+#Abril/2026 - Phishing related
+app-pedagiodigital.com
