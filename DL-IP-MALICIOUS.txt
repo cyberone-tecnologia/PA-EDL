@@ -1197,3 +1197,5 @@
 178.128.16.97
 #Abril/2026 - Tactical RMM
 177.174.42.166
+#Abril/2026 - Malware family Bumblebee
+34.41.139.193
