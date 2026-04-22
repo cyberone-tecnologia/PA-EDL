@@ -1700,7 +1700,6 @@ abrir-janeiroportal.online
 abrir-janeirovirtual.online
 abrir-janeiroweb.online
 #Janeiro/2026 - Malware family Trojan.generic
-1.piratebays.to
 osgeraldos.com.br
 #Janeiro/2026 - Brazil PII Leak endpoint
 bk.elaidisparos.tech
@@ -1994,3 +1993,5 @@ pagamento.veerificacao.com
 pedagiodigital-atendimento.com
 #Abril/2026 - Malicious behavior
 desafio1kgporsemana.com.br
+#Abril/2026 - Malware family Trojan.generic
+1.piratebays.to
