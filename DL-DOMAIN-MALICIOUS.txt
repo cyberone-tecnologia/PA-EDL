@@ -1989,3 +1989,6 @@ pedagiodigitalonlaine.org
 trackandhealth.com.br
 #Abril/2026 - Malicious behavior
 embedflix.mom
+#Abril/2026 - Phishing related
+pagamento.veerificacao.com
+pedagiodigital-atendimento.com
