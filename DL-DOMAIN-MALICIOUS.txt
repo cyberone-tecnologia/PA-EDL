@@ -1992,3 +1992,5 @@ embedflix.mom
 #Abril/2026 - Phishing related
 pagamento.veerificacao.com
 pedagiodigital-atendimento.com
+#Abril/2026 - Malicious behavior
+desafio1kgporsemana.com.br
