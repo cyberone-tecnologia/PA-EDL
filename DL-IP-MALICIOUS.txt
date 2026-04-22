@@ -1187,3 +1187,5 @@
 #Abril/2026 - Malware related
 204.76.203.196
 163.5.214.40
+#Abril/2026 - Malware related
+24.152.36.241
