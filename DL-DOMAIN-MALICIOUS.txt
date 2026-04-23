@@ -1988,7 +1988,6 @@ trackandhealth.com.br
 embedflix.mom
 #Abril/2026 - Phishing related
 pagamento.veerificacao.com
-pedagiodigital-atendimento.com
 #Abril/2026 - Malicious behavior
 desafio1kgporsemana.com.br
 #Abril/2026 - Malware family Trojan.generic
@@ -1999,3 +1998,6 @@ dasjdada3686.net
 kkk8768b4.com
 #Abril/2026 - Malware family Quasar rat
 0uyy41.com
+#Abril/2026 - Phishing related
+mail-uol.atuallizacaocadastral.com
+pedagiodigital-atendimento.com
