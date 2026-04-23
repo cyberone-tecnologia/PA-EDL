@@ -2016,3 +2016,5 @@ blog.chatliveplus.com
 webdisk.chatliveplus.com
 #Abril/2026 - Malware family magentocore
 chat.eventchatsupport.com
+#Abril/2026 - Malicious behavior
+lojaluvinix.com
