@@ -2002,3 +2002,5 @@ mail-uol.atuallizacaocadastral.com
 pedagiodigital-atendimento.com
 #Abril/2026 - Phishing related
 irpf2026multa.com
+#Abril/2026 - Malware family magentocore
+system.eventchatsupport.com
