@@ -2010,3 +2010,5 @@ calendar.livechatlite.com
 apicheck.chatliveplus.com
 #Abril/2026 - Malware family magentocore
 mail.chatliveplus.com
+#Abril/2026 - Malware family magentocore
+blog.chatliveplus.com
