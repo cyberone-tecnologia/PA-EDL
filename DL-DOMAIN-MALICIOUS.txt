@@ -2014,3 +2014,5 @@ mail.chatliveplus.com
 blog.chatliveplus.com
 #Abril/2026 - Malware family magentocore
 webdisk.chatliveplus.com
+#Abril/2026 - Malware family magentocore
+chat.eventchatsupport.com
