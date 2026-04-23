@@ -2004,3 +2004,5 @@ pedagiodigital-atendimento.com
 irpf2026multa.com
 #Abril/2026 - Malware family magentocore
 system.eventchatsupport.com
+#Abril/2026 - Malware family magentocore
+calendar.livechatlite.com
