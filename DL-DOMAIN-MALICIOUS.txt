@@ -1995,8 +1995,6 @@ desafio1kgporsemana.com.br
 dasjdada3686.net
 #Abril/2026 - Malicious behavior
 kkk8768b4.com
-#Abril/2026 - Malware family Quasar rat
-0uyy41.com
 #Abril/2026 - Phishing related
 mail-uol.atuallizacaocadastral.com
 pedagiodigital-atendimento.com
@@ -2020,3 +2018,5 @@ chat.eventchatsupport.com
 lojaluvinix.com
 #Abril/2026 - Malicious behavior
 89ppp8.com
+#Abril/2026 - Malware family Quasar rat
+0uyy41.com
