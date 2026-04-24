@@ -1189,3 +1189,6 @@
 24.152.36.241
 #Abril/2026 - Malware family Bumblebee
 34.41.139.193
+#Abril/2026 - XMRig Miner Command and Control Traffic Detection
+66.23.199.44
+178.156.163.1
