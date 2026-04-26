@@ -1908,7 +1908,6 @@ ative4p.com
 biducaconfeitos.com.br
 onlineapp.pro
 #Abril/2026 - Phishing domain
-consent.clarosgvas.mobicare.com.br
 lihi2.me
 takipcigir.com
 cutt.cx
@@ -2026,3 +2025,5 @@ nslsconscloud.beer
 executors601.net
 #Abril/2026 - Malicious behavior
 335557.com
+#Abril/2026 - Phishing domain
+consent.clarosgvas.mobicare.com.br
