@@ -2031,6 +2031,7 @@ groupdigital.com.br
 veerificacao.com
 netflixpagamento.acesssar.com
 gx16.b2ec1jle.com
-nfeletrod.com
 #Abril/2026 - Malicious behavior
 trackandhealth.com.br
+#Abril/2026 - Phishing related
+nfeletrod.com
