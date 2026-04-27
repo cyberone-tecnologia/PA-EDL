@@ -2028,3 +2028,5 @@ executors601.net
 consent.clarosgvas.mobicare.com.br
 #Abril/2026 - Phishing domain
 www.wixsite.com
+#Abril/2026 - Malware family Strelastealer
+groupdigital.com.br
