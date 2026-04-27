@@ -865,7 +865,6 @@ kinoforum.org.br
 #Março/2025 - Malware family Adware.android.agent
 download.gamercdn.top
 #Março/2025 - Phishing domain
-www.wixsite.com
 onne.link
 #Março/2025 - Phishing campaign
 web3-supp.com
@@ -2027,3 +2026,5 @@ executors601.net
 335557.com
 #Abril/2026 - Phishing domain
 consent.clarosgvas.mobicare.com.br
+#Abril/2026 - Phishing domain
+www.wixsite.com
