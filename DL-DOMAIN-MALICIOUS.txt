@@ -1943,7 +1943,6 @@ visa-promocoes.verificacao-de-app.co.ua
 netflixpagamento.autosb1.com
 acesssar.com
 pedagiodigital-br.com
-netflixpagamento.acesssar.com
 correios.acesssar.com
 mercadobrprotectionnbr.wwbuscacepja.xyz
 pagamentopegadiodigital.com
@@ -2030,3 +2029,8 @@ consent.clarosgvas.mobicare.com.br
 www.wixsite.com
 #Abril/2026 - Malware family Strelastealer
 groupdigital.com.br
+#Abril/2026 - Phishing related
+veerificacao.com
+netflixpagamento.acesssar.com
+gx16.b2ec1jle.com
+nfeletrod.com
