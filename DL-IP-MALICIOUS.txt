@@ -1192,3 +1192,5 @@
 #Abril/2026 - XMRig Miner Command and Control Traffic Detection
 66.23.199.44
 178.156.163.1
+#Abril/2026 - Multiple Login Failures for the Same User
+67.210.97.34
