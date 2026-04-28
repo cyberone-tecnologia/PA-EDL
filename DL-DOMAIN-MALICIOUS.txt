@@ -1974,8 +1974,6 @@ acessarportal.com
 #Abril/2026 - Phishing related
 uol.acessarportal.com
 #Abril/2026 - Phishing related
-regularizacaodebito.com
-#Abril/2026 - Phishing related
 pedagiodigitalonlaine.org
 #Abril/2026 - Malicious behavior
 embedflix.mom
@@ -2051,3 +2049,6 @@ agenciadelivearte.com.br
 pedagiodebitos.org
 #Abril/2026 - Malicious behavior
 85kk5.com
+#Abril/2026 - Phishing related
+regularizacaodebito.com
+rastreamentoalfandegaria.com
