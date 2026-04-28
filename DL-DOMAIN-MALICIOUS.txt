@@ -1901,7 +1901,6 @@ gmer.shop
 multicanaishd.agency
 nayfitness.shop
 ative4p.com
-embedflix.mom
 desafio1kgporsemana.com.br
 dasjdada3686.net
 kkk8768b4.com
@@ -2027,3 +2026,5 @@ groupdigital.com.br
 agenciadelivearte.com.br
 #Abril/2026 - Malware family Netsupportmanager rat
 bksnb.com
+#Abril/2026 - Malicious behavior
+embedflix.mom
