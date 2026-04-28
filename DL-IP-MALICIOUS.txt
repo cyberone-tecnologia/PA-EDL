@@ -1185,8 +1185,8 @@
 #Abril/2026 - Malware related
 204.76.203.196
 163.5.214.40
-#Abril/2026 - Malware related
 24.152.36.241
+185.107.74.215
 #Abril/2026 - Malware family Bumblebee
 34.41.139.193
 #Abril/2026 - XMRig Miner Command and Control Traffic Detection
@@ -1194,7 +1194,5 @@
 178.156.163.1
 #Abril/2026 - Multiple Login Failures for the Same User
 67.210.97.34
-#Abril/2026 - Malware related
-185.107.74.215
 #Abril/2026 - Malware family Netsupportmanager rat
 45.227.254.10
