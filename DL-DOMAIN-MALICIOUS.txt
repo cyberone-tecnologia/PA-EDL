@@ -2061,3 +2061,5 @@ admlin.booking-redirect.com
 bksnb.com
 #Abril/2026 - Phishing domain
 1sh.co
+#Abril/2026 - Malware family Unknown
+verification-cdn-cloud.beer
