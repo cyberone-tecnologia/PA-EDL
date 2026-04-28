@@ -1194,3 +1194,5 @@
 178.156.163.1
 #Abril/2026 - Multiple Login Failures for the Same User
 67.210.97.34
+#Abril/2026 - Malware related
+185.107.74.215
