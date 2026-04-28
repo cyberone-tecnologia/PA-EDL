@@ -1438,7 +1438,6 @@ idolink.com
 www.sertras.com
 shm.to
 jmveiculossantaluzia.com.br
-1sh.co
 tunnelsnakes.com
 solicitacredito.digital
 #Setembro/2025 - Malicious behavior
@@ -2060,3 +2059,5 @@ regularize.consultareceitafederal.com
 admlin.booking-redirect.com
 #Abril/2026 - Malware family Netsupportmanager rat
 bksnb.com
+#Abril/2026 - Phishing domain
+1sh.co
