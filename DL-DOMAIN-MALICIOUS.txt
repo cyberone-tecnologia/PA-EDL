@@ -1849,7 +1849,6 @@ kak.is
 #Março/2026 - Phishing campaign
 gov-br.regularizar-declaracao.com
 documentosreservados.com
-consultareceitafederal.com
 regularizardeclaracao.com
 acessocenturion.com
 aaernco.com
@@ -2052,3 +2051,6 @@ pedagiodebitos.org
 #Abril/2026 - Phishing related
 regularizacaodebito.com
 rastreamentoalfandegaria.com
+#Abril/2026 - Phishing related
+consultareceitafederal.com
+majorsend.com
