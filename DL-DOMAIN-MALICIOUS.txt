@@ -2054,3 +2054,5 @@ rastreamentoalfandegaria.com
 #Abril/2026 - Phishing related
 consultareceitafederal.com
 majorsend.com
+#Abril/2026 - Phishing related
+regularize.consultareceitafederal.com
