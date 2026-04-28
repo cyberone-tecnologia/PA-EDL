@@ -2056,3 +2056,5 @@ consultareceitafederal.com
 majorsend.com
 #Abril/2026 - Phishing related
 regularize.consultareceitafederal.com
+#Abril/2026 - Malware related
+admlin.booking-redirect.com
