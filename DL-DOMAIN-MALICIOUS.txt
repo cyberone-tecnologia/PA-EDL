@@ -2028,3 +2028,5 @@ agenciadelivearte.com.br
 bksnb.com
 #Abril/2026 - Malicious behavior
 embedflix.mom
+#Abril/2026 - Malicious behavior
+achadinhos.run
