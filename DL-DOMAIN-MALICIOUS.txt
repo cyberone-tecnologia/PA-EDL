@@ -2030,3 +2030,5 @@ bksnb.com
 embedflix.mom
 #Abril/2026 - Malicious behavior
 achadinhos.run
+#Abril/2026 - Malware family Trojan.generic
+wiki.spectralcoding.com
