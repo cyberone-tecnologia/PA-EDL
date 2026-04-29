@@ -2034,3 +2034,5 @@ achadinhos.run
 wiki.spectralcoding.com
 #Abril/2026 - Malicious behavior
 x7m2kpr.com
+#Abril/2026 - Phishing domain
+obter4.ru
