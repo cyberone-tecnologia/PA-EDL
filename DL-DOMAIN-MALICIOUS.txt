@@ -1872,6 +1872,7 @@ sfrclak.com
 gamebase.app
 www.rksoft.com.br
 1.piratebays.to
+wiki.spectralcoding.com
 #Abril/2026 - Phishing campaign
 pedagiodigitalpro.com
 assscom.com
@@ -1910,6 +1911,9 @@ executors601.net
 335557.com
 trackandhealth.com.br
 85kk5.com
+embedflix.mom
+achadinhos.run
+x7m2kpr.com
 #Abril/2026 - Malware family fakeapp
 biducaconfeitos.com.br
 onlineapp.pro
@@ -1920,6 +1924,7 @@ cutt.cx
 consent.clarosgvas.mobicare.com.br
 www.wixsite.com
 1sh.co
+obter4.ru
 #Abril/2026 - Malware family Xworm
 download2288.mediafire.com
 #Abril/2026 - Malware family Unknown
@@ -1996,6 +2001,7 @@ paymentsv2.mysynology.net
 fiscal-pro.online
 unscart.in
 admlin.booking-redirect.com
+protesauploadfiles.base44.app/
 #Abril/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
 #Abril/2026 - Malware family Snojan
@@ -2026,16 +2032,3 @@ groupdigital.com.br
 agenciadelivearte.com.br
 #Abril/2026 - Malware family Netsupportmanager rat
 bksnb.com
-#Abril/2026 - Malicious behavior
-embedflix.mom
-#Abril/2026 - Malicious behavior
-achadinhos.run
-#Abril/2026 - Malware family Trojan.generic
-wiki.spectralcoding.com
-#Abril/2026 - Malicious behavior
-x7m2kpr.com
-#Abril/2026 - Phishing domain
-obter4.ru
-#Abril/2026 - Malware related
-protesauploadfiles.base44.app/
-
