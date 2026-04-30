@@ -2035,3 +2035,5 @@ bksnb.com
 #Abril/2026 - Phishing related
 netflix-dispositivo.acessarportal.com/
 correios.acessarportal.com/
+#Abril/2026 - Malicious behavior
+segurancaativada.fun
