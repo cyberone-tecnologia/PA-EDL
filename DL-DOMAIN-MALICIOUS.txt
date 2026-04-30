@@ -2032,3 +2032,6 @@ groupdigital.com.br
 agenciadelivearte.com.br
 #Abril/2026 - Malware family Netsupportmanager rat
 bksnb.com
+#Abril/2026 - Phishing related
+netflix-dispositivo.acessarportal.com/
+correios.acessarportal.com/
