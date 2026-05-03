@@ -2041,3 +2041,5 @@ segurancaativada.fun
 daarquibancada.com
 #Maio/2026 - Malware family Vidar
 cebolinhaburger.com
+#Maio/2026 - Malicious behavior
+stolzelinks.xyz
