@@ -1762,8 +1762,6 @@ q74vn.live
 servgate.me
 zamstats.me
 zrheblirsy.me
-#Fevereiro/2026 - offloader
-multiatend.com.br
 #Fevereiro/2026 - Malware family Simda
 solsticea.net
 #Fevereiro/2026 - Malware hash: 783f9c9568ea7e0180b0af4ebd225ca832b393e06d70b5841d23c9928e7c7c2a
@@ -2047,3 +2045,5 @@ stolzelinks.xyz
 adorocupom.com
 #Maio/2026 - Malicious behavior
 arquiteturaestrelasolar.com
+#Maio/2026 - Malware family Vidar
+multiatend.com.br
