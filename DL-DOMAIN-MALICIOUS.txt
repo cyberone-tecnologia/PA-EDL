@@ -2032,7 +2032,6 @@ agenciadelivearte.com.br
 bksnb.com
 #Abril/2026 - Phishing related
 netflix-dispositivo.acessarportal.com/
-correios.acessarportal.com/
 #Abril/2026 - Malicious behavior
 segurancaativada.fun
 #Maio/2026 - Malicious behavior
@@ -2082,3 +2081,8 @@ teste.convitemtp24.com/
 teste.illiquidlabs.com/
 teste.principaisonlinebr.com/
 timedocoracaoseu.com/
+#Maio/2026 - Phishing related
+correios.acessarportal.com/
+pushfllow.com/
+netflixlogin.acessarportal.com/
+majorsend.com/
