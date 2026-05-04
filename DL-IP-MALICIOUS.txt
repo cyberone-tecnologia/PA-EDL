@@ -1202,3 +1202,5 @@
 124.198.131.185
 #Maio/2026 - Malware family Unknown
 212.56.49.119
+#Maio/2026 - brute force related
+149.102.242.104
