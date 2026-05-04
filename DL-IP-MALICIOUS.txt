@@ -1196,3 +1196,5 @@
 67.210.97.34
 #Abril/2026 - Malware family Netsupportmanager rat
 45.227.254.10
+#Maio/2026 - Malware related
+195.10.205.212
