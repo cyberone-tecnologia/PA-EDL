@@ -2047,3 +2047,5 @@ adorocupom.com
 arquiteturaestrelasolar.com
 #Maio/2026 - Malware family Vidar
 multiatend.com.br
+#Maio/2026 - Phishing related
+bads-coments.com
