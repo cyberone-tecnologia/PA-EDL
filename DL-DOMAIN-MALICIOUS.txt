@@ -2088,3 +2088,5 @@ netflixlogin.acessarportal.com/
 majorsend.com/
 #Maio/2026 - Malware family Unknown
 gift.dlp005.shop
+#Maio/2026 - C2
+www.agdapiazzon.com.br/
