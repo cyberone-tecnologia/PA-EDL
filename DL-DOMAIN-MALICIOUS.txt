@@ -2138,3 +2138,5 @@ upgradeprincipalnet.com
 correiodeminas.com.br
 #Maio/2026 - Malicious behavior
 content-website-analytics.com
+#Maio/2026 - Malicious behavior
+yourtrackingserver.com
