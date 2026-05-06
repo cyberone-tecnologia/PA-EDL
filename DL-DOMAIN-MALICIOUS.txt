@@ -1918,7 +1918,6 @@ takipcigir.com
 cutt.cx
 consent.clarosgvas.mobicare.com.br
 www.wixsite.com
-1sh.co
 obter4.ru
 #Abril/2026 - Malware family Xworm
 download2288.mediafire.com
@@ -2155,3 +2154,5 @@ arthurscan.xyz
 trazpraca.club
 #Maio/2026 - Malicious behavior
 salseprudely.com
+#Maio/2026 - Phishing domain
+1sh.co
