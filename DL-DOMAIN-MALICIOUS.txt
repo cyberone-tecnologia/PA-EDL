@@ -2135,3 +2135,5 @@ nickeeha.net
 convitedigitalonlinebr.com
 #Maio/2026 - Phishing domain
 upgradeprincipalnet.com
+#Maio/2026 - Malware family Trojan.generic
+correiodeminas.com.br
