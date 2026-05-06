@@ -2140,3 +2140,5 @@ correiodeminas.com.br
 content-website-analytics.com
 #Maio/2026 - Malicious behavior
 yourtrackingserver.com
+#Maio/2026 - Malicious behavior
+traffic.aihack.top
