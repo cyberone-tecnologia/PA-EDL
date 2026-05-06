@@ -1509,7 +1509,6 @@ dieunfall.com
 #Outubro/2025 - Malware family Clearfake
 autodemolidorasa.com.br
 #Outubro/2025 - Malware family Unknown
-content-website-analytics.com
 latam-oab.cd-brasil.com
 www.paixaocameras.com.br
 brbets777.com
@@ -2137,3 +2136,5 @@ convitedigitalonlinebr.com
 upgradeprincipalnet.com
 #Maio/2026 - Malware family Trojan.generic
 correiodeminas.com.br
+#Maio/2026 - Malicious behavior
+content-website-analytics.com
