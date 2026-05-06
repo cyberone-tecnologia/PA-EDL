@@ -2144,3 +2144,5 @@ yourtrackingserver.com
 traffic.aihack.top
 #Maio/2026 - Malicious behavior
 ey.ancientmurine.com
+#Maio/2026 - Malicious behavior
+xapuri.info
