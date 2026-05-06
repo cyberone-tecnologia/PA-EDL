@@ -2142,3 +2142,5 @@ content-website-analytics.com
 yourtrackingserver.com
 #Maio/2026 - Malicious behavior
 traffic.aihack.top
+#Maio/2026 - Malicious behavior
+ey.ancientmurine.com
