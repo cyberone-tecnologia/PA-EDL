@@ -2133,3 +2133,5 @@ pub-ac0ba41ae0e44cc28ac9f38ccf646acb.r2.dev
 nickeeha.net
 #Maio/2026 - Phishing domain
 convitedigitalonlinebr.com
+#Maio/2026 - Phishing domain
+upgradeprincipalnet.com
