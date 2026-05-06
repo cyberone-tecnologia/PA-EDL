@@ -2101,8 +2101,6 @@ droidmobile.xyz
 #Maio/2026 - Malicious behavior
 fastred.biz
 #Maio/2026 - Malicious behavior
-gruposdewhatss.app
-#Maio/2026 - Malicious behavior
 videoplay.top
 #Maio/2026 - Malicious behavior
 occasionforfeitarray.com
@@ -2156,3 +2154,5 @@ trazpraca.club
 salseprudely.com
 #Maio/2026 - Phishing domain
 1sh.co
+#Maio/2026 - Malicious behavior
+gruposdewhatss.app
