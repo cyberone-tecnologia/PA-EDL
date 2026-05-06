@@ -2127,3 +2127,5 @@ arthurscan.xyz
 mangasonline.cc
 #Maio/2026 - Malicious behavior
 pub-ac0ba41ae0e44cc28ac9f38ccf646acb.r2.dev
+#Maio/2026 - Malware family Android.adware.generic
+891818.com
