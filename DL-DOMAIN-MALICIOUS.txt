@@ -2088,8 +2088,6 @@ www.agdapiazzon.com.br/
 #Maio/2026 - Malicious behavior
 bd.streitetymon.com
 #Maio/2026 - Malicious behavior
-salseprudely.com
-#Maio/2026 - Malicious behavior
 ymzz66daya.ru
 #Maio/2026 - Malicious behavior
 meu.itau
@@ -2155,3 +2153,5 @@ mangasonline.cc
 arthurscan.xyz
 #Maio/2026 - Malware family Trojan.generic
 trazpraca.club
+#Maio/2026 - Malicious behavior
+salseprudely.com
