@@ -2162,3 +2162,5 @@ market-quotex.trade
 adorocupom.com
 #Maio/2026 - Malicious behavior
 piq.wtf
+#Maio/2026 - Malware family Unknown
+juicy.bio
