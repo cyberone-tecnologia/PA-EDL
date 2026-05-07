@@ -2160,3 +2160,5 @@ zlyer-cdn-comps-en.bigeyes.com
 market-quotex.trade
 #Maio/2026 - Malicious behavior
 adorocupom.com
+#Maio/2026 - Malicious behavior
+piq.wtf
