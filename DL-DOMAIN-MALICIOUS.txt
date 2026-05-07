@@ -2144,8 +2144,6 @@ mangasonline.cc
 arthurscan.xyz
 #Maio/2026 - Malware family Trojan.generic
 trazpraca.club
-#Maio/2026 - Malicious behavior
-salseprudely.com
 #Maio/2026 - Phishing domain
 1sh.co
 #Maio/2026 - Malicious behavior
@@ -2164,3 +2162,5 @@ juicy.bio
 nickeeha.net
 #Maio/2026 - Malicious behavior
 ymdwvb5k3r.ru
+#Maio/2026 - Malicious behavior
+salseprudely.com
