@@ -1278,8 +1278,6 @@ raspadorareal.com.br
 #Abril/2025 - Malware related2
 5mythtracker.xyz
 #Maio/2026 - Malicious behavior
-ingressosccbb.com.br
-#Maio/2026 - Malicious behavior
 droidmobile.xyz
 #Maio/2026 - Malicious behavior
 fastred.biz
@@ -1291,3 +1289,5 @@ videoplay.top
 www.agdapiazzon.com.br/
 #Maio/2026 - Phishing domain
 upgradeprincipalnet.com
+#Maio/2026 - Malicious behavior
+ingressosccbb.com.br
