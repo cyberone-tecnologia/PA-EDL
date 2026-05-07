@@ -2035,8 +2035,6 @@ daarquibancada.com
 #Maio/2026 - Malware family Vidar
 cebolinhaburger.com
 #Maio/2026 - Malicious behavior
-adorocupom.com
-#Maio/2026 - Malicious behavior
 arquiteturaestrelasolar.com
 #Maio/2026 - Malware family Vidar
 multiatend.com.br
@@ -2160,3 +2158,5 @@ gruposdewhatss.app
 zlyer-cdn-comps-en.bigeyes.com
 #Maio/2026 - Malicious behavior
 market-quotex.trade
+#Maio/2026 - Malicious behavior
+adorocupom.com
