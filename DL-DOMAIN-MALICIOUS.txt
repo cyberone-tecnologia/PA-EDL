@@ -2185,3 +2185,7 @@ steamhost.cn
 ymf1w6evzp.ru
 #Maio/2026 - Malware family Unknown
 gosite.cc
+#Maio/2026 - Phishing domain
+primevideo.acessarportal.com/
+pedagiodigital-online.com/
+codemultiencript.com/
