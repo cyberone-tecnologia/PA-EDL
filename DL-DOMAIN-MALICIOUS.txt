@@ -2190,3 +2190,5 @@ pedagiodigital-online.com/
 codemultiencript.com/
 #Maio/2026 - Phishing domain
 pedagiodigitalonlaine.org
+#Maio/2026 - Malware family Unknown
+cdn7.live
