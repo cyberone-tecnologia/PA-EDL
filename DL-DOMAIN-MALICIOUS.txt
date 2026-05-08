@@ -1960,7 +1960,6 @@ app-pedagiodigital.com
 bannerhealth.com
 acessarportal.com
 uol.acessarportal.com
-pedagiodigitalonlaine.org
 pagamento.veerificacao.com
 mail-uol.atuallizacaocadastral.com
 pedagiodigital-atendimento.com
@@ -2189,3 +2188,5 @@ gosite.cc
 primevideo.acessarportal.com/
 pedagiodigital-online.com/
 codemultiencript.com/
+#Maio/2026 - Phishing domain
+pedagiodigitalonlaine.org
