@@ -1728,7 +1728,6 @@ ak.deghooda.net
 reconhecimento-oab.site
 download.webc.co
 m1xdrop.com
-gosite.cc
 central-benef-br.com
 exploreresultshub.com
 cdn.topmongo.com
@@ -2184,3 +2183,5 @@ xapuri.info
 steamhost.cn
 #Maio/2026 - Malicious behavior
 ymf1w6evzp.ru
+#Maio/2026 - Malware family Unknown
+gosite.cc
