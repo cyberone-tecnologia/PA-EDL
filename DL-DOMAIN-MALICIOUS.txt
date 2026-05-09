@@ -2030,8 +2030,6 @@ netflix-dispositivo.acessarportal.com/
 segurancaativada.fun
 #Maio/2026 - Malicious behavior
 daarquibancada.com
-#Maio/2026 - Malware family Vidar
-cebolinhaburger.com
 #Maio/2026 - Malicious behavior
 arquiteturaestrelasolar.com
 #Maio/2026 - Malware family Vidar
@@ -2194,3 +2192,5 @@ pedagiodigitalonlaine.org
 cdn7.live
 #Maio/2026 - Malicious behavior
 76m00.com
+#Maio/2026 - Malware family Vidar
+cebolinhaburger.com
