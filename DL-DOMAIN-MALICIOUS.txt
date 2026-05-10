@@ -2168,8 +2168,6 @@ ingressosccbb.com.br
 click2.club
 #Maio/2026 - Malicious behavior
 mmfilmes.com.br
-#Maio/2026 - Malware family Trojan.generic
-correiodeminas.com.br
 #Maio/2026 - Malicious behavior
 blogdosilvalima.com.br
 #Maio/2026 - Malicious behavior
@@ -2194,3 +2192,5 @@ cdn7.live
 76m00.com
 #Maio/2026 - Malware family Vidar
 cebolinhaburger.com
+#Maio/2026 - Malware family Trojan.generic
+correiodeminas.com.br
