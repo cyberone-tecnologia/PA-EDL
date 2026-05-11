@@ -2198,3 +2198,5 @@ juicy.bio
 lapelota.shop
 #Maio/2026 - Malicious behavior
 futcompanybr.com
+#Maio/2026 - Malware family Unknown
+spoo.me
