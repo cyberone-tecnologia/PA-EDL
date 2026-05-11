@@ -2194,3 +2194,5 @@ cebolinhaburger.com
 correiodeminas.com.br
 #Maio/2026 - Malware family Unknown
 juicy.bio
+#Maio/2026 - Malicious behavior
+lapelota.shop
