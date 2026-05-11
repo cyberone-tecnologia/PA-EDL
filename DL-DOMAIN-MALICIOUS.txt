@@ -2140,8 +2140,6 @@ market-quotex.trade
 adorocupom.com
 #Maio/2026 - Malicious behavior
 piq.wtf
-#Maio/2026 - Malware family Unknown
-juicy.bio
 #Maio/2026 - Malicious behavior
 nickeeha.net
 #Maio/2026 - Malicious behavior
@@ -2194,3 +2192,5 @@ cdn7.live
 cebolinhaburger.com
 #Maio/2026 - Malware family Trojan.generic
 correiodeminas.com.br
+#Maio/2026 - Malware family Unknown
+juicy.bio
