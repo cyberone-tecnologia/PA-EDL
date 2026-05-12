@@ -2177,7 +2177,6 @@ ymf1w6evzp.ru
 #Maio/2026 - Malware family Unknown
 gosite.cc
 #Maio/2026 - Phishing domain
-primevideo.acessarportal.com/
 pedagiodigital-online.com/
 codemultiencript.com/
 #Maio/2026 - Phishing domain
@@ -2202,3 +2201,10 @@ spoo.me
 download2288.mediafire.com
 #Maio/2026 - Malware related
 resortlibra.sistemapocket.com.br/
+#Maio/2026 - Phishing related
+dataalign.net/
+principalonlinebr.com/
+autthmp.med-segmp.com/
+disneyplus.acessarportal.com/
+primevideo.acessarportal.com/
+pedagiodigital.debitos-online.com/
