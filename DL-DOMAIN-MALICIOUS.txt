@@ -1918,8 +1918,6 @@ cutt.cx
 consent.clarosgvas.mobicare.com.br
 www.wixsite.com
 obter4.ru
-#Abril/2026 - Malware family Xworm
-download2288.mediafire.com
 #Abril/2026 - Malware family Unknown
 ntdnewtds.shop
 dnsnewtds.shop
@@ -2200,3 +2198,5 @@ lapelota.shop
 futcompanybr.com
 #Maio/2026 - Malware family Unknown
 spoo.me
+#Maio/2026 - Malware family Xworm
+download2288.mediafire.com
