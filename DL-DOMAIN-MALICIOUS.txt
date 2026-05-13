@@ -2209,8 +2209,6 @@ pedagiodigital.debitos-online.com/
 #Maio/2026 - Malware family Trojan.generic
 correiodeminas.com.br
 #Maio/2026 - Malicious behavior
-q2k5m8.com
-#Maio/2026 - Malicious behavior
 t2x8k5.com
 #Maio/2026 - Malicious behavior
 z9r4m6.com
@@ -2241,3 +2239,5 @@ mysite.vagaro.com/
 www.rixler.com
 #Maio/2026 - Malware family Netsupportmanager.rat
 hs-analytics.org
+#Maio/2026 - Malicious behavior
+q2k5m8.com
