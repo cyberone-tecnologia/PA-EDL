@@ -2239,3 +2239,5 @@ mysite.vagaro.com/
 44dd06.com
 #Maio/2026 - Malware family Trojan.generic
 www.rixler.com
+#Maio/2026 - Malware family Netsupportmanager.rat
+hs-analytics.org
