@@ -2237,3 +2237,5 @@ skytravelsv.com/
 mysite.vagaro.com/
 #Maio/2026 - Malicious behavior
 44dd06.com
+#Maio/2026 - Malware family Trojan.generic
+www.rixler.com
