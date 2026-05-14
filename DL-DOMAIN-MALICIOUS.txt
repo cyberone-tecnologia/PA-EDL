@@ -2205,7 +2205,6 @@ principalonlinebr.com/
 autthmp.med-segmp.com/
 disneyplus.acessarportal.com/
 primevideo.acessarportal.com/
-pedagiodigital.debitos-online.com/
 #Maio/2026 - Malware family Trojan.generic
 correiodeminas.com.br
 #Maio/2026 - Malicious behavior
@@ -2256,3 +2255,8 @@ x6t9r3.com
 casashoppingmoveis.com
 #Maio/2026 - Malicious behavior
 1mythtracker.xyz
+#Maio/2026 - Phishing related
+pedagiodigital.debitos-online.com/
+login-netflx.centralsistema.com/
+bulkavailabledomainlocator.com/
+vaidevisa.copadomundo-premiacao.com/
