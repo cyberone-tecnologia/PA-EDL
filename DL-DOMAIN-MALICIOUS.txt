@@ -1992,8 +1992,6 @@ fiscal-pro.online
 unscart.in
 admlin.booking-redirect.com
 protesauploadfiles.base44.app/
-#Abril/2026 - Malware family Trojan.js.generic
-gatepass-corp.com
 #Abril/2026 - Malware family Snojan
 nohope.eu
 #Abril/2026 - Malware family Webtoolbar.browser.modifier
@@ -2262,3 +2260,5 @@ vaidevisa.copadomundo-premiacao.com/
 adsinfinityhub.com
 #Maio/2026 - Malware family Unknown
 juicy.bio
+#Maio/2026 - Malware family Trojan.js.generic
+gatepass-corp.com
