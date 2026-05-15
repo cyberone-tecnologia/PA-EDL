@@ -2265,7 +2265,6 @@ gatepass-corp.com
 #Maio/2026 - Malicious behavior
 abaetev.biz
 #Maio/2026 - Phishing related
-seg.authhmelimais.com/
 pegadiodigital-flow.com/
 autthml.authenticarmercado-pago.com/
 pedagio-brasil.shop/
@@ -2274,3 +2273,7 @@ disneyplus.centralsistema.com/
 portal.regularizarplano.com/
 pedagiodigital.online-debitos.com/
 assinante.regularzarplano.com/
+#Maio/2026 - Phishing related
+portal.normalizarplano.com/
+pedagiodigital-flow.com/
+seg.authhmelimais.com/
