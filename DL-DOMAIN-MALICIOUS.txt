@@ -2262,3 +2262,5 @@ adsinfinityhub.com
 juicy.bio
 #Maio/2026 - Malware family Trojan.js.generic
 gatepass-corp.com
+#Maio/2026 - Malicious behavior
+abaetev.biz
