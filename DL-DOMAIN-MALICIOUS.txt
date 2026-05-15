@@ -2187,8 +2187,6 @@ cdn7.live
 76m00.com
 #Maio/2026 - Malware family Vidar
 cebolinhaburger.com
-#Maio/2026 - Malware family Unknown
-juicy.bio
 #Maio/2026 - Malicious behavior
 lapelota.shop
 #Maio/2026 - Malicious behavior
@@ -2262,3 +2260,5 @@ bulkavailabledomainlocator.com/
 vaidevisa.copadomundo-premiacao.com/
 #Maio/2026 - Malicious behavior
 adsinfinityhub.com
+#Maio/2026 - Malware family Unknown
+juicy.bio
