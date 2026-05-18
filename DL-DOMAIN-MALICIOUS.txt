@@ -2300,3 +2300,5 @@ g3m9k1.com
 r7m6x4.com
 #Maio/2026 - Phishing domain
 consent.clarosgvas.mobicare.com.br
+#Maio/2026 - Malicious behavior
+d2x6m7.com
