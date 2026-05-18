@@ -2312,8 +2312,6 @@ portal.normalizarplano.com/
 portal.liberarmercadoria.com/
 central.liberarmercadoria.com/
 pedagio-brasil.shop/
-#Maio/2026 - Phishing related
-bradesco.homeibank.com/
 #Maio/2026 - Malicious behavior
 x1k5t9.com
 #Maio/2026 - Malicious behavior
@@ -2336,3 +2334,5 @@ g9x2m5.com
 v5gfe.com
 #Maio/2026 - Malicious behavior
 vulcanmotopecas.com.br
+#Maio/2026 - Phishing related
+bradesco.homeibank.com/
