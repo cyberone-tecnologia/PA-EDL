@@ -2312,3 +2312,5 @@ portal.normalizarplano.com/
 portal.liberarmercadoria.com/
 central.liberarmercadoria.com/
 pedagio-brasil.shop/
+#Maio/2026 - Phishing related
+bradesco.homeibank.com/
