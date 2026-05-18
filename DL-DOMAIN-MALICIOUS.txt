@@ -2266,14 +2266,12 @@ abaetev.biz
 #Maio/2026 - Phishing related
 pegadiodigital-flow.com/
 autthml.authenticarmercado-pago.com/
-pedagio-brasil.shop/
 pedagiodigital.debitos-ecovias.com/
 disneyplus.centralsistema.com/
 portal.regularizarplano.com/
 pedagiodigital.online-debitos.com/
 assinante.regularzarplano.com/
 #Maio/2026 - Phishing related
-portal.normalizarplano.com/
 pedagiodigital-flow.com/
 seg.authhmelimais.com/
 #Maio/2026 - Malicious behavior
@@ -2308,3 +2306,9 @@ r5k1x7.com
 j5k9m7.com
 #Maio/2026 - Malicious behavior
 x3t9m5.com
+#Maio/2026 - Phishing related
+pedagiodigital-vias.dynv6.net/
+portal.normalizarplano.com/
+portal.liberarmercadoria.com/
+central.liberarmercadoria.com/
+pedagio-brasil.shop/
