@@ -2336,3 +2336,5 @@ v5gfe.com
 bradesco.homeibank.com/
 #Maio/2026 - Malicious behavior
 vulcanmotopecas.com.br
+#Maio/2026 - Phishing related
+pedagiodigital.siteoficial.ws/
