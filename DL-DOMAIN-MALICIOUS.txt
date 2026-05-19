@@ -2340,3 +2340,5 @@ vulcanmotopecas.com.br
 pedagiodigital.siteoficial.ws/
 #Maio/2026 - Phishing related
 *.normalizarplano.com
+#Maio/2026 - Phishing related
+pedagiodigital.it.com
