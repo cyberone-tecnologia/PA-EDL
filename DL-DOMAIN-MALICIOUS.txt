@@ -2338,3 +2338,5 @@ bradesco.homeibank.com/
 vulcanmotopecas.com.br
 #Maio/2026 - Phishing related
 pedagiodigital.siteoficial.ws/
+#Maio/2026 - Phishing related
+*.normalizarplano.com
