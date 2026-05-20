@@ -2342,3 +2342,5 @@ pedagiodigital.siteoficial.ws/
 *.normalizarplano.com
 #Maio/2026 - Phishing related
 pedagiodigital.it.com
+#Maio/2026 - Malware family Js.redirector.malware
+www.soul.com.br
