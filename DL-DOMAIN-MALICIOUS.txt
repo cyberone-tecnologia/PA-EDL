@@ -2354,3 +2354,5 @@ lojadoachadinhos.shop
 nf-edigital.com/
 #Maio/2026 - Malicious behavior
 markus.business
+#Maio/2026 - Malware family Unknown
+kineticnode.shop
