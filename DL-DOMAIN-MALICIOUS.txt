@@ -2360,3 +2360,5 @@ kineticnode.shop
 processcentre.info/
 #Maio/2026 - Malicious behavior
 r5m4k1.com
+#Maio/2026 - Malware family Cybergate
+okno.ddns.net
