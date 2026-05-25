@@ -1235,3 +1235,5 @@
 185.107.57.64
 #Maio/2026 - Suspect IRC connection
 209.61.8.226
+#Maio/2026 - Korplug Command and Control Traffic Detection
+68.69.177.112
