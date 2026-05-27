@@ -2366,3 +2366,5 @@ okno.ddns.net
 poeadiw.org
 #Maio/2026 - Malicious behavior
 lojacasanobre.site
+#Maio/2026 - Phishing domain
+investrends.ch
