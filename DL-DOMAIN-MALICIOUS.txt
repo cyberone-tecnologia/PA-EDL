@@ -2368,3 +2368,5 @@ poeadiw.org
 lojacasanobre.site
 #Maio/2026 - Phishing domain
 investrends.ch
+#Maio/2026 - Malicious behavior
+casadosolrestaurante.com.br
