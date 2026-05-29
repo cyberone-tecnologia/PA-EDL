@@ -2380,3 +2380,5 @@ minhaalma1.shop
 boltiviersoul.com
 #Maio/2026 - Unam
 task.osmagnatas.net
+#Maio/2026 - Phishing related
+copeteasemos.us/
