@@ -2392,3 +2392,5 @@ pedagiofreeflow-app.com/
 pedagio-multas.com
 mercadoavisos.servicos.ws/
 
+#Maio/2026 - Malicious behavior
+caomisa.shop
