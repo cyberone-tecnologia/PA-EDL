@@ -2394,3 +2394,5 @@ mercadoavisos.servicos.ws/
 
 #Maio/2026 - Malicious behavior
 caomisa.shop
+#Junho/2026 - Malware family Unknown
+download2339.mediafire.com
