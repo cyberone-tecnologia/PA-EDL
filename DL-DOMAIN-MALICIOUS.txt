@@ -2396,3 +2396,5 @@ mercadoavisos.servicos.ws/
 caomisa.shop
 #Junho/2026 - Malware family Unknown
 download2339.mediafire.com
+#Junho/2026 - Phishing related
+consultacpfdigital.com
