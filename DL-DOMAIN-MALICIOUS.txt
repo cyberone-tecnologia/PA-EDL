@@ -2414,3 +2414,5 @@ zenetoecristiano360.com.br
 pirotecnicaminasbrasil.com.br
 #Junho/2026 - Phishing domain
 www.netlify.app
+#Junho/2026 - Phishing related
+cliente-3.restaurarassinatura.com/
