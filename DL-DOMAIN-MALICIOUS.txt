@@ -2416,3 +2416,5 @@ pirotecnicaminasbrasil.com.br
 www.netlify.app
 #Junho/2026 - Phishing related
 cliente-3.restaurarassinatura.com/
+#Junho/2026 - Malicious behavior
+lojalapelota.com
