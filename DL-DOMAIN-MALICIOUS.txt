@@ -2412,3 +2412,5 @@ ajudecao.help
 zenetoecristiano360.com.br
 #Junho/2026 - Malware family Strelastealer
 pirotecnicaminasbrasil.com.br
+#Junho/2026 - Phishing domain
+www.netlify.app
