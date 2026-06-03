@@ -2410,3 +2410,5 @@ videnzza.com.br
 ajudecao.help
 #Junho/2026 - Malicious behavior
 zenetoecristiano360.com.br
+#Junho/2026 - Malware family Strelastealer
+pirotecnicaminasbrasil.com.br
