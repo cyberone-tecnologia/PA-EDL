@@ -2418,3 +2418,5 @@ www.netlify.app
 cliente-3.restaurarassinatura.com/
 #Junho/2026 - Malicious behavior
 lojalapelota.com
+#Junho/2026 - Tactical RMM
+mesh.consulti.net.br
