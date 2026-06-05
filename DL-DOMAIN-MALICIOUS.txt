@@ -2203,7 +2203,6 @@ processcentre.info/
 copeteasemos.us/
 portal-pedagio.dynv6.net/
 cliente-2.restaurarassinatura.com/
-pedagiodigitalonline.it.com/
 pedagiofreeflow-app.com/
 pedagio-multas.com
 mercadoavisos.servicos.ws/
@@ -2272,3 +2271,5 @@ pirotecnicaminasbrasil.com.br
 www.netlify.app
 #Junho/2026 - Tactical RMM
 mesh.consulti.net.br
+#Junho/2026 - Phishing related
+pedagiodigitalonline.it.com/
