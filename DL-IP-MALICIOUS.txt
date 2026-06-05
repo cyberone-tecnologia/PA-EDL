@@ -1197,7 +1197,6 @@
 45.227.254.10
 #Maio/2026 - Malware related
 195.10.205.212
-#Maio/2026 - Malware related
 124.198.131.185
 #Maio/2026 - Malware family Unknown
 212.56.49.119
@@ -1209,7 +1208,6 @@
 188.166.69.11
 #Maio/2026 - Tactical RMM
 152.67.49.151
-#Maio/2026 - Tactical RMM
 187.45.254.232
 #Maio/2026 - TOR NODE
 82.165.134.69
@@ -1223,23 +1221,18 @@
 57.131.21.173
 84.46.83.130
 188.68.50.174
+194.32.107.14
+203.55.81.2
+5.255.118.151
+185.107.57.64
 #Maio/2026 - Malware family Xworm
 102.165.46.38
-#Maio/2026 - TOR NODE
-194.32.107.14
-#Maio/2026 - TOR NODE
-203.55.81.2
-#Maio/2026 - TOR NODE
-5.255.118.151
-#Maio/2026 - TOR NODE
-185.107.57.64
 #Maio/2026 - Suspect IRC connection
 209.61.8.226
 #Maio/2026 - Korplug Command and Control Traffic Detection
 68.69.177.112
 #Maio/2026 - Unam
 87.251.75.201
-#Maio/2026 - Unam
 87.251.75.231
 #Junho/2026 - Tactical RMM
 209.126.106.187
