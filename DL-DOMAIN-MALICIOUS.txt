@@ -2420,3 +2420,5 @@ cliente-3.restaurarassinatura.com/
 lojalapelota.com
 #Junho/2026 - Tactical RMM
 mesh.consulti.net.br
+#Junho/2026 - Domínio identificado como malicioso ou suspeito
+acessosmp.com
