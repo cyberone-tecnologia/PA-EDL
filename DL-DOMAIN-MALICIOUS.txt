@@ -2273,3 +2273,5 @@ www.netlify.app
 mesh.consulti.net.br
 #Junho/2026 - Phishing related
 pedagiodigitalonline.it.com/
+#Junho/2026 - Malicious behavior
+belolar.shop
