@@ -2275,3 +2275,5 @@ mesh.consulti.net.br
 pedagiodigitalonline.it.com/
 #Junho/2026 - Malicious behavior
 belolar.shop
+#Junho/2026 - Malware family magentocore
+sitvex.com
