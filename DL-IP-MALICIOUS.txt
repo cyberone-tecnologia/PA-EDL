@@ -1236,3 +1236,5 @@
 87.251.75.231
 #Junho/2026 - Tactical RMM
 209.126.106.187
+#Junho/2026 - Malware related
+45.198.224.22
