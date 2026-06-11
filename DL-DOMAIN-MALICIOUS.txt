@@ -2284,3 +2284,10 @@ clubebonusx.com/
 difusoramais.com.br
 #Junho/2026 - Malware family Unknown
 download2293.mediafire.com
+#Junho/2026 - Phishing related
+*.sistemadeinfracao.com/
+*.portaldoimportador.com/
+*.liberarmercadoria.com/
+acessopedagiomultas.com/
+*.restaurarassinatura.com/
+*.acessodoimportador.com/
