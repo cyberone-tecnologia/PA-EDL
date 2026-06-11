@@ -2291,3 +2291,9 @@ download2293.mediafire.com
 acessopedagiomultas.com/
 *.restaurarassinatura.com/
 *.acessodoimportador.com/
+#Junho/2026 - Phishing related
+portal-bradescco.ipatingalotes.com.br/
+atendimento.wrdesignergrafico.com/
+netempresas.lojaefata.com.br/
+pagamentos.sistemademultas.org/
+mercadolibre-hoje.comercial.ws
