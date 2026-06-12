@@ -2297,3 +2297,5 @@ atendimento.wrdesignergrafico.com/
 netempresas.lojaefata.com.br/
 pagamentos.sistemademultas.org/
 mercadolibre-hoje.comercial.ws
+#Junho/2026 - Phishing related
+pagamento.portalimportacoes.com
