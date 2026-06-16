@@ -2302,3 +2302,5 @@ pagamento.portalimportacoes.com
 #Junho/2026 - Phishing related
 moazamicoach.com
 sachsenbruneuro.top
+#Junho/2026 - Phishing domain
+funciona.com.br
