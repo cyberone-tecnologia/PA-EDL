@@ -2314,3 +2314,5 @@ importacoes.acessodoimportador.com
 *.pagamentodeimportacoes.com
 #Junho/2026 - Phishing related
 *.sistemainfracao.com
+#Junho/2026 - Phishing related
+*.liberarmercadoria.com
