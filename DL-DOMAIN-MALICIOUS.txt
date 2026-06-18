@@ -2308,3 +2308,5 @@ funciona.com.br
 megaborrj.com.br
 #Junho/2026 - Phishing related
 importacoes.acessodoimportador.com
+#Junho/2026 - Phishing related
+*.acessodoimportador.com
