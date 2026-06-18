@@ -2316,3 +2316,5 @@ importacoes.acessodoimportador.com
 *.sistemainfracao.com
 #Junho/2026 - Phishing related
 *.liberarmercadoria.com
+#Junho/2026 - Phishing related
+pedagiodigitalonline.it.com
