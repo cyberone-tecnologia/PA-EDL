@@ -2310,3 +2310,5 @@ megaborrj.com.br
 importacoes.acessodoimportador.com
 #Junho/2026 - Phishing related
 *.acessodoimportador.com
+#Junho/2026 - Phishing related
+*.pagamentodeimportacoes.com
