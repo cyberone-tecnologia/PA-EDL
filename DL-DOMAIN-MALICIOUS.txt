@@ -1662,7 +1662,6 @@ altardivino.com
 wyfrodanesqulix.shop
 myvipbr.com
 #Janeiro/2026 - Malware family Unknown
-ambienteseguro.org.ua
 kanekoyozo.jp
 store-pink.com
 record.ktoaffiliatesbr.com
@@ -2318,3 +2317,5 @@ importacoes.acessodoimportador.com
 pedagiodigitalonline.it.com
 #Junho/2026 - Phishing related
 *.flowtrackr.site
+#Junho/2026 - Phishing related
+ambienteseguro.org.ua
