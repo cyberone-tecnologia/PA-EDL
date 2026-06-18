@@ -2318,3 +2318,5 @@ importacoes.acessodoimportador.com
 *.liberarmercadoria.com
 #Junho/2026 - Phishing related
 pedagiodigitalonline.it.com
+#Junho/2026 - Phishing related
+*flowtrackr.site
