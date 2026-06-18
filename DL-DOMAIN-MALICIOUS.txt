@@ -2317,5 +2317,5 @@ importacoes.acessodoimportador.com
 pedagiodigitalonline.it.com
 #Junho/2026 - Phishing related
 *.flowtrackr.site
-#Junho/2026 - Phishing related
+#Junho/2026 - Domínio bloqueado por ameaça cibernética
 ambienteseguro.org.ua
