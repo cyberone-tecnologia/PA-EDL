@@ -2312,3 +2312,5 @@ importacoes.acessodoimportador.com
 *.acessodoimportador.com
 #Junho/2026 - Phishing related
 *.pagamentodeimportacoes.com
+#Junho/2026 - Phishing related
+*.sistemainfracao.com
