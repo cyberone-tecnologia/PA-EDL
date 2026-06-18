@@ -2267,8 +2267,6 @@ lojalapelota.com
 67betapp.com
 #Junho/2026 - Malware family Strelastealer
 pirotecnicaminasbrasil.com.br
-#Junho/2026 - Phishing domain
-www.netlify.app
 #Junho/2026 - Tactical RMM
 mesh.consulti.net.br
 #Junho/2026 - Phishing related
