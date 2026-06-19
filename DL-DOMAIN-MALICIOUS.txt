@@ -2319,5 +2319,5 @@ pedagiodigitalonline.it.com
 ambienteseguro.org.ua
 #Junho/2026 - Malware family Netsupportmanager.rat
 beroniw.com
-#Junho/2026 - 
+#Junho/2026 - Phishing related
 *.acessodoimportador.com
