@@ -2319,3 +2319,5 @@ pedagiodigitalonline.it.com
 *.flowtrackr.site
 #Junho/2026 - Domínio bloqueado por ameaça cibernética
 ambienteseguro.org.ua
+#Junho/2026 - Malware family Netsupportmanager.rat
+beroniw.com
