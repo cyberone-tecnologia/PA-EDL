@@ -2306,8 +2306,6 @@ megaborrj.com.br
 #Junho/2026 - Phishing related
 importacoes.acessodoimportador.com
 #Junho/2026 - Phishing related
-*.acessodoimportador.com
-#Junho/2026 - Phishing related
 *.pagamentodeimportacoes.com
 #Junho/2026 - Phishing related
 *.sistemainfracao.com
@@ -2321,3 +2319,5 @@ pedagiodigitalonline.it.com
 ambienteseguro.org.ua
 #Junho/2026 - Malware family Netsupportmanager.rat
 beroniw.com
+#Junho/2026 - 
+*.acessodoimportador.com
