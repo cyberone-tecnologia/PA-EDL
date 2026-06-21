@@ -2323,3 +2323,5 @@ beroniw.com
 *.acessodoimportador.com
 #Junho/2026 - Malware family Trojan.generic
 crackmes.one
+#Junho/2026 - Malware family magentocore
+connectwss.com
