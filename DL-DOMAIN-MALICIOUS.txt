@@ -2325,3 +2325,5 @@ beroniw.com
 crackmes.one
 #Junho/2026 - Malware family magentocore
 connectwss.com
+#Junho/2026 - Malware family offloader
+crackquarter.space
