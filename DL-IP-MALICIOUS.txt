@@ -1246,3 +1246,5 @@
 185.153.176.147
 #Junho/2026 - VPN pure
 64.69.119.104
+#Junho/2026 - Malware family Proton
+151.243.141.161
