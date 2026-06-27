@@ -2327,3 +2327,4 @@ crackmes.one
 connectwss.com
 #Junho/2026 - Malware family offloader
 crackquarter.space
+fg-analytics.biz
