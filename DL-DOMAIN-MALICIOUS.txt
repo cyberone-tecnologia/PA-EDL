@@ -2328,3 +2328,5 @@ connectwss.com
 #Junho/2026 - Malware family offloader
 crackquarter.space
 fg-analytics.biz
+#Junho/2026 - Phishing domain
+lnk.ink
