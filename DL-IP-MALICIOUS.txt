@@ -1252,3 +1252,5 @@
 37.19.199.144
 #Junho/2026 - VPN vpnsuper
 103.88.232.123
+#Junho/2026 - VPN vpnsuper
+38.91.100.69
