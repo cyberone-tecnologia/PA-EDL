@@ -1250,3 +1250,5 @@
 151.243.141.161
 #Junho/2026 - Malware family Proton
 37.19.199.144
+#Junho/2026 - VPN vpnsuper
+103.88.232.123
