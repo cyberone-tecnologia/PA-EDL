@@ -2330,3 +2330,5 @@ crackquarter.space
 fg-analytics.biz
 #Junho/2026 - Phishing domain
 lnk.ink
+#Julho/2026 - Malware family Unknown
+admiration-noble.sbs
