@@ -2332,3 +2332,5 @@ fg-analytics.biz
 lnk.ink
 #Julho/2026 - Malware family Unknown
 admiration-noble.sbs
+#Julho/2026 - Malware family Asyncrat
+73bet.app
