@@ -1991,7 +1991,6 @@ paymentsv2.mysynology.net
 fiscal-pro.online
 unscart.in
 admlin.booking-redirect.com
-protesauploadfiles.base44.app/
 #Abril/2026 - Malware family Snojan
 nohope.eu
 #Abril/2026 - Malware family Webtoolbar.browser.modifier
@@ -2334,3 +2333,5 @@ lnk.ink
 admiration-noble.sbs
 #Julho/2026 - Malware family Asyncrat
 73bet.app
+#Julho/2026 - Malware related
+protesauploadfiles.base44.app/
