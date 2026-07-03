@@ -2337,3 +2337,5 @@ admiration-noble.sbs
 protesauploadfiles.base44.app/
 #Julho/2026 - Malware family Unknown
 great-fade.sbs
+#Julho/2026 - Malware hash: daf19c4f6d6826a29fd210c4e0dca87d6d44292caf299ac71f283a543e713b55
+ceshare.nl
