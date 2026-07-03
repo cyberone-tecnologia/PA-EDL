@@ -2335,3 +2335,5 @@ admiration-noble.sbs
 73bet.app
 #Julho/2026 - Malware related
 protesauploadfiles.base44.app/
+#Julho/2026 - Malware family Unknown
+great-fade.sbs
