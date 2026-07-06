@@ -2341,3 +2341,5 @@ great-fade.sbs
 ceshare.nl
 #Julho/2026 - Phishing domain
 scnv.io
+#Julho/2026 - 	Exploits and Malicious Sites
+crackquarter.space
