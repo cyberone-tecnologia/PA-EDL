@@ -2348,3 +2348,5 @@ pace-draft.sbs
 #Julho/2026 - Malware family Unknown
 pace-draft.sbs
 
+#Julho/2026 - Malicious behavior
+clubedotiragosto.com.br
