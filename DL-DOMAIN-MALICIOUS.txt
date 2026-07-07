@@ -2343,3 +2343,5 @@ ceshare.nl
 scnv.io
 #Julho/2026 - Malware family Simda
 commetr.com
+#Julho/2026 - Malware family Unknown
+pace-draft.sbs
