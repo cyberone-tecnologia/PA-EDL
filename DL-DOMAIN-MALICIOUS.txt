@@ -2352,3 +2352,5 @@ pace-draft.sbs
 clubedotiragosto.com.br
 #Julho/2026 - Phishing domain
 arte.proartefunilaria.com.br
+#Julho/2026 - Malware family Trojan.generic
+us.petros.ws
