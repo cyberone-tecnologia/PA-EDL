@@ -2345,3 +2345,6 @@ scnv.io
 commetr.com
 #Julho/2026 - Malware family Unknown
 pace-draft.sbs
+#Julho/2026 - Malware family Unknown
+pace-draft.sbs
+
