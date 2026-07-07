@@ -2350,3 +2350,5 @@ pace-draft.sbs
 
 #Julho/2026 - Malicious behavior
 clubedotiragosto.com.br
+#Julho/2026 - Phishing domain
+arte.proartefunilaria.com.br
