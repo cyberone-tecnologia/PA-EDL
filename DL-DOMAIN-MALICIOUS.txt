@@ -2354,3 +2354,5 @@ clubedotiragosto.com.br
 arte.proartefunilaria.com.br
 #Julho/2026 - Malware family Trojan.generic
 us.petros.ws
+#Julho/2026 - Malware family Unknown
+grant-member.pro
