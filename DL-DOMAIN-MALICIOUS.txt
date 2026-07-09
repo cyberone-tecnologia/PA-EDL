@@ -2359,3 +2359,5 @@ grant-member.pro
 #Julho/2026 - Malware related
 ujxmamdpovcbatkufdkx.supabase.co
 sescmg.site
+#Julho/2026 - Malware family Unknown
+authorization-cdn-press-enter.info
