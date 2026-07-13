@@ -2365,6 +2365,8 @@ gueux-forum.net
 #Julho/2026 - Malware family Trojan.phishing.pdf
 askflip.com
 #Julho/2026 - Phishing
-capit.surltx.cn
+surltx.cn
 #Julho/2026 - Malware family Magecart
 frozennebularhy.top
+#Julho/2026 - Phishing
+xjfllxa.cn
