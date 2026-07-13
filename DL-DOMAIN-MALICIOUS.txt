@@ -2347,7 +2347,6 @@ commetr.com
 pace-draft.sbs
 #Julho/2026 - Malware family Unknown
 pace-draft.sbs
-
 #Julho/2026 - Malicious behavior
 clubedotiragosto.com.br
 #Julho/2026 - Phishing domain
@@ -2365,3 +2364,5 @@ authorization-cdn-press-enter.info
 gueux-forum.net
 #Julho/2026 - Malware family Trojan.phishing.pdf
 askflip.com
+#Julho/2026 - Phishing
+capit.surltx.cn
