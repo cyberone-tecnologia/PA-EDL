@@ -2363,3 +2363,5 @@ sescmg.site
 authorization-cdn-press-enter.info
 #Julho/2026 - Malware family Trojan.generic
 gueux-forum.net
+#Julho/2026 - Malware family Trojan.phishing.pdf
+askflip.com
