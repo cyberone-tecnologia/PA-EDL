@@ -2364,7 +2364,7 @@ authorization-cdn-press-enter.info
 gueux-forum.net
 #Julho/2026 - Malware family Trojan.phishing.pdf
 askflip.com
-#Julho/2026 - Phishing
+
 surltx.cn
 #Julho/2026 - Malware family Magecart
 frozennebularhy.top
@@ -2376,3 +2376,5 @@ download1325.mediafire.com
 reknitless.com
 #Julho/2026 - Malware family
 bacon-rumors.xyz
+#Julho/2026 - Phishing
+centralrelacoes.com
