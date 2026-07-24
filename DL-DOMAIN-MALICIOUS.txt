@@ -2339,7 +2339,6 @@ us.petros.ws
 gueux-forum.net
 #Julho/2026 - Malware family Trojan.phishing.pdf
 askflip.com
-
 surltx.cn
 #Julho/2026 - Malware family Magecart
 frozennebularhy.top
@@ -2351,3 +2350,5 @@ download1325.mediafire.com
 #Julho/2026 - Malware family
 reknitless.com
 bacon-rumors.xyz
+#Julho/2026 - Phishing related
+locatestore.intellibrand.ai
