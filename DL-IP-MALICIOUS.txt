@@ -1248,21 +1248,18 @@
 64.69.119.104
 #Junho/2026 - Malware family Proton
 151.243.141.161
-#Junho/2026 - Malware family Proton
 37.19.199.144
 #Junho/2026 - VPN vpnsuper
 103.88.232.123
-#Junho/2026 - VPN vpnsuper
 38.91.100.69
-#Junho/2026 - VPN vpnsuper
 103.88.232.69
 #Julho/2026 - VPN vpnbook
 144.217.253.149
 #Julho/2026 - Malicious IP
 186.71.90.36
-#Julho/2026 - Malicious IP
 38.210.209.142
+166.88.160.5
 #Julho/2026 - Brute Force
 103.59.161.184
-#Julho/2026 - Malicious IP
-166.88.160.5
+#Julho/2026 - Malware related
+151.243.18.111
