@@ -2251,116 +2251,91 @@ task.osmagnatas.net
 #Junho/2026 - Malware family Unknown
 download2339.mediafire.com
 correiosrastreios.com
+download2293.mediafire.com
+megaborrj.com.br
 #Junho/2026 - Phishing related
 consultacpfdigital.com
 cliente-3.restaurarassinatura.com/
 acessosmp.com
-#Junho/2026 - Malicious behavior
-clinicasvip.com
-videnzza.com.br
-ajudecao.help
-zenetoecristiano360.com.br
-lojalapelota.com
-#Junho/2026 - Malware family Asyncrat
-67betapp.com
-#Junho/2026 - Malware family Strelastealer
-pirotecnicaminasbrasil.com.br
-#Junho/2026 - Tactical RMM
-mesh.consulti.net.br
-#Junho/2026 - Phishing related
 pedagiodigitalonline.it.com/
-#Junho/2026 - Malicious behavior
-belolar.shop
-#Junho/2026 - Malware family magentocore
-sitvex.com
-#Junho/2026 - Phishing related
 util.resgateclublv.com/
 clubebonusx.com/
-#Junho/2026 - CryptoMining domain
-difusoramais.com.br
-#Junho/2026 - Malware family Unknown
-download2293.mediafire.com
-#Junho/2026 - Phishing related
 *.sistemadeinfracao.com/
 *.portaldoimportador.com/
 *.liberarmercadoria.com/
 acessopedagiomultas.com/
 *.restaurarassinatura.com/
 *.acessodoimportador.com/
-#Junho/2026 - Phishing related
 portal-bradescco.ipatingalotes.com.br/
 atendimento.wrdesignergrafico.com/
 netempresas.lojaefata.com.br/
 pagamentos.sistemademultas.org/
 mercadolibre-hoje.comercial.ws
-#Junho/2026 - Phishing related
 pagamento.portalimportacoes.com
-#Junho/2026 - Phishing related
 moazamicoach.com
 sachsenbruneuro.top
+importacoes.acessodoimportador.com
+*.pagamentodeimportacoes.com
+*.sistemainfracao.com
+*.liberarmercadoria.com
+pedagiodigitalonline.it.com
+*.flowtrackr.site
+*.acessodoimportador.com
+#Junho/2026 - Malicious behavior
+clinicasvip.com
+videnzza.com.br
+ajudecao.help
+zenetoecristiano360.com.br
+lojalapelota.com
+belolar.shop
+#Junho/2026 - Malware family Asyncrat
+67betapp.com
+#Junho/2026 - Malware family Strelastealer
+pirotecnicaminasbrasil.com.br
+#Junho/2026 - Tactical RMM
+mesh.consulti.net.br
+#Junho/2026 - Malware family magentocore
+sitvex.com
+connectwss.com
+#Junho/2026 - CryptoMining domain
+difusoramais.com.br
 #Junho/2026 - Phishing domain
 funciona.com.br
-#Junho/2026 - Malware family Unknown
-megaborrj.com.br
-#Junho/2026 - Phishing related
-importacoes.acessodoimportador.com
-#Junho/2026 - Phishing related
-*.pagamentodeimportacoes.com
-#Junho/2026 - Phishing related
-*.sistemainfracao.com
-#Junho/2026 - Phishing related
-*.liberarmercadoria.com
-#Junho/2026 - Phishing related
-pedagiodigitalonline.it.com
-#Junho/2026 - Phishing related
-*.flowtrackr.site
+lnk.ink
 #Junho/2026 - Domínio bloqueado por ameaça cibernética
 ambienteseguro.org.ua
 #Junho/2026 - Malware family Netsupportmanager.rat
 beroniw.com
-#Junho/2026 - Phishing related
-*.acessodoimportador.com
 #Junho/2026 - Malware family Trojan.generic
 crackmes.one
-#Junho/2026 - Malware family magentocore
-connectwss.com
 #Junho/2026 - Malware family offloader
 crackquarter.space
 fg-analytics.biz
-#Junho/2026 - Phishing domain
-lnk.ink
 #Julho/2026 - Malware family Unknown
 admiration-noble.sbs
+great-fade.sbs
+pace-draft.sbs
+pace-draft.sbs
+grant-member.pro
+authorization-cdn-press-enter.info
 #Julho/2026 - Malware family Asyncrat
 73bet.app
 #Julho/2026 - Malware related
 protesauploadfiles.base44.app/
-#Julho/2026 - Malware family Unknown
-great-fade.sbs
+ujxmamdpovcbatkufdkx.supabase.co
+sescmg.site
+mv2group.com
 #Julho/2026 - Malware hash: daf19c4f6d6826a29fd210c4e0dca87d6d44292caf299ac71f283a543e713b55
 ceshare.nl
 #Julho/2026 - Phishing domain
 scnv.io
+arte.proartefunilaria.com.br
 #Julho/2026 - Malware family Simda
 commetr.com
-#Julho/2026 - Malware family Unknown
-pace-draft.sbs
-#Julho/2026 - Malware family Unknown
-pace-draft.sbs
 #Julho/2026 - Malicious behavior
 clubedotiragosto.com.br
-#Julho/2026 - Phishing domain
-arte.proartefunilaria.com.br
 #Julho/2026 - Malware family Trojan.generic
 us.petros.ws
-#Julho/2026 - Malware family Unknown
-grant-member.pro
-#Julho/2026 - Malware related
-ujxmamdpovcbatkufdkx.supabase.co
-sescmg.site
-#Julho/2026 - Malware family Unknown
-authorization-cdn-press-enter.info
-#Julho/2026 - Malware family Trojan.generic
 gueux-forum.net
 #Julho/2026 - Malware family Trojan.phishing.pdf
 askflip.com
@@ -2370,13 +2345,9 @@ surltx.cn
 frozennebularhy.top
 #Julho/2026 - Phishing
 xjfllxa.cn
+centralrelacoes.com
 #Julho/2026 - Malware family Pup
 download1325.mediafire.com
 #Julho/2026 - Malware family
 reknitless.com
-#Julho/2026 - Malware family
 bacon-rumors.xyz
-#Julho/2026 - Phishing
-centralrelacoes.com
-#Julho/2026 - Malicious IP
-mv2group.com
