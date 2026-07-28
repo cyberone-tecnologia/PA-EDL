@@ -2353,3 +2353,5 @@ bacon-rumors.xyz
 locatestore.intellibrand.ai
 #Julho/2026 - Malware family Clearfake
 reknitless.com
+#Julho/2026 - Malware family Unknown
+alkociferblat.cc
