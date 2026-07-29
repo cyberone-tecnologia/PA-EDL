@@ -2359,3 +2359,5 @@ alkociferblat.cc
 remiumholdings.com
 #Julho/2026 - Malware family apt_sandworm
 skewertime.goodomensplus.com
+#Julho/2026 - Malware family Trojan.js.generic
+laurelcloister.top
