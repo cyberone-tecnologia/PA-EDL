@@ -2365,3 +2365,5 @@ laurelcloister.top
 restrictes.com
 #Julho/2026 - Malware family Unknown
 servicos2.ru
+#Julho/2026 - Malware family Trojan.generic
+static.s123-cdn-static-d.com
