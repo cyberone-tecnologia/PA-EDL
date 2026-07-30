@@ -2367,3 +2367,5 @@ restrictes.com
 servicos2.ru
 #Julho/2026 - Malware family Trojan.generic
 static.s123-cdn-static-d.com
+#Julho/2026 - Malware family Trojan.js.generic
+chestnutstanza.top
