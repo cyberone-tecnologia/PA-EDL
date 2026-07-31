@@ -2369,3 +2369,5 @@ servicos2.ru
 static.s123-cdn-static-d.com
 #Julho/2026 - Malware family Trojan.js.generic
 chestnutstanza.top
+#Julho/2026 - Malware family Tofsee
+stalzone.com
