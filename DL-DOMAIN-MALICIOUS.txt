@@ -2385,3 +2385,8 @@ cliente.assinaturavencida.com
 gov.multadetran.com
 paguemultas.sistemainfracao.com
 pendencia.info
+#Agosto/2026 - Malware related
+convite-central.com
+app-discorder.com
+on.acessoinloginonline.com
+convitecentral.com
