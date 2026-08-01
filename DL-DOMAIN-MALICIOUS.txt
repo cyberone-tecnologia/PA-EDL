@@ -2371,3 +2371,17 @@ static.s123-cdn-static-d.com
 chestnutstanza.top
 #Julho/2026 - Malware family Tofsee
 stalzone.com
+#Agosto/2026 - Phishing related
+legderlive-sync.com
+click.suportemensalidade.top
+propostai.com
+click.pendencia.info
+correios.centralparaimportador.com
+portalpostagem.acessodoimportador.com
+portaldetran.debitosematraso.com
+central.liberarmercadoria.com
+pedagio.freeflowdebitos.com
+cliente.assinaturavencida.com
+gov.multadetran.com
+paguemultas.sistemainfracao.com
+pendencia.info
