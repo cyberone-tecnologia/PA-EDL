@@ -1263,3 +1263,5 @@
 103.59.161.184
 #Julho/2026 - Malware related
 151.243.18.111
+#Agosto/2026 - WordPress Login Brute Force Attack
+103.77.107.216
