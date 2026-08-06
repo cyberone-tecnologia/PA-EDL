@@ -2416,3 +2416,5 @@ locatestore.intellibrand.ai
 ifwiki.ru
 #Agosto/2026 - CryptoMining domain
 fussballbilder.net
+#Agosto/2026 - Malware family Trojan.js.generic
+siege-close.com
