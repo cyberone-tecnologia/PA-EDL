@@ -2412,3 +2412,5 @@ statics.aubay.pt
 #Agosto/2026 - Malicious
 locatestore.intellibrand.ai
 
+#Agosto/2026 - Malware family Trojan.generic
+ifwiki.ru
