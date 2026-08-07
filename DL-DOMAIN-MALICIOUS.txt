@@ -2422,3 +2422,5 @@ siege-close.com
 id-verif-code.info
 #Agosto/2026 - Phishing domain
 pay.wiapy.com
+#Agosto/2026 - Malware hash: e4db75a1d851cb4da500ff90175bbc11c8feded51ed72126775b3daf35785b83
+studiogalaktika.com
