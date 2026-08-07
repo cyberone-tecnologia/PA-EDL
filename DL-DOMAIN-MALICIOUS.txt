@@ -2420,3 +2420,5 @@ fussballbilder.net
 siege-close.com
 #Agosto/2026 - Malware family Unknown
 id-verif-code.info
+#Agosto/2026 - Phishing domain
+pay.wiapy.com
