@@ -2418,3 +2418,5 @@ ifwiki.ru
 fussballbilder.net
 #Agosto/2026 - Malware family Trojan.js.generic
 siege-close.com
+#Agosto/2026 - Malware family Unknown
+id-verif-code.info
