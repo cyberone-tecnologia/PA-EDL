@@ -1269,3 +1269,5 @@
 178.128.209.14
 #Agosto/2026 - Tactical RMM
 200.9.154.61
+#Agosto/2026 - VPN torguard
+185.232.21.34
