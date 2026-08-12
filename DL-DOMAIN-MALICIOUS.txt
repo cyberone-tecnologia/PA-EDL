@@ -2431,3 +2431,5 @@ mesh.appmax.art
 #Agosto/2026 - Phishing related
 techbarnesandnoblebookstoregroup.powerpapwzuer.vu
 lumina-womensclub.com
+#Agosto/2026 - Malware related
+nf.boletos-notas.com
