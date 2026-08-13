@@ -2433,3 +2433,5 @@ techbarnesandnoblebookstoregroup.powerpapwzuer.vu
 lumina-womensclub.com
 #Agosto/2026 - Malware related
 nf.boletos-notas.com
+#Agosto/2026 - Malware family ClickFix
+analysis-id-fmd.info
