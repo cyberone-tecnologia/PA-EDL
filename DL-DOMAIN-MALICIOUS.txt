@@ -2437,3 +2437,5 @@ nf.boletos-notas.com
 analysis-id-fmd.info
 #Agosto/2026 - Malware family Trojan.generic
 www.churchofvirus.org
+#Agosto/2026 - Malware injected
+p7criativo.com.br
