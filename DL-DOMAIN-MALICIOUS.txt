@@ -2435,3 +2435,5 @@ lumina-womensclub.com
 nf.boletos-notas.com
 #Agosto/2026 - Malware family ClickFix
 analysis-id-fmd.info
+#Agosto/2026 - Malware family Trojan.generic
+www.churchofvirus.org
