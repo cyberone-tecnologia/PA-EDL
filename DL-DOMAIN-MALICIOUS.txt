@@ -2439,3 +2439,5 @@ analysis-id-fmd.info
 www.churchofvirus.org
 #Agosto/2026 - Malware injected
 p7criativo.com.br
+#Agosto/2026 - Malware injected
+www.eravirtual.org
