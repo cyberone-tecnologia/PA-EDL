@@ -2445,3 +2445,5 @@ www.eravirtual.org
 niaoend.com
 #Agosto/2026 - Malware family Vidar
 tomatebrasil.com.br
+#Agosto/2026 - Malware family Redcap
+ahkscript.org
