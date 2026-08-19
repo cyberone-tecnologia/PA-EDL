@@ -2449,3 +2449,5 @@ tomatebrasil.com.br
 ahkscript.org
 #Agosto/2026 - Malware family Trojan.js.generic
 fol9.com
+#Agosto/2026 - Phishing domain
+www.roblox.com.ml
