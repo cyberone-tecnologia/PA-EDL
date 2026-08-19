@@ -2453,3 +2453,5 @@ fol9.com
 www.roblox.com.ml
 #Agosto/2026 - Malware injected
 ctcmg.com.br
+#Agosto/2026 - Malware hash: b1287ab346d488cf587ff52932119e02113403b9b9a7231e5c95fa0143de1a39
+turbo-gateway.com
