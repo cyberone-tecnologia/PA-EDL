@@ -2451,3 +2451,5 @@ ahkscript.org
 fol9.com
 #Agosto/2026 - Phishing domain
 www.roblox.com.ml
+#Agosto/2026 - Malware injected
+ctcmg.com.br
