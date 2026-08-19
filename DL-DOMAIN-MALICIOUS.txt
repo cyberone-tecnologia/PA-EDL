@@ -2447,3 +2447,5 @@ niaoend.com
 tomatebrasil.com.br
 #Agosto/2026 - Malware family Redcap
 ahkscript.org
+#Agosto/2026 - Malware family Trojan.js.generic
+fol9.com
