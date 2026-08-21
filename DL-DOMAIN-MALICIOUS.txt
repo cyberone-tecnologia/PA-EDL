@@ -2465,3 +2465,10 @@ copperreliquary.info
 rowanportico.global
 #Agosto/2026 - Malware injected
 www.equipemt.com.br
+#Agosto/2026 - Brazil Phishing related campaign
+processamento.liberarmercadoria.com
+click.mensalidade.info
+portaldetran.sistemasinfracao.com
+consulta-detran.debitosematraso.com
+pagamento.portal-assinante.com
+portal-desenrolabrasil.servicos.ws
