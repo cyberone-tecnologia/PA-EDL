@@ -2463,3 +2463,5 @@ chief-ignite.pro
 copperreliquary.info
 #Agosto/2026 - Malware family Unknown
 rowanportico.global
+#Agosto/2026 - Malware injected
+www.equipemt.com.br
