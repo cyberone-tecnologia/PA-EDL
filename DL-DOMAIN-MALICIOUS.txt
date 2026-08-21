@@ -2455,3 +2455,5 @@ www.roblox.com.ml
 ctcmg.com.br
 #Agosto/2026 - Malware hash: b1287ab346d488cf587ff52932119e02113403b9b9a7231e5c95fa0143de1a39
 turbo-gateway.com
+#Agosto/2026 - Malware family Pup
+download1654.mediafire.com
