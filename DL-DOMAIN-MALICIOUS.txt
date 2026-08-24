@@ -2474,3 +2474,5 @@ pagamento.portal-assinante.com
 portal-desenrolabrasil.servicos.ws
 #Agosto/2026 - Malware family Clearfake
 root-cherry.com
+#Agosto/2026 - Malware family Unknown
+relaxation-seed.xyz
