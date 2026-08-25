@@ -2488,3 +2488,5 @@ infodatalis.com
 telemetryloop.net
 #Agosto/2026 - Malware injected
 expressobiagini.com.br
+#Agosto/2026 - Malware family Trojan.js.generic
+fingerprint-verification.info
