@@ -2492,3 +2492,5 @@ expressobiagini.com.br
 fingerprint-verification.info
 #Agosto/2026 - Malware family Trojan.js.generic
 mon-blanc-02.cfd
+#Agosto/2026 - Malware family Clearfake
+thu-ipad-03.cfd
