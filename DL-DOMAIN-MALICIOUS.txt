@@ -2490,3 +2490,5 @@ telemetryloop.net
 expressobiagini.com.br
 #Agosto/2026 - Malware family Trojan.js.generic
 fingerprint-verification.info
+#Agosto/2026 - Malware family Trojan.js.generic
+mon-blanc-02.cfd
