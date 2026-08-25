@@ -2486,3 +2486,5 @@ forecast-chaos.com
 infodatalis.com
 #Agosto/2026 - Malware family Clearfake
 telemetryloop.net
+#Agosto/2026 - Malware injected
+expressobiagini.com.br
