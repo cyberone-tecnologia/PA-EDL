@@ -2496,3 +2496,5 @@ mon-blanc-02.cfd
 thu-ipad-03.cfd
 #Agosto/2026 - Malware injected
 brasilallservice.com.br
+#Agosto/2026 - Malware family Pup
+baixesoft.com
