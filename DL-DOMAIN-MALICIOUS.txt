@@ -2494,3 +2494,5 @@ fingerprint-verification.info
 mon-blanc-02.cfd
 #Agosto/2026 - Malware family Clearfake
 thu-ipad-03.cfd
+#Agosto/2026 - Malware injected
+brasilallservice.com.br
