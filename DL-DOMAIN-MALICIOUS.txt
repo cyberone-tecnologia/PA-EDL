@@ -2498,3 +2498,5 @@ thu-ipad-03.cfd
 brasilallservice.com.br
 #Agosto/2026 - Malware family Pup
 baixesoft.com
+#Agosto/2026 - Malware family Trojan.generic
+cheapiesystems.com
