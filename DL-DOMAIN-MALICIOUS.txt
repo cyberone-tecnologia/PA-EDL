@@ -2500,3 +2500,5 @@ brasilallservice.com.br
 baixesoft.com
 #Agosto/2026 - Malware family Trojan.generic
 cheapiesystems.com
+#Agosto/2026 - Malware related
+tioiaosod.icu
