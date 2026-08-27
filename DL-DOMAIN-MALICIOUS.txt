@@ -2515,3 +2515,5 @@ rastreio-correios.online
 sacreclamaaqsmp.com
 #Agosto/2026 - Brazil Phishing related campaign
 mcpontorarh100012.online
+#Agosto/2026 - Malware family Trojan.generic
+www.retrodev.com
