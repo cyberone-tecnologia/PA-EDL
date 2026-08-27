@@ -2509,3 +2509,5 @@ mioiooo.icu
 poraodorock.com.br
 #Agosto/2026 - Malware family Trojan.js.generic
 triapfog.com
+#Agosto/2026 - Brazil Phishing related campaign
+rastreio-correios.online
