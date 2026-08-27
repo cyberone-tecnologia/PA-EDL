@@ -2505,3 +2505,5 @@ tioiaosod.icu
 norediam.com
 cloudflare-check.net
 mioiooo.icu
+#Agosto/2026 - Malware injected
+poraodorock.com.br
