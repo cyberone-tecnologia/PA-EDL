@@ -2507,3 +2507,5 @@ cloudflare-check.net
 mioiooo.icu
 #Agosto/2026 - Malware injected
 poraodorock.com.br
+#Agosto/2026 - Malware family Trojan.js.generic
+triapfog.com
