@@ -2521,3 +2521,5 @@ www.retrodev.com
 www.proyectohormiga.org
 #Agosto/2026 - Malware family ta569
 brodirect3s.site
+#Agosto/2026 - Phishing domain
+gaml.cc
