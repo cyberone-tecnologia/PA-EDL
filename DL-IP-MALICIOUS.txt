@@ -1271,3 +1271,5 @@
 200.9.154.61
 #Agosto/2026 - VPN torguard
 185.232.21.34
+#Agosto/2026 - VPN hide my ass
+149.102.233.39
