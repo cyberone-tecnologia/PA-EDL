@@ -2523,3 +2523,5 @@ www.proyectohormiga.org
 brodirect3s.site
 #Agosto/2026 - Phishing domain
 gaml.cc
+#Agosto/2026 - Malware family Unknown
+searchranktraffic.live
