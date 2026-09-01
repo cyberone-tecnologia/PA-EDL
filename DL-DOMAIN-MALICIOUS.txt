@@ -2525,3 +2525,5 @@ brodirect3s.site
 gaml.cc
 #Agosto/2026 - Malware family Unknown
 searchranktraffic.live
+#Setembro/2026 - Malware family Unknown
+abcsgftr.cc
