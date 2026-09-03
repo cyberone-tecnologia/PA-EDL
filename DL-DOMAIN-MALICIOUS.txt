@@ -2527,3 +2527,5 @@ gaml.cc
 searchranktraffic.live
 #Setembro/2026 - Malware family Unknown
 abcsgftr.cc
+#Setembro/2026 - Malware family Unknown
+sound-obstacle.com
