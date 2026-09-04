@@ -2531,3 +2531,5 @@ abcsgftr.cc
 sound-obstacle.com
 #Setembro/2026 - Malware family Trojan.phishing.pdf
 eminenceinc.com
+#Setembro/2026 - Tactical RMM
+mesh.fixtech.one
