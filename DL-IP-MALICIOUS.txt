@@ -1276,3 +1276,5 @@
 #Agosto/2026 - VPN hide my ass
 149.102.234.91
 149.102.234.96
+#Setembro/2026 - Tactical RMM
+138.59.147.238
