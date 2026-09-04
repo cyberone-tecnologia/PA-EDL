@@ -1278,3 +1278,5 @@
 149.102.234.96
 #Setembro/2026 - Tactical RMM
 138.59.147.238
+#Setembro/2026 - Malware family Purerat
+172.111.198.212
