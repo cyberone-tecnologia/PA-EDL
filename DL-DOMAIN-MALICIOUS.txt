@@ -2533,3 +2533,5 @@ sound-obstacle.com
 eminenceinc.com
 #Setembro/2026 - Tactical RMM
 mesh.fixtech.one
+#Setembro/2026 - Malware family Clearfake
+railroad-boot.com
