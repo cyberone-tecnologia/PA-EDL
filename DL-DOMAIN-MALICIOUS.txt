@@ -2537,3 +2537,5 @@ mesh.fixtech.one
 railroad-boot.com
 #Setembro/2026 - Malware family Phishing.artifact
 suaesteticadental.com.br
+#Setembro/2026 - Malware family Vidar
+download1472.mediafire.com
