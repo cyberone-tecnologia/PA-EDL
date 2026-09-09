@@ -2551,3 +2551,5 @@ highlight-pyramid.com
 notion-brown.com
 #Setembro/2026 - Malware family Strelastealer
 minassaude.com
+#Setembro/2026 - Comprimised Site
+maravilhanews.com.br
