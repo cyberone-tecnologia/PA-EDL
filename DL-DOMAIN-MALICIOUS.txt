@@ -2549,3 +2549,5 @@ download1590.mediafire.com
 highlight-pyramid.com
 #Setembro/2026 - Malware family Unknown
 notion-brown.com
+#Setembro/2026 - Malware family Strelastealer
+minassaude.com
