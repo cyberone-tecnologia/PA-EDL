@@ -2553,3 +2553,5 @@ notion-brown.com
 minassaude.com
 #Setembro/2026 - Comprimised Site
 maravilhanews.com.br
+#Setembro/2026 - Malware family Trojan.js.generic
+fingerprint-veri.info
