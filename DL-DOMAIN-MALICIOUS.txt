@@ -2466,7 +2466,6 @@ rowanportico.global
 #Agosto/2026 - Malware injected
 www.equipemt.com.br
 #Agosto/2026 - Brazil Phishing related campaign
-processamento.liberarmercadoria.com
 click.mensalidade.info
 portaldetran.sistemasinfracao.com
 consulta-detran.debitosematraso.com
@@ -2557,3 +2556,12 @@ maravilhanews.com.br
 fingerprint-veri.info
 #Setembro/2026 - Malware family Clearfake
 stand-medal.com
+#Setembro/2026 - Phishing related
+detran.vencimentomultas.com
+acesso.consulta-detran.com
+desenrolabr.comercial.ws
+processamento.liberarmercadoria.com
+detran.sistemainfracoes.com
+rastreio.centralparaimportador.com
+portal-assinante.net
+sac.liberarmercadoria.com
