@@ -2565,3 +2565,5 @@ detran.sistemainfracoes.com
 rastreio.centralparaimportador.com
 portal-assinante.net
 sac.liberarmercadoria.com
+#Setembro/2026 - Malware family ClickFix
+rogerioaraujo.com.br
