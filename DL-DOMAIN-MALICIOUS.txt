@@ -2555,3 +2555,5 @@ minassaude.com
 maravilhanews.com.br
 #Setembro/2026 - Malware family Trojan.js.generic
 fingerprint-veri.info
+#Setembro/2026 - Malware family Clearfake
+stand-medal.com
