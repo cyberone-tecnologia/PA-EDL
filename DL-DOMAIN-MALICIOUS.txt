@@ -2567,3 +2567,5 @@ portal-assinante.net
 sac.liberarmercadoria.com
 #Setembro/2026 - Malware family ClickFix
 rogerioaraujo.com.br
+#Setembro/2026 - Malware family Trojan.generic
+www.3dscapture.com
