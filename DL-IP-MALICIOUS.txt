@@ -1280,3 +1280,5 @@
 138.59.147.238
 #Setembro/2026 - Malware family Purerat
 172.111.198.212
+#Setembro/2026 - VPN vpnsuper
+103.88.232.179
