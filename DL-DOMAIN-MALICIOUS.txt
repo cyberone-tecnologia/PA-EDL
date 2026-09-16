@@ -2575,3 +2575,5 @@ files.tryflowdrive.com
 naturalhealthtip.com
 #Setembro/2026 - Emotet
 cdn.pzw.io
+#Setembro/2026 - Malware family Clearfake
+rehearsal-b.com
