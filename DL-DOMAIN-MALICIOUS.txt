@@ -2579,3 +2579,5 @@ cdn.pzw.io
 rehearsal-b.com
 #Setembro/2026 - Malware family Clearfake
 chordapple.com
+#Setembro/2026 - Malware family Trojan.js.generic
+vuakienggiare.com
