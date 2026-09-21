@@ -1282,3 +1282,5 @@
 172.111.198.212
 #Setembro/2026 - VPN vpnsuper
 103.88.232.179
+#Setembro/2026 - WordPress Login Brute Force Attack
+140.245.116.17
