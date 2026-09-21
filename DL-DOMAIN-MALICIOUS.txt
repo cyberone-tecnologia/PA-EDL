@@ -2591,3 +2591,5 @@ view.page
 ashenravenfort.top
 #Setembro/2026 - Malware family Unknown
 entry-code-cdn.codes
+#Setembro/2026 - Malware family ClickFix
+adbc.top
