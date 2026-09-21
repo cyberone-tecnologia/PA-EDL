@@ -2589,3 +2589,5 @@ submitted.formspark.io
 view.page
 #Setembro/2026 - Malware family Magecart
 ashenravenfort.top
+#Setembro/2026 - Malware family Unknown
+entry-code-cdn.codes
