@@ -2581,3 +2581,5 @@ rehearsal-b.com
 chordapple.com
 #Setembro/2026 - Malware family Trojan.js.generic
 vuakienggiare.com
+#Setembro/2026 - Malware family Simda
+melyting.com
