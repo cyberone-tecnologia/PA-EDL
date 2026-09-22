@@ -2593,3 +2593,5 @@ ashenravenfort.top
 entry-code-cdn.codes
 #Setembro/2026 - Malware family ClickFix
 adbc.top
+#Setembro/2026 - Phishing domain
+mobidrive.com
