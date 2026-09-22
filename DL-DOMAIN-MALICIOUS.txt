@@ -2595,3 +2595,5 @@ entry-code-cdn.codes
 adbc.top
 #Setembro/2026 - Phishing domain
 mobidrive.com
+#Setembro/2026 - Malware family Unknown
+osmeuspes.pt
