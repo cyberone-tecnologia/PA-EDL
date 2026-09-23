@@ -2601,3 +2601,5 @@ osmeuspes.pt
 interseqf.com
 #Setembro/2026 - Trojan.generic
 clickzona.net
+#Setembro/2026 - Malware family Trojan.js.generic
+ginkgoloft.co
