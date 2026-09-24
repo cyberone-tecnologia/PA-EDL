@@ -2438,8 +2438,6 @@ analysis-id-fmd.info
 #Agosto/2026 - Malware family Trojan.generic
 www.churchofvirus.org
 #Agosto/2026 - Malware injected
-p7criativo.com.br
-#Agosto/2026 - Malware injected
 www.eravirtual.org
 #Agosto/2026 - IClickFix
 niaoend.com
@@ -2611,3 +2609,5 @@ glamsydesigns.com
 fviainboxes.com
 #Setembro/2026 - Malware family Unknown
 idcool.codes
+#Setembro/2026 - Infected website
+p7criativo.com.br
