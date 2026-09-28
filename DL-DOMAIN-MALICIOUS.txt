@@ -2318,6 +2318,9 @@ pace-draft.sbs
 pace-draft.sbs
 grant-member.pro
 authorization-cdn-press-enter.info
+alkociferblat.cc
+remiumholdings.com
+servicos2.ru
 #Julho/2026 - Malware family Asyncrat
 73bet.app
 #Julho/2026 - Malware related
@@ -2337,6 +2340,7 @@ clubedotiragosto.com.br
 #Julho/2026 - Malware family Trojan.generic
 us.petros.ws
 gueux-forum.net
+static.s123-cdn-static-d.com
 #Julho/2026 - Malware family Trojan.phishing.pdf
 askflip.com
 surltx.cn
@@ -2353,22 +2357,13 @@ bacon-rumors.xyz
 locatestore.intellibrand.ai
 #Julho/2026 - Malware family Clearfake
 reknitless.com
-#Julho/2026 - Malware family Unknown
-alkociferblat.cc
-#Julho/2026 - Malware family Unknown
-remiumholdings.com
 #Julho/2026 - Malware family apt_sandworm
 skewertime.goodomensplus.com
 #Julho/2026 - Malware family Trojan.js.generic
 laurelcloister.top
+chestnutstanza.top
 #Julho/2026 - Malware family Nightshadec2
 restrictes.com
-#Julho/2026 - Malware family Unknown
-servicos2.ru
-#Julho/2026 - Malware family Trojan.generic
-static.s123-cdn-static-d.com
-#Julho/2026 - Malware family Trojan.js.generic
-chestnutstanza.top
 #Julho/2026 - Malware family Tofsee
 stalzone.com
 #Agosto/2026 - Phishing related
@@ -2385,176 +2380,128 @@ cliente.assinaturavencida.com
 gov.multadetran.com
 paguemultas.sistemainfracao.com
 pendencia.info
+techbarnesandnoblebookstoregroup.powerpapwzuer.vu
+lumina-womensclub.com
 #Agosto/2026 - Malware related
 convite-central.com
 app-discorder.com
 on.acessoinloginonline.com
 convitecentral.com
+nf.boletos-notas.com
+tioiaosod.icu
+norediam.com
+cloudflare-check.net
+mioiooo.icu
 #Agosto/2026 - Malware family Unknown
 enter-press-cdn.info
-#Agosto/2026 - Malware family Unknown
 football-attraction.pro
+mospoqkzvk.com
+enter-pverif-code.info
+id-verif-code.info
+fashion-chicken.com
+copperreliquary.info
+rowanportico.global
+relaxation-seed.xyz
+searchranktraffic.live
 #Agosto/2026 - Phishing bank page
 modulo-de-seguranca-bb.stokweb.com.br
 gerentebb.rfribeiro.com.br
 seguro.livesuporteaqui.com
 dompostroim.com
-#Agosto/2026 - Malware family Unknown
-mospoqkzvk.com
-#Agosto/2026 - Malware family Unknown
-enter-pverif-code.info
 #Agosto/2026 - Gophish
 statics.aubay.pt
 #Agosto/2026 - Malicious
 beroniw.com
-#Agosto/2026 - Malicious
 statics.aubay.pt
-#Agosto/2026 - Malicious
 locatestore.intellibrand.ai
 
 #Agosto/2026 - Malware family Trojan.generic
 ifwiki.ru
+www.churchofvirus.org
+cheapiesystems.com
+www.retrodev.com
+www.proyectohormiga.org
 #Agosto/2026 - CryptoMining domain
 fussballbilder.net
 #Agosto/2026 - Malware family Trojan.js.generic
 siege-close.com
-#Agosto/2026 - Malware family Unknown
-id-verif-code.info
+fol9.com
+fingerprint-verification.info
+mon-blanc-02.cfd
+triapfog.com
 #Agosto/2026 - Phishing domain
 pay.wiapy.com
+www.roblox.com.ml
+gaml.cc
 #Agosto/2026 - Malware hash: e4db75a1d851cb4da500ff90175bbc11c8feded51ed72126775b3daf35785b83
 studiogalaktika.com
-#Agosto/2026 - Malware family Unknown
-fashion-chicken.com
 #Agosto/2026 - Tactical RMM
 mesh.appmax.art
-#Agosto/2026 - Phishing related
-techbarnesandnoblebookstoregroup.powerpapwzuer.vu
-lumina-womensclub.com
-#Agosto/2026 - Malware related
-nf.boletos-notas.com
 #Agosto/2026 - Malware family ClickFix
 analysis-id-fmd.info
-#Agosto/2026 - Malware family Trojan.generic
-www.churchofvirus.org
 #Agosto/2026 - Malware injected
 www.eravirtual.org
+ctcmg.com.br
+www.equipemt.com.br
+expressobiagini.com.br
+brasilallservice.com.br
+poraodorock.com.br
 #Agosto/2026 - IClickFix
 niaoend.com
+kffclay.org
 #Agosto/2026 - Malware family Vidar
 tomatebrasil.com.br
 #Agosto/2026 - Malware family Redcap
 ahkscript.org
-#Agosto/2026 - Malware family Trojan.js.generic
-fol9.com
-#Agosto/2026 - Phishing domain
-www.roblox.com.ml
-#Agosto/2026 - Malware injected
-ctcmg.com.br
 #Agosto/2026 - Malware hash: b1287ab346d488cf587ff52932119e02113403b9b9a7231e5c95fa0143de1a39
 turbo-gateway.com
 #Agosto/2026 - Malware family Pup
 download1654.mediafire.com
+baixesoft.com
 #Agosto/2026 - Malware family Clearfake
 chief-ignite.pro
-#Agosto/2026 - Malware family Unknown
-copperreliquary.info
-#Agosto/2026 - Malware family Unknown
-rowanportico.global
-#Agosto/2026 - Malware injected
-www.equipemt.com.br
+root-cherry.com
+clo4shara.xyz
+forecast-chaos.com
+infodatalis.com
+telemetryloop.net
+thu-ipad-03.cfd
 #Agosto/2026 - Brazil Phishing related campaign
 click.mensalidade.info
 portaldetran.sistemasinfracao.com
 consulta-detran.debitosematraso.com
 pagamento.portal-assinante.com
 portal-desenrolabrasil.servicos.ws
-#Agosto/2026 - Malware family Clearfake
-root-cherry.com
-#Agosto/2026 - Malware family Unknown
-relaxation-seed.xyz
-#Agosto/2026 - IClickFix
-kffclay.org
-#Agosto/2026 - Malware family Clearfake
-clo4shara.xyz
-#Agosto/2026 - Malware family Clearfake
-forecast-chaos.com
-#Agosto/2026 - Malware family Clearfake
-infodatalis.com
-#Agosto/2026 - Malware family Clearfake
-telemetryloop.net
-#Agosto/2026 - Malware injected
-expressobiagini.com.br
-#Agosto/2026 - Malware family Trojan.js.generic
-fingerprint-verification.info
-#Agosto/2026 - Malware family Trojan.js.generic
-mon-blanc-02.cfd
-#Agosto/2026 - Malware family Clearfake
-thu-ipad-03.cfd
-#Agosto/2026 - Malware injected
-brasilallservice.com.br
-#Agosto/2026 - Malware family Pup
-baixesoft.com
-#Agosto/2026 - Malware family Trojan.generic
-cheapiesystems.com
-#Agosto/2026 - Malware related
-tioiaosod.icu
-norediam.com
-cloudflare-check.net
-mioiooo.icu
-#Agosto/2026 - Malware injected
-poraodorock.com.br
-#Agosto/2026 - Malware family Trojan.js.generic
-triapfog.com
-#Agosto/2026 - Brazil Phishing related campaign
 rastreio-correios.online
-#Agosto/2026 - Brazil Phishing related campaign
 sacreclamaaqsmp.com
-#Agosto/2026 - Brazil Phishing related campaign
 mcpontorarh100012.online
-#Agosto/2026 - Malware family Trojan.generic
-www.retrodev.com
-#Agosto/2026 - Malware family Trojan.generic
-www.proyectohormiga.org
 #Agosto/2026 - Malware family ta569
 brodirect3s.site
-#Agosto/2026 - Phishing domain
-gaml.cc
-#Agosto/2026 - Malware family Unknown
-searchranktraffic.live
 #Setembro/2026 - Malware family Unknown
 abcsgftr.cc
-#Setembro/2026 - Malware family Unknown
 sound-obstacle.com
+download1590.mediafire.com
+highlight-pyramid.com
+notion-brown.com
+entry-code-cdn.codes
+osmeuspes.pt
+idcool.codes
+vmi3554101.contaboserver.net
 #Setembro/2026 - Malware family Trojan.phishing.pdf
 eminenceinc.com
 #Setembro/2026 - Tactical RMM
 mesh.fixtech.one
 #Setembro/2026 - Malware family Clearfake
 railroad-boot.com
+stand-medal.com
+rehearsal-b.com
+chordapple.com
 #Setembro/2026 - Malware family Phishing.artifact
 suaesteticadental.com.br
 #Setembro/2026 - Malware family Vidar
 download1472.mediafire.com
 #Setembro/2026 - Phishing related
 mcdonaldsbrasilxidzxecikfginrr.aceita-visitantes.com
-#Setembro/2026 - Malware family Trojan.js.generic
-xaz2.com
-#Setembro/2026 - Malware family Unknown
-download1590.mediafire.com
-#Setembro/2026 - Malware family Unknown
-highlight-pyramid.com
-#Setembro/2026 - Malware family Unknown
-notion-brown.com
-#Setembro/2026 - Malware family Strelastealer
-minassaude.com
-#Setembro/2026 - Comprimised Site
-maravilhanews.com.br
-#Setembro/2026 - Malware family Trojan.js.generic
-fingerprint-veri.info
-#Setembro/2026 - Malware family Clearfake
-stand-medal.com
-#Setembro/2026 - Phishing related
 detran.vencimentomultas.com
 acesso.consulta-detran.com
 desenrolabr.comercial.ws
@@ -2563,8 +2510,22 @@ detran.sistemainfracoes.com
 rastreio.centralparaimportador.com
 portal-assinante.net
 sac.liberarmercadoria.com
+localizacaolphone.com
+siteapple-id.com
+#Setembro/2026 - Malware family Trojan.js.generic
+xaz2.com
+fingerprint-veri.info
+vuakienggiare.com
+interseqf.com
+ginkgoloft.co
+entry-verifed-cdn.codes
+#Setembro/2026 - Malware family Strelastealer
+minassaude.com
+#Setembro/2026 - Comprimised Site
+maravilhanews.com.br
 #Setembro/2026 - Malware family ClickFix
 rogerioaraujo.com.br
+adbc.top
 #Setembro/2026 - Malware family Trojan.generic
 www.3dscapture.com
 #Setembro/2026 - Malware
@@ -2573,48 +2534,21 @@ files.tryflowdrive.com
 naturalhealthtip.com
 #Setembro/2026 - Emotet
 cdn.pzw.io
-#Setembro/2026 - Malware family Clearfake
-rehearsal-b.com
-#Setembro/2026 - Malware family Clearfake
-chordapple.com
-#Setembro/2026 - Malware family Trojan.js.generic
-vuakienggiare.com
 #Setembro/2026 - Malware family Simda
 melyting.com
 #Setembro/2026 - Phishing domain
 submitted.formspark.io
-#Setembro/2026 - Phishing domain
 view.page
+mobidrive.com
 #Setembro/2026 - Malware family Magecart
 ashenravenfort.top
-#Setembro/2026 - Malware family Unknown
-entry-code-cdn.codes
-#Setembro/2026 - Malware family ClickFix
-adbc.top
-#Setembro/2026 - Phishing domain
-mobidrive.com
-#Setembro/2026 - Malware family Unknown
-osmeuspes.pt
-#Setembro/2026 - Malware family Trojan.js.generic
-interseqf.com
 #Setembro/2026 - Trojan.generic
 clickzona.net
-#Setembro/2026 - Malware family Trojan.js.generic
-ginkgoloft.co
 #Setembro/2026 - Malware generic
 studiogalaktika.com
 #Setembro/2026 - CryptoMining domain
 glamsydesigns.com
 #Setembro/2026 - Disposable email host
 fviainboxes.com
-#Setembro/2026 - Malware family Unknown
-idcool.codes
 #Setembro/2026 - Infected website
 p7criativo.com.br
-#Setembro/2026 - Malware family Unknown
-vmi3554101.contaboserver.net
-#Setembro/2026 - Phishing related
-localizacaolphone.com
-siteapple-id.com
-#Setembro/2026 - Malware family Trojan.js.generic
-entry-verifed-cdn.codes
