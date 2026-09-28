@@ -2613,3 +2613,6 @@ idcool.codes
 p7criativo.com.br
 #Setembro/2026 - Malware family Unknown
 vmi3554101.contaboserver.net
+#Setembro/2026 - Phishing related
+localizacaolphone.com
+siteapple-id.com
