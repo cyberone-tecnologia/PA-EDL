@@ -2616,3 +2616,5 @@ vmi3554101.contaboserver.net
 #Setembro/2026 - Phishing related
 localizacaolphone.com
 siteapple-id.com
+#Setembro/2026 - Malware family Trojan.js.generic
+entry-verifed-cdn.codes
