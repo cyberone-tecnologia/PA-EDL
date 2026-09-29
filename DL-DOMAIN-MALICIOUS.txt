@@ -2558,3 +2558,5 @@ www-cf.com
 helauth.com
 #Setembro/2026 - Malware family Clearfake
 millowouykey.com
+#Setembro/2026 - Phishing domain
+qr.fm
