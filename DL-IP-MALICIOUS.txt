@@ -1285,3 +1285,5 @@
 140.245.116.17
 #Outubro/2026 - Burp Suite
 52.49.214.206
+#Outubro/2026 - Website Manipulations via SQL Injection containing POST
+194.163.139.83
