@@ -1287,3 +1287,4 @@
 52.49.214.206
 #Outubro/2026 - Website Manipulations via SQL Injection containing POST
 194.163.139.83
+161.118.224.149
