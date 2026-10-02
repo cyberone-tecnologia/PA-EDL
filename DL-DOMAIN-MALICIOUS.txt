@@ -2560,3 +2560,5 @@ helauth.com
 millowouykey.com
 #Setembro/2026 - Phishing domain
 qr.fm
+#Outubro/2026 - rustystealer
+octane.wtf
