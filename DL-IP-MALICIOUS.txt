@@ -1292,3 +1292,5 @@
 51.4.106.147
 #Outubro/2026 - WordPress login brute force
 49.244.244.144
+#Outubro/2026 - WordPress login brute force
+202.131.239.178
