@@ -2568,3 +2568,6 @@ hermesterapeutico.com
 vintageclassicos.com.br
 #Outubro/2026 - Malware family Trojan.js.generic
 checkyoubrowse.codes
+#Outubro/2026 - Phishing related
+cdnid.net.co
+dmcdn.net.co
