@@ -2571,3 +2571,5 @@ checkyoubrowse.codes
 #Outubro/2026 - Phishing related
 cdnid.net.co
 dmcdn.net.co
+#Outubro/2026 - Malware family Nanocore rat
+tigrinho.io
