@@ -2566,3 +2566,5 @@ octane.wtf
 hermesterapeutico.com
 #Outubro/2026 - Malware family Unknown
 vintageclassicos.com.br
+#Outubro/2026 - Malware family Trojan.js.generic
+checkyoubrowse.codes
