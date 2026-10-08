@@ -2573,3 +2573,5 @@ cdnid.net.co
 dmcdn.net.co
 #Outubro/2026 - Malware family Nanocore rat
 tigrinho.io
+#Outubro/2026 - Malicious behavior
+aidexbrasil.com
