@@ -1302,3 +1302,8 @@
 154.144.253.26
 #Outubro/2026 - Unknow Malware
 178.16.52.101 
+#Outubro/2026 - Potential Wordpress Login Brute Force detected
+117.103.113.26
+#Outubro/2026 - Potential Wordpress Login Brute Force detected
+119.93.249.179
+
