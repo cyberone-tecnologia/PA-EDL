@@ -2577,3 +2577,5 @@ tigrinho.io
 aidexbrasil.com
 #Outubro/2026 - Malware family Clearfake
 pekora.zip
+#Outubro/2026 - Malware hash: 36de626f494a64ff468a2cb6db7c426624b02e0bf4a2fd0987175876c2a2fc67
+pekora.pro
