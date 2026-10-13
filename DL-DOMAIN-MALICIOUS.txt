@@ -2583,3 +2583,5 @@ ad.doubleclick.net
 googleads.g.doubleclick.net
 #Outubro/2026 - Phishing domain
 acrobat.adobe.com
+#Outubro/2026 - Phishing domain
+new.express.adobe.com
