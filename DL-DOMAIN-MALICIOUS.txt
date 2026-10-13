@@ -2577,3 +2577,5 @@ tigrinho.io
 aidexbrasil.com
 #Outubro/2026 - Malware family Clearfake
 pekora.zip
+#Outubro/2026 - Phishing domain
+adclick.g.doubleclick.net
