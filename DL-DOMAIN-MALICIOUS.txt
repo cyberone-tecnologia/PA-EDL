@@ -2579,3 +2579,5 @@ aidexbrasil.com
 pekora.zip
 #Outubro/2026 - Phishing domain
 ad.doubleclick.net
+#Outubro/2026 - Phishing domain
+googleads.g.doubleclick.net
