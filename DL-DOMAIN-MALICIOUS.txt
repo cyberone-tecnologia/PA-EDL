@@ -2579,3 +2579,5 @@ aidexbrasil.com
 pekora.zip
 #Outubro/2026 - Phishing domain
 adclick.g.doubleclick.net
+#Outubro/2026 - Phishing domain
+www.baidu.com
