@@ -2579,3 +2579,5 @@ aidexbrasil.com
 pekora.zip
 #Outubro/2026 - Generic Malware
 pekora.pro
+#Outubro/2026 - Malware family ClickFix
+dedetizadorasuprema.com.br
