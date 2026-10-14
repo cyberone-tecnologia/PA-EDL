@@ -1326,3 +1326,5 @@
 #Outubro/2026 - Potential Wordpress Login Brute Force detected
 58.169.88.14
 124.217.114.65
+#Outubro/2026 - Webscan related attacks
+73.151.73.36
