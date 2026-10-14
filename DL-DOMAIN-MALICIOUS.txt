@@ -2581,3 +2581,5 @@ pekora.zip
 pekora.pro
 #Outubro/2026 - Malware family ClickFix
 dedetizadorasuprema.com.br
+#Outubro/2026 - Phishing domain
+www.spartanuruguay.com.uy
