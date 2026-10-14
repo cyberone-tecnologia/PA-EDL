@@ -1308,7 +1308,6 @@
 119.93.249.179
 #Outubro/2026 - Potential Wordpress Login Brute Force detected
 165.165.118.245
-
 #Outubro/2026 - Wordpress related attacks
 186.226.154.209
 152.67.101.114
@@ -1324,3 +1323,6 @@
 179.0.58.32
 179.0.58.34
 4.228.50.186
+#Outubro/2026 - Potential Wordpress Login Brute Force detected
+58.169.88.14
+124.217.114.65
