@@ -2589,3 +2589,5 @@ new.sunstonewell.info
 zvh4.com
 #Outubro/2026 - Malware family Unknown
 zhv8.com
+#Outubro/2026 - Malware family ClickFix
+lald.com.br
