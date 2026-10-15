@@ -2583,3 +2583,5 @@ pekora.pro
 dedetizadorasuprema.com.br
 #Outubro/2026 - Phishing domain
 www.spartanuruguay.com.uy
+#Outubro/2026 - Malware family Unknown
+new.sunstonewell.info
