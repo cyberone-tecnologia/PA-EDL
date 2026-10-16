@@ -1332,3 +1332,5 @@
 102.254.170.35
 #Outubro/2026 - Potential Wordpress Login Brute Force detected
 192.9.176.139
+#Outubro/2026 - Wordpress login brute force detected
+189.29.147.23
