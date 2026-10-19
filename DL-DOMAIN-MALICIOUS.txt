@@ -2595,3 +2595,5 @@ lald.com.br
 imperatrizhotelparaty.com.br
 #Outubro/2026 - Malware family Adware.generic
 moovend.com
+#Outubro/2026 - Malware family Clearfake
+duskwarden.com
