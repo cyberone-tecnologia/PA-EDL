@@ -2593,3 +2593,5 @@ zhv8.com
 lald.com.br
 #Outubro/2026 - Infected Website (Malware family Tofsee)
 imperatrizhotelparaty.com.br
+#Outubro/2026 - Malware family Adware.generic
+moovend.com
