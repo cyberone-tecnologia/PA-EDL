@@ -2496,6 +2496,7 @@ railroad-boot.com
 stand-medal.com
 rehearsal-b.com
 chordapple.com
+millowouykey.com
 #Setembro/2026 - Malware family Phishing.artifact
 suaesteticadental.com.br
 #Setembro/2026 - Malware family Vidar
@@ -2512,6 +2513,9 @@ portal-assinante.net
 sac.liberarmercadoria.com
 localizacaolphone.com
 siteapple-id.com
+campaigntracker.run
+www-cf.com
+helauth.com
 #Setembro/2026 - Malware family Trojan.js.generic
 xaz2.com
 fingerprint-veri.info
@@ -2540,6 +2544,7 @@ melyting.com
 submitted.formspark.io
 view.page
 mobidrive.com
+qr.fm
 #Setembro/2026 - Malware family Magecart
 ashenravenfort.top
 #Setembro/2026 - Trojan.generic
@@ -2552,20 +2557,16 @@ glamsydesigns.com
 fviainboxes.com
 #Setembro/2026 - Infected website
 p7criativo.com.br
-#Setembro/2026 - Phishing related
-campaigntracker.run
-www-cf.com
-helauth.com
-#Setembro/2026 - Malware family Clearfake
-millowouykey.com
-#Setembro/2026 - Phishing domain
-qr.fm
 #Outubro/2026 - rustystealer
 octane.wtf
 #Outubro/2026 - Malicious behavior
 hermesterapeutico.com
+aidexbrasil.com
 #Outubro/2026 - Malware family Unknown
 vintageclassicos.com.br
+new.sunstonewell.info
+zvh4.com
+zhv8.com
 #Outubro/2026 - Malware family Trojan.js.generic
 checkyoubrowse.codes
 #Outubro/2026 - Phishing related
@@ -2573,29 +2574,19 @@ cdnid.net.co
 dmcdn.net.co
 #Outubro/2026 - Malware family Nanocore rat
 tigrinho.io
-#Outubro/2026 - Malicious behavior
-aidexbrasil.com
 #Outubro/2026 - Malware family Clearfake
 pekora.zip
+duskwarden.com
 #Outubro/2026 - Generic Malware
 pekora.pro
 #Outubro/2026 - Malware family ClickFix
 dedetizadorasuprema.com.br
+lald.com.br
 #Outubro/2026 - Phishing domain
 www.spartanuruguay.com.uy
-#Outubro/2026 - Malware family Unknown
-new.sunstonewell.info
-#Outubro/2026 - Malware family Unknown
-zvh4.com
-#Outubro/2026 - Malware family Unknown
-zhv8.com
-#Outubro/2026 - Malware family ClickFix
-lald.com.br
 #Outubro/2026 - Infected Website (Malware family Tofsee)
 imperatrizhotelparaty.com.br
 #Outubro/2026 - Malware family Adware.generic
 moovend.com
-#Outubro/2026 - Malware family Clearfake
-duskwarden.com
 #Outubro/2026 - Bank phishing related
 cadastropts.com
