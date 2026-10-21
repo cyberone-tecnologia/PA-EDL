@@ -1288,26 +1288,23 @@
 #Outubro/2026 - Website Manipulations via SQL Injection containing POST
 194.163.139.83
 161.118.224.149
-#Outubro/2026 - Website Manipulations via SQL Injection containing POST
 51.4.106.147
 #Outubro/2026 - WordPress login brute force
 49.244.244.144
-#Outubro/2026 - WordPress login brute force
 202.131.239.178
-#Outubro/2026 - WordPress login brute force
 149.118.57.35
 #Outubro/2026 - Potential Wordpress Login Brute Force detected
 102.206.57.98
-#Outubro/2026 - Potential Wordpress Login Brute Force detected
 154.144.253.26
-#Outubro/2026 - Unknow Malware
-178.16.52.101 
-#Outubro/2026 - Potential Wordpress Login Brute Force detected
 117.103.113.26
-#Outubro/2026 - Potential Wordpress Login Brute Force detected
 119.93.249.179
-#Outubro/2026 - Potential Wordpress Login Brute Force detected
 165.165.118.245
+58.169.88.14
+124.217.114.65
+102.254.170.35
+192.9.176.139
+#Outubro/2026 - Unknow Malware
+178.16.52.101
 #Outubro/2026 - Wordpress related attacks
 186.226.154.209
 152.67.101.114
@@ -1323,18 +1320,9 @@
 179.0.58.32
 179.0.58.34
 4.228.50.186
-#Outubro/2026 - Potential Wordpress Login Brute Force detected
-58.169.88.14
-124.217.114.65
-#Outubro/2026 - Webscan related attacks
 73.151.73.36
-#Outubro/2026 - Potential Wordpress Login Brute Force detected
-102.254.170.35
-#Outubro/2026 - Potential Wordpress Login Brute Force detected
-192.9.176.139
 #Outubro/2026 - Wordpress login brute force detected
 189.29.147.23
-#Outubro/2026 - Wordpress login brute force detected
 149.34.245.22
 197.53.210.13
 103.135.133.191
