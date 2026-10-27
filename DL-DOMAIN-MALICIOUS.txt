@@ -2592,3 +2592,5 @@ moovend.com
 cadastropts.com
 #Outubro/2026 - ClickFix
 prefirobh.com.br
+#Outubro/2026 - DarkSword
+delivery.iscvr.eu.cc
