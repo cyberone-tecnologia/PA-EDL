@@ -2594,3 +2594,5 @@ cadastropts.com
 prefirobh.com.br
 #Outubro/2026 - DarkSword
 delivery.iscvr.eu.cc
+#Outubro/2026 - Malware hash: 1d95ba98a3f71eabc849a068295b886f81204e434a7b7e7c47b0277749f79538
+popcornflix.app
