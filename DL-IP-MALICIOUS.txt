@@ -1331,6 +1331,7 @@
 172.69.37.138
 77.67.9.203
 84.13.138.234
+82.197.69.56
 #Outubro/2026 - Malicious IP (React2Shell)
 35.247.245.80
 #Outubro/2026 - SQL Injection
