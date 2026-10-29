@@ -2598,3 +2598,5 @@ delivery.iscvr.eu.cc
 popcornflix.app
 #Outubro/2026 - Phising related
 beneficiario.unimedfaturas.org
+#Outubro/2026 - Malware family Unknown
+ncheck-brows.beer
