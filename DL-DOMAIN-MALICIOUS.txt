@@ -2596,3 +2596,5 @@ prefirobh.com.br
 delivery.iscvr.eu.cc
 #Outubro/2026 - Malware hash: 1d95ba98a3f71eabc849a068295b886f81204e434a7b7e7c47b0277749f79538
 popcornflix.app
+#Outubro/2026 - Phising related
+beneficiario.unimedfaturas.org
