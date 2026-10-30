@@ -2600,3 +2600,5 @@ popcornflix.app
 beneficiario.unimedfaturas.org
 #Outubro/2026 - Malware family Unknown
 ncheck-brows.beer
+#Outubro/2026 - Phishing domain
+app.erpflex.com.br
