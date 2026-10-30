@@ -1336,3 +1336,5 @@
 35.247.245.80
 #Outubro/2026 - SQL Injection
 172.69.40.136 
+#Outubro/2026 - Malware family Purerat
+172.111.136.159
