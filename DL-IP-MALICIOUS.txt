@@ -1338,3 +1338,5 @@
 172.69.40.136 
 #Outubro/2026 - Malware family Purerat
 172.111.136.159
+#Novembro/2026 - Potential Wordpress Login Brute Force detected containing POST
+143.198.220.33
