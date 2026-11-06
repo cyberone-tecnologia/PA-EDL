@@ -2604,3 +2604,5 @@ ncheck-brows.beer
 app.erpflex.com.br
 #Novembro/2026 - Malware related
 flicansal84.colonplayaguachalito.cfd
+#Novembro/2026 - Malware related
+colonplayaguachalito.cfd
