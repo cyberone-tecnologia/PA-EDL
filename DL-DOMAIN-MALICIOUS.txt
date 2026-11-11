@@ -2616,3 +2616,5 @@ fcdnbovres.cc
 agldrywall.com.br
 #Novembro/2026 - Malware family Trojan.js.generic
 fudcomcheck.art
+#Novembro/2026 - Malware family Unknown
+benu.com.br
