@@ -2614,3 +2614,5 @@ sprumantum.colonplayajuandedios.cfd
 fcdnbovres.cc
 #Novembro/2026 - Malware family Strelastealer
 agldrywall.com.br
+#Novembro/2026 - Malware family Trojan.js.generic
+fudcomcheck.art
