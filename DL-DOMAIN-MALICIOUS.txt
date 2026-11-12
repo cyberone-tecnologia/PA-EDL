@@ -2619,6 +2619,3 @@ fudcomcheck.art
 benu.com.br
 #Novembro/2026 - Malware family Unknown
 js-static.cfd
-#Novembro/2026 - XMRig Miner Command and Control Traffic Detection
-185.84.98.85
-208.167.233.7
