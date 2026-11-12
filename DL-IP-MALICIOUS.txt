@@ -1343,3 +1343,6 @@
 #Novembro/2026 - Potential Wordpress Login Brute Force detected containing POST
 143.198.220.33
 129.221.137.167 
+#Novembro/2026 - XMRig Miner Command and Control Traffic Detection
+185.84.98.85
+208.167.233.7
