@@ -2619,3 +2619,5 @@ fudcomcheck.art
 benu.com.br
 #Novembro/2026 - Malware family Unknown
 js-static.cfd
+#Novembro/2026 - Phishing domain
+kaywa.me
