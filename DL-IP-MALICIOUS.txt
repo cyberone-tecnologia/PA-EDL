@@ -1346,3 +1346,5 @@
 208.167.233.7
 #Novembro/2026 - Malware family Purerat
 172.111.136.159
+#Novembro/2026 - Malware family Unknown
+212.74.20.49
