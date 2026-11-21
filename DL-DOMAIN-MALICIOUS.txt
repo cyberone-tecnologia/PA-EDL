@@ -2621,3 +2621,5 @@ benu.com.br
 js-static.cfd
 #Novembro/2026 - Phishing domain
 kaywa.me
+#Novembro/2026 - Phishing domain
+www.fenouxltd.com
