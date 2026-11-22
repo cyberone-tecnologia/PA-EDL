@@ -1360,3 +1360,5 @@
 212.74.20.62
 #Novembro/2026 - Malware family Unknown
 212.74.20.68
+#Novembro/2026 - Malware family Unknown
+212.74.20.39
