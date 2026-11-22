@@ -1382,3 +1382,5 @@
 178.156.158.130
 #Novembro/2026 - Malware family Unknown
 5.161.41.58
+#Novembro/2026 - Malware family Unknown
+212.74.20.60
