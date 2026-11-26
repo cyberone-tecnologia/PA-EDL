@@ -2623,3 +2623,5 @@ js-static.cfd
 kaywa.me
 #Novembro/2026 - Phishing domain
 www.fenouxltd.com
+#Novembro/2026 - Malware family Stealc
+smart-future-9.buzz
