@@ -1452,3 +1452,5 @@
 5.161.92.56
 #Novembro/2026 - VPN express
 31.171.153.179
+#Novembro/2026 - Fuzzing related
+84.247.178.219
